@@ -1,0 +1,30 @@
+time,currency,event,impact
+03:00:00,GBP,MPC Official Bank Rate Votes,high
+03:00:00,GBP,Monetary Policy Summary,high
+03:00:00,GBP,Official Bank Rate,high
+03:00:00,GBP,Asset Purchase Facility,low
+03:00:00,GBP,MPC Asset Purchase Facility Votes,low
+04:00:00,CNY,New Loans,medium
+04:00:00,CNY,M2 Money Supply y/y,low
+05:00:00,GBP,BOE Gov Carney Speaks,high
+05:30:00,GBP,GDP m/m,medium
+05:30:00,GBP,Manufacturing Production m/m,medium
+05:30:00,GBP,Construction Output m/m,low
+05:30:00,GBP,Goods Trade Balance,low
+05:30:00,GBP,Index of Services 3m/3m,low
+05:30:00,GBP,Industrial Production m/m,low
+06:34:00,EUR,German 10-y Bond Auction,low
+08:30:00,CAD,Capacity Utilization Rate,low
+08:30:00,GBP,Annual Budget Release,high
+08:30:00,USD,CPI m/m,high
+08:30:00,USD,Core CPI m/m,high
+09:02:00,GBP,NIESR GDP Estimate,low
+10:00:00,USD,Treasury Sec Mnuchin Speaks,high
+10:30:00,USD,Crude Oil Inventories,medium
+13:01:00,USD,10-y Bond Auction,low
+13:59:00,USD,Federal Budget Balance,low
+19:50:00,JPY,BSI Manufacturing Index,low
+19:50:00,JPY,PPI y/y,low
+20:00:00,AUD,MI Inflation Expectations,low
+20:01:00,GBP,RICS House Price Balance,low
+21:00:00,USD,President Trump Speaks,high

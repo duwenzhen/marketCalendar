@@ -1,0 +1,18 @@
+time,currency,event,impact
+03:15:00,CHF,PPI m/m,medium
+04:30:00,GBP,BOE Credit Conditions Survey,medium
+04:30:00,GBP,Construction Output m/m,low
+05:00:00,EUR,Trade Balance,low
+07:45:00,GBP,MPC Member Forbes Speaks,medium
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Core PPI m/m,medium
+08:30:00,USD,FOMC Member Rosengren Speaks,medium
+09:30:00,GBP,BOE Gov Carney Speaks,high
+10:00:00,USD,Prelim UoM Consumer Sentiment,high
+10:00:00,USD,Business Inventories m/m,low
+10:00:00,USD,Prelim UoM Inflation Expectations,low
+13:30:00,USD,Fed Chair Yellen Speaks,high
+15:00:00,USD,Treasury Currency Report,medium
+16:00:00,USD,Federal Budget Balance,low

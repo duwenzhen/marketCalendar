@@ -1,0 +1,14 @@
+time,currency,event,impact
+03:05:00,CHF,Gov Board Member Hildebrand Speaks,high
+03:15:00,CHF,CPI m/m,medium
+03:50:00,EUR,ECB President Trichet Speaks,medium
+04:30:00,GBP,PPI Input m/m,high
+04:30:00,GBP,PPI Output m/m,low
+01:01:00,EUR,European Parliamentary Elections,low
+07:00:00,CAD,Employment Change,high
+07:00:00,CAD,Unemployment Rate,high
+08:30:00,USD,Non-Farm Employment Change,high
+08:30:00,USD,Unemployment Rate,high
+08:30:00,USD,Average Hourly Earnings m/m,medium
+14:15:00,USD,FOMC Member Kohn Speaks,medium
+15:00:00,USD,Consumer Credit m/m,low

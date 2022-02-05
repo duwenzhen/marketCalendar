@@ -1,0 +1,15 @@
+time,currency,event,impact
+00:30:00,JPY,Revised Industrial Production m/m,low
+03:15:00,CHF,PPI m/m,medium
+05:00:00,EUR,Industrial Production m/m,medium
+05:15:00,USD,FOMC Member Bullard Speaks,medium
+08:30:00,CAD,New Motor Vehicle Sales m/m,low
+17:00:00,GBP,MPC Member Posen Speaks,medium
+18:00:00,NZD,REINZ HPI m/m,medium
+19:01:00,GBP,RICS House Price Balance,medium
+01:01:00,CNY,Bank Holiday,holiday
+21:30:00,AUD,Monetary Policy Meeting Minutes,high
+22:00:00,CNY,CB Leading Index m/m,low
+23:20:00,AUD,RBA Deputy Gov Battellino Speaks,medium
+23:56:00,JPY,Monetary Policy Statement,medium
+23:56:00,JPY,Overnight Call Rate,medium

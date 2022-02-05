@@ -1,0 +1,10 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,low
+04:00:00,EUR,German ifo Business Climate,high
+09:00:00,CHF,SNB Quarterly Bulletin,low
+09:00:00,EUR,Belgian NBB Business Climate,low
+10:00:00,USD,New Home Sales,high
+10:30:00,USD,Crude Oil Inventories,medium
+12:05:00,USD,FOMC Member Mester Speaks,medium
+19:50:00,JPY,SPPI y/y,low
+22:30:00,AUD,RBA Gov Stevens Speaks,high

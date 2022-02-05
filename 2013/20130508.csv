@@ -1,0 +1,16 @@
+time,currency,event,impact
+01:01:00,EUR,French Bank Holiday,holiday
+03:00:00,GBP,Halifax HPI m/m,medium
+03:15:00,CHF,CPI m/m,high
+06:00:00,EUR,German Industrial Production m/m,medium
+08:14:00,CAD,Housing Starts,low
+08:30:00,USD,FOMC Member Stein Speaks,medium
+10:30:00,USD,Crude Oil Inventories,medium
+13:00:00,USD,10-y Bond Auction,medium
+15:00:00,USD,Treasury Sec Lew Speaks,medium
+18:45:00,NZD,Employment Change q/q,high
+18:45:00,NZD,Unemployment Rate,high
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high
+21:30:00,CNY,CPI y/y,high
+21:30:00,CNY,PPI y/y,medium

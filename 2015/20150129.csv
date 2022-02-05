@@ -1,0 +1,21 @@
+time,currency,event,impact
+02:00:00,GBP,Nationwide HPI m/m,medium
+01:01:00,EUR,German Prelim CPI m/m,high
+03:55:00,EUR,German Unemployment Change,medium
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:00:00,EUR,Private Loans y/y,medium
+05:19:00,EUR,Italian 10-y Bond Auction,medium
+06:00:00,GBP,CBI Realized Sales,medium
+08:30:00,USD,Unemployment Claims,high
+10:00:00,USD,Pending Home Sales m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+16:45:00,NZD,Building Consents m/m,medium
+16:45:00,NZD,Visitor Arrivals m/m,low
+18:30:00,JPY,Household Spending y/y,medium
+18:30:00,JPY,Tokyo Core CPI y/y,medium
+18:30:00,JPY,National Core CPI y/y,low
+18:30:00,JPY,Unemployment Rate,low
+18:50:00,JPY,Prelim Industrial Production m/m,medium
+19:05:00,GBP,GfK Consumer Confidence,low
+19:30:00,AUD,PPI q/q,high
+19:30:00,AUD,Private Sector Credit m/m,low

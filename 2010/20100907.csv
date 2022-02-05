@@ -1,0 +1,15 @@
+time,currency,event,impact
+00:30:00,AUD,Cash Rate,high
+00:30:00,AUD,RBA Rate Statement,high
+01:00:00,JPY,Leading Indicators,low
+01:45:00,CHF,Unemployment Rate,low
+03:13:00,JPY,BOJ Press Conference,high
+01:01:00,EUR,ECOFIN Meetings,medium
+06:00:00,EUR,German Factory Orders m/m,medium
+19:00:00,GBP,BRC Shop Price Index y/y,low
+19:50:00,JPY,Core Machinery Orders m/m,medium
+19:50:00,JPY,Bank Lending y/y,low
+19:50:00,JPY,Current Account,low
+19:50:00,JPY,M2 Money Stock y/y,low
+21:30:00,AUD,Home Loans m/m,high
+23:45:00,JPY,30-y Bond Auction,low

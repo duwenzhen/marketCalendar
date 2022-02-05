@@ -1,0 +1,13 @@
+time,currency,event,impact
+03:15:00,CHF,PPI m/m,medium
+01:01:00,EUR,German Prelim CPI m/m,medium
+04:00:00,CHF,UBS Consumption Indicator,medium
+04:00:00,EUR,German ifo Business Climate,high
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+10:00:00,USD,CB Consumer Confidence,high
+10:00:00,USD,Richmond Manufacturing Index,low
+13:30:00,USD,FOMC Member Evans Speaks,medium
+13:45:00,GBP,MPC Member Sentance Speaks,medium
+18:50:00,JPY,Retail Sales y/y,medium
+19:30:00,AUD,Construction Work Done q/q,medium
+19:40:00,AUD,HIA New Home Sales m/m,medium

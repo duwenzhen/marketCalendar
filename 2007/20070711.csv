@@ -1,0 +1,14 @@
+time,currency,event,impact
+01:00:00,JPY,Consumer Confidence,low
+09:00:00,EUR,ECB President Trichet Speaks,medium
+10:30:00,USD,Crude Oil Inventories,low
+13:00:00,USD,FOMC Member Warsh Speaks,medium
+19:01:00,GBP,RICS House Price Balance,medium
+20:00:00,NZD,BusinessNZ Manufacturing Index,low
+20:30:00,AUD,MI Inflation Expectations,low
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,medium
+22:00:00,CNY,New Loans,medium
+22:00:00,CNY,M2 Money Supply y/y,low
+22:30:00,CNY,Foreign Direct Investment ytd/y,low
+23:55:00,JPY,Overnight Call Rate,medium

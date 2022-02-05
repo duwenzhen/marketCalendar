@@ -1,0 +1,22 @@
+time,currency,event,impact
+01:00:00,AUD,RBA Gov Lowe Speaks,high
+01:50:00,AUD,RBA Deputy Gov Debelle Speaks,low
+03:30:00,CHF,CPI m/m,low
+03:30:00,CHF,Retail Sales y/y,low
+04:15:00,EUR,Spanish Manufacturing PMI,low
+04:45:00,EUR,Italian Manufacturing PMI,low
+04:50:00,EUR,French Final Manufacturing PMI,low
+04:55:00,EUR,German Final Manufacturing PMI,low
+05:00:00,EUR,Final Manufacturing PMI,low
+08:30:00,CAD,Building Permits m/m,low
+09:10:00,USD,IBD/TIPP Economic Optimism,low
+01:01:00,USD,Wards Total Vehicle Sales,low
+11:13:00,NZD,GDT Price Index,low
+16:00:00,NZD,RBNZ Financial Stability Report,medium
+17:30:00,AUD,AIG Construction Index,low
+17:45:00,NZD,Employment Change q/q,high
+17:45:00,NZD,Unemployment Rate,high
+17:45:00,NZD,Labor Cost Index q/q,low
+01:01:00,JPY,Bank Holiday,holiday
+20:30:00,AUD,Building Approvals m/m,low
+21:45:00,CNY,Caixin Services PMI,low

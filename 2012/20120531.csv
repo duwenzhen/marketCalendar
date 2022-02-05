@@ -1,0 +1,28 @@
+time,currency,event,impact
+01:00:00,JPY,Housing Starts y/y,low
+01:45:00,CHF,GDP q/q,medium
+02:00:00,EUR,German Retail Sales m/m,medium
+02:00:00,GBP,Nationwide HPI m/m,medium
+02:45:00,EUR,French Consumer Spending m/m,medium
+03:00:00,EUR,ECB President Draghi Speaks,medium
+03:55:00,EUR,German Unemployment Change,medium
+04:00:00,CHF,Gov Board Member Danthine Speaks,medium
+05:00:00,EUR,CPI Flash Estimate y/y,medium
+05:00:00,EUR,Italian Prelim CPI m/m,low
+07:30:00,USD,Challenger Job Cuts y/y,low
+08:00:00,USD,FOMC Member Pianalto Speaks,medium
+08:15:00,USD,ADP Non-Farm Employment Change,high
+08:30:00,CAD,Current Account,medium
+08:30:00,USD,Prelim GDP q/q,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Prelim GDP Price Index q/q,low
+09:45:00,USD,Chicago PMI,medium
+01:01:00,EUR,Irish Stability Treaty Vote,high
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,USD,Crude Oil Inventories,medium
+18:45:00,NZD,Overseas Trade Index q/q,low
+19:20:00,AUD,AIG Manufacturing Index,low
+19:50:00,JPY,Capital Spending q/y,medium
+21:00:00,CNY,Manufacturing PMI,high
+21:00:00,NZD,ANZ Commodity Prices m/m,low
+22:30:00,CNY,Caixin Manufacturing PMI,medium

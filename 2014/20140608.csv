@@ -1,0 +1,7 @@
+time,currency,event,impact
+01:01:00,AUD,Bank Holiday,holiday
+19:50:00,JPY,Current Account,medium
+19:50:00,JPY,Final GDP q/q,medium
+19:50:00,JPY,Bank Lending y/y,low
+19:50:00,JPY,Final GDP Price Index y/y,low
+20:00:00,NZD,RBNZ Assist Gov McDermott Speaks,low

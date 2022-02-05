@@ -1,0 +1,12 @@
+time,currency,event,impact
+02:00:00,GBP,Public Sector Net Borrowing,low
+04:00:00,CHF,Credit Suisse Economic Expectations,low
+04:00:00,EUR,German ifo Business Climate,medium
+10:00:00,USD,Existing Home Sales,medium
+10:30:00,USD,Crude Oil Inventories,medium
+14:00:00,USD,FOMC Economic Projections,high
+14:00:00,USD,FOMC Statement,high
+14:00:00,USD,Federal Funds Rate,high
+14:30:00,USD,FOMC Press Conference,high
+01:01:00,JPY,Monetary Policy Statement,medium
+01:01:00,JPY,BOJ Policy Rate,low

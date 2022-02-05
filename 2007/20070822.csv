@@ -1,0 +1,6 @@
+time,currency,event,impact
+04:00:00,EUR,Current Account,low
+05:00:00,EUR,Industrial New Orders m/m,medium
+06:00:00,GBP,CBI Industrial Order Expectations,medium
+10:30:00,USD,Crude Oil Inventories,low
+23:35:00,JPY,Overnight Call Rate,high

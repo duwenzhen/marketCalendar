@@ -1,0 +1,8 @@
+time,currency,event,impact
+09:30:00,USD,Fed Announcement,high
+10:00:00,EUR,ECB President Trichet Speaks,low
+19:01:00,GBP,Rightmove HPI m/m,medium
+19:01:00,GBP,BOE Quarterly Bulletin,low
+19:50:00,JPY,Monetary Policy Meeting Minutes,medium
+19:50:00,JPY,All Industries Activity m/m,low
+21:30:00,AUD,New Motor Vehicle Sales m/m,low

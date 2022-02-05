@@ -1,0 +1,37 @@
+time,currency,event,impact
+01:45:00,CHF,SECO Consumer Climate,low
+02:00:00,EUR,German Factory Orders m/m,medium
+03:00:00,GBP,Halifax HPI m/m,medium
+03:15:00,CHF,CPI m/m,low
+04:00:00,EUR,ECB Economic Bulletin,low
+04:10:00,EUR,Retail PMI,low
+04:50:00,EUR,Spanish 10-y Bond Auction,low
+05:00:00,EUR,EU Economic Forecasts,medium
+05:00:00,EUR,French 10-y Bond Auction,low
+05:00:00,EUR,Retail Sales m/m,low
+05:45:00,EUR,ECB President Draghi Speaks,medium
+07:00:00,GBP,BOE Monetary Policy Report,high
+07:00:00,GBP,MPC Official Bank Rate Votes,high
+07:00:00,GBP,Monetary Policy Summary,high
+07:00:00,GBP,Official Bank Rate,high
+07:00:00,GBP,Asset Purchase Facility,medium
+07:00:00,GBP,BOE Inflation Letter,medium
+07:00:00,GBP,MPC Asset Purchase Facility Votes,medium
+07:30:00,USD,Challenger Job Cuts y/y,low
+07:45:00,GBP,BOE Gov Carney Speaks,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,FOMC Member Dudley Speaks,medium
+08:30:00,USD,Prelim Nonfarm Productivity q/q,medium
+08:30:00,USD,Prelim Unit Labor Costs q/q,medium
+09:10:00,USD,FOMC Member Fischer Speaks,medium
+10:00:00,CAD,Ivey PMI,medium
+10:30:00,USD,Natural Gas Storage,low
+13:25:00,USD,FOMC Member Tarullo Speaks,low
+13:30:00,USD,FOMC Member Lockhart Speaks,medium
+15:15:00,GBP,BOE Gov Carney Speaks,high
+17:00:00,USD,FOMC Member Dudley Speaks,medium
+17:30:00,AUD,AIG Construction Index,low
+18:45:00,USD,FOMC Member Evans Speaks,low
+19:30:00,AUD,RBA Monetary Policy Statement,high
+20:00:00,AUD,RBA Assist Gov Edey Speaks,medium
+23:00:00,JPY,BOJ Gov Kuroda Speaks,high

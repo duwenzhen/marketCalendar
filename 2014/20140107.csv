@@ -1,0 +1,13 @@
+time,currency,event,impact
+02:00:00,EUR,German Retail Sales m/m,medium
+03:00:00,CHF,Foreign Currency Reserves,medium
+03:55:00,EUR,German Unemployment Change,medium
+05:00:00,EUR,CPI Flash Estimate y/y,high
+05:00:00,EUR,Core CPI Flash Estimate y/y,medium
+05:00:00,EUR,PPI m/m,low
+08:30:00,CAD,Trade Balance,high
+08:30:00,NZD,GDT Price Index,low
+08:30:00,USD,Trade Balance,high
+10:00:00,CAD,Ivey PMI,high
+17:17:00,AUD,AIG Construction Index,low
+19:01:00,GBP,BRC Shop Price Index y/y,low

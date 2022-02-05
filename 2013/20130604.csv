@@ -1,0 +1,17 @@
+time,currency,event,impact
+00:30:00,AUD,Cash Rate,high
+00:30:00,AUD,RBA Rate Statement,high
+03:00:00,EUR,Spanish Unemployment Change,medium
+04:30:00,GBP,Construction PMI,high
+05:00:00,EUR,PPI m/m,low
+08:30:00,CAD,Trade Balance,high
+08:30:00,USD,Trade Balance,high
+10:00:00,USD,IBD/TIPP Economic Optimism,low
+10:30:00,NZD,GDT Price Index,low
+12:30:00,USD,FOMC Member Raskin Speaks,medium
+14:15:00,USD,FOMC Member George Speaks,medium
+19:00:00,GBP,BRC Shop Price Index y/y,low
+19:30:00,AUD,AIG Services Index,low
+21:00:00,NZD,ANZ Commodity Prices m/m,low
+21:30:00,AUD,GDP q/q,high
+21:45:00,CNY,Caixin Services PMI,medium

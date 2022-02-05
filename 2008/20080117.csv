@@ -1,0 +1,21 @@
+time,currency,event,impact
+04:00:00,EUR,ECB Monthly Bulletin,medium
+05:00:00,CHF,Credit Suisse Economic Expectations,medium
+05:00:00,EUR,Trade Balance,low
+08:00:00,GBP,MPC Member Gieve Speaks,medium
+08:15:00,USD,FOMC Member Pianalto Speaks,medium
+08:30:00,CAD,Foreign Securities Purchases,medium
+08:30:00,USD,Building Permits,high
+08:30:00,USD,Housing Starts,medium
+08:30:00,USD,Unemployment Claims,medium
+09:00:00,EUR,ECB President Trichet Speaks,medium
+10:00:00,USD,Fed Chairman Bernanke Testifies,high
+10:00:00,USD,Philly Fed Manufacturing Index,medium
+10:30:00,USD,Natural Gas Storage,low
+12:30:00,USD,FOMC Member Fisher Speaks,medium
+16:45:00,NZD,Core Retail Sales m/m,high
+16:45:00,NZD,Retail Sales m/m,high
+18:50:00,JPY,Tertiary Industry Activity m/m,medium
+19:30:00,AUD,Import Prices q/q,low
+19:30:00,AUD,RBA Bulletin,low
+22:45:00,JPY,30-y Bond Auction,low

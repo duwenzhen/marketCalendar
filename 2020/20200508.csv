@@ -1,0 +1,15 @@
+time,currency,event,impact
+02:00:00,EUR,German Trade Balance,low
+01:01:00,EUR,French Bank Holiday,holiday
+01:01:00,GBP,Bank Holiday,holiday
+01:01:00,EUR,Eurogroup Meetings,medium
+07:00:00,EUR,ECB President Lagarde Speaks,high
+08:00:00,USD,President Trump Speaks,high
+08:17:00,CAD,Housing Starts,low
+08:30:00,CAD,Employment Change,high
+08:30:00,CAD,Unemployment Rate,high
+08:30:00,CAD,Building Permits m/m,low
+08:30:00,USD,Average Hourly Earnings m/m,high
+08:30:00,USD,Non-Farm Employment Change,high
+08:30:00,USD,Unemployment Rate,high
+10:00:00,USD,Final Wholesale Inventories m/m,low

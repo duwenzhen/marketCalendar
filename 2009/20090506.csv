@@ -1,0 +1,27 @@
+time,currency,event,impact
+03:00:00,CHF,Gov Board Member Jordan Speaks,medium
+03:00:00,CHF,Foreign Currency Reserves,low
+03:15:00,EUR,Spanish Services PMI,low
+03:45:00,EUR,Italian Services PMI,low
+03:50:00,EUR,French Final Services PMI,low
+03:55:00,EUR,German Final Services PMI,low
+04:00:00,EUR,Final Services PMI,low
+04:00:00,GBP,Halifax HPI m/m,high
+04:30:00,GBP,Final Services PMI,high
+05:00:00,EUR,Retail Sales m/m,medium
+05:42:00,GBP,10-y Bond Auction,low
+07:30:00,USD,Challenger Job Cuts y/y,low
+08:15:00,USD,ADP Non-Farm Employment Change,high
+08:30:00,CAD,Building Permits m/m,high
+10:00:00,CAD,Ivey PMI,high
+10:30:00,USD,Crude Oil Inventories,medium
+12:15:00,CHF,SNB Chairman Roth Speaks,high
+13:00:00,USD,10-y Bond Auction,medium
+16:00:00,CAD,BOC Gov Carney Speaks,high
+17:30:00,USD,FOMC Member Yellen Speaks,medium
+18:45:00,NZD,Employment Change q/q,high
+18:45:00,NZD,Unemployment Rate,high
+19:30:00,AUD,AIG Construction Index,low
+19:50:00,JPY,Monetary Base y/y,low
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high

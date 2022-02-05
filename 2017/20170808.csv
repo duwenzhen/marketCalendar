@@ -1,0 +1,15 @@
+time,currency,event,impact
+01:05:00,JPY,Economy Watchers Sentiment,low
+01:45:00,CHF,Unemployment Rate,low
+02:00:00,EUR,German Trade Balance,low
+02:45:00,EUR,French Gov Budget Balance,low
+02:45:00,EUR,French Trade Balance,low
+06:00:00,USD,NFIB Small Business Index,low
+10:00:00,USD,JOLTS Job Openings,medium
+10:00:00,USD,IBD/TIPP Economic Optimism,low
+18:35:00,AUD,RBA Assist Gov Kent Speaks,medium
+19:50:00,JPY,M2 Money Stock y/y,low
+20:30:00,AUD,Westpac Consumer Sentiment,low
+21:30:00,AUD,Home Loans m/m,low
+21:32:00,CNY,CPI y/y,medium
+21:32:00,CNY,PPI y/y,medium

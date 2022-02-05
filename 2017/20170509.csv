@@ -1,0 +1,16 @@
+time,currency,event,impact
+01:45:00,CHF,Unemployment Rate,low
+02:00:00,EUR,German Industrial Production m/m,low
+02:00:00,EUR,German Trade Balance,low
+02:45:00,EUR,French Gov Budget Balance,low
+04:00:00,EUR,Italian Retail Sales m/m,low
+05:30:00,AUD,Annual Budget Release,high
+06:00:00,USD,NFIB Small Business Index,low
+08:30:00,CAD,Building Permits m/m,medium
+10:00:00,USD,JOLTS Job Openings,medium
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:00:00,USD,IBD/TIPP Economic Optimism,low
+16:15:00,USD,FOMC Member Kaplan Speaks,medium
+19:50:00,JPY,BOJ Summary of Opinions,low
+21:30:00,CNY,CPI y/y,medium
+21:30:00,CNY,PPI y/y,medium

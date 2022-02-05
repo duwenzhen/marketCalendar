@@ -1,0 +1,18 @@
+time,currency,event,impact
+01:00:00,JPY,Economy Watchers Sentiment,low
+01:45:00,CHF,Unemployment Rate,low
+02:00:00,EUR,German Trade Balance,low
+04:30:00,GBP,Manufacturing Production m/m,high
+04:30:00,GBP,Industrial Production m/m,low
+05:39:00,GBP,10-y Bond Auction,low
+06:00:00,EUR,German Industrial Production m/m,medium
+07:30:00,USD,NFIB Small Business Index,low
+08:30:00,CAD,Building Permits m/m,high
+10:00:00,GBP,NIESR GDP Estimate,medium
+10:45:00,EUR,German Buba President Weber Speaks,medium
+15:00:00,USD,Consumer Credit m/m,low
+19:01:00,GBP,Nationwide Consumer Confidence,medium
+19:01:00,GBP,BRC Shop Price Index y/y,low
+21:00:00,AUD,Westpac Consumer Sentiment,medium
+21:30:00,AUD,Home Loans m/m,high
+21:30:00,AUD,Retail Sales m/m,high

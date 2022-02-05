@@ -1,0 +1,18 @@
+time,currency,event,impact
+02:00:00,EUR,German Factory Orders m/m,low
+03:00:00,GBP,Halifax HPI m/m,medium
+04:59:00,EUR,French 10-y Bond Auction,low
+05:00:00,EUR,Retail Sales m/m,medium
+05:00:00,EUR,PPI m/m,low
+07:00:00,GBP,Official Bank Rate,high
+07:00:00,GBP,Asset Purchase Facility,medium
+07:30:00,USD,Challenger Job Cuts y/y,low
+08:30:00,CAD,NHPI m/m,medium
+08:30:00,USD,Unemployment Claims,high
+10:30:00,USD,Natural Gas Storage,low
+15:00:00,USD,Consumer Credit m/m,low
+16:45:00,NZD,Building Consents m/m,medium
+17:30:00,AUD,AIG Construction Index,low
+19:30:00,AUD,Retail Sales m/m,high
+20:30:00,CNY,CPI y/y,high
+20:30:00,CNY,PPI y/y,medium

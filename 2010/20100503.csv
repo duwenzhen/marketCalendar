@@ -1,0 +1,21 @@
+time,currency,event,impact
+02:30:00,AUD,Commodity Prices y/y,medium
+01:01:00,GBP,Bank Holiday,holiday
+03:15:00,EUR,Spanish Manufacturing PMI,medium
+03:30:00,CHF,Manufacturing PMI,medium
+03:45:00,EUR,Italian Manufacturing PMI,medium
+03:50:00,EUR,French Final Manufacturing PMI,low
+03:55:00,EUR,German Final Manufacturing PMI,low
+04:00:00,EUR,Final Manufacturing PMI,low
+05:00:00,EUR,German Buba President Weber Speaks,medium
+08:30:00,USD,Core PCE Price Index m/m,medium
+08:30:00,USD,Personal Spending m/m,medium
+08:30:00,USD,Personal Income m/m,low
+10:00:00,USD,ISM Manufacturing PMI,high
+10:00:00,USD,Construction Spending m/m,low
+10:00:00,USD,ISM Manufacturing Prices,low
+01:01:00,USD,Total Vehicle Sales,low
+14:00:00,USD,Loan Officer Survey,low
+18:45:00,NZD,Labor Cost Index q/q,high
+01:01:00,JPY,Bank Holiday,holiday
+22:30:00,CNY,Caixin Manufacturing PMI,medium

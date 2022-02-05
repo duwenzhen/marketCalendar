@@ -1,0 +1,5 @@
+time,currency,event,impact
+03:00:00,CAD,Daylight Saving Time Shift,holiday
+03:00:00,USD,Daylight Saving Time Shift,holiday
+19:00:00,USD,Fed Chair Powell Speaks,high
+19:50:00,JPY,M2 Money Stock y/y,low

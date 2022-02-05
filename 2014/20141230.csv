@@ -1,0 +1,11 @@
+time,currency,event,impact
+02:00:00,GBP,Nationwide HPI m/m,medium
+03:00:00,EUR,Spanish Flash CPI y/y,medium
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:00:00,EUR,Private Loans y/y,medium
+05:20:00,EUR,Italian 10-y Bond Auction,medium
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+10:00:00,USD,CB Consumer Confidence,high
+01:01:00,JPY,Bank Holiday,holiday
+19:30:00,AUD,Private Sector Credit m/m,low
+20:45:00,CNY,Caixin Manufacturing PMI,high

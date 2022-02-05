@@ -1,0 +1,20 @@
+time,currency,event,impact
+01:01:00,EUR,German Prelim CPI m/m,low
+03:00:00,CHF,KOF Economic Barometer,medium
+03:00:00,EUR,Spanish Flash CPI y/y,low
+03:55:00,EUR,German Unemployment Change,low
+04:00:00,EUR,German Prelim GDP q/q,high
+04:00:00,EUR,ECB Economic Bulletin,low
+04:00:00,EUR,Italian Monthly Unemployment Rate,low
+05:00:00,EUR,Unemployment Rate,low
+05:17:00,EUR,Italian 10-y Bond Auction,low
+08:30:00,USD,Advance GDP q/q,high
+08:30:00,USD,Advance GDP Price Index q/q,medium
+08:30:00,USD,Unemployment Claims,medium
+10:30:00,USD,Natural Gas Storage,low
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,Prelim Industrial Production m/m,low
+21:00:00,CNY,Manufacturing PMI,high
+21:00:00,CNY,Non-Manufacturing PMI,medium
+21:30:00,AUD,PPI q/q,low
+21:30:00,AUD,Private Sector Credit m/m,low

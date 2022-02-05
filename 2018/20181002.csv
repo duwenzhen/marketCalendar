@@ -1,0 +1,20 @@
+time,currency,event,impact
+00:30:00,AUD,RBA Rate Statement,high
+00:30:00,AUD,Cash Rate,medium
+01:00:00,JPY,Consumer Confidence,low
+01:57:00,GBP,Nationwide HPI m/m,low
+02:30:00,AUD,Commodity Prices y/y,low
+03:00:00,EUR,Spanish Unemployment Change,low
+04:30:00,GBP,Construction PMI,medium
+05:00:00,EUR,PPI m/m,low
+01:01:00,EUR,ECOFIN Meetings,low
+10:00:00,USD,FOMC Member Quarles Speaks,medium
+01:01:00,USD,Wards Total Vehicle Sales,low
+10:50:00,NZD,GDT Price Index,medium
+01:01:00,USD,Total Vehicle Sales,low
+12:45:00,USD,Fed Chair Powell Speaks,high
+18:30:00,AUD,AIG Services Index,low
+19:01:00,GBP,BRC Shop Price Index y/y,low
+20:00:00,NZD,ANZ Commodity Prices m/m,low
+01:01:00,CNY,Bank Holiday,holiday
+21:30:00,AUD,Building Approvals m/m,medium

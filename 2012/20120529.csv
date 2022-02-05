@@ -1,0 +1,12 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,low
+02:00:00,EUR,German Import Prices m/m,low
+01:01:00,EUR,German Prelim CPI m/m,medium
+06:00:00,GBP,CBI Realized Sales,medium
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,medium
+10:00:00,USD,CB Consumer Confidence,high
+18:45:00,NZD,Building Consents m/m,medium
+19:15:00,JPY,Final Manufacturing PMI,low
+20:33:00,JPY,BOJ Gov Shirakawa Speaks,medium
+21:30:00,AUD,Retail Sales m/m,high
+21:30:00,AUD,Construction Work Done q/q,medium

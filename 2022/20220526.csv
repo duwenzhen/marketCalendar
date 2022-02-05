@@ -1,0 +1,13 @@
+time,currency,event,impact
+01:01:00,CHF,Bank Holiday,holiday
+03:00:00,CHF,KOF Economic Barometer,medium
+01:01:00,EUR,French Bank Holiday,holiday
+01:01:00,EUR,German Bank Holiday,holiday
+08:30:00,CAD,Core Retail Sales m/m,medium
+08:30:00,CAD,Retail Sales m/m,medium
+08:30:00,USD,Prelim GDP q/q,high
+08:30:00,USD,Unemployment Claims,medium
+08:30:00,USD,Prelim GDP Price Index q/q,low
+10:00:00,USD,Pending Home Sales m/m,low
+10:30:00,USD,Natural Gas Storage,low
+19:50:00,JPY,Retail Sales y/y,low

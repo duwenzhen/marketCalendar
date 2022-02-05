@@ -1,0 +1,11 @@
+time,currency,event,impact
+08:30:00,USD,Core PCE Price Index m/m,low
+08:30:00,USD,Personal Income m/m,low
+08:30:00,USD,Personal Spending m/m,low
+09:00:00,CAD,BOC Rate Statement,high
+09:00:00,CAD,Overnight Rate,high
+09:30:00,CAD,BOC Press Conference,high
+10:00:00,USD,Revised UoM Consumer Sentiment,low
+10:00:00,USD,Revised UoM Inflation Expectations,low
+13:00:00,CAD,BOC Gov Poloz Speaks,high
+17:30:00,USD,President Trump Speaks,high

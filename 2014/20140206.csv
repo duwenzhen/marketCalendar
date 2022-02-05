@@ -1,0 +1,23 @@
+time,currency,event,impact
+01:45:00,CHF,SECO Consumer Climate,low
+02:00:00,CHF,Trade Balance,low
+03:00:00,GBP,Halifax HPI m/m,medium
+04:10:00,EUR,Retail PMI,low
+04:59:00,EUR,French 10-y Bond Auction,medium
+06:00:00,EUR,German Factory Orders m/m,medium
+07:00:00,GBP,Asset Purchase Facility,high
+07:00:00,GBP,Official Bank Rate,high
+07:30:00,USD,Challenger Job Cuts y/y,low
+07:45:00,EUR,Main Refinancing Rate,high
+08:30:00,CAD,Trade Balance,high
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Trade Balance,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Prelim Nonfarm Productivity q/q,medium
+08:30:00,USD,Prelim Unit Labor Costs q/q,medium
+10:00:00,CAD,Ivey PMI,high
+10:00:00,USD,FOMC Member Tarullo Speaks,low
+10:30:00,USD,Natural Gas Storage,low
+17:14:00,AUD,AIG Construction Index,low
+19:30:00,AUD,RBA Monetary Policy Statement,high
+20:45:00,CNY,Caixin Services PMI,medium

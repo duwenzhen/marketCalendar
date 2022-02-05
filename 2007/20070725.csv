@@ -1,0 +1,9 @@
+time,currency,event,impact
+05:10:00,EUR,German 30-y Bond Auction,low
+10:00:00,USD,Existing Home Sales,high
+10:30:00,USD,Crude Oil Inventories,low
+14:00:00,USD,Beige Book,medium
+17:00:00,NZD,Official Cash Rate,high
+17:00:00,NZD,RBNZ Rate Statement,high
+17:15:00,USD,FOMC Member Geithner Speaks,low
+19:50:00,JPY,SPPI y/y,low

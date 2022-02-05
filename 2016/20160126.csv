@@ -1,0 +1,11 @@
+time,currency,event,impact
+02:00:00,CHF,Trade Balance,low
+05:00:00,GBP,BOE Gov Carney Speaks,high
+09:00:00,USD,HPI m/m,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+09:45:00,USD,Flash Services PMI,low
+10:00:00,USD,CB Consumer Confidence,high
+10:00:00,USD,Richmond Manufacturing Index,low
+18:30:00,AUD,MI Leading Index m/m,low
+19:30:00,AUD,CPI q/q,high
+19:30:00,AUD,Trimmed Mean CPI q/q,medium

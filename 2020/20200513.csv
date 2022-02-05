@@ -1,0 +1,27 @@
+time,currency,event,impact
+01:02:00,JPY,Economy Watchers Sentiment,low
+02:00:00,GBP,Prelim GDP q/q,high
+02:00:00,GBP,GDP m/m,medium
+02:00:00,GBP,Construction Output m/m,low
+02:00:00,GBP,Index of Services 3m/3m,low
+02:02:00,GBP,Manufacturing Production m/m,medium
+02:02:00,GBP,Goods Trade Balance,low
+02:02:00,GBP,Industrial Production m/m,low
+02:02:00,GBP,Prelim Business Investment q/q,low
+05:00:00,EUR,Industrial Production m/m,low
+05:35:00,EUR,German 30-y Bond Auction,low
+08:30:00,USD,Core PPI m/m,medium
+08:30:00,USD,PPI m/m,medium
+09:00:00,USD,Fed Chair Powell Speaks,high
+09:10:00,GBP,NIESR GDP Estimate,low
+10:30:00,USD,Crude Oil Inventories,low
+13:05:00,USD,30-y Bond Auction,low
+16:10:00,NZD,RBNZ Gov Orr Speaks,high
+18:45:00,NZD,Visitor Arrivals m/m,low
+19:01:00,GBP,RICS House Price Balance,low
+19:50:00,JPY,M2 Money Stock y/y,low
+21:00:00,AUD,MI Inflation Expectations,low
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high
+22:00:00,NZD,Annual Budget Release,high
+23:35:00,JPY,30-y Bond Auction,low

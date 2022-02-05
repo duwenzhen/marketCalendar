@@ -1,0 +1,20 @@
+time,currency,event,impact
+02:00:00,EUR,German PPI m/m,medium
+04:00:00,EUR,ECB Monthly Bulletin,medium
+05:00:00,CHF,Credit Suisse Economic Expectations,medium
+06:00:00,GBP,CBI Industrial Order Expectations,medium
+08:30:00,CAD,Leading Index m/m,medium
+08:30:00,CAD,Wholesale Sales m/m,medium
+08:30:00,USD,Unemployment Claims,high
+10:00:00,EUR,Consumer Confidence,low
+10:00:00,USD,Existing Home Sales,high
+10:00:00,USD,Philly Fed Manufacturing Index,high
+10:00:00,USD,CB Leading Index m/m,low
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,USD,Crude Oil Inventories,medium
+12:00:00,CHF,SNB Chairman Hildebrand Speaks,high
+16:29:00,NZD,BusinessNZ Manufacturing Index,low
+16:45:00,NZD,Core Retail Sales m/m,high
+16:45:00,NZD,Retail Sales m/m,high
+19:30:00,AUD,Import Prices q/q,medium
+23:30:00,JPY,All Industries Activity m/m,medium

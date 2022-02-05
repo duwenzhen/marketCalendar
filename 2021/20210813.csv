@@ -1,0 +1,9 @@
+time,currency,event,impact
+02:00:00,EUR,German WPI m/m,low
+02:30:00,CHF,PPI m/m,low
+02:45:00,EUR,French Final CPI m/m,low
+04:36:00,CNY,Foreign Direct Investment ytd/y,low
+05:00:00,EUR,Trade Balance,low
+08:30:00,USD,Import Prices m/m,low
+10:00:00,USD,Prelim UoM Consumer Sentiment,medium
+10:00:00,USD,Prelim UoM Inflation Expectations,low

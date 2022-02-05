@@ -1,0 +1,21 @@
+time,currency,event,impact
+01:30:00,EUR,French Final Private Payrolls q/q,low
+02:00:00,EUR,German WPI m/m,low
+03:00:00,CNY,M2 Money Supply y/y,low
+01:01:00,EUR,Eurogroup Meetings,medium
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,ZEW Economic Sentiment,medium
+05:00:00,GBP,CB Leading Index m/m,low
+05:35:00,GBP,10-y Bond Auction,low
+07:30:00,USD,NFIB Small Business Index,low
+08:30:00,CAD,Trade Balance,high
+08:30:00,USD,Trade Balance,high
+10:00:00,USD,JOLTS Job Openings,medium
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:00:00,USD,IBD/TIPP Economic Optimism,low
+13:20:00,CAD,BOC Gov Carney Speaks,medium
+18:30:00,AUD,Westpac Consumer Sentiment,medium
+18:50:00,JPY,Core Machinery Orders m/m,medium
+18:50:00,JPY,Tertiary Industry Activity m/m,medium
+18:50:00,JPY,PPI y/y,low
+23:30:00,AUD,RBA Gov Stevens Speaks,high

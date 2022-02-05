@@ -1,0 +1,16 @@
+time,currency,event,impact
+02:00:00,EUR,German Factory Orders m/m,low
+02:45:00,EUR,French Gov Budget Balance,low
+04:00:00,EUR,German Buba President Weidmann Speaks,medium
+04:10:00,EUR,Retail PMI,low
+08:30:00,CAD,Trade Balance,high
+08:30:00,USD,Trade Balance,low
+09:36:00,NZD,GDT Price Index,medium
+10:00:00,CAD,Ivey PMI,medium
+10:00:00,USD,JOLTS Job Openings,low
+10:01:00,USD,IBD/TIPP Economic Optimism,low
+16:45:00,NZD,Employment Change q/q,high
+16:45:00,NZD,Unemployment Rate,high
+16:45:00,NZD,Labor Cost Index q/q,low
+17:30:00,AUD,AIG Construction Index,low
+19:00:00,JPY,Average Cash Earnings y/y,low

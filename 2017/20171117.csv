@@ -1,0 +1,13 @@
+time,currency,event,impact
+03:30:00,EUR,ECB President Draghi Speaks,high
+04:00:00,EUR,Current Account,low
+08:00:00,EUR,German Buba President Weidmann Speaks,medium
+08:30:00,CAD,CPI m/m,high
+08:30:00,CAD,Common CPI y/y,medium
+08:30:00,CAD,Median CPI y/y,medium
+08:30:00,CAD,Trimmed CPI y/y,medium
+08:30:00,CAD,Core CPI m/m,low
+08:30:00,USD,Building Permits,high
+08:30:00,USD,Housing Starts,medium
+10:00:00,USD,Mortgage Delinquencies,medium
+10:30:00,AUD,CB Leading Index m/m,low

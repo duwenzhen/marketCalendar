@@ -1,0 +1,11 @@
+time,currency,event,impact
+08:30:00,CAD,Wholesale Sales m/m,medium
+09:04:00,USD,HPI m/m,low
+09:59:00,USD,Richmond Manufacturing Index,low
+10:00:00,EUR,Consumer Confidence,low
+10:00:00,USD,Existing Home Sales,high
+18:45:00,NZD,Visitor Arrivals m/m,low
+21:30:00,AUD,CPI q/q,high
+21:30:00,AUD,Trimmed Mean CPI q/q,medium
+21:45:00,CNY,Caixin Flash Manufacturing PMI,high
+23:00:00,NZD,Credit Card Spending y/y,low

@@ -1,0 +1,5 @@
+time,currency,event,impact
+01:01:00,NZD,Bank Holiday,holiday
+23:08:00,JPY,Monetary Policy Statement,high
+23:08:00,JPY,BOJ Policy Rate,low
+23:09:00,JPY,BOJ Outlook Report,high

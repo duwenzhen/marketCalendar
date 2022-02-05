@@ -1,0 +1,14 @@
+time,currency,event,impact
+03:00:00,GBP,Nationwide HPI m/m,low
+04:00:00,EUR,Spanish Flash CPI y/y,low
+06:00:00,EUR,CPI Flash Estimate y/y,low
+06:00:00,EUR,Core CPI Flash Estimate y/y,low
+06:00:00,EUR,Prelim Flash GDP q/q,low
+09:45:00,USD,Chicago PMI,medium
+01:01:00,All,G20 Meetings,medium
+01:01:00,USD,Loan Officer Survey,low
+17:45:00,NZD,Building Consents m/m,low
+20:30:00,JPY,Final Manufacturing PMI,low
+21:45:00,CNY,Caixin Manufacturing PMI,low
+23:30:00,AUD,Cash Rate,high
+23:30:00,AUD,RBA Rate Statement,high

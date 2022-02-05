@@ -1,0 +1,9 @@
+time,currency,event,impact
+00:30:00,JPY,All Industries Activity m/m,low
+03:00:00,EUR,German PPI m/m,medium
+03:45:00,EUR,ECB President Trichet Speaks,medium
+06:35:00,GBP,MPC Member Tucker Speaks,medium
+07:00:00,CAD,Core CPI m/m,high
+07:00:00,CAD,CPI m/m,medium
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium

@@ -1,0 +1,20 @@
+time,currency,event,impact
+00:59:00,JPY,Leading Indicators,low
+02:00:00,EUR,German Industrial Production m/m,low
+02:00:00,GBP,Halifax HPI m/m,low
+02:45:00,EUR,French Prelim Private Payrolls q/q,low
+02:45:00,EUR,French Trade Balance,low
+03:00:00,CHF,Foreign Currency Reserves,low
+04:00:00,EUR,Italian Industrial Production m/m,low
+07:15:00,GBP,MPC Member Broadbent Speaks,high
+08:30:00,CAD,Employment Change,high
+08:30:00,CAD,Unemployment Rate,high
+08:30:00,USD,Average Hourly Earnings m/m,high
+08:30:00,USD,Non-Farm Employment Change,high
+08:30:00,USD,Unemployment Rate,high
+10:00:00,CAD,Ivey PMI,medium
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:30:00,USD,President Biden Speaks,low
+15:00:00,USD,Consumer Credit m/m,low
+23:02:00,CNY,Trade Balance,low
+23:03:00,CNY,USD-Denominated Trade Balance,low

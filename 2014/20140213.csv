@@ -1,0 +1,16 @@
+time,currency,event,impact
+02:00:00,EUR,German Final CPI m/m,low
+03:15:00,CHF,PPI m/m,medium
+04:00:00,EUR,ECB Monthly Bulletin,medium
+08:30:00,CAD,NHPI m/m,medium
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Unemployment Claims,high
+10:00:00,USD,Business Inventories m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+13:01:00,USD,30-y Bond Auction,low
+15:55:00,NZD,REINZ HPI m/m,low
+16:45:00,NZD,FPI m/m,low
+17:05:00,AUD,RBA Assist Gov Kent Speaks,medium
+20:30:00,CNY,CPI y/y,high
+20:30:00,CNY,PPI y/y,medium

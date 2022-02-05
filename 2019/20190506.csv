@@ -1,0 +1,17 @@
+time,currency,event,impact
+03:00:00,EUR,Spanish Unemployment Change,low
+01:01:00,GBP,Bank Holiday,holiday
+03:15:00,EUR,Spanish Services PMI,low
+03:45:00,EUR,Italian Services PMI,low
+03:50:00,EUR,French Final Services PMI,low
+03:55:00,EUR,German Final Services PMI,low
+04:00:00,EUR,Final Services PMI,low
+04:30:00,EUR,Sentix Investor Confidence,low
+05:00:00,EUR,Retail Sales m/m,low
+13:45:00,CAD,BOC Gov Poloz Speaks,high
+14:00:00,USD,Loan Officer Survey,low
+18:30:00,AUD,AIG Construction Index,low
+20:30:00,JPY,Final Manufacturing PMI,low
+21:30:00,AUD,Retail Sales m/m,high
+21:30:00,AUD,Trade Balance,medium
+23:00:00,NZD,Inflation Expectations q/q,high

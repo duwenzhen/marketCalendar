@@ -1,0 +1,13 @@
+time,currency,event,impact
+02:00:00,EUR,German Final CPI m/m,low
+01:01:00,GBP,BOE Financial Stability Report,low
+01:01:00,GBP,FPC Meeting Minutes,low
+01:01:00,GBP,FPC Statement,low
+01:01:00,EUR,Eurogroup Meetings,low
+06:00:00,USD,NFIB Small Business Index,low
+10:00:00,USD,IBD/TIPP Economic Optimism,low
+13:01:00,USD,10-y Bond Auction,medium
+18:45:00,NZD,FPI m/m,low
+20:30:00,AUD,Westpac Consumer Sentiment,low
+22:00:00,NZD,Official Cash Rate,high
+22:00:00,NZD,RBNZ Rate Statement,high

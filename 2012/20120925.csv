@@ -1,0 +1,17 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,low
+02:00:00,EUR,German GfK Consumer Climate,medium
+04:06:00,CHF,SNB Chairman Jordan Speaks,high
+04:30:00,AUD,RBA Deputy Gov Debelle Speaks,medium
+04:30:00,GBP,High Street Lending,medium
+05:30:00,GBP,MPC Member Fisher Speaks,medium
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium
+09:00:00,EUR,ECB President Draghi Speaks,high
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,medium
+09:59:00,USD,Richmond Manufacturing Index,low
+10:00:00,USD,CB Consumer Confidence,high
+10:00:00,USD,HPI m/m,low
+13:30:00,USD,Treasury Sec Geithner Speaks,medium
+14:15:00,CAD,Gov Council Member Lane Speaks,medium
+18:45:00,NZD,Trade Balance,low

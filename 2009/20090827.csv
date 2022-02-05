@@ -1,0 +1,20 @@
+time,currency,event,impact
+02:00:00,EUR,German GfK Consumer Climate,medium
+02:00:00,GBP,Nationwide HPI m/m,high
+01:01:00,EUR,German Prelim CPI m/m,medium
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:00:00,EUR,Private Loans y/y,low
+04:00:00,EUR,Retail PMI,low
+04:32:00,GBP,Prelim Business Investment q/q,medium
+06:00:00,GBP,CBI Realized Sales,high
+08:15:00,USD,FOMC Member Lacker Speaks,medium
+08:30:00,USD,Prelim GDP q/q,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Prelim GDP Price Index q/q,low
+10:30:00,USD,Natural Gas Storage,low
+18:45:00,NZD,Building Consents m/m,high
+19:01:00,GBP,GfK Consumer Confidence,medium
+19:30:00,JPY,Household Spending y/y,medium
+19:30:00,JPY,Tokyo Core CPI y/y,medium
+19:30:00,JPY,National Core CPI y/y,low
+19:30:00,JPY,Unemployment Rate,low

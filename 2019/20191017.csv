@@ -1,0 +1,31 @@
+time,currency,event,impact
+00:30:00,AUD,RBA Annual Report,low
+02:00:00,CHF,Trade Balance,low
+03:11:00,CNY,Foreign Direct Investment ytd/y,low
+04:00:00,EUR,Italian Trade Balance,low
+04:30:00,GBP,Retail Sales m/m,high
+04:30:00,GBP,BOE Credit Conditions Survey,medium
+04:56:00,EUR,Spanish 10-y Bond Auction,low
+01:01:00,EUR,EU Economic Summit,high
+08:30:00,CAD,Manufacturing Sales m/m,medium
+08:30:00,CAD,ADP Non-Farm Employment Change,low
+08:30:00,USD,Philly Fed Manufacturing Index,high
+08:30:00,USD,Building Permits,medium
+08:30:00,USD,Housing Starts,low
+08:30:00,USD,Unemployment Claims,low
+09:15:00,USD,Industrial Production m/m,medium
+09:15:00,USD,Capacity Utilization Rate,low
+09:30:00,GBP,CB Leading Index m/m,low
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,USD,Crude Oil Inventories,high
+14:00:00,USD,FOMC Member Bowman Speaks,medium
+14:00:00,USD,FOMC Member Evans Speaks,medium
+16:00:00,AUD,RBA Gov Lowe Speaks,high
+16:20:00,USD,FOMC Member Williams Speaks,medium
+19:30:00,JPY,National Core CPI y/y,low
+22:00:00,CNY,GDP q/y,high
+22:00:00,CNY,Fixed Asset Investment ytd/y,medium
+22:00:00,CNY,Industrial Production y/y,medium
+22:00:00,CNY,NBS Press Conference,low
+22:00:00,CNY,Retail Sales y/y,low
+22:00:00,CNY,Unemployment Rate,low

@@ -1,0 +1,18 @@
+time,currency,event,impact
+02:00:00,EUR,German Retail Sales m/m,medium
+03:00:00,CHF,Foreign Currency Reserves,medium
+03:55:00,EUR,German Unemployment Change,medium
+04:00:00,EUR,Italian Monthly Unemployment Rate,low
+04:10:00,EUR,Retail PMI,low
+05:00:00,EUR,CPI Flash Estimate y/y,high
+05:00:00,EUR,Core CPI Flash Estimate y/y,medium
+05:00:00,EUR,Unemployment Rate,medium
+05:00:00,EUR,Italian Prelim CPI m/m,low
+08:15:00,USD,ADP Non-Farm Employment Change,high
+08:30:00,CAD,Trade Balance,high
+08:30:00,USD,Trade Balance,high
+10:00:00,CAD,Ivey PMI,high
+10:30:00,USD,Crude Oil Inventories,medium
+14:00:00,USD,FOMC Meeting Minutes,high
+18:30:00,USD,FOMC Member Evans Speaks,medium
+19:30:00,AUD,Building Approvals m/m,high

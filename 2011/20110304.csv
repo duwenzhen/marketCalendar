@@ -1,0 +1,11 @@
+time,currency,event,impact
+03:00:00,CHF,Foreign Currency Reserves,high
+03:00:00,GBP,Halifax HPI m/m,high
+01:01:00,EUR,EU Economic Summit,medium
+08:30:00,USD,Non-Farm Employment Change,high
+08:30:00,USD,Unemployment Rate,high
+08:30:00,USD,Average Hourly Earnings m/m,medium
+10:00:00,CAD,Ivey PMI,high
+10:00:00,USD,FOMC Member Yellen Speaks,medium
+10:00:00,USD,Factory Orders m/m,medium
+10:25:00,EUR,ECB President Trichet Speaks,medium

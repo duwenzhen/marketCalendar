@@ -1,0 +1,18 @@
+time,currency,event,impact
+01:00:00,JPY,Prelim Machine Tool Orders y/y,low
+01:45:00,CHF,CPI m/m,high
+01:45:00,CHF,SECO Consumer Climate,medium
+02:00:00,EUR,German Trade Balance,low
+02:00:00,JPY,Economy Watchers Sentiment,low
+03:00:00,GBP,Halifax HPI m/m,high
+07:00:00,GBP,Official Bank Rate,high
+07:45:00,EUR,Main Refinancing Rate,medium
+08:15:00,CAD,Housing Starts,high
+08:30:00,CAD,NHPI m/m,low
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Unemployment Claims,low
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:30:00,USD,Natural Gas Storage,low
+13:00:00,USD,30-y Bond Auction,low
+18:50:00,JPY,Core Machinery Orders m/m,medium
+19:30:00,AUD,Home Loans m/m,medium

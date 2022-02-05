@@ -1,0 +1,15 @@
+time,currency,event,impact
+02:32:00,JPY,BOJ Press Conference,high
+06:00:00,EUR,German ZEW Economic Sentiment,high
+06:00:00,EUR,Final CPI y/y,medium
+06:00:00,EUR,ZEW Economic Sentiment,medium
+06:00:00,EUR,Final Core CPI y/y,low
+06:00:00,EUR,Final Employment Change q/q,low
+08:30:00,CAD,Manufacturing Sales m/m,high
+08:30:00,USD,Building Permits,high
+08:30:00,USD,Housing Starts,medium
+10:00:00,USD,Treasury Sec Lew Speaks,medium
+10:18:00,NZD,GDT Price Index,high
+17:45:00,NZD,Current Account,medium
+19:30:00,AUD,MI Leading Index m/m,low
+19:50:00,JPY,Trade Balance,medium

@@ -1,0 +1,9 @@
+time,currency,event,impact
+01:00:00,JPY,Consumer Confidence,low
+05:00:00,EUR,German Buba President Weber Speaks,medium
+05:00:00,EUR,Trade Balance,low
+01:01:00,CAD,Bank Holiday,holiday
+11:30:00,USD,Treasury Sec Geithner Speaks,low
+13:00:00,USD,NAHB Housing Market Index,low
+18:10:00,AUD,RBA Gov Stevens Speaks,high
+21:30:00,AUD,Monetary Policy Meeting Minutes,high

@@ -1,0 +1,21 @@
+time,currency,event,impact
+01:01:00,EUR,Eurogroup Meetings,low
+04:30:00,GBP,CPI y/y,high
+04:30:00,GBP,Core CPI y/y,high
+04:30:00,GBP,RPI y/y,low
+04:35:00,GBP,ONS HPI y/y,low
+05:30:00,AUD,Annual Budget Release,high
+06:10:00,USD,FOMC Member Pianalto Speaks,medium
+07:30:00,USD,NFIB Small Business Index,low
+08:20:00,USD,Fed Chairman Bernanke Speaks,high
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Import Prices m/m,medium
+09:15:00,USD,FOMC Member Warsh Speaks,low
+10:00:00,USD,Business Inventories m/m,medium
+11:00:00,USD,FOMC Member Plosser Speaks,low
+13:30:00,USD,FOMC Member Fisher Speaks,medium
+19:50:00,JPY,Current Account,low
+19:50:00,JPY,PPI y/y,low
+21:30:00,AUD,Wage Price Index q/q,medium
+22:00:00,CNY,Industrial Production y/y,high

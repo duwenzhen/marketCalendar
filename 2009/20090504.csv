@@ -1,0 +1,20 @@
+time,currency,event,impact
+02:00:00,EUR,German Retail Sales m/m,medium
+01:01:00,GBP,Bank Holiday,holiday
+03:15:00,EUR,Spanish Manufacturing PMI,low
+03:30:00,CHF,Manufacturing PMI,medium
+03:45:00,EUR,Italian Manufacturing PMI,low
+03:50:00,EUR,French Final Manufacturing PMI,low
+03:55:00,EUR,German Final Manufacturing PMI,low
+04:00:00,EUR,Final Manufacturing PMI,low
+01:01:00,EUR,Eurogroup Meetings,low
+04:30:00,EUR,Sentix Investor Confidence,low
+05:00:00,EUR,EU Economic Forecasts,low
+10:00:00,USD,Pending Home Sales m/m,high
+10:00:00,USD,Construction Spending m/m,low
+14:00:00,USD,FOMC Member Lacker Speaks,medium
+14:00:00,USD,Loan Officer Survey,low
+19:30:00,AUD,AIG Services Index,low
+01:01:00,JPY,Bank Holiday,holiday
+21:30:00,AUD,Building Approvals m/m,high
+23:07:00,NZD,ANZ Commodity Prices m/m,low

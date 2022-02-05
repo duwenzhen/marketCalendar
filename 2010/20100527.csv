@@ -1,0 +1,18 @@
+time,currency,event,impact
+01:01:00,EUR,German Prelim CPI m/m,medium
+02:40:00,USD,FOMC Member Bullard Speaks,medium
+03:15:00,CHF,Employment Level,medium
+05:00:00,EUR,German Buba President Weber Speaks,medium
+06:00:00,GBP,CBI Realized Sales,high
+08:30:00,CAD,Corporate Profits q/q,low
+08:30:00,USD,Prelim GDP q/q,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Prelim GDP Price Index q/q,medium
+10:30:00,USD,Natural Gas Storage,low
+18:45:00,NZD,Building Consents m/m,medium
+19:01:00,GBP,GfK Consumer Confidence,medium
+19:30:00,JPY,Household Spending y/y,medium
+19:30:00,JPY,Tokyo Core CPI y/y,medium
+19:30:00,JPY,National Core CPI y/y,low
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,Retail Sales y/y,medium

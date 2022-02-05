@@ -1,0 +1,16 @@
+time,currency,event,impact
+02:00:00,EUR,German PPI m/m,medium
+02:00:00,JPY,BOJ Monthly Report,medium
+03:15:00,CHF,PPI m/m,medium
+03:28:00,JPY,BOJ Press Conference,high
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,ZEW Economic Sentiment,medium
+08:30:00,CAD,Foreign Securities Purchases,medium
+08:30:00,CAD,Wholesale Sales m/m,medium
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Core PPI m/m,medium
+09:00:00,USD,FOMC Member Kohn Speaks,medium
+10:00:00,USD,IBD/TIPP Economic Optimism,low
+20:30:00,AUD,Westpac Consumer Sentiment,medium
+21:30:00,AUD,New Motor Vehicle Sales m/m,low
+23:00:00,NZD,Credit Card Spending y/y,low

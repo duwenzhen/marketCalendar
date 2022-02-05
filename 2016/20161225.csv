@@ -1,0 +1,5 @@
+time,currency,event,impact
+01:01:00,NZD,Bank Holiday,holiday
+01:01:00,AUD,Bank Holiday,holiday
+18:50:00,JPY,Monetary Policy Meeting Minutes,low
+18:50:00,JPY,SPPI y/y,low

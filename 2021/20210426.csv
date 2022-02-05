@@ -1,0 +1,9 @@
+time,currency,event,impact
+04:00:00,EUR,German ifo Business Climate,medium
+08:30:00,USD,Core Durable Goods Orders m/m,low
+08:30:00,USD,Durable Goods Orders m/m,low
+08:58:00,EUR,Belgian NBB Business Climate,low
+09:00:00,CNY,CB Leading Index m/m,low
+23:02:00,JPY,BOJ Outlook Report,high
+23:02:00,JPY,Monetary Policy Statement,medium
+23:02:00,JPY,BOJ Policy Rate,low

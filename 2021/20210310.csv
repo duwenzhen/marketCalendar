@@ -1,0 +1,15 @@
+time,currency,event,impact
+02:45:00,EUR,French Industrial Production m/m,low
+03:30:00,CNY,M2 Money Supply y/y,low
+03:30:00,CNY,New Loans,low
+08:30:00,USD,CPI m/m,high
+08:30:00,USD,Core CPI m/m,high
+10:00:00,CAD,BOC Rate Statement,high
+10:00:00,CAD,Overnight Rate,medium
+10:30:00,USD,Crude Oil Inventories,medium
+13:01:00,USD,10-y Bond Auction,medium
+14:00:00,USD,Federal Budget Balance,low
+16:45:00,NZD,FPI m/m,low
+18:50:00,JPY,PPI y/y,low
+19:00:00,AUD,MI Inflation Expectations,low
+19:01:00,GBP,RICS House Price Balance,low

@@ -1,0 +1,9 @@
+time,currency,event,impact
+02:00:00,CAD,Daylight Saving Time Shift,holiday
+02:00:00,USD,Daylight Saving Time Shift,holiday
+18:50:00,JPY,Monetary Policy Meeting Minutes,low
+19:00:00,AUD,MI Inflation Gauge m/m,low
+19:00:00,NZD,ANZ Commodity Prices m/m,low
+19:30:00,AUD,ANZ Job Advertisements m/m,low
+20:00:00,JPY,BOJ Gov Kuroda Speaks,high
+21:00:00,NZD,Inflation Expectations q/q,high

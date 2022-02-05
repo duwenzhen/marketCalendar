@@ -1,0 +1,21 @@
+time,currency,event,impact
+02:00:00,CHF,Trade Balance,medium
+03:00:00,EUR,French Flash Manufacturing PMI,medium
+03:00:00,EUR,French Flash Services PMI,medium
+03:30:00,EUR,German Flash Manufacturing PMI,medium
+03:30:00,EUR,German Flash Services PMI,medium
+04:00:00,EUR,Flash Manufacturing PMI,medium
+04:00:00,EUR,Flash Services PMI,medium
+04:30:00,GBP,High Street Lending,medium
+01:01:00,EUR,EU Economic Summit,medium
+06:00:00,GBP,CBI Realized Sales,medium
+08:30:00,USD,Unemployment Claims,high
+09:00:00,EUR,Belgian NBB Business Climate,medium
+09:15:00,CAD,Gov Council Member Murray Speaks,medium
+10:00:00,USD,New Home Sales,high
+10:30:00,USD,Natural Gas Storage,low
+12:00:00,EUR,ECB President Trichet Speaks,medium
+12:00:00,GBP,MPC Member Posen Speaks,medium
+14:45:00,CAD,Gov Council Member Murray Speaks,medium
+19:50:00,JPY,SPPI y/y,low
+23:30:00,AUD,RBA Deputy Gov Lowe Speaks,medium

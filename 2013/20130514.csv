@@ -1,0 +1,15 @@
+time,currency,event,impact
+02:00:00,EUR,German Final CPI m/m,low
+02:00:00,EUR,German WPI m/m,low
+02:00:00,JPY,Prelim Machine Tool Orders y/y,low
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,Industrial Production m/m,medium
+05:00:00,EUR,ZEW Economic Sentiment,medium
+05:00:00,GBP,CB Leading Index m/m,low
+01:01:00,EUR,ECOFIN Meetings,medium
+05:30:00,AUD,Annual Budget Release,high
+07:30:00,USD,NFIB Small Business Index,low
+08:30:00,USD,Import Prices m/m,medium
+19:50:00,JPY,Tertiary Industry Activity m/m,medium
+21:30:00,AUD,New Motor Vehicle Sales m/m,medium
+21:30:00,AUD,Wage Price Index q/q,medium

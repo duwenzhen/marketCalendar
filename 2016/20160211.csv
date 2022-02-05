@@ -1,0 +1,14 @@
+time,currency,event,impact
+03:15:00,CHF,CPI m/m,low
+01:01:00,EUR,Eurogroup Meetings,medium
+05:34:00,GBP,30-y Bond Auction,low
+08:30:00,CAD,NHPI m/m,medium
+08:30:00,USD,Unemployment Claims,high
+10:00:00,USD,Fed Chair Yellen Testifies,high
+10:00:00,USD,Fed Monetary Policy Report,low
+10:30:00,USD,Natural Gas Storage,low
+13:01:00,USD,30-y Bond Auction,low
+16:45:00,NZD,FPI m/m,low
+17:30:00,AUD,RBA Gov Stevens Speaks,high
+01:01:00,CNY,Bank Holiday,holiday
+19:30:00,AUD,Home Loans m/m,medium

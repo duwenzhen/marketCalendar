@@ -1,0 +1,17 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Monthly Report,low
+02:00:00,EUR,German Trade Balance,medium
+04:30:00,GBP,Goods Trade Balance,medium
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:30:00,USD,Crude Oil Inventories,medium
+13:01:00,USD,10-y Bond Auction,medium
+14:00:00,USD,FOMC Meeting Minutes,high
+18:30:00,NZD,BusinessNZ Manufacturing Index,medium
+19:00:00,USD,FOMC Member Tarullo Speaks,low
+19:01:00,GBP,RICS House Price Balance,low
+19:50:00,JPY,Core Machinery Orders m/m,medium
+19:50:00,JPY,Bank Lending y/y,low
+21:00:00,AUD,MI Inflation Expectations,medium
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high
+22:07:00,CNY,USD-Denominated Trade Balance,high

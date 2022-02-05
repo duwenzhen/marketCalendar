@@ -1,0 +1,12 @@
+time,currency,event,impact
+02:00:00,CHF,Trade Balance,medium
+02:00:00,CHF,UBS Consumption Indicator,medium
+06:00:00,GBP,CBI Industrial Order Expectations,medium
+08:50:00,GBP,MPC Member Sentance Speaks,medium
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,medium
+10:00:00,USD,CB Consumer Confidence,high
+10:00:00,USD,Richmond Manufacturing Index,low
+19:50:00,JPY,Retail Sales y/y,medium
+21:00:00,NZD,Final ANZ Business Confidence,high
+21:30:00,AUD,CPI q/q,high
+21:30:00,AUD,Trimmed Mean CPI q/q,medium

@@ -1,0 +1,10 @@
+time,currency,event,impact
+01:01:00,EUR,German Bank Holiday,holiday
+08:30:00,USD,Unemployment Claims,high
+10:35:00,USD,Crude Oil Inventories,medium
+12:00:00,USD,Natural Gas Storage,low
+14:00:00,EUR,ECB President Trichet Speaks,medium
+01:01:00,NZD,Bank Holiday,holiday
+01:01:00,AUD,Bank Holiday,holiday
+01:01:00,CNY,Bank Holiday,holiday
+01:01:00,JPY,Bank Holiday,holiday

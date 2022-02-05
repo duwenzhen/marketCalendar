@@ -1,0 +1,12 @@
+time,currency,event,impact
+00:00:00,JPY,Consumer Confidence,low
+01:01:00,EUR,Eurogroup Meetings,medium
+06:00:00,EUR,German Buba Monthly Report,low
+07:15:00,USD,FOMC Member Plosser Speaks,medium
+01:01:00,USD,Bank Holiday,holiday
+08:30:00,CAD,Foreign Securities Purchases,medium
+16:00:00,NZD,REINZ HPI m/m,medium
+19:01:00,GBP,Nationwide Consumer Confidence,medium
+19:01:00,GBP,RICS House Price Balance,medium
+21:00:00,CNY,Foreign Direct Investment ytd/y,low
+23:30:00,JPY,Revised Industrial Production m/m,low

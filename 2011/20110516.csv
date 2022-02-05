@@ -1,0 +1,15 @@
+time,currency,event,impact
+01:00:00,JPY,Consumer Confidence,low
+04:00:00,EUR,Italian Trade Balance,low
+01:01:00,EUR,Eurogroup Meetings,medium
+05:00:00,EUR,Final CPI y/y,medium
+05:00:00,EUR,Final Core CPI y/y,medium
+05:00:00,EUR,Trade Balance,low
+08:30:00,CAD,Manufacturing Sales m/m,medium
+08:30:00,USD,Empire State Manufacturing Index,medium
+09:00:00,USD,Fed Chairman Bernanke Speaks,high
+09:00:00,USD,TIC Long-Term Purchases,high
+10:00:00,USD,NAHB Housing Market Index,low
+12:45:00,CAD,BOC Gov Carney Speaks,medium
+21:30:00,AUD,Monetary Policy Meeting Minutes,high
+21:52:00,CNY,Foreign Direct Investment ytd/y,low

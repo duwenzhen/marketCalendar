@@ -1,0 +1,16 @@
+time,currency,event,impact
+02:00:00,EUR,German PPI m/m,low
+02:15:00,CHF,Trade Balance,medium
+03:15:00,CHF,PPI m/m,medium
+04:30:00,GBP,M4 Money Supply m/m,low
+04:30:00,GBP,Public Sector Net Borrowing,low
+07:00:00,CAD,Core CPI m/m,high
+07:00:00,CAD,CPI m/m,medium
+07:30:00,CAD,Gov Council Member Jenkins Speaks,low
+08:30:00,CAD,Leading Index m/m,low
+18:00:00,AUD,RBA Gov Stevens Speaks,medium
+18:30:00,AUD,MI Leading Index m/m,low
+01:01:00,CNY,Bank Holiday,holiday
+19:30:00,AUD,New Motor Vehicle Sales m/m,low
+19:30:00,AUD,Wage Price Index q/q,low
+23:00:00,JPY,Overnight Call Rate,high

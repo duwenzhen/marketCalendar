@@ -1,0 +1,10 @@
+time,currency,event,impact
+06:00:00,EUR,German Buba Monthly Report,medium
+09:00:00,EUR,ECB President Draghi Speaks,high
+10:00:00,EUR,Consumer Confidence,low
+10:00:00,USD,FOMC Member Dudley Speaks,high
+10:00:00,USD,Existing Home Sales,medium
+13:00:00,CAD,Gov Council Member Wilkins Speaks,medium
+19:30:00,USD,FOMC Member Kocherlakota Speaks,medium
+01:01:00,JPY,Bank Holiday,holiday
+21:45:00,CNY,Caixin Flash Manufacturing PMI,high

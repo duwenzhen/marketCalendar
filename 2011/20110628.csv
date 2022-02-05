@@ -1,0 +1,17 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,medium
+02:00:00,EUR,German GfK Consumer Climate,medium
+02:00:00,EUR,German Import Prices m/m,low
+01:01:00,EUR,German Prelim CPI m/m,medium
+04:30:00,GBP,Current Account,high
+04:30:00,GBP,Final GDP q/q,medium
+04:30:00,GBP,Revised Business Investment q/q,low
+05:00:00,GBP,Monetary Policy Report Hearings,high
+05:24:00,EUR,Italian 10-y Bond Auction,medium
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,medium
+09:43:00,USD,CB Consumer Confidence,high
+10:00:00,USD,Richmond Manufacturing Index,low
+12:00:00,USD,FOMC Member Fisher Speaks,medium
+12:45:00,CAD,Gov Council Member Cote Speaks,low
+14:45:00,EUR,ECB President Trichet Speaks,medium
+19:50:00,JPY,Prelim Industrial Production m/m,medium

@@ -1,0 +1,13 @@
+time,currency,event,impact
+02:45:00,EUR,French Consumer Spending m/m,medium
+04:00:00,EUR,Italian Retail Sales m/m,low
+05:00:00,EUR,Industrial New Orders m/m,medium
+05:00:00,EUR,Italian Quarterly Unemployment Rate,low
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Durable Goods Orders m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+18:45:00,NZD,Trade Balance,medium
+19:01:00,GBP,BOE Financial Stability Report,low
+19:30:00,JPY,Tokyo Core CPI y/y,medium
+19:30:00,JPY,National Core CPI y/y,low

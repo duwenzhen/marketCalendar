@@ -1,0 +1,14 @@
+time,currency,event,impact
+01:30:00,JPY,BOJ Press Conference,high
+02:00:00,CHF,Trade Balance,low
+02:00:00,EUR,German PPI m/m,low
+04:00:00,EUR,Current Account,low
+06:00:00,GBP,CBI Realized Sales,low
+08:30:00,CAD,Wholesale Sales m/m,medium
+09:00:00,CNY,CB Leading Index m/m,low
+09:05:00,NZD,GDT Price Index,high
+16:45:00,NZD,Trade Balance,medium
+16:45:00,NZD,Visitor Arrivals m/m,low
+18:30:00,AUD,MI Leading Index m/m,low
+21:00:00,NZD,Credit Card Spending y/y,low
+23:30:00,JPY,All Industries Activity m/m,low

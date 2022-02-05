@@ -1,0 +1,18 @@
+time,currency,event,impact
+03:00:00,CHF,Foreign Currency Reserves,high
+03:15:00,CHF,CPI m/m,high
+05:00:00,EUR,EU Economic Forecasts,medium
+05:00:00,EUR,Retail Sales m/m,medium
+06:00:00,EUR,German Industrial Production m/m,medium
+07:10:00,EUR,ECB President Draghi Speaks,high
+10:30:00,USD,Crude Oil Inventories,medium
+13:00:00,USD,10-y Bond Auction,medium
+15:00:00,USD,Consumer Credit m/m,low
+16:45:00,NZD,Employment Change q/q,high
+16:45:00,NZD,Unemployment Rate,high
+17:15:00,EUR,Greek Gov Debt Crisis Vote,high
+18:50:00,JPY,Core Machinery Orders m/m,medium
+18:50:00,JPY,Current Account,medium
+18:50:00,JPY,Bank Lending y/y,low
+19:30:00,AUD,Employment Change,high
+19:30:00,AUD,Unemployment Rate,high

@@ -1,0 +1,14 @@
+time,currency,event,impact
+00:30:00,JPY,All Industries Activity m/m,low
+03:00:00,EUR,French Flash Manufacturing PMI,medium
+03:00:00,EUR,French Flash Services PMI,medium
+03:30:00,EUR,German Flash Manufacturing PMI,medium
+03:30:00,EUR,German Flash Services PMI,medium
+04:00:00,EUR,Flash Manufacturing PMI,medium
+04:00:00,EUR,Flash Services PMI,medium
+06:15:00,USD,FOMC Member Bullard Speaks,medium
+01:01:00,CAD,Bank Holiday,holiday
+09:45:00,USD,Flash Manufacturing PMI,low
+10:00:00,EUR,Consumer Confidence,low
+10:30:00,AUD,CB Leading Index m/m,low
+23:05:00,AUD,RBA Gov Stevens Speaks,high

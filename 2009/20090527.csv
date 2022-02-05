@@ -1,0 +1,14 @@
+time,currency,event,impact
+01:01:00,EUR,German Prelim CPI m/m,medium
+04:30:00,GBP,High Street Lending,medium
+08:30:00,CAD,Corporate Profits q/q,low
+09:46:00,USD,HPI m/m,low
+10:00:00,USD,Existing Home Sales,high
+12:00:00,USD,Treasury Sec Geithner Speaks,medium
+19:50:00,JPY,Retail Sales y/y,medium
+20:00:00,AUD,CB Leading Index m/m,medium
+01:01:00,CNY,Bank Holiday,holiday
+21:10:00,AUD,RBA Deputy Gov Battellino Speaks,medium
+21:25:00,GBP,MPC Member Tucker Speaks,medium
+21:30:00,AUD,Private Capital Expenditure q/q,high
+22:00:00,NZD,Annual Budget Release,high

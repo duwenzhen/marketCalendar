@@ -1,0 +1,23 @@
+time,currency,event,impact
+00:59:00,JPY,Prelim Machine Tool Orders y/y,low
+01:30:00,EUR,French Final Private Payrolls q/q,low
+02:45:00,EUR,French Industrial Production m/m,low
+04:00:00,EUR,Italian Industrial Production m/m,low
+04:01:00,CNY,New Loans,high
+04:01:00,CNY,M2 Money Supply y/y,low
+04:30:00,GBP,GDP m/m,medium
+04:30:00,GBP,Manufacturing Production m/m,medium
+04:30:00,GBP,Construction Output m/m,low
+04:30:00,GBP,Goods Trade Balance,low
+04:30:00,GBP,Index of Services 3m/3m,low
+04:30:00,GBP,Industrial Production m/m,low
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,ZEW Economic Sentiment,low
+06:00:00,USD,NFIB Small Business Index,low
+07:20:00,GBP,NIESR GDP Estimate,low
+08:30:00,USD,Revised Nonfarm Productivity q/q,low
+08:30:00,USD,Revised Unit Labor Costs q/q,low
+13:01:00,USD,10-y Bond Auction,medium
+18:30:00,AUD,Westpac Consumer Sentiment,medium
+18:50:00,JPY,BSI Manufacturing Index,low
+18:50:00,JPY,PPI y/y,low

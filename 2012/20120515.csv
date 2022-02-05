@@ -1,0 +1,27 @@
+time,currency,event,impact
+01:00:00,JPY,Consumer Confidence,low
+01:30:00,EUR,French Prelim GDP q/q,medium
+01:30:00,EUR,French Final CPI m/m,low
+02:00:00,EUR,German Prelim GDP q/q,medium
+02:45:00,EUR,French Prelim Private Payrolls q/q,medium
+04:00:00,EUR,Italian Prelim GDP q/q,medium
+04:30:00,GBP,Goods Trade Balance,medium
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,Flash GDP q/q,medium
+05:00:00,EUR,ZEW Economic Sentiment,medium
+05:00:00,GBP,CB Leading Index m/m,low
+01:01:00,EUR,ECOFIN Meetings,medium
+08:30:00,USD,Core CPI m/m,high
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,CPI m/m,medium
+08:30:00,USD,Empire State Manufacturing Index,medium
+09:00:00,USD,TIC Long-Term Purchases,medium
+09:30:00,USD,FOMC Member Duke Speaks,low
+10:00:00,USD,Business Inventories m/m,medium
+10:00:00,USD,NAHB Housing Market Index,low
+10:30:00,NZD,GDT Price Index,low
+19:50:00,JPY,Core Machinery Orders m/m,medium
+19:50:00,JPY,Tertiary Industry Activity m/m,medium
+20:30:00,AUD,Westpac Consumer Sentiment,medium
+21:30:00,AUD,Wage Price Index q/q,medium

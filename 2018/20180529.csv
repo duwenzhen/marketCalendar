@@ -1,0 +1,13 @@
+time,currency,event,impact
+02:00:00,CHF,Trade Balance,low
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:00:00,EUR,Private Loans y/y,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+10:00:00,USD,CB Consumer Confidence,high
+17:00:00,NZD,RBNZ Financial Stability Report,high
+18:45:00,NZD,Building Consents m/m,low
+19:01:00,GBP,BRC Shop Price Index y/y,low
+19:50:00,JPY,Retail Sales y/y,low
+20:00:00,JPY,BOJ Gov Kuroda Speaks,high
+21:10:00,NZD,RBNZ Gov Orr Speaks,high
+21:30:00,AUD,Building Approvals m/m,medium

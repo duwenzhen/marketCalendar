@@ -1,0 +1,19 @@
+time,currency,event,impact
+00:00:00,AUD,RBA Gov Lowe Speaks,high
+02:30:00,CHF,CPI m/m,low
+02:45:00,EUR,French Gov Budget Balance,low
+09:12:00,NZD,GDT Price Index,low
+10:00:00,USD,Factory Orders m/m,low
+01:01:00,USD,Presidential Election,high
+01:01:00,USD,Congressional Elections,high
+01:01:00,USD,Wards Total Vehicle Sales,low
+16:30:00,AUD,AIG Construction Index,low
+16:45:00,NZD,Employment Change q/q,high
+16:45:00,NZD,Unemployment Rate,high
+16:45:00,NZD,Labor Cost Index q/q,low
+18:50:00,JPY,Monetary Base y/y,low
+18:50:00,JPY,Monetary Policy Meeting Minutes,low
+19:00:00,NZD,ANZ Commodity Prices m/m,low
+19:30:00,AUD,Retail Sales m/m,low
+20:45:00,CNY,Caixin Services PMI,low
+22:35:00,JPY,10-y Bond Auction,low

@@ -1,0 +1,18 @@
+time,currency,event,impact
+00:00:00,JPY,BOJ Core CPI y/y,low
+02:00:00,CHF,Trade Balance,low
+03:00:00,EUR,Spanish Unemployment Rate,medium
+05:34:00,GBP,10-y Bond Auction,low
+06:00:00,GBP,CBI Realized Sales,low
+08:30:00,USD,Core Durable Goods Orders m/m,medium
+08:30:00,USD,Durable Goods Orders m/m,medium
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+09:30:00,USD,FOMC Member Williams Speaks,low
+09:59:00,USD,Richmond Manufacturing Index,medium
+10:00:00,USD,CB Consumer Confidence,high
+18:38:00,AUD,MI Leading Index m/m,low
+18:50:00,JPY,BOJ Summary of Opinions,low
+01:01:00,CNY,Bank Holiday,holiday
+19:01:00,GBP,BRC Shop Price Index y/y,low
+19:30:00,AUD,CPI q/q,high
+19:30:00,AUD,Trimmed Mean CPI q/q,high

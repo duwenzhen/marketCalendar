@@ -1,0 +1,19 @@
+time,currency,event,impact
+02:00:00,EUR,German Factory Orders m/m,medium
+02:00:00,EUR,German Retail Sales m/m,medium
+03:00:00,CHF,Foreign Currency Reserves,medium
+03:00:00,GBP,Halifax HPI m/m,medium
+04:00:00,EUR,Italian Monthly Unemployment Rate,low
+04:10:00,EUR,Retail PMI,low
+04:59:00,EUR,French 10-y Bond Auction,low
+05:00:00,EUR,Unemployment Rate,medium
+05:00:00,EUR,Retail Sales m/m,low
+07:30:00,USD,Challenger Job Cuts y/y,low
+08:25:00,CAD,BOC Gov Poloz Speaks,high
+08:30:00,USD,Unemployment Claims,high
+10:00:00,CAD,Ivey PMI,medium
+10:30:00,USD,Natural Gas Storage,low
+17:30:00,AUD,AIG Construction Index,low
+19:00:00,JPY,BOJ Summary of Opinions,low
+19:30:00,AUD,Retail Sales m/m,high
+20:30:00,JPY,Average Cash Earnings y/y,low

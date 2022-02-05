@@ -1,0 +1,19 @@
+time,currency,event,impact
+00:30:00,CHF,SNB Financial Stability Report,low
+02:02:00,CHF,Trade Balance,low
+03:30:00,CHF,SNB Monetary Policy Assessment,high
+03:30:00,CHF,SNB Policy Rate,medium
+04:00:00,CHF,SNB Press Conference,high
+04:00:00,EUR,Italian Trade Balance,low
+05:00:00,EUR,Final CPI y/y,low
+05:00:00,EUR,Final Core CPI y/y,low
+01:01:00,EUR,Eurogroup Meetings,low
+08:30:00,CAD,Foreign Securities Purchases,low
+08:30:00,USD,Philly Fed Manufacturing Index,medium
+08:30:00,USD,Unemployment Claims,medium
+08:32:00,CAD,ADP Non-Farm Employment Change,low
+10:00:00,USD,CB Leading Index m/m,low
+10:30:00,USD,Natural Gas Storage,low
+19:30:00,JPY,National Core CPI y/y,low
+23:30:00,JPY,Monetary Policy Statement,medium
+23:30:00,JPY,BOJ Policy Rate,low

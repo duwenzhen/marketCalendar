@@ -1,0 +1,11 @@
+time,currency,event,impact
+04:30:00,GBP,Public Sector Net Borrowing,low
+05:00:00,EUR,Industrial New Orders m/m,medium
+09:00:00,EUR,Belgian NBB Business Climate,medium
+12:00:00,CHF,Gov Board Member Hildebrand Speaks,medium
+12:30:00,GBP,MPC Member Sentance Speaks,medium
+13:00:00,USD,Fed Chairman Bernanke Speaks,high
+19:50:00,JPY,Monetary Policy Meeting Minutes,medium
+19:50:00,JPY,SPPI y/y,low
+01:01:00,CNY,Bank Holiday,holiday
+21:00:00,AUD,RBA Deputy Gov Battellino Speaks,medium

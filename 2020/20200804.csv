@@ -1,0 +1,18 @@
+time,currency,event,impact
+00:30:00,AUD,Cash Rate,high
+00:30:00,AUD,RBA Rate Statement,high
+01:45:00,CHF,SECO Consumer Climate,low
+02:30:00,AUD,Commodity Prices y/y,low
+02:45:00,EUR,French Gov Budget Balance,low
+03:00:00,EUR,Spanish Unemployment Change,low
+05:00:00,EUR,PPI m/m,low
+09:30:00,CAD,Manufacturing PMI,low
+09:59:00,USD,IBD/TIPP Economic Optimism,low
+10:00:00,USD,Factory Orders m/m,low
+10:54:00,NZD,GDT Price Index,low
+18:30:00,AUD,AIG Construction Index,low
+18:45:00,NZD,Employment Change q/q,high
+18:45:00,NZD,Unemployment Rate,high
+18:45:00,NZD,Labor Cost Index q/q,low
+21:00:00,NZD,ANZ Commodity Prices m/m,low
+21:45:00,CNY,Caixin Services PMI,low

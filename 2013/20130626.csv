@@ -1,0 +1,15 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,low
+02:00:00,EUR,German GfK Consumer Climate,medium
+03:48:00,EUR,ECB President Draghi Speaks,high
+01:01:00,EUR,ECOFIN Meetings,medium
+05:30:00,GBP,BOE Gov King Speaks,high
+05:30:00,GBP,BOE Financial Stability Report,medium
+05:30:00,GBP,FPC Statement,low
+07:30:00,GBP,Government Spending Review,medium
+08:30:00,USD,Final GDP q/q,medium
+08:30:00,USD,Final GDP Price Index q/q,low
+10:30:00,USD,Crude Oil Inventories,medium
+12:00:00,CAD,Gov Council Member Lane Speaks,medium
+18:45:00,NZD,Trade Balance,high
+21:00:00,NZD,Final ANZ Business Confidence,high

@@ -1,0 +1,22 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,low
+02:00:00,EUR,German GfK Consumer Climate,low
+02:00:00,GBP,Nationwide HPI m/m,low
+01:01:00,EUR,Italian Bank Holiday,holiday
+01:01:00,EUR,German Prelim CPI m/m,medium
+03:00:00,EUR,Spanish Flash CPI y/y,medium
+04:30:00,GBP,Net Lending to Individuals m/m,medium
+04:30:00,GBP,M4 Money Supply m/m,low
+04:30:00,GBP,Mortgage Approvals,low
+01:01:00,EUR,EU Economic Summit,high
+08:30:00,USD,Core PCE Price Index m/m,medium
+08:30:00,USD,Personal Spending m/m,medium
+08:30:00,USD,Personal Income m/m,low
+10:00:00,USD,Pending Home Sales m/m,medium
+10:30:00,USD,Crude Oil Inventories,high
+16:30:00,USD,Bank Stress Test Results,medium
+18:45:00,NZD,Building Consents m/m,low
+19:05:00,GBP,GfK Consumer Confidence,low
+19:50:00,JPY,Prelim Industrial Production m/m,low
+21:00:00,NZD,Final ANZ Business Confidence,medium
+21:30:00,AUD,Private Sector Credit m/m,low

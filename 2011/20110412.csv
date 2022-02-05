@@ -1,0 +1,27 @@
+time,currency,event,impact
+02:00:00,EUR,German Final CPI m/m,low
+02:00:00,JPY,Prelim Machine Tool Orders y/y,low
+04:30:00,GBP,CPI y/y,high
+04:30:00,GBP,Goods Trade Balance,medium
+04:30:00,GBP,RPI y/y,medium
+04:30:00,GBP,Core CPI y/y,low
+04:30:00,GBP,ONS HPI y/y,low
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,ZEW Economic Sentiment,medium
+06:15:00,USD,FOMC Member Dudley Speaks,medium
+07:30:00,USD,NFIB Small Business Index,low
+08:30:00,CAD,Trade Balance,high
+08:30:00,CAD,NHPI m/m,medium
+08:30:00,USD,Trade Balance,high
+08:30:00,USD,Import Prices m/m,medium
+09:00:00,CAD,BOC Rate Statement,high
+09:00:00,CAD,Overnight Rate,high
+10:00:00,USD,IBD/TIPP Economic Optimism,low
+14:00:00,USD,Federal Budget Balance,medium
+14:45:00,USD,FOMC Member Tarullo Speaks,low
+14:50:00,USD,FOMC Member Fisher Speaks,medium
+18:00:00,NZD,REINZ HPI m/m,medium
+18:45:00,NZD,FPI m/m,low
+18:51:00,NZD,Visitor Arrivals m/m,low
+19:50:00,JPY,PPI y/y,low
+20:30:00,AUD,Westpac Consumer Sentiment,medium

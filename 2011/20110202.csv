@@ -1,0 +1,16 @@
+time,currency,event,impact
+03:00:00,EUR,Spanish Unemployment Change,medium
+04:30:00,GBP,Construction PMI,medium
+05:00:00,EUR,PPI m/m,low
+07:30:00,USD,Challenger Job Cuts y/y,low
+08:15:00,USD,ADP Non-Farm Employment Change,high
+10:30:00,USD,Crude Oil Inventories,medium
+14:30:00,CAD,Gov Council Member Macklem Speaks,low
+16:45:00,NZD,Employment Change q/q,high
+16:45:00,NZD,Unemployment Rate,high
+17:28:00,AUD,AIG Services Index,medium
+17:30:00,USD,FOMC Member Duke Speaks,low
+01:01:00,CNY,Bank Holiday,holiday
+19:30:00,AUD,Building Approvals m/m,high
+19:30:00,AUD,Trade Balance,high
+20:00:00,CNY,Non-Manufacturing PMI,low

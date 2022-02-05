@@ -1,0 +1,32 @@
+time,currency,event,impact
+02:30:00,EUR,French Flash GDP q/q,low
+01:01:00,EUR,German Prelim CPI m/m,medium
+03:45:00,EUR,French Consumer Spending m/m,low
+04:00:00,CHF,KOF Economic Barometer,low
+04:00:00,EUR,Spanish Flash CPI y/y,low
+04:55:00,EUR,German Unemployment Change,low
+05:00:00,CHF,Credit Suisse Economic Expectations,low
+06:21:00,EUR,Italian 10-y Bond Auction,low
+08:15:00,USD,ADP Non-Farm Employment Change,high
+08:30:00,USD,Advance GDP q/q,high
+08:30:00,USD,Advance GDP Price Index q/q,medium
+10:00:00,CAD,BOC Monetary Policy Report,high
+10:00:00,CAD,BOC Rate Statement,high
+10:00:00,CAD,Overnight Rate,medium
+10:30:00,USD,Crude Oil Inventories,medium
+11:15:00,CAD,BOC Press Conference,high
+14:00:00,USD,FOMC Statement,high
+14:00:00,USD,Federal Funds Rate,high
+14:30:00,USD,FOMC Press Conference,high
+17:45:00,NZD,Building Consents m/m,low
+19:50:00,JPY,Prelim Industrial Production m/m,low
+20:00:00,NZD,Final ANZ Business Confidence,high
+20:01:00,GBP,GfK Consumer Confidence,low
+20:30:00,AUD,Building Approvals m/m,high
+20:30:00,AUD,Import Prices q/q,low
+20:30:00,AUD,Private Sector Credit m/m,low
+21:00:00,CNY,Manufacturing PMI,high
+21:00:00,CNY,Non-Manufacturing PMI,medium
+23:32:00,JPY,BOJ Outlook Report,high
+23:32:00,JPY,Monetary Policy Statement,high
+23:32:00,JPY,BOJ Policy Rate,low

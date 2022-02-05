@@ -1,0 +1,18 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Monthly Report,medium
+02:00:00,EUR,German WPI m/m,low
+05:33:00,EUR,German 10-y Bond Auction,medium
+08:13:00,CAD,Housing Starts,medium
+08:30:00,USD,Import Prices m/m,medium
+10:30:00,USD,Crude Oil Inventories,medium
+13:00:00,USD,10-y Bond Auction,medium
+13:54:00,USD,Federal Budget Balance,medium
+14:00:00,USD,Beige Book,medium
+17:30:00,USD,FOMC Member Yellen Speaks,medium
+18:27:00,NZD,BusinessNZ Manufacturing Index,low
+19:50:00,JPY,M2 Money Stock y/y,low
+19:50:00,JPY,PPI y/y,low
+20:59:00,AUD,MI Inflation Expectations,medium
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high
+23:45:00,JPY,30-y Bond Auction,low

@@ -1,0 +1,10 @@
+time,currency,event,impact
+00:00:00,CNY,USD-Denominated Trade Balance,high
+02:00:00,EUR,German WPI m/m,low
+08:30:00,CAD,NHPI m/m,low
+08:30:00,USD,Import Prices m/m,medium
+09:00:00,USD,FOMC Member Fisher Speaks,low
+09:55:00,USD,Prelim UoM Consumer Sentiment,high
+09:55:00,USD,Prelim UoM Inflation Expectations,low
+01:01:00,All,G7 Meetings,high
+18:45:00,USD,Treasury Sec Paulson Speaks,medium

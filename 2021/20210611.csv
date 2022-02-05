@@ -1,0 +1,16 @@
+time,currency,event,impact
+02:00:00,EUR,German WPI m/m,low
+02:00:00,GBP,Construction Output m/m,low
+02:00:00,GBP,GDP m/m,low
+02:00:00,GBP,Goods Trade Balance,low
+02:00:00,GBP,Index of Services 3m/3m,low
+02:00:00,GBP,Industrial Production m/m,low
+02:00:00,GBP,Manufacturing Production m/m,low
+04:00:00,EUR,Italian Quarterly Unemployment Rate,low
+04:30:00,GBP,BOE Gov Bailey Speaks,high
+01:01:00,All,G7 Meetings,low
+08:30:00,CAD,Capacity Utilization Rate,low
+08:32:00,GBP,NIESR GDP Estimate,low
+10:00:00,USD,Prelim UoM Consumer Sentiment,medium
+10:00:00,USD,Prelim UoM Inflation Expectations,low
+11:00:00,CAD,Gov Council Member Beaudry Speaks,low

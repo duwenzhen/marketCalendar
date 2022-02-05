@@ -1,0 +1,21 @@
+time,currency,event,impact
+00:00:00,JPY,BOJ Core CPI y/y,low
+00:00:00,JPY,Housing Starts y/y,low
+02:00:00,EUR,German Final GDP q/q,low
+02:00:00,EUR,German Retail Sales m/m,low
+02:45:00,EUR,French Consumer Spending m/m,low
+02:45:00,EUR,French Prelim CPI m/m,low
+02:45:00,EUR,French Prelim GDP q/q,low
+03:00:00,CHF,GDP q/q,low
+03:00:00,EUR,Spanish Flash CPI y/y,low
+04:00:00,EUR,M3 Money Supply y/y,low
+04:00:00,EUR,Private Loans y/y,low
+01:01:00,EUR,ECOFIN Meetings,low
+08:30:00,USD,Core PCE Price Index m/m,high
+08:30:00,USD,Core Durable Goods Orders m/m,medium
+08:30:00,USD,Durable Goods Orders m/m,medium
+08:30:00,USD,Personal Income m/m,low
+08:30:00,USD,Personal Spending m/m,low
+10:00:00,USD,Revised UoM Consumer Sentiment,medium
+10:00:00,USD,Pending Home Sales m/m,low
+10:00:00,USD,Revised UoM Inflation Expectations,low

@@ -1,0 +1,9 @@
+time,currency,event,impact
+01:01:00,EUR,ECOFIN Meetings,medium
+19:50:00,JPY,Monetary Policy Meeting Minutes,medium
+21:15:00,USD,Fed Announcement,high
+21:30:00,AUD,ANZ Job Advertisements m/m,high
+21:30:00,AUD,NAB Business Confidence,medium
+23:11:00,JPY,Monetary Policy Statement,medium
+23:11:00,JPY,Overnight Call Rate,medium
+23:35:00,CNY,USD-Denominated Trade Balance,high

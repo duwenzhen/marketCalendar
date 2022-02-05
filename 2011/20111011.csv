@@ -1,0 +1,16 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Monthly Report,medium
+01:00:00,JPY,Consumer Confidence,low
+02:00:00,JPY,Economy Watchers Sentiment,low
+03:30:00,EUR,ECB President Trichet Speaks,high
+04:30:00,GBP,Manufacturing Production m/m,high
+04:30:00,GBP,Industrial Production m/m,low
+04:33:00,GBP,ONS HPI y/y,low
+07:30:00,USD,NFIB Small Business Index,low
+08:15:00,CAD,Housing Starts,high
+10:00:00,GBP,NIESR GDP Estimate,medium
+10:00:00,USD,IBD/TIPP Economic Optimism,low
+18:00:00,NZD,REINZ HPI m/m,medium
+19:30:00,AUD,Westpac Consumer Sentiment,medium
+19:50:00,JPY,Core Machinery Orders m/m,medium
+20:30:00,AUD,Home Loans m/m,high

@@ -1,0 +1,14 @@
+time,currency,event,impact
+02:45:00,EUR,French Consumer Spending m/m,medium
+04:00:00,EUR,Current Account,medium
+04:30:00,GBP,Retail Sales m/m,high
+04:30:00,GBP,High Street Lending,medium
+05:00:00,EUR,Industrial New Orders m/m,medium
+05:41:00,GBP,10-y Bond Auction,low
+08:30:00,USD,Unemployment Claims,high
+09:00:00,EUR,Belgian NBB Business Climate,medium
+10:00:00,USD,FOMC Member Duke Speaks,medium
+10:00:00,USD,HPI m/m,low
+10:30:00,CAD,BOC Monetary Policy Report,high
+10:35:00,USD,Natural Gas Storage,low
+11:15:00,CAD,BOC Press Conference,high

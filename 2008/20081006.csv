@@ -1,0 +1,14 @@
+time,currency,event,impact
+03:00:00,CHF,Foreign Currency Reserves,low
+01:01:00,EUR,Eurogroup Meetings,low
+04:30:00,EUR,Sentix Investor Confidence,low
+08:30:00,CAD,Building Permits m/m,high
+10:00:00,CAD,Ivey PMI,high
+13:30:00,USD,FOMC Member Fisher Speaks,medium
+13:45:00,USD,President Bush Speaks,low
+17:00:00,NZD,NZIER Business Confidence,high
+18:30:00,AUD,AIG Construction Index,low
+23:30:00,AUD,Cash Rate,high
+23:30:00,AUD,RBA Rate Statement,high
+23:58:00,JPY,Overnight Call Rate,high
+23:58:00,JPY,Monetary Policy Statement,medium

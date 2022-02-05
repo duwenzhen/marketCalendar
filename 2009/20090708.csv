@@ -1,0 +1,14 @@
+time,currency,event,impact
+01:00:00,JPY,Economy Watchers Sentiment,low
+01:45:00,CHF,Unemployment Rate,low
+04:00:00,GBP,Halifax HPI m/m,high
+01:01:00,All,G8 Meetings,medium
+05:00:00,EUR,Final GDP q/q,medium
+06:00:00,EUR,German Industrial Production m/m,medium
+10:30:00,USD,Crude Oil Inventories,medium
+12:55:00,USD,FOMC Member Evans Speaks,medium
+13:00:00,USD,10-y Bond Auction,medium
+15:00:00,USD,Consumer Credit m/m,low
+21:00:00,AUD,MI Inflation Expectations,medium
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high

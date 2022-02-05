@@ -1,0 +1,16 @@
+time,currency,event,impact
+01:30:00,CNY,Fixed Asset Investment ytd/y,medium
+01:30:00,CNY,Industrial Production y/y,medium
+01:30:00,CNY,Retail Sales y/y,low
+02:00:00,JPY,Prelim Machine Tool Orders y/y,low
+02:45:00,EUR,French Industrial Production m/m,medium
+04:00:00,CNY,New Loans,medium
+04:00:00,CNY,M2 Money Supply y/y,low
+05:34:00,GBP,30-y Bond Auction,low
+07:30:00,USD,NFIB Small Business Index,low
+08:13:00,CAD,Housing Starts,low
+10:00:00,USD,JOLTS Job Openings,medium
+19:50:00,JPY,BSI Manufacturing Index,medium
+19:50:00,JPY,PPI y/y,low
+20:30:00,AUD,Westpac Consumer Sentiment,medium
+21:00:00,USD,President Obama Speaks,medium

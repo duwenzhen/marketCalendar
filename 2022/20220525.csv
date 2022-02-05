@@ -1,0 +1,15 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Core CPI y/y,low
+02:00:00,EUR,German GfK Consumer Climate,low
+02:00:00,EUR,German Import Prices m/m,low
+02:00:00,EUR,German Retail Sales m/m,low
+02:45:00,EUR,French Consumer Spending m/m,low
+02:45:00,EUR,French Prelim CPI m/m,low
+04:00:00,EUR,German ifo Business Climate,medium
+08:30:00,CAD,Corporate Profits q/q,low
+08:30:00,USD,Core Durable Goods Orders m/m,medium
+08:30:00,USD,Durable Goods Orders m/m,medium
+10:30:00,USD,Crude Oil Inventories,medium
+14:00:00,USD,FOMC Meeting Minutes,high
+19:50:00,JPY,SPPI y/y,low
+21:30:00,AUD,Private Capital Expenditure q/q,low

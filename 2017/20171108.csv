@@ -1,0 +1,20 @@
+time,currency,event,impact
+00:00:00,JPY,Leading Indicators,low
+02:45:00,EUR,French Trade Balance,low
+08:13:00,CAD,Housing Starts,low
+08:30:00,CAD,Building Permits m/m,medium
+10:30:00,USD,Crude Oil Inventories,high
+13:01:00,USD,10-y Bond Auction,low
+15:00:00,NZD,RBNZ Rate Statement,high
+15:00:00,NZD,Official Cash Rate,medium
+15:00:00,NZD,RBNZ Monetary Policy Statement,medium
+16:00:00,NZD,RBNZ Press Conference,high
+18:50:00,JPY,BOJ Summary of Opinions,low
+18:50:00,JPY,Bank Lending y/y,low
+18:50:00,JPY,Core Machinery Orders m/m,low
+18:50:00,JPY,Current Account,low
+19:01:00,GBP,RICS House Price Balance,low
+19:30:00,AUD,Home Loans m/m,low
+20:30:00,CNY,CPI y/y,medium
+20:30:00,CNY,PPI y/y,medium
+22:45:00,JPY,30-y Bond Auction,low

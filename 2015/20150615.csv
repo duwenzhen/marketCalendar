@@ -1,0 +1,17 @@
+time,currency,event,impact
+03:00:00,EUR,German Buba President Weidmann Speaks,medium
+03:15:00,CHF,PPI m/m,medium
+03:15:00,CHF,Retail Sales y/y,medium
+03:50:00,AUD,RBA Assist Gov Kent Speaks,medium
+05:00:00,EUR,Trade Balance,low
+06:00:00,EUR,German Buba Monthly Report,low
+08:30:00,CAD,Manufacturing Sales m/m,high
+08:30:00,USD,Empire State Manufacturing Index,medium
+09:00:00,EUR,ECB President Draghi Speaks,high
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+10:00:00,USD,NAHB Housing Market Index,medium
+16:00:00,USD,TIC Long-Term Purchases,low
+17:55:00,AUD,RBA Deputy Gov Debelle Speaks,medium
+21:30:00,AUD,Monetary Policy Meeting Minutes,high
+21:30:00,AUD,New Motor Vehicle Sales m/m,low

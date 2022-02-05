@@ -1,0 +1,19 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Monthly Report,low
+02:16:00,JPY,BOJ Press Conference,high
+03:15:00,CHF,Retail Sales y/y,high
+01:01:00,EUR,ECOFIN Meetings,low
+06:00:00,GBP,CBI Industrial Order Expectations,medium
+08:00:00,USD,Treasury Sec Paulson Speaks,low
+08:20:00,USD,FOMC Statement,high
+08:20:00,USD,Federal Funds Rate,high
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium
+09:00:00,CAD,BOC Rate Statement,high
+09:00:00,CAD,Overnight Rate,high
+10:00:00,USD,Richmond Manufacturing Index,low
+14:40:00,USD,President Bush Speaks,low
+15:10:00,GBP,BOE Gov King Speaks,high
+18:30:00,AUD,MI Leading Index m/m,low
+19:30:00,AUD,CPI q/q,high
+19:30:00,AUD,Trimmed Mean CPI q/q,medium

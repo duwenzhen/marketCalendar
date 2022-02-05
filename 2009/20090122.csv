@@ -1,0 +1,19 @@
+time,currency,event,impact
+02:35:00,JPY,BOJ Press Conference,high
+02:45:00,EUR,French Consumer Spending m/m,medium
+04:00:00,EUR,ECB Monthly Bulletin,medium
+05:00:00,CHF,Credit Suisse Economic Expectations,medium
+05:00:00,EUR,Industrial New Orders m/m,medium
+06:00:00,GBP,CBI Industrial Order Expectations,medium
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium
+08:30:00,CAD,Leading Index m/m,low
+08:30:00,USD,Building Permits,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Housing Starts,medium
+10:00:00,USD,HPI m/m,low
+10:30:00,CAD,BOC Monetary Policy Report,high
+11:00:00,USD,Crude Oil Inventories,medium
+11:15:00,CAD,BOC Press Conference,high
+18:50:00,JPY,All Industries Activity m/m,low
+19:30:00,AUD,Import Prices q/q,low

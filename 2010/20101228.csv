@@ -1,0 +1,7 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,medium
+01:01:00,GBP,Bank Holiday,holiday
+01:01:00,CAD,Bank Holiday,holiday
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,medium
+09:59:00,USD,Richmond Manufacturing Index,low
+10:00:00,USD,CB Consumer Confidence,high

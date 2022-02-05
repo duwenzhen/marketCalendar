@@ -1,0 +1,5 @@
+time,currency,event,impact
+01:01:00,EUR,Greek Parliamentary Election,high
+18:00:00,NZD,Westpac Consumer Sentiment,low
+19:01:00,GBP,Rightmove HPI m/m,medium
+21:30:00,AUD,New Motor Vehicle Sales m/m,medium

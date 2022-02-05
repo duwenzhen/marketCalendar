@@ -1,0 +1,11 @@
+time,currency,event,impact
+04:00:00,EUR,Current Account,medium
+04:00:00,EUR,Italian Trade Balance,low
+06:00:00,EUR,ECB Financial Stability Review,low
+08:30:00,CAD,Wholesale Sales m/m,medium
+10:00:00,USD,NAHB Housing Market Index,low
+10:30:00,EUR,ECB President Draghi Speaks,high
+18:00:00,AUD,CB Leading Index m/m,medium
+19:01:00,GBP,Nationwide Consumer Confidence,medium
+19:30:00,AUD,Monetary Policy Meeting Minutes,high
+23:30:00,JPY,All Industries Activity m/m,low

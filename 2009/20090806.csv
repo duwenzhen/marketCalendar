@@ -1,0 +1,17 @@
+time,currency,event,impact
+01:00:00,JPY,Leading Indicators,low
+01:45:00,CHF,SECO Consumer Climate,medium
+03:00:00,CHF,Foreign Currency Reserves,medium
+04:00:00,EUR,Italian Industrial Production m/m,low
+05:00:00,GBP,CB Leading Index m/m,low
+06:00:00,EUR,German Factory Orders m/m,medium
+07:00:00,GBP,Asset Purchase Facility,high
+07:00:00,GBP,MPC Rate Statement,high
+07:00:00,GBP,Official Bank Rate,high
+07:45:00,EUR,Main Refinancing Rate,high
+08:30:00,CAD,Building Permits m/m,high
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Unemployment Claims,high
+10:30:00,USD,Natural Gas Storage,low
+19:30:00,AUD,AIG Construction Index,low
+21:30:00,AUD,RBA Monetary Policy Statement,high

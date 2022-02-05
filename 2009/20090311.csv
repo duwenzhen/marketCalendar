@@ -1,0 +1,25 @@
+time,currency,event,impact
+00:00:00,CNY,USD-Denominated Trade Balance,high
+03:00:00,EUR,German PPI m/m,medium
+05:30:00,GBP,Goods Trade Balance,medium
+07:00:00,EUR,German Factory Orders m/m,medium
+08:30:00,CAD,NHPI m/m,low
+10:00:00,USD,Assist Treasury Sec Kashkari Speaks,low
+10:30:00,USD,Crude Oil Inventories,medium
+13:00:00,USD,Treasury Sec Geithner Speaks,low
+14:00:00,USD,10-y Bond Auction,medium
+14:00:00,USD,Federal Budget Balance,medium
+16:00:00,NZD,Official Cash Rate,high
+16:00:00,NZD,RBNZ Press Conference,high
+16:00:00,NZD,RBNZ Rate Statement,high
+16:00:00,NZD,RBNZ Monetary Policy Statement,medium
+17:26:00,NZD,BusinessNZ Manufacturing Index,low
+17:51:00,NZD,FPI m/m,low
+19:50:00,JPY,Final GDP q/q,medium
+19:50:00,JPY,Final GDP Price Index y/y,low
+20:00:00,AUD,MI Inflation Expectations,low
+20:30:00,AUD,Employment Change,high
+20:30:00,AUD,Unemployment Rate,high
+22:00:00,CNY,Industrial Production y/y,high
+22:00:00,CNY,New Loans,medium
+22:00:00,CNY,M2 Money Supply y/y,low

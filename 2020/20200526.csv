@@ -1,0 +1,17 @@
+time,currency,event,impact
+00:30:00,JPY,All Industries Activity m/m,low
+01:00:00,JPY,BOJ Core CPI y/y,low
+02:00:00,EUR,German GfK Consumer Climate,low
+02:02:00,CHF,Trade Balance,low
+06:00:00,GBP,CBI Realized Sales,low
+09:00:00,EUR,ECB Financial Stability Review,medium
+09:00:00,USD,HPI m/m,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+10:00:00,USD,CB Consumer Confidence,medium
+10:00:00,USD,New Home Sales,low
+13:00:00,USD,FOMC Member Kashkari Speaks,low
+17:00:00,CAD,BOC Gov Poloz Speaks,high
+17:00:00,NZD,RBNZ Financial Stability Report,high
+19:00:00,NZD,RBNZ Gov Orr Speaks,high
+21:00:00,NZD,RBNZ Gov Orr Speaks,high
+21:30:00,AUD,Construction Work Done q/q,low

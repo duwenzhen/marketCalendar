@@ -1,0 +1,21 @@
+time,currency,event,impact
+00:00:00,JPY,Economy Watchers Sentiment,low
+02:45:00,EUR,French Final CPI m/m,low
+04:00:00,CNY,M2 Money Supply y/y,low
+04:00:00,CNY,New Loans,low
+04:00:00,EUR,Italian Industrial Production m/m,low
+05:00:00,EUR,Industrial Production m/m,low
+05:34:00,GBP,10-y Bond Auction,low
+07:30:00,EUR,ECB Monetary Policy Meeting Accounts,medium
+08:30:00,CAD,NHPI m/m,medium
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,FOMC Member Evans Speaks,medium
+08:30:00,USD,FOMC Member Harker Speaks,medium
+08:30:00,USD,Import Prices m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+13:01:00,USD,30-y Bond Auction,low
+14:00:00,USD,Federal Budget Balance,low
+18:50:00,JPY,M2 Money Stock y/y,low
+19:00:00,USD,Fed Chair Yellen Speaks,high
+21:47:00,CNY,USD-Denominated Trade Balance,low
+21:50:00,CNY,Trade Balance,high

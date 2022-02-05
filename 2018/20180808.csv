@@ -1,0 +1,17 @@
+time,currency,event,impact
+01:02:00,JPY,Economy Watchers Sentiment,low
+05:36:00,GBP,10-y Bond Auction,low
+08:30:00,CAD,Building Permits m/m,low
+08:45:00,USD,FOMC Member Barkin Speaks,medium
+10:30:00,USD,Crude Oil Inventories,high
+13:01:00,USD,10-y Bond Auction,low
+17:00:00,NZD,Official Cash Rate,high
+17:00:00,NZD,RBNZ Monetary Policy Statement,high
+17:00:00,NZD,RBNZ Rate Statement,high
+18:00:00,NZD,RBNZ Press Conference,high
+19:01:00,GBP,RICS House Price Balance,low
+19:50:00,JPY,Core Machinery Orders m/m,low
+19:50:00,JPY,M2 Money Stock y/y,low
+21:29:00,CNY,CPI y/y,medium
+21:29:00,CNY,PPI y/y,low
+23:35:00,JPY,30-y Bond Auction,low

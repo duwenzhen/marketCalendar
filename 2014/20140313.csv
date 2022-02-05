@@ -1,0 +1,20 @@
+time,currency,event,impact
+01:47:00,CNY,Industrial Production y/y,high
+01:47:00,CNY,Fixed Asset Investment ytd/y,medium
+01:47:00,CNY,Retail Sales y/y,low
+03:45:00,EUR,French Final CPI m/m,low
+05:00:00,EUR,ECB Monthly Bulletin,medium
+08:30:00,CAD,NHPI m/m,medium
+08:30:00,CAD,Capacity Utilization Rate,low
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Import Prices m/m,medium
+10:00:00,USD,Business Inventories m/m,medium
+10:00:00,USD,Fed Gov Nomination Hearings,medium
+10:30:00,USD,Natural Gas Storage,low
+13:01:00,USD,30-y Bond Auction,low
+13:52:00,USD,Federal Budget Balance,medium
+17:30:00,NZD,BusinessNZ Manufacturing Index,medium
+19:50:00,JPY,Monetary Policy Meeting Minutes,medium
+20:01:00,GBP,BOE Quarterly Bulletin,low

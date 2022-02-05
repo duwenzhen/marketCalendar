@@ -1,0 +1,8 @@
+time,currency,event,impact
+01:01:00,All,G20 Meetings,medium
+16:45:00,NZD,Retail Sales q/q,high
+16:45:00,NZD,Core Retail Sales q/q,medium
+18:50:00,JPY,Prelim GDP q/q,high
+18:50:00,JPY,Prelim GDP Price Index y/y,low
+19:01:00,GBP,Rightmove HPI m/m,low
+19:30:00,AUD,New Motor Vehicle Sales m/m,low

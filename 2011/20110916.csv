@@ -1,0 +1,10 @@
+time,currency,event,impact
+04:00:00,EUR,Current Account,medium
+04:00:00,EUR,Italian Trade Balance,low
+01:01:00,EUR,ECOFIN Meetings,high
+04:35:00,GBP,Chancellor Osborne Speaks,low
+05:00:00,EUR,Trade Balance,low
+08:30:00,CAD,Foreign Securities Purchases,medium
+09:00:00,USD,TIC Long-Term Purchases,high
+09:55:00,USD,Prelim UoM Consumer Sentiment,high
+09:55:00,USD,Prelim UoM Inflation Expectations,low

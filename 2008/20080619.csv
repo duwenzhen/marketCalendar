@@ -1,0 +1,24 @@
+time,currency,event,impact
+02:15:00,CHF,Trade Balance,low
+02:40:00,JPY,BOJ Gov Shirakawa Speaks,medium
+03:30:00,CHF,Libor Rate,high
+03:30:00,CHF,SNB Monetary Policy Assessment,high
+03:30:00,CHF,SNB Press Conference,high
+04:00:00,CHF,SNB Financial Stability Report,medium
+04:30:00,GBP,Retail Sales m/m,high
+04:30:00,GBP,M4 Money Supply m/m,low
+04:30:00,GBP,Public Sector Net Borrowing,low
+05:00:00,EUR,Italian Quarterly Unemployment Rate,low
+05:30:00,EUR,Spanish 10-y Bond Auction,low
+07:00:00,CAD,Core CPI m/m,high
+07:00:00,CAD,CPI m/m,medium
+08:30:00,CAD,Wholesale Sales m/m,medium
+08:30:00,USD,Unemployment Claims,high
+10:00:00,USD,Philly Fed Manufacturing Index,medium
+10:00:00,USD,CB Leading Index m/m,low
+10:35:00,USD,Natural Gas Storage,low
+12:45:00,USD,Treasury Sec Paulson Speaks,low
+14:30:00,USD,FOMC Member Kohn Speaks,high
+15:00:00,GBP,MPC Member Gieve Speaks,medium
+18:45:00,NZD,Visitor Arrivals m/m,low
+22:45:00,CAD,BOC Gov Carney Speaks,medium

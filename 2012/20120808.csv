@@ -1,0 +1,24 @@
+time,currency,event,impact
+01:00:00,JPY,Economy Watchers Sentiment,low
+01:44:00,CHF,SECO Consumer Climate,medium
+02:00:00,EUR,German Trade Balance,low
+02:45:00,EUR,French Trade Balance,low
+05:30:00,GBP,BOE Gov King Speaks,high
+05:30:00,GBP,BOE Monetary Policy Report,high
+05:34:00,EUR,German 10-y Bond Auction,medium
+06:00:00,EUR,German Industrial Production m/m,medium
+06:20:00,CAD,BOC Gov Carney Speaks,medium
+08:30:00,USD,Prelim Nonfarm Productivity q/q,medium
+08:30:00,USD,Prelim Unit Labor Costs q/q,medium
+10:30:00,USD,Crude Oil Inventories,medium
+13:00:00,USD,10-y Bond Auction,medium
+18:45:00,NZD,Employment Change q/q,high
+18:45:00,NZD,Unemployment Rate,high
+19:50:00,JPY,Core Machinery Orders m/m,medium
+19:50:00,JPY,M2 Money Stock y/y,low
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high
+21:30:00,CNY,CPI y/y,high
+21:30:00,CNY,PPI y/y,medium
+23:19:00,JPY,Monetary Policy Statement,high
+23:19:00,JPY,Overnight Call Rate,high

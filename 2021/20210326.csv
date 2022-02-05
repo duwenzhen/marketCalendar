@@ -1,0 +1,16 @@
+time,currency,event,impact
+03:00:00,GBP,Retail Sales m/m,medium
+05:00:00,EUR,German ifo Business Climate,medium
+05:00:00,GBP,FPC Meeting Minutes,low
+05:00:00,GBP,FPC Statement,low
+01:01:00,EUR,Euro Summit,high
+01:01:00,EUR,EU Economic Summit,medium
+08:00:00,GBP,MPC Member Saunders Speaks,medium
+08:30:00,USD,Core PCE Price Index m/m,low
+08:30:00,USD,Goods Trade Balance,low
+08:30:00,USD,Personal Income m/m,low
+08:30:00,USD,Personal Spending m/m,low
+08:30:00,USD,Prelim Wholesale Inventories m/m,low
+10:00:00,USD,Revised UoM Consumer Sentiment,low
+10:00:00,USD,Revised UoM Inflation Expectations,low
+12:45:00,GBP,MPC Member Tenreyro Speaks,low

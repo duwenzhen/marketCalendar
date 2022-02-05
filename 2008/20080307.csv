@@ -1,0 +1,17 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Monthly Report,medium
+02:16:00,JPY,BOJ Press Conference,high
+03:00:00,EUR,ECB President Trichet Speaks,medium
+03:00:00,NZD,RBNZ Gov Bollard Speaks,medium
+03:00:00,USD,FOMC Member Fisher Speaks,medium
+06:00:00,EUR,German Industrial Production m/m,medium
+07:00:00,CAD,Employment Change,high
+07:00:00,CAD,Unemployment Rate,high
+08:30:00,USD,Fed Announcement,high
+08:30:00,USD,Non-Farm Employment Change,high
+08:30:00,USD,Unemployment Rate,high
+08:30:00,USD,Average Hourly Earnings m/m,medium
+08:30:00,USD,FOMC Member Mishkin Speaks,medium
+09:00:00,EUR,German Buba President Weber Speaks,medium
+10:15:00,USD,FOMC Member Kohn Speaks,medium
+15:00:00,USD,Consumer Credit m/m,low

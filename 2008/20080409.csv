@@ -1,0 +1,25 @@
+time,currency,event,impact
+02:00:00,EUR,German Trade Balance,low
+02:00:00,JPY,BOJ Monthly Report,medium
+02:00:00,JPY,Prelim Machine Tool Orders y/y,low
+03:22:00,JPY,BOJ Press Conference,high
+04:30:00,GBP,Manufacturing Production m/m,high
+04:30:00,GBP,Industrial Production m/m,low
+05:00:00,EUR,Final GDP q/q,low
+05:26:00,GBP,BRC Shop Price Index y/y,low
+09:30:00,USD,Fed Chairman Bernanke Speaks,high
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:30:00,GBP,CB Leading Index m/m,low
+10:30:00,USD,Crude Oil Inventories,low
+13:30:00,USD,FOMC Member Fisher Speaks,medium
+18:42:00,NZD,BusinessNZ Manufacturing Index,low
+19:01:00,GBP,NIESR GDP Estimate,low
+19:30:00,AUD,AIG Construction Index,low
+19:50:00,JPY,Core Machinery Orders m/m,medium
+19:50:00,JPY,Bank Lending y/y,low
+19:50:00,JPY,Current Account,low
+19:50:00,JPY,M2 Money Stock y/y,low
+21:00:00,AUD,MI Inflation Expectations,low
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,medium
+23:15:00,CNY,Foreign Direct Investment ytd/y,low

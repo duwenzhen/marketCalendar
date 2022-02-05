@@ -1,0 +1,21 @@
+time,currency,event,impact
+04:00:00,CHF,Credit Suisse Economic Expectations,low
+04:30:00,GBP,CPI y/y,high
+04:30:00,GBP,Core CPI y/y,low
+04:30:00,GBP,HPI y/y,low
+04:30:00,GBP,PPI Input m/m,low
+04:30:00,GBP,PPI Output m/m,low
+04:30:00,GBP,RPI y/y,low
+05:00:00,EUR,Flash Employment Change q/q,low
+05:00:00,EUR,Flash GDP q/q,low
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+10:00:00,USD,Business Inventories m/m,low
+10:30:00,USD,Crude Oil Inventories,medium
+14:00:00,USD,FOMC Meeting Minutes,high
+18:45:00,NZD,PPI Input q/q,low
+18:45:00,NZD,PPI Output q/q,low
+19:30:00,JPY,National Core CPI y/y,low
+19:50:00,JPY,Trade Balance,low
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high

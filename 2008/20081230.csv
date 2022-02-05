@@ -1,0 +1,11 @@
+time,currency,event,impact
+01:01:00,EUR,German Prelim CPI m/m,medium
+04:00:00,CHF,UBS Consumption Indicator,medium
+04:00:00,EUR,M3 Money Supply y/y,low
+04:00:00,EUR,Private Loans y/y,low
+04:00:00,EUR,Retail PMI,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+09:45:00,USD,Chicago PMI,medium
+10:00:00,USD,CB Consumer Confidence,high
+01:01:00,JPY,Bank Holiday,holiday
+19:30:00,AUD,Private Sector Credit m/m,medium

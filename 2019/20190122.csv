@@ -1,0 +1,19 @@
+time,currency,event,impact
+00:00:00,JPY,BOJ Core CPI y/y,low
+04:30:00,GBP,Average Earnings Index 3m/y,high
+04:30:00,GBP,Public Sector Net Borrowing,medium
+04:30:00,GBP,Unemployment Rate,medium
+04:30:00,GBP,Claimant Count Change,low
+05:00:00,EUR,German ZEW Economic Sentiment,medium
+05:00:00,EUR,ZEW Economic Sentiment,low
+08:30:00,CAD,Manufacturing Sales m/m,medium
+08:30:00,CAD,Wholesale Sales m/m,low
+10:00:00,USD,Existing Home Sales,low
+10:30:00,AUD,CB Leading Index m/m,low
+16:45:00,NZD,CPI q/q,high
+18:30:00,AUD,MI Leading Index m/m,low
+18:50:00,JPY,Trade Balance,low
+21:59:00,JPY,BOJ Outlook Report,high
+21:59:00,JPY,Monetary Policy Statement,high
+21:59:00,JPY,BOJ Policy Rate,medium
+23:30:00,JPY,All Industries Activity m/m,low

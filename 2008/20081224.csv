@@ -1,0 +1,16 @@
+time,currency,event,impact
+01:01:00,EUR,German Bank Holiday,holiday
+03:00:00,CHF,SNB Quarterly Bulletin,low
+08:30:00,CAD,GDP m/m,high
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Core PCE Price Index m/m,medium
+08:30:00,USD,Durable Goods Orders m/m,medium
+08:30:00,USD,Personal Spending m/m,medium
+08:30:00,USD,Personal Income m/m,low
+10:35:00,USD,Crude Oil Inventories,medium
+12:00:00,USD,Natural Gas Storage,low
+01:01:00,NZD,Bank Holiday,holiday
+01:01:00,AUD,Bank Holiday,holiday
+18:50:00,JPY,Monetary Policy Meeting Minutes,medium
+18:50:00,JPY,SPPI y/y,low

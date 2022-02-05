@@ -1,0 +1,15 @@
+time,currency,event,impact
+01:00:00,JPY,Leading Indicators,low
+03:00:00,CHF,Foreign Currency Reserves,high
+03:00:00,GBP,Halifax HPI m/m,high
+03:15:00,CHF,CPI m/m,medium
+04:30:00,GBP,Manufacturing Production m/m,high
+04:30:00,GBP,Industrial Production m/m,low
+05:00:00,EUR,Final GDP q/q,low
+06:00:00,EUR,German Factory Orders m/m,medium
+10:00:00,CAD,Ivey PMI,high
+10:00:00,GBP,NIESR GDP Estimate,medium
+10:30:00,USD,Crude Oil Inventories,medium
+19:29:00,AUD,AIG Construction Index,low
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high

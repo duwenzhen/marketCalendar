@@ -1,0 +1,9 @@
+time,currency,event,impact
+03:00:00,CAD,Daylight Saving Time Shift,holiday
+03:00:00,USD,Daylight Saving Time Shift,holiday
+17:45:00,NZD,Manufacturing Sales q/q,low
+19:50:00,JPY,Current Account,medium
+19:50:00,JPY,Final GDP q/q,medium
+19:50:00,JPY,Bank Lending y/y,low
+19:50:00,JPY,Final GDP Price Index y/y,low
+20:30:00,AUD,ANZ Job Advertisements m/m,medium

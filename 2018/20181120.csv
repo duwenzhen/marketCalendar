@@ -1,0 +1,16 @@
+time,currency,event,impact
+02:00:00,EUR,German PPI m/m,low
+02:08:00,CHF,Trade Balance,low
+03:20:00,AUD,RBA Gov Lowe Speaks,medium
+05:00:00,GBP,Monetary Policy Report Hearings,high
+01:01:00,EUR,ECOFIN Meetings,low
+06:00:00,GBP,CBI Industrial Order Expectations,low
+08:30:00,USD,Building Permits,medium
+08:30:00,USD,Housing Starts,medium
+09:34:00,NZD,GDT Price Index,low
+10:00:00,EUR,German Buba President Weidmann Speaks,medium
+12:45:00,CAD,Gov Council Member Wilkins Speaks,medium
+17:00:00,CAD,Gov Council Member Lane Speaks,medium
+18:30:00,AUD,MI Leading Index m/m,low
+21:00:00,NZD,Credit Card Spending y/y,low
+23:30:00,JPY,All Industries Activity m/m,low

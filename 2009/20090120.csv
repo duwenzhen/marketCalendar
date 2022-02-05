@@ -1,0 +1,14 @@
+time,currency,event,impact
+00:00:00,JPY,Consumer Confidence,low
+04:30:00,GBP,CPI y/y,high
+04:30:00,GBP,Core CPI y/y,medium
+04:30:00,GBP,RPI y/y,low
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,ZEW Economic Sentiment,medium
+08:30:00,CAD,Manufacturing Sales m/m,medium
+09:00:00,CAD,BOC Rate Statement,high
+09:00:00,CAD,Overnight Rate,high
+15:20:00,GBP,BOE Gov King Speaks,high
+16:45:00,NZD,Core Retail Sales m/m,high
+16:45:00,NZD,Retail Sales m/m,high
+18:30:00,AUD,Westpac Consumer Sentiment,medium

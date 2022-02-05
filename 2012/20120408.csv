@@ -1,0 +1,6 @@
+time,currency,event,impact
+01:01:00,NZD,Bank Holiday,holiday
+01:01:00,AUD,Bank Holiday,holiday
+19:50:00,JPY,Current Account,high
+21:30:00,CNY,CPI y/y,high
+21:30:00,CNY,PPI y/y,medium

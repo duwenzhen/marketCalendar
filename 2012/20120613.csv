@@ -1,0 +1,20 @@
+time,currency,event,impact
+01:30:00,EUR,French Final CPI m/m,low
+02:00:00,EUR,German Final CPI m/m,low
+03:15:00,CHF,PPI m/m,medium
+05:00:00,EUR,Industrial Production m/m,medium
+05:34:00,EUR,German 10-y Bond Auction,medium
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Core PPI m/m,medium
+10:00:00,USD,Business Inventories m/m,medium
+10:30:00,USD,Crude Oil Inventories,medium
+13:00:00,USD,10-y Bond Auction,medium
+17:00:00,NZD,Official Cash Rate,high
+17:00:00,NZD,RBNZ Press Conference,high
+17:00:00,NZD,RBNZ Rate Statement,high
+17:00:00,NZD,RBNZ Monetary Policy Statement,medium
+18:45:00,NZD,FPI m/m,low
+21:10:00,NZD,RBNZ Gov Bollard Speaks,high
+21:21:00,AUD,MI Inflation Expectations,medium

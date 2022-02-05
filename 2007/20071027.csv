@@ -1,0 +1,5 @@
+time,currency,event,impact
+12:00:00,AUD,Daylight Saving Time Shift,holiday
+22:00:00,CHF,Daylight Saving Time Shift,holiday
+22:00:00,EUR,Daylight Saving Time Shift,holiday
+22:00:00,GBP,Daylight Saving Time Shift,holiday

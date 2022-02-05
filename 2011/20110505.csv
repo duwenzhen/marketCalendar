@@ -1,0 +1,23 @@
+time,currency,event,impact
+03:00:00,CHF,Foreign Currency Reserves,high
+03:45:00,NZD,RBNZ Gov Bollard Speaks,medium
+04:30:00,GBP,Final Services PMI,high
+06:00:00,EUR,German Factory Orders m/m,medium
+06:05:00,EUR,French 10-y Bond Auction,medium
+07:00:00,GBP,Asset Purchase Facility,high
+07:00:00,GBP,Official Bank Rate,high
+07:45:00,EUR,Main Refinancing Rate,high
+08:30:00,CAD,Building Permits m/m,high
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Prelim Nonfarm Productivity q/q,medium
+08:30:00,USD,Prelim Unit Labor Costs q/q,medium
+09:15:00,USD,FOMC Member Evans Speaks,medium
+09:23:00,USD,Fed Chairman Bernanke Speaks,high
+10:00:00,CAD,Ivey PMI,high
+10:30:00,USD,Natural Gas Storage,low
+12:45:00,EUR,ECB President Trichet Speaks,medium
+13:15:00,USD,FOMC Member Kocherlakota Speaks,medium
+19:30:00,AUD,AIG Construction Index,low
+19:50:00,JPY,Monetary Base y/y,low
+21:30:00,AUD,RBA Monetary Policy Statement,high

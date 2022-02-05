@@ -1,0 +1,15 @@
+time,currency,event,impact
+02:00:00,EUR,German Final CPI m/m,low
+02:00:00,EUR,German WPI m/m,low
+04:00:00,CNY,M2 Money Supply y/y,low
+04:00:00,CNY,New Loans,low
+04:00:00,EUR,Italian Industrial Production m/m,low
+04:30:00,GBP,Construction Output m/m,low
+04:30:00,GBP,Consumer Inflation Expectations,low
+01:01:00,EUR,ECOFIN Meetings,medium
+07:30:00,GBP,MPC Member Forbes Speaks,medium
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Core PPI m/m,medium
+10:00:00,USD,Prelim UoM Consumer Sentiment,high
+10:00:00,USD,Prelim UoM Inflation Expectations,low
+13:55:00,USD,Federal Budget Balance,low

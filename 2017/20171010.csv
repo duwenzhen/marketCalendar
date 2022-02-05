@@ -1,0 +1,22 @@
+time,currency,event,impact
+01:00:00,JPY,Economy Watchers Sentiment,low
+01:45:00,CHF,Unemployment Rate,low
+02:00:00,EUR,German Trade Balance,low
+02:45:00,EUR,French Industrial Production m/m,low
+04:00:00,EUR,Italian Industrial Production m/m,low
+04:30:00,GBP,Manufacturing Production m/m,high
+04:30:00,GBP,Goods Trade Balance,medium
+04:30:00,GBP,Construction Output m/m,low
+04:30:00,GBP,Industrial Production m/m,low
+06:00:00,USD,NFIB Small Business Index,low
+01:01:00,EUR,ECOFIN Meetings,medium
+08:02:00,GBP,NIESR GDP Estimate,low
+08:13:00,CAD,Housing Starts,low
+08:30:00,CAD,Building Permits m/m,medium
+10:00:00,USD,FOMC Member Kashkari Speaks,medium
+10:00:00,USD,IBD/TIPP Economic Optimism,low
+14:00:00,CAD,Gov Council Member Wilkins Speaks,medium
+19:30:00,AUD,Westpac Consumer Sentiment,low
+19:50:00,JPY,Core Machinery Orders m/m,low
+20:00:00,USD,FOMC Member Kaplan Speaks,medium
+23:45:00,JPY,30-y Bond Auction,low

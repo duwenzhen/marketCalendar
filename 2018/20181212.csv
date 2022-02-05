@@ -1,0 +1,12 @@
+time,currency,event,impact
+04:00:00,EUR,Italian Quarterly Unemployment Rate,low
+05:00:00,EUR,Industrial Production m/m,low
+08:30:00,CAD,Capacity Utilization Rate,low
+08:30:00,USD,CPI m/m,high
+08:30:00,USD,Core CPI m/m,high
+10:30:00,USD,Crude Oil Inventories,low
+13:01:00,USD,10-y Bond Auction,low
+16:45:00,NZD,FPI m/m,low
+19:00:00,AUD,MI Inflation Expectations,low
+19:01:00,GBP,RICS House Price Balance,low
+19:30:00,AUD,RBA Bulletin,low

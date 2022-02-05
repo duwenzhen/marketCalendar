@@ -1,0 +1,28 @@
+time,currency,event,impact
+00:00:00,JPY,Housing Starts y/y,low
+01:45:00,CHF,GDP q/q,medium
+01:01:00,EUR,German Prelim CPI m/m,medium
+02:45:00,EUR,French Consumer Spending m/m,medium
+03:00:00,EUR,Spanish Flash CPI y/y,low
+03:55:00,EUR,German Unemployment Change,medium
+05:00:00,EUR,Final CPI y/y,medium
+05:00:00,EUR,Final Core CPI y/y,medium
+08:30:00,CAD,Current Account,medium
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+08:30:00,USD,Prelim GDP q/q,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Prelim GDP Price Index q/q,low
+09:45:00,USD,Chicago PMI,medium
+10:30:00,USD,Natural Gas Storage,low
+12:30:00,USD,FOMC Member Raskin Speaks,medium
+16:45:00,NZD,Overseas Trade Index q/q,low
+17:24:00,AUD,AIG Manufacturing Index,low
+18:30:00,JPY,Household Spending y/y,medium
+18:30:00,JPY,Tokyo Core CPI y/y,medium
+18:30:00,JPY,National Core CPI y/y,low
+18:30:00,JPY,Unemployment Rate,low
+18:50:00,JPY,Capital Spending q/y,medium
+19:59:00,CNY,Manufacturing PMI,high
+20:00:00,USD,FOMC Member Evans Speaks,medium
+20:45:00,CNY,Caixin Manufacturing PMI,medium

@@ -1,0 +1,16 @@
+time,currency,event,impact
+01:45:00,CHF,Unemployment Rate,low
+02:00:00,EUR,German Trade Balance,low
+03:15:00,CHF,CPI m/m,high
+01:01:00,EUR,Eurogroup Meetings,high
+04:30:00,EUR,Sentix Investor Confidence,medium
+06:00:00,EUR,German Industrial Production m/m,medium
+01:01:00,CAD,Bank Holiday,holiday
+01:01:00,USD,Bank Holiday,holiday
+17:00:00,NZD,NZIER Business Confidence,high
+19:01:00,GBP,BRC Retail Sales Monitor y/y,medium
+19:01:00,GBP,RICS House Price Balance,medium
+19:50:00,JPY,Current Account,high
+20:13:00,JPY,BOJ Gov Shirakawa Speaks,medium
+20:30:00,AUD,NAB Business Confidence,medium
+21:00:00,AUD,RBA Deputy Gov Lowe Speaks,medium

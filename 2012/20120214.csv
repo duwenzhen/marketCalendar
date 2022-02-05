@@ -1,0 +1,24 @@
+time,currency,event,impact
+02:33:00,JPY,BOJ Press Conference,high
+02:45:00,EUR,French Prelim Private Payrolls q/q,medium
+04:30:00,GBP,CPI y/y,high
+04:30:00,GBP,RPI y/y,medium
+04:30:00,GBP,Core CPI y/y,low
+04:30:00,GBP,ONS HPI y/y,low
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,Industrial Production m/m,medium
+05:00:00,EUR,ZEW Economic Sentiment,medium
+05:00:00,GBP,CB Leading Index m/m,low
+05:30:00,GBP,BOE Inflation Letter,high
+07:30:00,USD,NFIB Small Business Index,low
+08:30:00,CAD,New Motor Vehicle Sales m/m,low
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Import Prices m/m,medium
+10:00:00,USD,Business Inventories m/m,medium
+10:00:00,USD,Treasury Sec Geithner Speaks,medium
+16:45:00,NZD,Retail Sales q/q,medium
+16:47:00,NZD,Core Retail Sales q/q,high
+17:40:00,USD,FOMC Member Lockhart Speaks,medium
+18:30:00,AUD,Westpac Consumer Sentiment,medium
+19:30:00,AUD,New Motor Vehicle Sales m/m,medium

@@ -1,0 +1,17 @@
+time,currency,event,impact
+01:40:00,JPY,BOJ Gov Kuroda Speaks,high
+02:30:00,AUD,Commodity Prices y/y,low
+03:15:00,CHF,Retail Sales y/y,low
+03:15:00,EUR,Spanish Manufacturing PMI,low
+03:30:00,CHF,Manufacturing PMI,low
+03:45:00,EUR,Italian Manufacturing PMI,low
+03:50:00,EUR,French Final Manufacturing PMI,low
+03:55:00,EUR,German Final Manufacturing PMI,low
+04:00:00,EUR,Final Manufacturing PMI,low
+04:30:00,GBP,Final Manufacturing PMI,high
+01:01:00,CAD,Bank Holiday,holiday
+01:01:00,USD,Bank Holiday,holiday
+13:15:00,EUR,German Buba President Weidmann Speaks,medium
+19:01:00,GBP,BRC Retail Sales Monitor y/y,low
+19:50:00,JPY,Monetary Base y/y,low
+21:30:00,AUD,Current Account,medium

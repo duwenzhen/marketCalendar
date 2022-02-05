@@ -1,0 +1,16 @@
+time,currency,event,impact
+04:00:00,EUR,Current Account,medium
+04:00:00,EUR,ECB Monthly Bulletin,medium
+05:00:00,EUR,Spanish 10-y Bond Auction,high
+08:30:00,CAD,Manufacturing Sales m/m,medium
+08:30:00,USD,Building Permits,high
+08:30:00,USD,Core CPI m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,CPI m/m,medium
+08:30:00,USD,Housing Starts,medium
+10:00:00,USD,Philly Fed Manufacturing Index,high
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,USD,Crude Oil Inventories,medium
+19:30:00,AUD,Import Prices q/q,medium
+21:30:00,CNY,Caixin Flash Manufacturing PMI,high
+23:30:00,JPY,All Industries Activity m/m,low

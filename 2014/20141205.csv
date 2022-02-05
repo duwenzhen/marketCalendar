@@ -1,0 +1,18 @@
+time,currency,event,impact
+00:00:00,JPY,Leading Indicators,low
+02:00:00,EUR,German Factory Orders m/m,medium
+03:00:00,CHF,Foreign Currency Reserves,high
+04:30:00,GBP,Consumer Inflation Expectations,low
+05:00:00,EUR,Revised GDP q/q,low
+08:30:00,CAD,Employment Change,high
+08:30:00,CAD,Trade Balance,high
+08:30:00,CAD,Unemployment Rate,high
+08:30:00,CAD,Labor Productivity q/q,medium
+08:30:00,USD,Non-Farm Employment Change,high
+08:30:00,USD,Trade Balance,high
+08:30:00,USD,Unemployment Rate,high
+08:30:00,USD,Average Hourly Earnings m/m,medium
+08:45:00,USD,FOMC Member Mester Speaks,medium
+10:00:00,USD,Factory Orders m/m,medium
+14:45:00,USD,FOMC Member Fischer Speaks,medium
+15:00:00,USD,Consumer Credit m/m,low

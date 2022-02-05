@@ -1,0 +1,22 @@
+time,currency,event,impact
+01:01:00,EUR,Dutch Parliamentary Election,medium
+06:00:00,EUR,Final CPI y/y,low
+06:00:00,EUR,Final Core CPI y/y,low
+06:33:00,EUR,German 30-y Bond Auction,low
+08:30:00,CAD,CPI m/m,high
+08:30:00,CAD,Common CPI y/y,low
+08:30:00,CAD,Median CPI y/y,low
+08:30:00,CAD,Trimmed CPI y/y,low
+08:30:00,USD,Building Permits,low
+08:30:00,USD,Housing Starts,low
+08:32:00,CAD,Core CPI m/m,low
+10:30:00,USD,Crude Oil Inventories,medium
+14:00:00,USD,FOMC Economic Projections,high
+14:00:00,USD,FOMC Statement,high
+14:00:00,USD,Federal Funds Rate,medium
+14:30:00,USD,FOMC Press Conference,high
+17:45:00,NZD,GDP q/q,high
+20:30:00,AUD,Employment Change,high
+20:30:00,AUD,Unemployment Rate,high
+20:30:00,AUD,RBA Bulletin,low
+21:05:00,AUD,RBA Assist Gov Kent Speaks,medium

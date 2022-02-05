@@ -1,0 +1,24 @@
+time,currency,event,impact
+01:00:00,JPY,Housing Starts y/y,low
+02:00:00,EUR,German Retail Sales m/m,medium
+04:30:00,GBP,Net Lending to Individuals m/m,medium
+04:30:00,GBP,M4 Money Supply m/m,low
+04:30:00,GBP,Mortgage Approvals,low
+05:00:00,EUR,CPI Flash Estimate y/y,medium
+05:00:00,EUR,Core CPI Flash Estimate y/y,low
+05:00:00,EUR,Italian Prelim CPI m/m,low
+08:30:00,CAD,GDP m/m,high
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+09:45:00,USD,Chicago PMI,medium
+19:30:00,AUD,AIG Manufacturing Index,low
+19:30:00,JPY,Household Spending y/y,medium
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,Tankan Manufacturing Index,medium
+19:50:00,JPY,Tankan Non-Manufacturing Index,medium
+01:01:00,CNY,Bank Holiday,holiday
+20:58:00,CNY,Manufacturing PMI,high
+21:00:00,AUD,HIA New Home Sales m/m,medium
+21:30:00,AUD,Retail Sales m/m,high
+21:30:00,JPY,Average Cash Earnings y/y,medium
+23:45:00,JPY,10-y Bond Auction,low

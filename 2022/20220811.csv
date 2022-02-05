@@ -1,0 +1,12 @@
+time,currency,event,impact
+02:00:00,EUR,German WPI m/m,low
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Core PPI m/m,medium
+08:30:00,USD,Unemployment Claims,medium
+01:01:00,USD,Mortgage Delinquencies,low
+10:30:00,USD,Natural Gas Storage,low
+13:01:00,USD,30-y Bond Auction,medium
+18:30:00,NZD,BusinessNZ Manufacturing Index,low
+18:45:00,NZD,Visitor Arrivals m/m,low
+19:50:00,JPY,Core Machinery Orders m/m,low
+19:50:00,JPY,PPI y/y,low

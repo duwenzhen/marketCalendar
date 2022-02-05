@@ -1,0 +1,10 @@
+time,currency,event,impact
+03:00:00,CHF,Foreign Currency Reserves,high
+03:15:00,CHF,CPI m/m,medium
+07:00:00,CAD,Employment Change,high
+07:00:00,CAD,Unemployment Rate,high
+08:30:00,USD,Non-Farm Employment Change,high
+08:30:00,USD,Unemployment Rate,high
+08:30:00,USD,Average Hourly Earnings m/m,medium
+10:00:00,CAD,Ivey PMI,high
+10:00:00,USD,Factory Orders m/m,medium

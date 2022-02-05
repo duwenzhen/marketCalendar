@@ -1,0 +1,21 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Gov Shirakawa Speaks,medium
+02:00:00,EUR,German WPI m/m,low
+02:00:00,JPY,Prelim Machine Tool Orders y/y,low
+02:45:00,EUR,French Industrial Production m/m,medium
+04:00:00,EUR,Italian Industrial Production m/m,medium
+10:00:00,USD,JOLTS Job Openings,medium
+10:00:00,USD,Final Wholesale Inventories m/m,low
+13:00:00,USD,10-y Bond Auction,medium
+14:00:00,USD,Beige Book,medium
+16:30:00,USD,FOMC Member Tarullo Speaks,low
+17:30:00,NZD,BusinessNZ Manufacturing Index,low
+17:45:00,NZD,FPI m/m,low
+19:50:00,JPY,Core Machinery Orders m/m,medium
+19:50:00,JPY,Monetary Policy Meeting Minutes,medium
+19:50:00,JPY,Bank Lending y/y,low
+20:00:00,AUD,MI Inflation Expectations,medium
+20:30:00,AUD,Employment Change,high
+20:30:00,AUD,Unemployment Rate,high
+01:01:00,All,G7 Meetings,high
+23:45:00,JPY,30-y Bond Auction,low

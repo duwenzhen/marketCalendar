@@ -1,0 +1,15 @@
+time,currency,event,impact
+02:00:00,GBP,Nationwide HPI m/m,medium
+03:00:00,EUR,Spanish Unemployment Change,medium
+03:30:00,CHF,Manufacturing PMI,medium
+04:30:00,GBP,Construction PMI,high
+05:00:00,EUR,PPI m/m,low
+08:30:00,USD,Non-Farm Employment Change,high
+08:30:00,USD,Unemployment Rate,high
+08:30:00,USD,Average Hourly Earnings m/m,medium
+08:30:00,USD,Core PCE Price Index m/m,medium
+08:30:00,USD,Personal Income m/m,low
+08:30:00,USD,Personal Spending m/m,low
+10:00:00,USD,Factory Orders m/m,medium
+12:15:00,USD,FOMC Member Bullard Speaks,high
+21:00:00,CNY,Non-Manufacturing PMI,medium

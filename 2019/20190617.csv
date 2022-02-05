@@ -1,0 +1,11 @@
+time,currency,event,impact
+06:00:00,EUR,German Buba Monthly Report,low
+08:30:00,CAD,Foreign Securities Purchases,low
+08:30:00,USD,Empire State Manufacturing Index,low
+10:00:00,USD,NAHB Housing Market Index,low
+14:00:00,EUR,ECB President Draghi Speaks,high
+14:30:00,CAD,Gov Council Member Schembri Speaks,medium
+16:00:00,USD,TIC Long-Term Purchases,low
+17:00:00,NZD,Westpac Consumer Sentiment,low
+21:30:00,AUD,Monetary Policy Meeting Minutes,high
+21:30:00,AUD,HPI q/q,medium

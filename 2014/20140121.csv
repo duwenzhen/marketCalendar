@@ -1,0 +1,12 @@
+time,currency,event,impact
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,ZEW Economic Sentiment,medium
+06:00:00,GBP,CBI Industrial Order Expectations,medium
+08:30:00,CAD,Manufacturing Sales m/m,high
+08:30:00,CAD,Wholesale Sales m/m,medium
+08:30:00,NZD,GDT Price Index,low
+18:30:00,AUD,Westpac Consumer Sentiment,medium
+19:30:00,AUD,CPI q/q,high
+19:30:00,AUD,Trimmed Mean CPI q/q,medium
+22:20:00,JPY,Monetary Policy Statement,high
+23:33:00,JPY,All Industries Activity m/m,low

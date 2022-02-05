@@ -1,0 +1,7 @@
+time,currency,event,impact
+04:00:00,EUR,Current Account,medium
+06:00:00,EUR,German Buba Monthly Report,medium
+01:01:00,USD,Bank Holiday,holiday
+09:30:00,EUR,ECB President Draghi Speaks,high
+18:50:00,JPY,Monetary Policy Meeting Minutes,medium
+19:30:00,AUD,Monetary Policy Meeting Minutes,high

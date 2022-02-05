@@ -1,0 +1,20 @@
+time,currency,event,impact
+00:00:00,JPY,Housing Starts y/y,low
+02:00:00,CHF,UBS Consumption Indicator,medium
+03:55:00,EUR,German Unemployment Change,medium
+05:00:00,EUR,CPI Flash Estimate y/y,medium
+05:00:00,EUR,Unemployment Rate,medium
+05:00:00,EUR,Italian Prelim CPI m/m,low
+06:00:00,EUR,Italian Monthly Unemployment Rate,low
+08:30:00,CAD,GDP m/m,high
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,medium
+09:45:00,USD,Chicago PMI,medium
+10:00:00,USD,CB Consumer Confidence,high
+10:30:00,EUR,ECB President Trichet Speaks,high
+15:00:00,USD,Fed Chairman Bernanke Speaks,high
+17:30:00,AUD,AIG Manufacturing Index,low
+19:30:00,AUD,GDP q/q,high
+20:00:00,CNY,Manufacturing PMI,high
+21:00:00,NZD,ANZ Commodity Prices m/m,low
+21:30:00,CNY,Caixin Manufacturing PMI,medium
+22:45:00,JPY,10-y Bond Auction,low

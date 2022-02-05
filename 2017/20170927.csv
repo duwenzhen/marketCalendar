@@ -1,0 +1,15 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,low
+04:00:00,CHF,Credit Suisse Economic Expectations,low
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:00:00,EUR,Private Loans y/y,low
+06:00:00,GBP,CBI Realized Sales,low
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,Durable Goods Orders m/m,medium
+10:00:00,USD,Pending Home Sales m/m,medium
+10:30:00,USD,Crude Oil Inventories,high
+11:45:00,CAD,BOC Gov Poloz Speaks,high
+14:00:00,USD,FOMC Member Brainard Speaks,medium
+15:00:00,USD,President Trump Speaks,low
+16:00:00,NZD,Official Cash Rate,high
+16:00:00,NZD,RBNZ Rate Statement,high

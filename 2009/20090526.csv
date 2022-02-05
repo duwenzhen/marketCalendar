@@ -1,0 +1,19 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,medium
+02:00:00,EUR,German GfK Consumer Climate,medium
+02:00:00,EUR,German Final GDP q/q,low
+02:00:00,EUR,German Import Prices m/m,low
+02:45:00,EUR,French Consumer Spending m/m,medium
+03:15:00,CHF,Employment Level,medium
+04:00:00,EUR,Current Account,medium
+05:00:00,EUR,Industrial New Orders m/m,medium
+09:00:00,EUR,Belgian NBB Business Climate,medium
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+10:00:00,USD,CB Consumer Confidence,high
+10:00:00,USD,Richmond Manufacturing Index,low
+19:50:00,JPY,Monetary Policy Meeting Minutes,medium
+19:52:00,JPY,Trade Balance,medium
+20:23:00,JPY,BOJ Gov Shirakawa Speaks,medium
+20:30:00,AUD,MI Leading Index m/m,medium
+21:30:00,AUD,Construction Work Done q/q,medium
+23:00:00,NZD,Final ANZ Business Confidence,high

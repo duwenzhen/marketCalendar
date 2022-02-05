@@ -1,0 +1,13 @@
+time,currency,event,impact
+01:00:00,JPY,Monetary Policy Statement,high
+01:00:00,JPY,Overnight Call Rate,high
+03:47:00,JPY,BOJ Press Conference,high
+06:00:00,EUR,German Factory Orders m/m,medium
+07:00:00,GBP,Asset Purchase Facility,high
+07:00:00,GBP,Official Bank Rate,high
+07:45:00,EUR,Main Refinancing Rate,high
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Unemployment Claims,high
+10:30:00,USD,Natural Gas Storage,low
+19:23:00,AUD,AIG Construction Index,low
+21:30:00,AUD,RBA Monetary Policy Statement,high

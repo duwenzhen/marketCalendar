@@ -1,0 +1,14 @@
+time,currency,event,impact
+02:00:00,EUR,German PPI m/m,low
+02:00:00,EUR,German WPI m/m,low
+03:00:00,USD,FOMC Member Mester Speaks,medium
+04:00:00,EUR,Current Account,low
+05:00:00,EUR,Trade Balance,low
+08:30:00,CAD,CPI m/m,high
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Common CPI y/y,medium
+08:30:00,CAD,Median CPI y/y,medium
+08:30:00,CAD,Retail Sales m/m,medium
+08:30:00,CAD,Trimmed CPI y/y,medium
+08:30:00,CAD,Core CPI m/m,low
+09:15:00,USD,FOMC Member Brainard Speaks,medium

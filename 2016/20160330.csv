@@ -1,0 +1,12 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,low
+01:01:00,EUR,German Prelim CPI m/m,medium
+03:00:00,CHF,KOF Economic Barometer,medium
+05:20:00,EUR,Italian 10-y Bond Auction,low
+08:15:00,USD,ADP Non-Farm Employment Change,high
+10:30:00,USD,Crude Oil Inventories,high
+14:35:00,CAD,Gov Council Member Patterson Speaks,low
+19:05:00,GBP,GfK Consumer Confidence,low
+20:00:00,AUD,HIA New Home Sales m/m,low
+20:00:00,NZD,Final ANZ Business Confidence,medium
+20:30:00,AUD,Private Sector Credit m/m,low

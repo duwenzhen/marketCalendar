@@ -1,0 +1,19 @@
+time,currency,event,impact
+05:00:00,EUR,M3 Money Supply y/y,medium
+05:00:00,EUR,Private Loans y/y,medium
+05:30:00,GBP,Retail Sales m/m,high
+05:30:00,GBP,FPC Statement,low
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,FOMC Member Pianalto Speaks,medium
+08:30:00,USD,Final GDP q/q,medium
+08:30:00,USD,Final GDP Price Index q/q,low
+10:00:00,USD,Pending Home Sales m/m,high
+10:30:00,USD,Natural Gas Storage,low
+13:00:00,CHF,Gov Board Member Zurbrugg Speaks,medium
+19:30:00,JPY,Household Spending y/y,medium
+19:30:00,JPY,Tokyo Core CPI y/y,medium
+19:30:00,JPY,National Core CPI y/y,low
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,Retail Sales y/y,medium
+20:05:00,GBP,GfK Consumer Confidence,low
+20:20:00,USD,FOMC Member Tarullo Speaks,low

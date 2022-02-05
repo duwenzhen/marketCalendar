@@ -1,0 +1,34 @@
+time,currency,event,impact
+00:30:00,AUD,RBA Rate Statement,high
+00:30:00,AUD,Cash Rate,medium
+02:00:00,GBP,Nationwide HPI m/m,low
+02:30:00,AUD,Commodity Prices y/y,low
+02:30:00,CHF,Retail Sales y/y,low
+03:00:00,CHF,GDP q/q,low
+03:15:00,EUR,Spanish Manufacturing PMI,low
+03:30:00,CHF,Manufacturing PMI,low
+03:45:00,EUR,Italian Manufacturing PMI,low
+03:50:00,EUR,French Final Manufacturing PMI,low
+03:55:00,EUR,German Final Manufacturing PMI,medium
+03:55:00,EUR,German Unemployment Change,low
+04:00:00,EUR,Final Manufacturing PMI,low
+04:02:00,EUR,Italian Monthly Unemployment Rate,low
+04:30:00,GBP,Final Manufacturing PMI,low
+05:00:00,EUR,CPI Flash Estimate y/y,low
+05:00:00,EUR,Core CPI Flash Estimate y/y,low
+05:00:00,EUR,Unemployment Rate,low
+01:01:00,All,OPEC-JMMC Meetings,high
+08:30:00,CAD,GDP m/m,medium
+09:30:00,CAD,Manufacturing PMI,low
+09:45:00,USD,Final Manufacturing PMI,low
+10:00:00,USD,ISM Manufacturing PMI,high
+10:00:00,USD,Construction Spending m/m,low
+10:00:00,USD,FOMC Member Quarles Speaks,low
+10:00:00,USD,ISM Manufacturing Prices,low
+10:09:00,NZD,GDT Price Index,low
+11:00:00,GBP,BOE Gov Bailey Speaks,high
+14:00:00,USD,FOMC Member Brainard Speaks,medium
+18:45:00,NZD,Overseas Trade Index q/q,low
+19:01:00,GBP,BRC Shop Price Index y/y,low
+19:50:00,JPY,Monetary Base y/y,low
+21:30:00,AUD,GDP q/q,high

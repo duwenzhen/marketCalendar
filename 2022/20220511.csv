@@ -1,0 +1,21 @@
+time,currency,event,impact
+02:00:00,EUR,German WPI m/m,low
+05:00:00,EUR,EU Economic Forecasts,medium
+08:30:00,USD,CPI m/m,high
+08:30:00,USD,Core CPI m/m,high
+01:01:00,USD,Mortgage Delinquencies,low
+10:30:00,USD,Crude Oil Inventories,medium
+13:01:00,USD,10-y Bond Auction,medium
+14:00:00,USD,Federal Budget Balance,low
+18:45:00,NZD,FPI m/m,low
+18:45:00,NZD,Visitor Arrivals m/m,low
+19:50:00,JPY,BOJ Summary of Opinions,low
+19:50:00,JPY,Bank Lending y/y,low
+19:50:00,JPY,Current Account,low
+21:00:00,AUD,MI Inflation Expectations,low
+22:00:00,CNY,Retail Sales y/y,medium
+22:00:00,CNY,Fixed Asset Investment ytd/y,low
+22:00:00,CNY,Industrial Production y/y,low
+22:00:00,CNY,NBS Press Conference,low
+22:00:00,CNY,Unemployment Rate,low
+22:00:00,NZD,Annual Budget Release,medium

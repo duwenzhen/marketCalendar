@@ -1,0 +1,17 @@
+time,currency,event,impact
+03:15:00,CHF,Employment Level,medium
+06:00:00,GBP,CBI Realized Sales,low
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,Durable Goods Orders m/m,medium
+09:00:00,USD,HPI m/m,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+09:45:00,USD,Flash Services PMI,low
+09:59:00,USD,Richmond Manufacturing Index,low
+10:00:00,USD,CB Consumer Confidence,high
+10:00:00,USD,New Home Sales,medium
+12:30:00,USD,FOMC Member Fischer Speaks,medium
+19:50:00,JPY,Monetary Policy Meeting Minutes,medium
+20:10:00,USD,FOMC Member Lacker Speaks,medium
+20:30:00,AUD,MI Leading Index m/m,low
+20:45:00,AUD,RBA Deputy Gov Lowe Speaks,medium
+21:30:00,AUD,Construction Work Done q/q,medium

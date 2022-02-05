@@ -1,0 +1,12 @@
+time,currency,event,impact
+02:00:00,EUR,German WPI m/m,low
+03:15:00,CHF,PPI m/m,medium
+16:45:00,AUD,RBA Deputy Gov Debelle Speaks,medium
+16:47:00,NZD,FPI m/m,low
+18:32:00,GBP,RICS House Price Balance,medium
+19:30:00,AUD,NAB Business Confidence,medium
+21:45:00,USD,FOMC Member Williams Speaks,medium
+22:01:00,NZD,REINZ HPI m/m,medium
+22:43:00,JPY,Monetary Policy Statement,high
+22:43:00,JPY,Overnight Call Rate,high
+23:30:00,JPY,Revised Industrial Production m/m,low

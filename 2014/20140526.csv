@@ -1,0 +1,6 @@
+time,currency,event,impact
+02:00:00,EUR,German GfK Consumer Climate,medium
+01:01:00,GBP,Bank Holiday,holiday
+04:00:00,EUR,ECB President Draghi Speaks,high
+01:01:00,USD,Bank Holiday,holiday
+19:50:00,JPY,SPPI y/y,low

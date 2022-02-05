@@ -1,0 +1,17 @@
+time,currency,event,impact
+04:00:00,CHF,Credit Suisse Economic Expectations,low
+05:32:00,EUR,German 10-y Bond Auction,low
+08:30:00,USD,Goods Trade Balance,low
+08:30:00,USD,Prelim Wholesale Inventories m/m,low
+10:00:00,CAD,BOC Monetary Policy Report,high
+10:00:00,CAD,BOC Rate Statement,high
+10:00:00,CAD,Overnight Rate,high
+10:00:00,USD,New Home Sales,low
+10:30:00,USD,Crude Oil Inventories,medium
+11:00:00,CAD,BOC Press Conference,high
+14:00:00,USD,FOMC Statement,high
+14:00:00,USD,Federal Funds Rate,high
+14:30:00,USD,FOMC Press Conference,high
+16:45:00,NZD,CPI q/q,high
+18:30:00,AUD,MI Leading Index m/m,low
+19:30:00,AUD,Import Prices q/q,low

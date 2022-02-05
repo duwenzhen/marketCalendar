@@ -1,0 +1,17 @@
+time,currency,event,impact
+01:00:00,JPY,Leading Indicators,low
+02:00:00,EUR,German Industrial Production m/m,low
+03:00:00,CHF,Foreign Currency Reserves,medium
+04:30:00,EUR,Sentix Investor Confidence,low
+01:01:00,CAD,Bank Holiday,holiday
+01:01:00,USD,Bank Holiday,holiday
+18:45:00,NZD,Manufacturing Sales q/q,low
+19:01:00,GBP,BRC Retail Sales Monitor y/y,low
+19:50:00,JPY,Current Account,medium
+19:50:00,JPY,Final GDP q/q,medium
+19:50:00,JPY,Bank Lending y/y,low
+19:50:00,JPY,Final GDP Price Index y/y,low
+21:30:00,AUD,NAB Business Confidence,high
+22:33:00,CNY,Trade Balance,high
+23:04:00,CNY,USD-Denominated Trade Balance,low
+23:45:00,JPY,30-y Bond Auction,low

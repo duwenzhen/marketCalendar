@@ -1,0 +1,17 @@
+time,currency,event,impact
+04:15:00,EUR,Spanish Services PMI,low
+04:45:00,EUR,Italian Services PMI,low
+04:50:00,EUR,French Final Services PMI,low
+04:55:00,EUR,German Final Services PMI,low
+05:00:00,EUR,Final Services PMI,low
+06:00:00,EUR,PPI m/m,low
+08:30:00,CAD,Employment Change,high
+08:30:00,CAD,Unemployment Rate,high
+08:30:00,CAD,Trade Balance,medium
+08:30:00,USD,Average Hourly Earnings m/m,high
+08:30:00,USD,Non-Farm Employment Change,high
+08:30:00,USD,Unemployment Rate,high
+08:30:00,USD,Trade Balance,medium
+10:00:00,CAD,Ivey PMI,medium
+10:45:00,GBP,MPC Member Forbes Speaks,medium
+16:00:00,USD,FOMC Member Fischer Speaks,medium

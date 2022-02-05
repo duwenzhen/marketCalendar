@@ -1,0 +1,6 @@
+time,currency,event,impact
+01:01:00,AUD,Bank Holiday,holiday
+18:30:00,AUD,AIG Services Index,low
+21:00:00,AUD,MI Inflation Gauge m/m,low
+21:00:00,NZD,ANZ Commodity Prices m/m,low
+21:45:00,CNY,Caixin Services PMI,low

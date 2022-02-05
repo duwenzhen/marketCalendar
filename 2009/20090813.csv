@@ -1,0 +1,21 @@
+time,currency,event,impact
+02:00:00,EUR,German Prelim GDP q/q,high
+02:45:00,EUR,French Prelim GDP q/q,low
+03:15:00,CHF,PPI m/m,medium
+04:00:00,EUR,ECB Monthly Bulletin,medium
+05:00:00,EUR,Flash GDP q/q,high
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Import Prices m/m,medium
+10:00:00,USD,Business Inventories m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+13:00:00,USD,30-y Bond Auction,low
+18:00:00,NZD,REINZ HPI m/m,medium
+18:45:00,NZD,Core Retail Sales m/m,high
+18:45:00,NZD,Retail Sales m/m,medium
+18:45:00,NZD,Core Retail Sales q/q,low
+18:45:00,NZD,Retail Sales q/q,low
+19:30:00,AUD,RBA Gov Stevens Speaks,high
+19:50:00,JPY,Monetary Policy Meeting Minutes,medium
+19:50:00,JPY,Tertiary Industry Activity m/m,medium

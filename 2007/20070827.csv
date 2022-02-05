@@ -1,0 +1,9 @@
+time,currency,event,impact
+01:01:00,GBP,Bank Holiday,holiday
+09:00:00,EUR,ECB President Trichet Speaks,high
+10:00:00,USD,Existing Home Sales,high
+19:50:00,JPY,Monetary Policy Meeting Minutes,medium
+20:00:00,AUD,CB Leading Index m/m,low
+20:45:00,CAD,Gov Council Member Duguay Speaks,medium
+22:30:00,AUD,RBA Deputy Gov Battellino Speaks,medium
+23:00:00,NZD,Inflation Expectations q/q,high

@@ -1,0 +1,15 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,low
+01:01:00,EUR,German Prelim CPI m/m,medium
+03:55:00,EUR,German Unemployment Change,medium
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:02:00,EUR,Private Loans y/y,low
+05:30:00,GBP,MPC Member Bean Speaks,medium
+06:00:00,EUR,ECB Financial Stability Review,low
+06:00:00,GBP,CBI Realized Sales,medium
+10:00:00,CAD,BOC Rate Statement,high
+10:00:00,CAD,Overnight Rate,high
+13:00:00,USD,FOMC Member Rosengren Speaks,medium
+18:45:00,NZD,Building Consents m/m,medium
+21:30:00,AUD,Building Approvals m/m,high
+21:30:00,AUD,Private Capital Expenditure q/q,high

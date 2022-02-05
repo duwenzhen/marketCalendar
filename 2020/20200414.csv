@@ -1,0 +1,7 @@
+time,currency,event,impact
+01:01:00,All,G7 Meetings,high
+08:30:00,USD,Import Prices m/m,low
+01:01:00,All,IMF Meetings,low
+18:15:00,USD,President Trump Speaks,high
+18:45:00,NZD,FPI m/m,low
+20:30:00,AUD,Westpac Consumer Sentiment,low

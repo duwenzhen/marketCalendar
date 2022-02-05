@@ -1,0 +1,16 @@
+time,currency,event,impact
+01:00:00,JPY,Leading Indicators,low
+02:00:00,EUR,German Trade Balance,low
+02:45:00,EUR,French Trade Balance,low
+05:38:00,GBP,30-y Bond Auction,low
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:30:00,USD,Crude Oil Inventories,medium
+10:45:00,USD,FOMC Member Pianalto Speaks,medium
+13:00:00,USD,10-y Bond Auction,medium
+13:30:00,NZD,REINZ HPI m/m,medium
+18:18:00,NZD,BusinessNZ Manufacturing Index,low
+19:50:00,JPY,Current Account,high
+19:50:00,JPY,Bank Lending y/y,low
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high
+23:00:00,CNY,USD-Denominated Trade Balance,high

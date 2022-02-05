@@ -1,0 +1,32 @@
+time,currency,event,impact
+00:00:00,JPY,Leading Indicators,low
+01:45:00,CHF,Unemployment Rate,low
+03:00:00,CHF,Foreign Currency Reserves,low
+03:30:00,GBP,Halifax HPI m/m,low
+04:00:00,EUR,Italian Retail Sales m/m,low
+04:00:00,GBP,MPC Member Tenreyro Speaks,medium
+04:50:00,EUR,Spanish 10-y Bond Auction,low
+04:58:00,EUR,French 10-y Bond Auction,low
+05:00:00,EUR,Final Employment Change q/q,low
+05:00:00,EUR,Revised GDP q/q,low
+07:30:00,USD,Challenger Job Cuts y/y,low
+07:45:00,EUR,Main Refinancing Rate,high
+07:45:00,EUR,Monetary Policy Statement,high
+08:30:00,CAD,Building Permits m/m,low
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Revised Nonfarm Productivity q/q,low
+08:30:00,USD,Revised Unit Labor Costs q/q,low
+08:30:00,USD,Unemployment Claims,low
+10:30:00,USD,Natural Gas Storage,low
+12:15:00,USD,FOMC Member Brainard Speaks,medium
+12:30:00,CAD,Gov Council Member Patterson Speaks,low
+15:00:00,USD,Consumer Credit m/m,low
+16:45:00,NZD,Manufacturing Sales q/q,low
+18:30:00,JPY,Average Cash Earnings y/y,low
+18:30:00,JPY,Household Spending y/y,low
+18:50:00,JPY,Bank Lending y/y,low
+18:50:00,JPY,Current Account,low
+18:50:00,JPY,Final GDP q/q,low
+18:52:00,JPY,Final GDP Price Index y/y,low
+22:17:00,CNY,Trade Balance,high
+22:19:00,CNY,USD-Denominated Trade Balance,low

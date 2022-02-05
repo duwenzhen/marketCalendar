@@ -1,0 +1,27 @@
+time,currency,event,impact
+02:00:00,EUR,German Prelim GDP q/q,high
+02:30:00,CHF,PPI m/m,low
+02:45:00,EUR,French Final CPI m/m,low
+04:30:00,GBP,Retail Sales m/m,high
+05:00:00,EUR,Flash Employment Change q/q,low
+05:00:00,EUR,Flash GDP q/q,low
+05:30:00,USD,FOMC Member Quarles Speaks,low
+05:34:00,GBP,30-y Bond Auction,low
+08:30:00,CAD,NHPI m/m,low
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Core PPI m/m,medium
+08:30:00,USD,Unemployment Claims,low
+09:10:00,USD,FOMC Member Clarida Speaks,low
+09:10:00,USD,FOMC Member Evans Speaks,low
+09:30:00,GBP,CB Leading Index m/m,low
+10:00:00,USD,Fed Chair Powell Testifies,high
+10:00:00,USD,Mortgage Delinquencies,low
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,USD,Crude Oil Inventories,medium
+12:00:00,CHF,Gov Board Member Maechler Speaks,medium
+12:00:00,USD,FOMC Member Williams Speaks,low
+12:20:00,USD,FOMC Member Bullard Speaks,low
+16:30:00,NZD,BusinessNZ Manufacturing Index,medium
+20:30:00,AUD,RBA Deputy Gov Debelle Speaks,medium
+21:45:00,CAD,BOC Gov Poloz Speaks,high
+23:30:00,JPY,Revised Industrial Production m/m,low

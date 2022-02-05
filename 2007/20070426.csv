@@ -1,0 +1,17 @@
+time,currency,event,impact
+02:00:00,EUR,German GfK Consumer Climate,low
+02:00:00,EUR,German Import Prices m/m,low
+02:00:00,GBP,Nationwide HPI m/m,medium
+08:30:00,USD,Unemployment Claims,low
+10:05:00,GBP,MPC Member Tucker Speaks,medium
+10:30:00,CAD,BOC Monetary Policy Report,high
+10:30:00,USD,Natural Gas Storage,low
+11:15:00,CAD,BOC Press Conference,high
+13:00:00,USD,FOMC Member Mishkin Speaks,medium
+19:30:00,JPY,Tokyo Core CPI y/y,medium
+19:30:00,JPY,Final Manufacturing PMI,low
+19:30:00,JPY,Household Spending y/y,low
+19:30:00,JPY,National Core CPI y/y,low
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,Prelim Industrial Production m/m,medium
+19:50:00,JPY,Retail Sales y/y,medium

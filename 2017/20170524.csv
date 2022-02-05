@@ -1,0 +1,15 @@
+time,currency,event,impact
+02:00:00,EUR,German GfK Consumer Climate,low
+04:00:00,EUR,ECB Financial Stability Review,low
+01:01:00,All,OPEC-JMMC Meetings,medium
+05:35:00,EUR,German 10-y Bond Auction,low
+08:45:00,EUR,ECB President Draghi Speaks,high
+08:58:00,USD,HPI m/m,low
+09:03:00,EUR,Belgian NBB Business Climate,low
+10:00:00,CAD,BOC Rate Statement,high
+10:00:00,CAD,Overnight Rate,high
+10:00:00,USD,Existing Home Sales,medium
+10:30:00,USD,Crude Oil Inventories,high
+14:00:00,USD,FOMC Meeting Minutes,high
+18:00:00,USD,FOMC Member Kaplan Speaks,medium
+22:00:00,NZD,Annual Budget Release,high

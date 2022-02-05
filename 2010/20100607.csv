@@ -1,0 +1,14 @@
+time,currency,event,impact
+01:01:00,EUR,Eurogroup Meetings,medium
+04:30:00,EUR,Sentix Investor Confidence,low
+06:00:00,EUR,German Factory Orders m/m,medium
+13:50:00,CAD,BOC Gov Carney Speaks,medium
+15:00:00,USD,Consumer Credit m/m,low
+18:45:00,NZD,Manufacturing Sales q/q,low
+19:01:00,GBP,BRC Retail Sales Monitor y/y,medium
+19:50:00,JPY,Bank Lending y/y,low
+19:50:00,JPY,Current Account,low
+19:50:00,JPY,M2 Money Stock y/y,low
+19:55:00,USD,Fed Chairman Bernanke Speaks,high
+21:30:00,AUD,NAB Business Confidence,medium
+23:45:00,JPY,30-y Bond Auction,low

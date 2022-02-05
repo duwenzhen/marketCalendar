@@ -1,0 +1,16 @@
+time,currency,event,impact
+02:00:00,EUR,German Factory Orders m/m,low
+03:00:00,CHF,Foreign Currency Reserves,low
+05:00:00,EUR,EU Economic Forecasts,medium
+05:00:00,EUR,Retail Sales m/m,low
+01:01:00,GBP,10-y Bond Auction,low
+08:15:00,USD,ADP Non-Farm Employment Change,high
+09:45:00,USD,Final Services PMI,low
+10:00:00,USD,ISM Services PMI,high
+10:00:00,USD,JOLTS Job Openings,high
+14:00:00,USD,FOMC Meeting Minutes,high
+18:30:00,AUD,AIG Services Index,low
+19:30:00,JPY,Average Cash Earnings y/y,low
+19:30:00,JPY,Household Spending y/y,low
+21:00:00,NZD,Prelim ANZ Business Confidence,low
+21:30:00,AUD,Trade Balance,low

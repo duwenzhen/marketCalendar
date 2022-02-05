@@ -1,0 +1,7 @@
+time,currency,event,impact
+01:00:00,USD,FOMC Member Geithner Speaks,low
+01:01:00,GBP,Bank Holiday,holiday
+01:01:00,USD,Bank Holiday,holiday
+19:50:00,JPY,SPPI y/y,low
+21:00:00,NZD,Final ANZ Business Confidence,high
+23:00:00,NZD,Inflation Expectations q/q,high

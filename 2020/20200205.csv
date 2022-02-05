@@ -1,0 +1,23 @@
+time,currency,event,impact
+01:45:00,CHF,SECO Consumer Climate,low
+03:15:00,EUR,Spanish Services PMI,low
+03:45:00,EUR,Italian Services PMI,low
+03:50:00,EUR,French Final Services PMI,low
+03:55:00,EUR,German Final Services PMI,low
+04:00:00,EUR,Final Services PMI,low
+04:30:00,GBP,Final Services PMI,medium
+05:00:00,EUR,Retail Sales m/m,low
+07:15:00,EUR,ECB President Lagarde Speaks,high
+08:15:00,USD,ADP Non-Farm Employment Change,high
+08:30:00,CAD,Trade Balance,medium
+08:30:00,USD,Trade Balance,low
+09:45:00,USD,Final Services PMI,low
+10:00:00,USD,ISM Services PMI,high
+10:30:00,USD,Crude Oil Inventories,medium
+12:15:00,CAD,Gov Council Member Wilkins Speaks,medium
+01:01:00,NZD,Bank Holiday,holiday
+16:10:00,USD,FOMC Member Brainard Speaks,low
+19:30:00,AUD,Retail Sales m/m,high
+19:30:00,AUD,Trade Balance,high
+19:30:00,AUD,NAB Quarterly Business Confidence,low
+22:35:00,JPY,30-y Bond Auction,low

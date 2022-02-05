@@ -1,0 +1,20 @@
+time,currency,event,impact
+00:30:00,JPY,All Industries Activity m/m,low
+01:45:00,CHF,SECO Economic Forecasts,low
+02:00:00,CHF,Trade Balance,low
+02:32:00,JPY,BOJ Gov Kuroda Speaks,high
+03:30:00,CHF,Libor Rate,high
+03:30:00,CHF,SNB Monetary Policy Assessment,high
+04:30:00,GBP,Retail Sales m/m,high
+06:00:00,GBP,CBI Industrial Order Expectations,medium
+08:30:00,CAD,Wholesale Sales m/m,medium
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Current Account,medium
+10:00:00,USD,Existing Home Sales,high
+10:00:00,USD,Philly Fed Manufacturing Index,high
+10:00:00,USD,CB Leading Index m/m,low
+10:30:00,USD,Natural Gas Storage,low
+18:45:00,NZD,Visitor Arrivals m/m,low
+01:01:00,CNY,Bank Holiday,holiday
+22:30:00,JPY,BOJ Gov Kuroda Speaks,high
+23:00:00,NZD,Credit Card Spending y/y,low

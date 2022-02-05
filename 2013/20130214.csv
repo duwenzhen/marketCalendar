@@ -1,0 +1,17 @@
+time,currency,event,impact
+01:30:00,EUR,French Prelim GDP q/q,medium
+02:00:00,EUR,German Prelim GDP q/q,medium
+02:24:00,JPY,BOJ Press Conference,high
+02:45:00,EUR,French Prelim Private Payrolls q/q,medium
+04:00:00,EUR,ECB Monthly Bulletin,medium
+04:00:00,EUR,Italian Prelim GDP q/q,medium
+05:00:00,EUR,Flash GDP q/q,medium
+08:30:00,USD,Unemployment Claims,high
+10:30:00,USD,FOMC Member Tarullo Speaks,low
+10:30:00,USD,Natural Gas Storage,low
+12:50:00,USD,FOMC Member Bullard Speaks,medium
+13:00:00,USD,30-y Bond Auction,low
+16:45:00,NZD,Retail Sales q/q,high
+16:45:00,NZD,Core Retail Sales q/q,medium
+01:01:00,CNY,Bank Holiday,holiday
+23:30:00,JPY,Revised Industrial Production m/m,low

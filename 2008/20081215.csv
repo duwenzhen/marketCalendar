@@ -1,0 +1,16 @@
+time,currency,event,impact
+03:15:00,CHF,PPI m/m,medium
+06:00:00,EUR,German Buba Monthly Report,low
+06:00:00,EUR,ECB Financial Stability Review,low
+08:30:00,USD,Empire State Manufacturing Index,medium
+09:00:00,USD,TIC Long-Term Purchases,high
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+12:30:00,EUR,ECB President Trichet Speaks,low
+13:00:00,CHF,Gov Board Member Hildebrand Speaks,medium
+13:00:00,USD,NAHB Housing Market Index,low
+18:50:00,JPY,Tertiary Industry Activity m/m,medium
+19:30:00,AUD,Monetary Policy Meeting Minutes,high
+19:30:00,AUD,Housing Starts q/q,low
+21:00:00,CNY,Fixed Asset Investment ytd/y,medium
+23:00:00,JPY,BOJ Gov Shirakawa Speaks,medium

@@ -1,0 +1,12 @@
+time,currency,event,impact
+04:00:00,EUR,Current Account,low
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,ZEW Economic Sentiment,medium
+08:30:00,USD,Building Permits,high
+08:30:00,USD,Housing Starts,medium
+09:30:00,AUD,RBA Gov Stevens Speaks,high
+10:11:00,NZD,GDT Price Index,high
+10:35:00,GBP,BOE Gov Carney Speaks,high
+11:00:00,CAD,BOC Gov Poloz Speaks,high
+19:50:00,JPY,Trade Balance,low
+20:30:00,AUD,MI Leading Index m/m,low

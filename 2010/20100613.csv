@@ -1,0 +1,7 @@
+time,currency,event,impact
+01:01:00,AUD,Bank Holiday,holiday
+18:45:00,NZD,Core Retail Sales m/m,high
+18:45:00,NZD,Retail Sales m/m,medium
+19:01:00,GBP,BOE Quarterly Bulletin,low
+19:50:00,JPY,BSI Manufacturing Index,medium
+01:01:00,CNY,Bank Holiday,holiday

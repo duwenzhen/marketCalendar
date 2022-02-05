@@ -1,0 +1,15 @@
+time,currency,event,impact
+00:30:00,AUD,Cash Rate,high
+00:30:00,AUD,RBA Rate Statement,high
+01:00:00,JPY,Economy Watchers Sentiment,low
+02:00:00,EUR,German Factory Orders m/m,low
+02:00:00,GBP,Halifax HPI m/m,low
+02:00:00,JPY,Prelim Machine Tool Orders y/y,low
+02:45:00,EUR,French Trade Balance,low
+08:30:00,CAD,Trade Balance,low
+08:30:00,USD,Trade Balance,low
+10:00:00,CAD,Ivey PMI,medium
+01:01:00,NZD,GDT Price Index,low
+19:50:00,JPY,Bank Lending y/y,low
+19:50:00,JPY,Current Account,low
+21:00:00,NZD,Prelim ANZ Business Confidence,low

@@ -1,0 +1,18 @@
+time,currency,event,impact
+00:00:00,JPY,BOJ Core CPI y/y,low
+04:00:00,EUR,German ifo Business Climate,medium
+04:30:00,EUR,ECB Financial Stability Review,medium
+01:01:00,GBP,Autumn Forecast Statement,medium
+08:30:00,CAD,Corporate Profits q/q,low
+08:30:00,USD,Core Durable Goods Orders m/m,medium
+08:30:00,USD,Durable Goods Orders m/m,medium
+08:30:00,USD,Unemployment Claims,medium
+09:45:00,USD,Flash Manufacturing PMI,medium
+09:45:00,USD,Flash Services PMI,medium
+10:00:00,USD,Revised UoM Consumer Sentiment,medium
+10:00:00,USD,New Home Sales,low
+10:00:00,USD,Revised UoM Inflation Expectations,low
+10:30:00,USD,Crude Oil Inventories,medium
+12:00:00,USD,Natural Gas Storage,low
+14:00:00,USD,FOMC Meeting Minutes,high
+16:45:00,NZD,Trade Balance,low

@@ -1,0 +1,18 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Monthly Report,low
+01:30:00,JPY,BOJ Press Conference,high
+02:45:00,EUR,French Final CPI m/m,low
+03:00:00,GBP,MPC Member Bean Speaks,medium
+04:00:00,EUR,Current Account,low
+04:30:00,GBP,MPC Official Bank Rate Votes,high
+06:00:00,GBP,CBI Industrial Order Expectations,medium
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium
+08:30:00,USD,Core CPI m/m,high
+08:30:00,USD,CPI m/m,medium
+10:00:00,USD,CB Leading Index m/m,low
+13:00:00,USD,FOMC Member Kohn Speaks,medium
+14:00:00,USD,FOMC Meeting Minutes,high
+18:50:00,JPY,Trade Balance,low
+01:01:00,CNY,Bank Holiday,holiday
+20:00:00,NZD,Credit Card Spending y/y,low

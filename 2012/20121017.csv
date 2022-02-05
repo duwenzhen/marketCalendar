@@ -1,0 +1,17 @@
+time,currency,event,impact
+04:30:00,GBP,Claimant Count Change,high
+04:30:00,GBP,MPC Asset Purchase Facility Votes,high
+04:30:00,GBP,MPC Official Bank Rate Votes,high
+04:30:00,GBP,Unemployment Rate,medium
+04:30:00,GBP,Average Earnings Index 3m/y,low
+05:00:00,CHF,Credit Suisse Economic Expectations,medium
+05:15:00,GBP,MPC Member Tucker Speaks,medium
+08:30:00,USD,Building Permits,high
+08:30:00,USD,Housing Starts,medium
+10:30:00,USD,Crude Oil Inventories,medium
+20:30:00,AUD,NAB Quarterly Business Confidence,medium
+22:00:00,CNY,GDP q/y,high
+22:00:00,CNY,Fixed Asset Investment ytd/y,medium
+22:00:00,CNY,Industrial Production y/y,medium
+22:00:00,CNY,NBS Press Conference,medium
+22:00:00,CNY,Retail Sales y/y,low

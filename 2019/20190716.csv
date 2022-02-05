@@ -1,0 +1,23 @@
+time,currency,event,impact
+04:00:00,EUR,Italian Trade Balance,low
+04:30:00,GBP,Average Earnings Index 3m/y,high
+04:30:00,GBP,Claimant Count Change,low
+04:30:00,GBP,Unemployment Rate,low
+05:00:00,EUR,German ZEW Economic Sentiment,medium
+05:00:00,EUR,Trade Balance,low
+05:00:00,EUR,ZEW Economic Sentiment,low
+08:00:00,GBP,BOE Gov Carney Speaks,high
+08:15:00,USD,FOMC Member Bowman Speaks,medium
+08:30:00,CAD,Foreign Securities Purchases,low
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Import Prices m/m,low
+09:15:00,USD,Capacity Utilization Rate,low
+09:15:00,USD,Industrial Production m/m,low
+10:00:00,USD,Business Inventories m/m,low
+10:00:00,USD,NAHB Housing Market Index,low
+10:25:00,NZD,GDT Price Index,low
+13:00:00,USD,Fed Chair Powell Speaks,high
+14:40:00,USD,FOMC Member Evans Speaks,high
+16:00:00,USD,TIC Long-Term Purchases,low
+20:30:00,AUD,MI Leading Index m/m,low

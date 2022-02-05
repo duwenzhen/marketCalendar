@@ -1,0 +1,20 @@
+time,currency,event,impact
+04:30:00,GBP,Construction PMI,high
+05:00:00,EUR,Revised GDP q/q,low
+06:00:00,EUR,German Industrial Production m/m,medium
+07:45:00,EUR,Main Refinancing Rate,high
+08:15:00,USD,FOMC Member Lockhart Speaks,medium
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Revised Nonfarm Productivity q/q,medium
+08:30:00,USD,Revised Unit Labor Costs q/q,low
+09:30:00,USD,FOMC Member Lockhart Speaks,medium
+10:00:00,USD,FOMC Member Tarullo Speaks,low
+10:30:00,USD,Crude Oil Inventories,medium
+14:00:00,USD,Beige Book,medium
+15:30:00,USD,FOMC Member Williams Speaks,medium
+19:00:00,USD,FOMC Member Yellen Speaks,medium
+19:01:00,GBP,BRC Retail Sales Monitor y/y,medium
+19:19:00,AUD,AIG Construction Index,low
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high
+23:45:00,JPY,30-y Bond Auction,low

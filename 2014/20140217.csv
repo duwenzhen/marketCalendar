@@ -1,0 +1,7 @@
+time,currency,event,impact
+01:01:00,EUR,Eurogroup Meetings,medium
+06:00:00,EUR,German Buba Monthly Report,medium
+01:01:00,USD,Bank Holiday,holiday
+19:30:00,AUD,Monetary Policy Meeting Minutes,high
+21:00:00,CNY,Foreign Direct Investment ytd/y,low
+22:28:00,JPY,Monetary Policy Statement,high

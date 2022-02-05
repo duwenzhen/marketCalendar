@@ -1,0 +1,18 @@
+time,currency,event,impact
+02:00:00,EUR,German Prelim GDP q/q,high
+02:45:00,EUR,French Prelim GDP q/q,medium
+02:45:00,EUR,French Prelim Private Payrolls q/q,medium
+03:15:00,CHF,Retail Sales y/y,high
+04:00:00,EUR,Italian Prelim GDP q/q,low
+05:00:00,EUR,Flash GDP q/q,high
+05:00:00,EUR,Final CPI y/y,medium
+05:00:00,EUR,Final Core CPI y/y,medium
+08:30:00,CAD,Manufacturing Sales m/m,medium
+08:30:00,USD,Core CPI m/m,high
+08:30:00,USD,CPI m/m,medium
+08:30:00,USD,Empire State Manufacturing Index,medium
+09:00:00,USD,TIC Long-Term Purchases,high
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+09:55:00,USD,Prelim UoM Consumer Sentiment,medium
+09:55:00,USD,Prelim UoM Inflation Expectations,low

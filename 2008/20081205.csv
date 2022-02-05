@@ -1,0 +1,10 @@
+time,currency,event,impact
+06:00:00,EUR,German Factory Orders m/m,medium
+07:00:00,CAD,Employment Change,high
+07:00:00,CAD,Unemployment Rate,high
+08:00:00,USD,Assist Treasury Sec Kashkari Speaks,low
+08:30:00,USD,Non-Farm Employment Change,high
+08:30:00,USD,Unemployment Rate,high
+08:30:00,USD,Average Hourly Earnings m/m,medium
+10:00:00,USD,Mortgage Delinquencies,medium
+15:00:00,USD,Consumer Credit m/m,low

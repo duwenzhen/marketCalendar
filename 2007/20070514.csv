@@ -1,0 +1,11 @@
+time,currency,event,impact
+03:00:00,EUR,Spanish Flash GDP q/q,low
+04:30:00,GBP,PPI Input m/m,high
+04:30:00,GBP,ONS HPI y/y,low
+04:30:00,GBP,PPI Output m/m,low
+05:00:00,EUR,Industrial Production m/m,medium
+10:30:00,GBP,CB Leading Index m/m,low
+14:00:00,USD,Loan Officer Survey,low
+19:01:00,GBP,RICS House Price Balance,medium
+19:50:00,JPY,Core Machinery Orders m/m,medium
+22:00:00,CNY,Retail Sales y/y,low

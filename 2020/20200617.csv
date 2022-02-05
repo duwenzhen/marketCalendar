@@ -1,0 +1,24 @@
+time,currency,event,impact
+02:00:00,GBP,CPI y/y,medium
+02:00:00,GBP,Core CPI y/y,low
+02:00:00,GBP,PPI Input m/m,low
+02:00:00,GBP,PPI Output m/m,low
+02:02:00,GBP,RPI y/y,low
+05:00:00,EUR,Final CPI y/y,low
+05:00:00,EUR,Final Core CPI y/y,low
+05:37:00,EUR,German 10-y Bond Auction,low
+08:30:00,CAD,CPI m/m,medium
+08:30:00,CAD,Common CPI y/y,low
+08:30:00,CAD,Median CPI y/y,low
+08:30:00,CAD,Trimmed CPI y/y,low
+08:30:00,USD,Building Permits,medium
+08:30:00,USD,Housing Starts,low
+08:32:00,CAD,Core CPI m/m,low
+10:30:00,AUD,CB Leading Index m/m,low
+10:30:00,USD,Crude Oil Inventories,low
+12:00:00,USD,Fed Chair Powell Testifies,high
+16:00:00,USD,FOMC Member Mester Speaks,low
+18:45:00,NZD,GDP q/q,high
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high
+21:30:00,AUD,RBA Bulletin,low

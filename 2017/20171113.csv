@@ -1,0 +1,13 @@
+time,currency,event,impact
+01:00:00,JPY,Prelim Machine Tool Orders y/y,low
+02:00:00,EUR,German WPI m/m,low
+03:00:00,CNY,M2 Money Supply y/y,low
+03:00:00,CNY,New Loans,low
+01:01:00,CAD,Bank Holiday,holiday
+12:45:00,JPY,BOJ Gov Kuroda Speaks,high
+14:00:00,USD,Federal Budget Balance,low
+19:30:00,AUD,NAB Business Confidence,medium
+21:00:00,CNY,Industrial Production y/y,high
+21:00:00,CNY,Fixed Asset Investment ytd/y,medium
+21:00:00,CNY,Retail Sales y/y,low
+22:34:00,CNY,Foreign Direct Investment ytd/y,low

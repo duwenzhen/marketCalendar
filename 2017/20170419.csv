@@ -1,0 +1,13 @@
+time,currency,event,impact
+04:04:00,EUR,Italian Trade Balance,low
+05:00:00,EUR,Final CPI y/y,medium
+05:00:00,EUR,Final Core CPI y/y,low
+05:00:00,EUR,Trade Balance,low
+05:35:00,EUR,German 30-y Bond Auction,low
+10:30:00,USD,Crude Oil Inventories,high
+13:00:00,CAD,Gov Council Member Wilkins Speaks,medium
+14:00:00,USD,Beige Book,low
+16:00:00,USD,FOMC Member Fischer Speaks,medium
+18:45:00,NZD,CPI q/q,high
+19:50:00,JPY,Trade Balance,low
+21:30:00,AUD,NAB Quarterly Business Confidence,medium

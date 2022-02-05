@@ -1,0 +1,24 @@
+time,currency,event,impact
+01:01:00,EUR,German Prelim CPI m/m,medium
+04:00:00,EUR,Spanish Flash CPI y/y,low
+05:00:00,EUR,M3 Money Supply y/y,low
+05:00:00,EUR,Private Loans y/y,low
+06:16:00,EUR,Italian 10-y Bond Auction,low
+07:15:00,USD,FOMC Member Quarles Speaks,medium
+08:30:00,USD,Final GDP q/q,high
+08:30:00,USD,Final GDP Price Index q/q,low
+08:30:00,USD,Unemployment Claims,low
+09:30:00,USD,FOMC Member Clarida Speaks,medium
+10:00:00,USD,FOMC Member Bowman Speaks,medium
+10:00:00,USD,Pending Home Sales m/m,low
+10:30:00,USD,Natural Gas Storage,low
+13:00:00,CHF,Gov Board Member Maechler Speaks,medium
+16:00:00,NZD,RBNZ Gov Orr Speaks,high
+17:20:00,USD,FOMC Member Bullard Speaks,medium
+17:45:00,NZD,Building Consents m/m,low
+19:30:00,JPY,Tokyo Core CPI y/y,low
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,Prelim Industrial Production m/m,low
+19:50:00,JPY,Retail Sales y/y,low
+20:01:00,GBP,GfK Consumer Confidence,low
+20:30:00,AUD,Private Sector Credit m/m,low

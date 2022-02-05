@@ -1,0 +1,18 @@
+time,currency,event,impact
+01:00:00,JPY,Economy Watchers Sentiment,low
+01:45:00,CHF,Unemployment Rate,low
+02:00:00,EUR,German Trade Balance,medium
+02:57:00,GBP,Halifax HPI m/m,medium
+03:15:00,CHF,CPI m/m,medium
+03:15:00,CHF,Retail Sales y/y,medium
+04:30:00,EUR,Sentix Investor Confidence,low
+08:30:00,CAD,Building Permits m/m,high
+08:45:00,USD,Treasury Sec Lew Speaks,medium
+15:00:00,USD,Consumer Credit m/m,low
+19:01:00,GBP,BRC Retail Sales Monitor y/y,low
+19:50:00,JPY,Monetary Policy Meeting Minutes,medium
+19:50:00,JPY,Tertiary Industry Activity m/m,medium
+19:50:00,JPY,M2 Money Stock y/y,low
+21:30:00,AUD,NAB Business Confidence,high
+21:30:00,AUD,Home Loans m/m,medium
+23:45:00,JPY,30-y Bond Auction,low

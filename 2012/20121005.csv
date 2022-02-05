@@ -1,0 +1,14 @@
+time,currency,event,impact
+01:00:00,JPY,Leading Indicators,low
+03:00:00,CHF,Foreign Currency Reserves,high
+03:27:00,JPY,BOJ Press Conference,high
+05:05:00,EUR,Final GDP q/q,low
+06:00:00,EUR,German Factory Orders m/m,medium
+08:30:00,CAD,Building Permits m/m,high
+08:30:00,CAD,Employment Change,high
+08:30:00,CAD,Unemployment Rate,high
+08:30:00,USD,Non-Farm Employment Change,high
+08:30:00,USD,Unemployment Rate,high
+08:30:00,USD,Average Hourly Earnings m/m,medium
+13:00:00,USD,FOMC Member Duke Speaks,low
+15:00:00,USD,Consumer Credit m/m,low

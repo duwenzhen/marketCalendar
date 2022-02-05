@@ -1,0 +1,20 @@
+time,currency,event,impact
+00:05:00,JPY,Monetary Policy Statement,medium
+00:05:00,JPY,Overnight Call Rate,medium
+01:00:00,JPY,Housing Starts y/y,low
+02:00:00,JPY,BOJ Outlook Report,medium
+03:00:00,EUR,German Retail Sales m/m,medium
+03:00:00,GBP,Nationwide HPI m/m,high
+03:22:00,JPY,BOJ Press Conference,high
+05:55:00,EUR,CPI Flash Estimate y/y,medium
+06:00:00,EUR,Unemployment Rate,medium
+06:00:00,EUR,Italian Prelim CPI m/m,low
+06:30:00,CHF,KOF Economic Barometer,medium
+08:30:00,CAD,GDP m/m,high
+08:30:00,USD,Core PCE Price Index m/m,medium
+08:30:00,USD,Employment Cost Index q/q,medium
+08:30:00,USD,Personal Spending m/m,medium
+08:30:00,USD,Personal Income m/m,low
+09:45:00,USD,Chicago PMI,medium
+09:55:00,USD,Revised UoM Consumer Sentiment,medium
+09:55:00,USD,Revised UoM Inflation Expectations,low

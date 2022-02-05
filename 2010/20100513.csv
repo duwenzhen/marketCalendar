@@ -1,0 +1,22 @@
+time,currency,event,impact
+01:00:00,JPY,Economy Watchers Sentiment,low
+01:01:00,CHF,Bank Holiday,holiday
+01:01:00,EUR,French Bank Holiday,holiday
+01:01:00,EUR,German Bank Holiday,holiday
+02:00:00,JPY,Prelim Machine Tool Orders y/y,low
+04:00:00,EUR,ECB Monthly Bulletin,medium
+04:30:00,GBP,Goods Trade Balance,high
+04:30:00,GBP,ONS HPI y/y,low
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Import Prices m/m,medium
+09:00:00,USD,FOMC Member Kohn Speaks,medium
+10:30:00,USD,Natural Gas Storage,low
+12:30:00,USD,Fed Chairman Bernanke Speaks,high
+13:00:00,USD,30-y Bond Auction,low
+14:00:00,CAD,Gov Council Member Duguay Speaks,medium
+18:00:00,NZD,REINZ HPI m/m,medium
+18:45:00,NZD,Core Retail Sales m/m,high
+18:45:00,NZD,Retail Sales m/m,medium
+18:45:00,NZD,Core Retail Sales q/q,low
+18:45:00,NZD,Retail Sales q/q,low
+22:28:00,CNY,Foreign Direct Investment ytd/y,low

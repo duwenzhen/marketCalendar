@@ -1,0 +1,10 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,low
+02:00:00,EUR,German GfK Consumer Climate,medium
+01:01:00,All,G7 Meetings,high
+05:33:00,EUR,German 30-y Bond Auction,low
+09:00:00,EUR,Belgian NBB Business Climate,low
+10:00:00,CAD,BOC Rate Statement,high
+10:00:00,CAD,Overnight Rate,high
+19:50:00,JPY,Retail Sales y/y,medium
+21:30:00,AUD,Private Capital Expenditure q/q,high

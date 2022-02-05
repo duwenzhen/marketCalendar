@@ -1,0 +1,22 @@
+time,currency,event,impact
+00:30:00,JPY,BOJ Gov Kuroda Speaks,medium
+02:45:00,EUR,French Industrial Production m/m,low
+03:15:00,EUR,Spanish Services PMI,low
+03:45:00,EUR,Italian Services PMI,low
+03:50:00,EUR,French Final Services PMI,low
+03:55:00,EUR,German Final Services PMI,low
+04:00:00,EUR,Final Services PMI,low
+04:30:00,GBP,Final Services PMI,low
+05:00:00,EUR,PPI m/m,low
+01:01:00,EUR,ECOFIN Meetings,low
+08:30:00,CAD,Trade Balance,low
+08:30:00,USD,Trade Balance,low
+09:45:00,USD,Final Services PMI,low
+09:54:00,USD,IBD/TIPP Economic Optimism,low
+10:00:00,USD,ISM Services PMI,high
+11:02:00,NZD,GDT Price Index,low
+12:15:00,EUR,ECB President Lagarde Speaks,medium
+13:15:00,USD,FOMC Member Quarles Speaks,medium
+01:01:00,CNY,Bank Holiday,holiday
+21:00:00,NZD,Official Cash Rate,high
+21:00:00,NZD,RBNZ Rate Statement,high

@@ -1,0 +1,7 @@
+time,currency,event,impact
+01:01:00,All,G20 Meetings,medium
+21:00:00,CNY,Manufacturing PMI,low
+21:00:00,CNY,Non-Manufacturing PMI,low
+22:00:00,CHF,Daylight Saving Time Shift,holiday
+22:00:00,EUR,Daylight Saving Time Shift,holiday
+22:00:00,GBP,Daylight Saving Time Shift,holiday

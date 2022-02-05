@@ -1,0 +1,10 @@
+time,currency,event,impact
+01:01:00,AUD,Bank Holiday,holiday
+19:30:00,AUD,AIG Manufacturing Index,low
+21:00:00,AUD,HIA New Home Sales m/m,low
+21:00:00,AUD,MI Inflation Gauge m/m,low
+21:00:00,CNY,Manufacturing PMI,high
+21:00:00,CNY,Non-Manufacturing PMI,medium
+21:15:00,USD,FOMC Member Dudley Speaks,medium
+21:45:00,CNY,Caixin Manufacturing PMI,medium
+22:00:00,JPY,Final Manufacturing PMI,low

@@ -1,0 +1,18 @@
+time,currency,event,impact
+02:00:00,CHF,Trade Balance,low
+01:01:00,JPY,BOJ Press Conference,medium
+03:00:00,CHF,KOF Economic Barometer,medium
+03:30:00,CHF,SNB Monetary Policy Assessment,high
+03:30:00,CHF,SNB Policy Rate,medium
+04:00:00,EUR,ECB Economic Bulletin,low
+04:30:00,CHF,SNB Press Conference,high
+06:00:00,GBP,CBI Realized Sales,low
+08:30:00,USD,Unemployment Claims,medium
+08:30:00,USD,Current Account,low
+10:00:00,EUR,Consumer Confidence,low
+10:00:00,USD,CB Leading Index m/m,low
+10:30:00,USD,Natural Gas Storage,low
+19:01:00,GBP,GfK Consumer Confidence,low
+19:30:00,JPY,Tokyo Core CPI y/y,low
+19:50:00,JPY,SPPI y/y,low
+01:01:00,JPY,Bank Holiday,holiday

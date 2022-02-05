@@ -1,0 +1,26 @@
+time,currency,event,impact
+00:30:00,JPY,Tertiary Industry Activity m/m,low
+02:00:00,CHF,SECO Economic Forecasts,low
+05:00:00,EUR,ZEW Economic Sentiment,medium
+05:00:00,EUR,German ZEW Economic Sentiment,medium
+05:00:00,EUR,Trade Balance,low
+07:00:00,GBP,Asset Purchase Facility,high
+07:00:00,GBP,MPC Asset Purchase Facility Votes,high
+07:00:00,GBP,MPC Official Bank Rate Votes,high
+07:00:00,GBP,Monetary Policy Summary,high
+07:00:00,GBP,Official Bank Rate,high
+08:15:00,CAD,Housing Starts,low
+08:30:00,CAD,ADP Non-Farm Employment Change,low
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Empire State Manufacturing Index,medium
+08:30:00,USD,Philly Fed Manufacturing Index,medium
+08:30:00,USD,Unemployment Claims,medium
+08:30:00,USD,Import Prices m/m,low
+09:15:00,USD,Industrial Production m/m,medium
+09:15:00,USD,Capacity Utilization Rate,low
+10:00:00,USD,Business Inventories m/m,low
+10:30:00,USD,Natural Gas Storage,low
+18:30:00,NZD,BusinessNZ Manufacturing Index,low
+19:30:00,JPY,National Core CPI y/y,low
+19:50:00,JPY,Trade Balance,low

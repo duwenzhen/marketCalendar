@@ -1,0 +1,16 @@
+time,currency,event,impact
+00:30:00,AUD,Cash Rate,high
+00:30:00,AUD,RBA Rate Statement,high
+03:00:00,CHF,Foreign Currency Reserves,high
+03:15:00,CHF,CPI m/m,medium
+05:00:00,EUR,Revised GDP q/q,low
+06:00:00,EUR,German Factory Orders m/m,medium
+10:00:00,USD,ISM Services PMI,high
+10:30:00,NZD,GDT Price Index,low
+13:10:00,USD,FOMC Member Kocherlakota Speaks,medium
+19:00:00,GBP,BRC Shop Price Index y/y,low
+19:22:00,AUD,AIG Construction Index,low
+19:30:00,AUD,RBA Gov Stevens Speaks,high
+21:30:00,AUD,GDP q/q,high
+23:21:00,JPY,Monetary Policy Statement,high
+23:21:00,JPY,Overnight Call Rate,high

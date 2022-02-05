@@ -1,0 +1,13 @@
+time,currency,event,impact
+02:00:00,EUR,German Factory Orders m/m,medium
+04:10:00,EUR,Retail PMI,low
+04:30:00,EUR,Sentix Investor Confidence,low
+09:00:00,EUR,ECB President Draghi Speaks,high
+10:00:00,USD,Labor Market Conditions Index m/m,low
+14:00:00,USD,Loan Officer Survey,low
+16:30:00,USD,FOMC Member Harker Speaks,medium
+17:30:00,AUD,AIG Construction Index,low
+19:01:00,GBP,BRC Retail Sales Monitor y/y,low
+21:00:00,NZD,Inflation Expectations q/q,high
+22:30:00,AUD,Cash Rate,high
+22:30:00,AUD,RBA Rate Statement,high

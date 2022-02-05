@@ -1,0 +1,19 @@
+time,currency,event,impact
+00:30:00,CHF,SNB Financial Stability Report,medium
+02:00:00,CHF,Trade Balance,medium
+03:30:00,CHF,Libor Rate,high
+03:30:00,CHF,SNB Monetary Policy Assessment,high
+03:30:00,CHF,SNB Press Conference,high
+04:00:00,EUR,ECB Economic Bulletin,low
+04:30:00,GBP,Retail Sales m/m,high
+04:47:00,EUR,Spanish 10-y Bond Auction,low
+05:30:00,EUR,Long Term Refinancing Operation,high
+01:01:00,EUR,Eurogroup Meetings,high
+08:30:00,USD,CPI m/m,high
+08:30:00,USD,Core CPI m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Current Account,medium
+10:00:00,USD,Philly Fed Manufacturing Index,high
+10:00:00,USD,CB Leading Index m/m,low
+10:30:00,USD,Natural Gas Storage,low
+23:04:00,JPY,Monetary Policy Statement,high

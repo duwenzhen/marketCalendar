@@ -1,0 +1,26 @@
+time,currency,event,impact
+00:30:00,AUD,Cash Rate,high
+00:30:00,AUD,RBA Rate Statement,high
+03:00:00,EUR,Spanish Unemployment Change,medium
+03:15:00,EUR,Spanish Services PMI,medium
+03:45:00,EUR,Italian Services PMI,medium
+03:50:00,EUR,French Final Services PMI,low
+03:55:00,EUR,German Final Services PMI,low
+04:00:00,EUR,Final Services PMI,low
+04:30:00,GBP,Final Services PMI,high
+05:00:00,EUR,Retail Sales m/m,medium
+01:01:00,EUR,ECOFIN Meetings,medium
+08:30:00,CAD,Trade Balance,high
+08:30:00,USD,Trade Balance,high
+10:00:00,CAD,Ivey PMI,high
+10:00:00,USD,IBD/TIPP Economic Optimism,low
+10:44:00,NZD,GDT Price Index,medium
+17:30:00,USD,FOMC Member Stein Speaks,medium
+18:45:00,NZD,Employment Change q/q,high
+18:45:00,NZD,Unemployment Rate,high
+18:45:00,NZD,Labor Cost Index q/q,low
+19:01:00,GBP,BRC Shop Price Index y/y,low
+19:30:00,AUD,AIG Construction Index,low
+19:50:00,JPY,Monetary Policy Meeting Minutes,medium
+21:30:00,AUD,Retail Sales m/m,high
+21:45:00,CNY,Caixin Services PMI,medium

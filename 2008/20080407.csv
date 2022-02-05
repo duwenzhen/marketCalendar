@@ -1,0 +1,11 @@
+time,currency,event,impact
+01:00:00,JPY,Leading Indicators,low
+01:45:00,CHF,Unemployment Rate,low
+02:45:00,EUR,French Trade Balance,low
+04:30:00,EUR,Sentix Investor Confidence,low
+06:00:00,EUR,German Industrial Production m/m,medium
+08:30:00,CAD,Building Permits m/m,high
+15:00:00,USD,Consumer Credit m/m,low
+17:30:00,USD,FOMC Member Kohn Speaks,low
+18:00:00,NZD,NZIER Business Confidence,high
+21:30:00,AUD,NAB Business Confidence,low

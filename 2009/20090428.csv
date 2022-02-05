@@ -1,0 +1,13 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,medium
+01:01:00,EUR,German Prelim CPI m/m,medium
+04:00:00,EUR,Italian Retail Sales m/m,low
+06:00:00,GBP,CBI Realized Sales,high
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+09:59:00,USD,Richmond Manufacturing Index,low
+10:00:00,USD,CB Consumer Confidence,high
+11:00:00,CHF,SNB Chairman Roth Speaks,high
+18:45:00,NZD,Trade Balance,medium
+01:01:00,JPY,Bank Holiday,holiday
+21:25:00,AUD,HIA New Home Sales m/m,medium
+23:09:00,NZD,Final ANZ Business Confidence,high

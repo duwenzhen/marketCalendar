@@ -1,0 +1,15 @@
+time,currency,event,impact
+02:00:00,EUR,German GfK Consumer Climate,low
+02:00:00,GBP,Final GDP q/q,low
+02:00:00,GBP,Public Sector Net Borrowing,low
+02:00:00,GBP,Revised Business Investment q/q,low
+02:02:00,GBP,Current Account,low
+08:30:00,USD,Final GDP q/q,medium
+08:32:00,USD,Final GDP Price Index q/q,low
+09:00:00,CNY,CB Leading Index m/m,low
+09:59:00,USD,Richmond Manufacturing Index,low
+10:00:00,USD,CB Consumer Confidence,low
+10:00:00,USD,Existing Home Sales,low
+18:50:00,JPY,Monetary Policy Meeting Minutes,low
+19:30:00,AUD,Goods Trade Balance,low
+19:30:00,AUD,Private Sector Credit m/m,low

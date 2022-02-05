@@ -1,0 +1,15 @@
+time,currency,event,impact
+04:00:00,EUR,Current Account,low
+05:00:00,EUR,German ZEW Economic Sentiment,medium
+05:00:00,EUR,ZEW Economic Sentiment,low
+05:35:00,GBP,30-y Bond Auction,low
+08:30:00,CAD,Manufacturing Sales m/m,medium
+08:30:00,USD,Building Permits,high
+08:30:00,USD,Current Account,medium
+08:30:00,USD,Housing Starts,medium
+08:30:00,USD,Import Prices m/m,medium
+10:33:00,NZD,GDT Price Index,medium
+18:45:00,NZD,Current Account,medium
+19:50:00,JPY,Trade Balance,low
+20:30:00,AUD,MI Leading Index m/m,low
+23:05:00,AUD,RBA Assist Gov Ellis Speaks,medium

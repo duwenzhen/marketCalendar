@@ -1,0 +1,9 @@
+time,currency,event,impact
+06:00:00,EUR,German Buba Monthly Report,low
+08:20:00,EUR,ECB President Lagarde Speaks,high
+08:30:00,CAD,NHPI m/m,low
+10:00:00,USD,Fed Chair Powell Speaks,high
+12:00:00,USD,FOMC Member Brainard Speaks,low
+18:00:00,USD,FOMC Member Williams Speaks,low
+01:01:00,JPY,Bank Holiday,holiday
+20:30:00,AUD,RBA Deputy Gov Debelle Speaks,low

@@ -1,0 +1,19 @@
+time,currency,event,impact
+02:00:00,EUR,German Final CPI m/m,low
+05:00:00,EUR,Final CPI y/y,medium
+05:00:00,EUR,Final Core CPI y/y,medium
+07:45:00,EUR,Main Refinancing Rate,high
+08:30:00,CAD,New Motor Vehicle Sales m/m,low
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Core PPI m/m,medium
+08:30:00,USD,Empire State Manufacturing Index,medium
+10:00:00,USD,Philly Fed Manufacturing Index,medium
+10:00:00,USD,FOMC Member Tarullo Speaks,low
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,CHF,Gov Board Member Jordan Speaks,medium
+13:40:00,USD,FOMC Member Evans Speaks,medium
+13:40:00,USD,FOMC Member Lockhart Speaks,medium
+15:45:00,USD,FOMC Member Yellen Speaks,medium
+19:30:00,JPY,BOJ Gov Shirakawa Speaks,medium

@@ -1,0 +1,13 @@
+time,currency,event,impact
+03:00:00,EUR,German GfK Consumer Climate,low
+03:00:00,EUR,German Import Prices m/m,low
+06:34:00,EUR,German 10-y Bond Auction,low
+08:30:00,USD,Goods Trade Balance,medium
+10:30:00,USD,Crude Oil Inventories,medium
+14:00:00,USD,FOMC Statement,high
+14:00:00,USD,Federal Funds Rate,high
+16:00:00,NZD,Official Cash Rate,high
+16:00:00,NZD,RBNZ Rate Statement,high
+19:50:00,JPY,Prelim Industrial Production m/m,low
+20:00:00,AUD,HIA New Home Sales m/m,low
+20:30:00,AUD,Import Prices q/q,medium

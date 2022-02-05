@@ -1,0 +1,14 @@
+time,currency,event,impact
+01:01:00,All,OPEC-JMMC Meetings,high
+08:00:00,USD,Fed Chair Powell Speaks,high
+08:30:00,CAD,Wholesale Sales m/m,low
+08:45:00,EUR,ECB President Lagarde Speaks,medium
+10:00:00,USD,NAHB Housing Market Index,low
+10:05:00,GBP,MPC Member Cunliffe Speaks,low
+10:30:00,CAD,BOC Business Outlook Survey,medium
+11:00:00,GBP,MPC Member Cunliffe Speaks,low
+11:45:00,USD,FOMC Member Clarida Speaks,low
+15:00:00,USD,FOMC Member Harker Speaks,low
+17:00:00,NZD,NZIER Business Confidence,low
+19:00:00,AUD,RBA Assist Gov Kent Speaks,medium
+20:30:00,AUD,Monetary Policy Meeting Minutes,high

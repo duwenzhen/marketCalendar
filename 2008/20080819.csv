@@ -1,0 +1,13 @@
+time,currency,event,impact
+02:00:00,EUR,German PPI m/m,medium
+03:20:00,JPY,BOJ Press Conference,high
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,ZEW Economic Sentiment,medium
+08:30:00,CAD,Wholesale Sales m/m,medium
+08:30:00,USD,Building Permits,high
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Core PPI m/m,medium
+08:30:00,USD,Housing Starts,medium
+10:00:00,USD,FOMC Member Fisher Speaks,medium
+19:50:00,JPY,All Industries Activity m/m,low
+20:30:00,AUD,MI Leading Index m/m,low

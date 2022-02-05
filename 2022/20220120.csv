@@ -1,0 +1,18 @@
+time,currency,event,impact
+02:00:00,EUR,German PPI m/m,low
+01:01:00,All,WEF Annual Meetings,medium
+04:48:00,EUR,Spanish 10-y Bond Auction,low
+05:00:00,EUR,Final CPI y/y,low
+05:00:00,EUR,Final Core CPI y/y,low
+07:30:00,EUR,ECB Monetary Policy Meeting Accounts,low
+08:30:00,USD,Philly Fed Manufacturing Index,medium
+08:30:00,USD,Unemployment Claims,medium
+08:35:00,CAD,ADP Non-Farm Employment Change,low
+10:00:00,USD,Existing Home Sales,medium
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,USD,Crude Oil Inventories,medium
+16:30:00,NZD,BusinessNZ Manufacturing Index,low
+16:45:00,NZD,Visitor Arrivals m/m,low
+18:30:00,JPY,National Core CPI y/y,low
+18:50:00,JPY,Monetary Policy Meeting Minutes,low
+19:01:00,GBP,GfK Consumer Confidence,low

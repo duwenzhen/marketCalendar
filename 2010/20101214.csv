@@ -1,0 +1,29 @@
+time,currency,event,impact
+01:30:00,EUR,French Final CPI m/m,low
+01:45:00,CHF,SECO Economic Forecasts,medium
+04:30:00,GBP,CPI y/y,high
+04:30:00,GBP,Core CPI y/y,medium
+04:30:00,GBP,ONS HPI y/y,low
+04:30:00,GBP,RPI y/y,low
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,Industrial Production m/m,medium
+05:00:00,EUR,ZEW Economic Sentiment,medium
+07:30:00,USD,NFIB Small Business Index,low
+08:30:00,CAD,Labor Productivity q/q,medium
+08:30:00,CAD,Leading Index m/m,medium
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Core PPI m/m,medium
+08:34:00,CAD,New Motor Vehicle Sales m/m,low
+10:00:00,USD,Business Inventories m/m,medium
+14:15:00,USD,FOMC Statement,high
+14:15:00,USD,Federal Funds Rate,high
+18:30:00,AUD,Westpac Consumer Sentiment,medium
+18:50:00,JPY,Tankan Manufacturing Index,high
+18:50:00,JPY,Tankan Non-Manufacturing Index,medium
+18:50:00,JPY,Tertiary Industry Activity m/m,medium
+19:00:00,AUD,RBA Deputy Gov Debelle Speaks,medium
+19:30:00,AUD,New Motor Vehicle Sales m/m,medium
+21:00:00,CNY,CB Leading Index m/m,low
+21:03:00,CNY,Foreign Direct Investment ytd/y,low

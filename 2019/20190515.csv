@@ -1,0 +1,27 @@
+time,currency,event,impact
+02:00:00,EUR,German Prelim GDP q/q,high
+02:00:00,JPY,Prelim Machine Tool Orders y/y,low
+02:45:00,EUR,French Final CPI m/m,low
+05:00:00,EUR,Flash GDP q/q,medium
+05:00:00,EUR,Flash Employment Change q/q,low
+05:35:00,EUR,German 30-y Bond Auction,low
+08:30:00,CAD,CPI m/m,high
+08:30:00,CAD,Common CPI y/y,medium
+08:30:00,CAD,Median CPI y/y,medium
+08:30:00,CAD,Trimmed CPI y/y,medium
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Empire State Manufacturing Index,low
+08:32:00,CAD,Core CPI m/m,low
+09:15:00,USD,Capacity Utilization Rate,low
+09:15:00,USD,Industrial Production m/m,low
+09:37:00,USD,FOMC Member Quarles Speaks,medium
+10:00:00,USD,Business Inventories m/m,low
+10:00:00,USD,NAHB Housing Market Index,low
+10:30:00,USD,Crude Oil Inventories,low
+16:00:00,USD,TIC Long-Term Purchases,low
+19:50:00,JPY,PPI y/y,low
+21:00:00,AUD,MI Inflation Expectations,low
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high
+22:45:00,AUD,RBA Assist Gov Bullock Speaks,medium

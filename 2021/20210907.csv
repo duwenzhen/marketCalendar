@@ -1,0 +1,19 @@
+time,currency,event,impact
+00:30:00,AUD,RBA Rate Statement,high
+00:30:00,AUD,Cash Rate,medium
+00:59:00,JPY,Leading Indicators,low
+01:10:00,GBP,MPC Member Mann Speaks,low
+01:45:00,CHF,Unemployment Rate,low
+02:00:00,EUR,German Industrial Production m/m,low
+02:00:00,GBP,Halifax HPI m/m,low
+03:00:00,CHF,Foreign Currency Reserves,low
+03:30:00,GBP,MPC Member Saunders Speaks,medium
+05:00:00,EUR,ZEW Economic Sentiment,medium
+05:00:00,EUR,German ZEW Economic Sentiment,medium
+05:00:00,EUR,Final Employment Change q/q,low
+05:00:00,EUR,Revised GDP q/q,low
+10:36:00,NZD,GDT Price Index,low
+19:50:00,JPY,Bank Lending y/y,low
+19:50:00,JPY,Current Account,low
+19:50:00,JPY,Final GDP q/q,low
+19:54:00,JPY,Final GDP Price Index y/y,low

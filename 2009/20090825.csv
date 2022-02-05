@@ -1,0 +1,19 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,medium
+02:00:00,EUR,German Final GDP q/q,low
+03:15:00,CHF,Employment Level,medium
+04:15:00,CHF,Gov Board Member Hildebrand Speaks,medium
+04:30:00,GBP,High Street Lending,medium
+05:30:00,CHF,Gov Board Member Jordan Speaks,medium
+09:00:00,EUR,Belgian NBB Business Climate,medium
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,medium
+09:00:00,USD,President Obama Speaks,low
+10:00:00,USD,CB Consumer Confidence,high
+10:00:00,USD,Richmond Manufacturing Index,low
+10:08:00,USD,HPI m/m,low
+11:15:00,CHF,Gov Board Member Jordan Speaks,medium
+12:15:00,GBP,MPC Member Bean Speaks,medium
+13:00:00,CAD,Gov Council Member Lane Speaks,medium
+19:50:00,JPY,Trade Balance,medium
+19:50:00,JPY,SPPI y/y,low
+21:30:00,AUD,Construction Work Done q/q,medium

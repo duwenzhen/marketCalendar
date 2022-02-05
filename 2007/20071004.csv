@@ -1,0 +1,15 @@
+time,currency,event,impact
+03:00:00,CHF,Foreign Currency Reserves,low
+03:15:00,EUR,Spanish Services PMI,low
+04:00:00,GBP,Halifax HPI m/m,high
+06:01:00,EUR,French 10-y Bond Auction,low
+07:00:00,GBP,Official Bank Rate,high
+07:45:00,EUR,Main Refinancing Rate,medium
+08:30:00,CAD,Building Permits m/m,medium
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Unemployment Claims,medium
+10:00:00,CAD,Ivey PMI,high
+10:00:00,USD,Factory Orders m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+11:30:00,USD,FOMC Member Mishkin Speaks,medium
+01:01:00,CNY,Bank Holiday,holiday

@@ -1,0 +1,14 @@
+time,currency,event,impact
+00:30:00,JPY,All Industries Activity m/m,low
+02:00:00,EUR,German PPI m/m,medium
+03:13:00,JPY,BOJ Press Conference,high
+04:00:00,EUR,Current Account,medium
+06:00:00,EUR,German Buba Monthly Report,low
+07:00:00,CAD,Core CPI m/m,high
+07:00:00,CAD,CPI m/m,medium
+07:00:00,EUR,German Buba President Weidmann Speaks,medium
+08:00:00,USD,FOMC Member Dudley Speaks,low
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium
+09:30:00,CHF,Gov Board Member Danthine Speaks,low
+09:46:00,EUR,Consumer Confidence,low

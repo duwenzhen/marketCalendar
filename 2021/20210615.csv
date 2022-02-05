@@ -1,0 +1,27 @@
+time,currency,event,impact
+00:30:00,JPY,Tertiary Industry Activity m/m,low
+02:00:00,EUR,German Final CPI m/m,low
+02:00:00,GBP,Average Earnings Index 3m/y,low
+02:00:00,GBP,Claimant Count Change,low
+02:00:00,GBP,Unemployment Rate,low
+02:45:00,EUR,French Final CPI m/m,low
+03:00:00,CHF,SECO Economic Forecasts,low
+05:00:00,EUR,Trade Balance,low
+06:30:00,GBP,30-y Bond Auction,low
+08:15:00,CAD,Housing Starts,low
+08:15:00,GBP,BOE Gov Bailey Speaks,high
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Core PPI m/m,medium
+08:30:00,USD,Empire State Manufacturing Index,low
+09:15:00,USD,Industrial Production m/m,medium
+09:15:00,USD,Capacity Utilization Rate,low
+10:00:00,USD,Business Inventories m/m,low
+10:00:00,USD,NAHB Housing Market Index,low
+10:37:00,NZD,GDT Price Index,low
+16:00:00,USD,TIC Long-Term Purchases,low
+18:45:00,NZD,Current Account,low
+19:50:00,JPY,Core Machinery Orders m/m,low
+19:50:00,JPY,Trade Balance,low
+20:30:00,AUD,MI Leading Index m/m,low

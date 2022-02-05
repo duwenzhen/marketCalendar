@@ -1,0 +1,17 @@
+time,currency,event,impact
+01:00:00,JPY,Consumer Confidence,low
+02:50:00,CNY,USD-Denominated Trade Balance,high
+05:00:00,EUR,Italian Industrial Production m/m,low
+05:30:00,GBP,PPI Input m/m,high
+05:30:00,GBP,ONS HPI y/y,low
+05:30:00,GBP,PPI Output m/m,low
+08:30:00,CAD,Labor Productivity q/q,medium
+12:45:00,USD,FOMC Member Kroszner Speaks,medium
+15:00:00,USD,Federal Budget Balance,medium
+17:45:00,NZD,Core Retail Sales m/m,high
+17:45:00,NZD,Retail Sales m/m,high
+20:01:00,GBP,RICS House Price Balance,medium
+20:30:00,AUD,ANZ Job Advertisements m/m,medium
+20:30:00,AUD,NAB Business Confidence,low
+22:00:00,CNY,CPI y/y,medium
+22:30:00,CNY,Foreign Direct Investment ytd/y,low

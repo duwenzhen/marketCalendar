@@ -1,0 +1,23 @@
+time,currency,event,impact
+02:00:00,EUR,German Trade Balance,low
+02:45:00,EUR,French Industrial Production m/m,low
+02:45:00,EUR,French Prelim Private Payrolls q/q,low
+04:00:00,EUR,Italian Industrial Production m/m,low
+04:30:00,GBP,GDP m/m,high
+04:30:00,GBP,Manufacturing Production m/m,high
+04:30:00,GBP,Prelim GDP q/q,high
+04:30:00,GBP,Prelim Business Investment q/q,medium
+04:30:00,GBP,Construction Output m/m,low
+04:30:00,GBP,Goods Trade Balance,low
+04:30:00,GBP,Index of Services 3m/3m,low
+04:30:00,GBP,Industrial Production m/m,low
+05:03:00,EUR,Italian Retail Sales m/m,low
+08:23:00,GBP,NIESR GDP Estimate,low
+08:30:00,CAD,Employment Change,high
+08:30:00,CAD,Unemployment Rate,high
+08:30:00,CAD,Building Permits m/m,low
+08:30:00,USD,CPI m/m,high
+08:30:00,USD,Core CPI m/m,high
+08:30:00,USD,FOMC Member Brainard Speaks,medium
+10:00:00,USD,FOMC Member Williams Speaks,medium
+14:00:00,USD,Federal Budget Balance,low

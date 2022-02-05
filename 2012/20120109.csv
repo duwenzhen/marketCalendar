@@ -1,0 +1,16 @@
+time,currency,event,impact
+01:45:00,CHF,Unemployment Rate,low
+02:00:00,EUR,German Trade Balance,low
+02:45:00,EUR,French Trade Balance,low
+03:15:00,CHF,Retail Sales y/y,high
+04:30:00,EUR,Sentix Investor Confidence,medium
+06:00:00,EUR,German Industrial Production m/m,medium
+08:30:00,CAD,Building Permits m/m,high
+10:30:00,CAD,BOC Business Outlook Survey,high
+12:40:00,USD,FOMC Member Lockhart Speaks,medium
+15:00:00,USD,Consumer Credit m/m,low
+16:45:00,NZD,Building Consents m/m,high
+19:00:00,GBP,BRC Retail Sales Monitor y/y,medium
+19:01:00,GBP,RICS House Price Balance,medium
+19:30:00,AUD,Building Approvals m/m,high
+22:00:00,CNY,USD-Denominated Trade Balance,high

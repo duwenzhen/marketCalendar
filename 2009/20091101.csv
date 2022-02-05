@@ -1,0 +1,9 @@
+time,currency,event,impact
+02:00:00,CAD,Daylight Saving Time Shift,holiday
+02:00:00,USD,Daylight Saving Time Shift,holiday
+17:30:00,AUD,AIG Manufacturing Index,low
+18:30:00,AUD,MI Inflation Gauge m/m,low
+19:30:00,AUD,HPI q/q,medium
+20:30:00,AUD,Mid-Year Economic and Fiscal Outlook,medium
+20:30:00,JPY,Average Cash Earnings y/y,medium
+21:30:00,CNY,Caixin Manufacturing PMI,medium

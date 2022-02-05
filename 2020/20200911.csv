@@ -1,0 +1,21 @@
+time,currency,event,impact
+02:00:00,EUR,German Final CPI m/m,low
+02:00:00,EUR,German WPI m/m,low
+02:00:00,GBP,Construction Output m/m,low
+02:00:00,GBP,GDP m/m,low
+02:00:00,GBP,Goods Trade Balance,low
+02:00:00,GBP,Index of Services 3m/3m,low
+02:00:00,GBP,Industrial Production m/m,low
+02:00:00,GBP,Manufacturing Production m/m,low
+04:00:00,EUR,German Buba President Weidmann Speaks,low
+04:00:00,EUR,Italian Quarterly Unemployment Rate,low
+04:01:00,CNY,M2 Money Supply y/y,low
+04:01:00,CNY,New Loans,low
+04:30:00,GBP,Consumer Inflation Expectations,low
+01:01:00,EUR,Eurogroup Meetings,medium
+06:35:00,CNY,Foreign Direct Investment ytd/y,low
+08:30:00,CAD,Capacity Utilization Rate,low
+08:30:00,USD,CPI m/m,medium
+08:30:00,USD,Core CPI m/m,medium
+08:52:00,GBP,NIESR GDP Estimate,low
+14:00:00,USD,Federal Budget Balance,low

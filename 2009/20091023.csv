@@ -1,0 +1,17 @@
+time,currency,event,impact
+02:45:00,EUR,French Consumer Spending m/m,medium
+03:00:00,EUR,French Flash Manufacturing PMI,medium
+03:00:00,EUR,French Flash Services PMI,medium
+03:00:00,EUR,Spanish Unemployment Rate,low
+03:30:00,EUR,German Flash Manufacturing PMI,medium
+03:30:00,EUR,German Flash Services PMI,medium
+04:00:00,EUR,German ifo Business Climate,high
+04:00:00,EUR,Flash Manufacturing PMI,medium
+04:00:00,EUR,Flash Services PMI,medium
+04:30:00,GBP,Prelim GDP q/q,high
+04:30:00,GBP,High Street Lending,medium
+04:30:00,GBP,Index of Services 3m/3m,low
+05:00:00,EUR,Industrial New Orders m/m,medium
+08:30:00,USD,Fed Chairman Bernanke Speaks,high
+10:00:00,USD,Existing Home Sales,high
+11:30:00,USD,FOMC Member Kohn Speaks,medium

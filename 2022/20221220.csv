@@ -1,0 +1,16 @@
+time,currency,event,impact
+01:01:00,JPY,BOJ Press Conference,medium
+02:00:00,EUR,German Import Prices m/m,low
+02:00:00,EUR,German PPI m/m,low
+04:00:00,EUR,Current Account,low
+01:01:00,GBP,10-y Bond Auction,low
+08:30:00,CAD,Core Retail Sales m/m,medium
+08:30:00,CAD,Retail Sales m/m,medium
+08:30:00,CAD,NHPI m/m,low
+08:30:00,USD,Building Permits,low
+08:30:00,USD,Housing Starts,low
+10:00:00,EUR,Consumer Confidence,low
+10:30:00,AUD,CB Leading Index m/m,low
+01:01:00,NZD,GDT Price Index,low
+16:45:00,NZD,Trade Balance,low
+18:30:00,AUD,MI Leading Index m/m,low

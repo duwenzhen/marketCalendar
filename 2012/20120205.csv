@@ -1,0 +1,5 @@
+time,currency,event,impact
+01:01:00,NZD,Bank Holiday,holiday
+18:30:00,AUD,MI Inflation Gauge m/m,low
+19:30:00,AUD,Retail Sales m/m,high
+19:30:00,AUD,ANZ Job Advertisements m/m,medium

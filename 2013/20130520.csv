@@ -1,0 +1,11 @@
+time,currency,event,impact
+01:01:00,CHF,Bank Holiday,holiday
+01:01:00,EUR,German Bank Holiday,holiday
+01:01:00,EUR,French Bank Holiday,holiday
+01:01:00,CAD,Bank Holiday,holiday
+13:00:00,USD,FOMC Member Evans Speaks,medium
+18:45:00,NZD,Visitor Arrivals m/m,low
+20:00:00,AUD,CB Leading Index m/m,medium
+21:30:00,AUD,Monetary Policy Meeting Minutes,high
+23:00:00,NZD,Credit Card Spending y/y,low
+23:03:00,NZD,Inflation Expectations q/q,medium

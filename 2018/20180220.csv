@@ -1,0 +1,16 @@
+time,currency,event,impact
+02:00:00,CHF,Trade Balance,low
+02:00:00,EUR,German PPI m/m,low
+05:00:00,EUR,German ZEW Economic Sentiment,medium
+05:00:00,EUR,ZEW Economic Sentiment,low
+01:01:00,EUR,ECOFIN Meetings,low
+06:00:00,GBP,CBI Industrial Order Expectations,low
+08:30:00,CAD,Wholesale Sales m/m,low
+09:44:00,NZD,GDT Price Index,medium
+10:00:00,EUR,Consumer Confidence,low
+18:30:00,AUD,MI Leading Index m/m,low
+01:01:00,CNY,Bank Holiday,holiday
+19:30:00,AUD,Construction Work Done q/q,medium
+19:30:00,AUD,Wage Price Index q/q,medium
+19:30:00,JPY,Flash Manufacturing PMI,low
+23:30:00,JPY,All Industries Activity m/m,low

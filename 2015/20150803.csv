@@ -1,0 +1,25 @@
+time,currency,event,impact
+03:15:00,EUR,Spanish Manufacturing PMI,medium
+03:30:00,CHF,Manufacturing PMI,low
+03:45:00,EUR,Italian Manufacturing PMI,low
+03:50:00,EUR,French Final Manufacturing PMI,low
+03:55:00,EUR,German Final Manufacturing PMI,low
+04:00:00,EUR,Final Manufacturing PMI,low
+04:30:00,GBP,Final Manufacturing PMI,high
+01:01:00,CAD,Bank Holiday,holiday
+08:30:00,USD,Core PCE Price Index m/m,medium
+08:30:00,USD,Personal Spending m/m,medium
+08:30:00,USD,Personal Income m/m,low
+09:45:00,USD,ISM Manufacturing PMI,high
+09:45:00,USD,Final Manufacturing PMI,low
+09:45:00,USD,ISM Manufacturing Prices,low
+10:00:00,USD,Construction Spending m/m,low
+10:50:00,USD,FOMC Member Powell Speaks,medium
+01:01:00,USD,Total Vehicle Sales,low
+14:00:00,USD,Loan Officer Survey,low
+19:50:00,JPY,Monetary Base y/y,low
+21:00:00,NZD,ANZ Commodity Prices m/m,low
+21:30:00,AUD,Retail Sales m/m,high
+21:30:00,AUD,Trade Balance,high
+21:30:00,JPY,Average Cash Earnings y/y,low
+23:45:00,JPY,10-y Bond Auction,low

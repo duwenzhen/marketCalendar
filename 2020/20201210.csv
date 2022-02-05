@@ -1,0 +1,23 @@
+time,currency,event,impact
+02:00:00,GBP,Construction Output m/m,low
+02:00:00,GBP,GDP m/m,low
+02:00:00,GBP,Goods Trade Balance,low
+02:00:00,GBP,Index of Services 3m/3m,low
+02:00:00,GBP,Industrial Production m/m,low
+02:00:00,GBP,Manufacturing Production m/m,low
+02:45:00,EUR,French Industrial Production m/m,low
+04:44:00,EUR,Spanish 10-y Bond Auction,low
+01:01:00,EUR,EU Economic Summit,high
+07:45:00,EUR,Main Refinancing Rate,high
+07:45:00,EUR,Monetary Policy Statement,high
+08:19:00,GBP,NIESR GDP Estimate,low
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,CPI m/m,medium
+08:30:00,USD,Core CPI m/m,medium
+08:30:00,USD,Unemployment Claims,medium
+10:30:00,USD,Natural Gas Storage,low
+13:01:00,USD,30-y Bond Auction,low
+13:30:00,CAD,Gov Council Member Beaudry Speaks,low
+14:00:00,USD,Federal Budget Balance,low
+16:30:00,NZD,BusinessNZ Manufacturing Index,low
+16:45:00,NZD,FPI m/m,low

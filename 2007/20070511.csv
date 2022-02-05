@@ -1,0 +1,9 @@
+time,currency,event,impact
+04:55:00,CNY,USD-Denominated Trade Balance,high
+07:00:00,CAD,Employment Change,high
+07:00:00,CAD,Unemployment Rate,high
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Core PPI m/m,medium
+10:00:00,USD,Business Inventories m/m,medium

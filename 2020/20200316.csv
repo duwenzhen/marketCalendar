@@ -1,0 +1,13 @@
+time,currency,event,impact
+01:06:00,JPY,BOJ Policy Rate,high
+01:06:00,JPY,Monetary Policy Statement,high
+03:00:00,JPY,BOJ Press Conference,medium
+03:30:00,CHF,PPI m/m,low
+01:01:00,All,G7 Meetings,high
+01:01:00,EUR,Eurogroup Meetings,low
+08:30:00,USD,Empire State Manufacturing Index,medium
+15:25:00,USD,President Trump Speaks,high
+16:00:00,NZD,Westpac Consumer Sentiment,low
+16:00:00,USD,TIC Long-Term Purchases,low
+20:30:00,AUD,Monetary Policy Meeting Minutes,high
+20:30:00,AUD,HPI q/q,medium

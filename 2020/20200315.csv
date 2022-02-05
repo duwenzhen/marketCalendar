@@ -1,0 +1,17 @@
+time,currency,event,impact
+15:00:00,NZD,Official Cash Rate,high
+15:00:00,NZD,RBNZ Rate Statement,high
+17:00:00,USD,FOMC Statement,high
+17:00:00,USD,Fed Announcement,high
+17:00:00,USD,Federal Funds Rate,high
+17:17:00,USD,President Trump Speaks,high
+17:48:00,NZD,Visitor Arrivals m/m,low
+18:00:00,NZD,RBNZ Press Conference,high
+18:30:00,USD,FOMC Press Conference,high
+19:50:00,JPY,Core Machinery Orders m/m,low
+20:01:00,GBP,Rightmove HPI m/m,low
+22:00:00,CNY,Industrial Production y/y,high
+22:00:00,CNY,Fixed Asset Investment ytd/y,medium
+22:00:00,CNY,Retail Sales y/y,low
+22:00:00,CNY,Unemployment Rate,low
+22:01:00,CNY,NBS Press Conference,low

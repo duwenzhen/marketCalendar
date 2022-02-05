@@ -1,0 +1,12 @@
+time,currency,event,impact
+04:00:00,EUR,German ifo Business Climate,high
+06:00:00,GBP,CBI Realized Sales,low
+08:30:00,CAD,Corporate Profits q/q,low
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Durable Goods Orders m/m,medium
+09:45:00,USD,Flash Services PMI,low
+10:30:00,USD,Natural Gas Storage,low
+01:01:00,All,Jackson Hole Symposium,medium
+19:30:00,JPY,Tokyo Core CPI y/y,medium
+19:30:00,JPY,National Core CPI y/y,low

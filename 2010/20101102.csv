@@ -1,0 +1,14 @@
+time,currency,event,impact
+04:15:00,EUR,Spanish Manufacturing PMI,medium
+04:45:00,EUR,Italian Manufacturing PMI,medium
+04:50:00,EUR,French Final Manufacturing PMI,low
+04:55:00,EUR,German Final Manufacturing PMI,low
+05:00:00,EUR,Final Manufacturing PMI,low
+05:30:00,GBP,Construction PMI,medium
+09:30:00,NZD,GDT Price Index,low
+01:01:00,USD,Congressional Elections,high
+18:30:00,AUD,AIG Services Index,medium
+20:00:00,GBP,BRC Shop Price Index y/y,low
+01:01:00,JPY,Bank Holiday,holiday
+20:30:00,AUD,Building Approvals m/m,high
+21:00:00,CNY,Non-Manufacturing PMI,low

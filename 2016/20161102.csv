@@ -1,0 +1,21 @@
+time,currency,event,impact
+01:00:00,JPY,Consumer Confidence,low
+03:00:00,GBP,Nationwide HPI m/m,low
+04:15:00,EUR,Spanish Manufacturing PMI,medium
+04:45:00,EUR,Italian Manufacturing PMI,low
+04:50:00,EUR,French Final Manufacturing PMI,low
+04:55:00,EUR,German Unemployment Change,medium
+04:55:00,EUR,German Final Manufacturing PMI,low
+05:00:00,EUR,Final Manufacturing PMI,low
+05:30:00,GBP,Construction PMI,high
+06:32:00,EUR,German 10-y Bond Auction,low
+08:15:00,USD,ADP Non-Farm Employment Change,high
+10:30:00,USD,Crude Oil Inventories,high
+13:30:00,CAD,Gov Council Member Wilkins Speaks,medium
+14:00:00,USD,FOMC Statement,high
+14:00:00,USD,Federal Funds Rate,high
+18:30:00,AUD,AIG Services Index,low
+01:01:00,JPY,Bank Holiday,holiday
+20:00:00,NZD,ANZ Commodity Prices m/m,low
+20:30:00,AUD,Trade Balance,high
+21:45:00,CNY,Caixin Services PMI,medium

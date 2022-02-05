@@ -1,0 +1,19 @@
+time,currency,event,impact
+02:00:00,CHF,Trade Balance,low
+04:42:00,EUR,Spanish 10-y Bond Auction,low
+06:00:00,GBP,CBI Industrial Order Expectations,low
+07:45:00,EUR,Monetary Policy Statement,high
+07:45:00,EUR,Main Refinancing Rate,medium
+08:30:00,CAD,NHPI m/m,low
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Unemployment Claims,medium
+09:30:00,EUR,Consumer Confidence,low
+10:00:00,USD,CB Leading Index m/m,low
+10:00:00,USD,Existing Home Sales,low
+10:30:00,USD,Natural Gas Storage,low
+19:00:00,AUD,Flash Manufacturing PMI,low
+19:00:00,AUD,Flash Services PMI,low
+19:01:00,GBP,GfK Consumer Confidence,low
+19:30:00,JPY,National Core CPI y/y,low
+20:30:00,JPY,Flash Manufacturing PMI,low
+23:00:00,NZD,Credit Card Spending y/y,low

@@ -1,0 +1,24 @@
+time,currency,event,impact
+02:00:00,JPY,Prelim Machine Tool Orders y/y,low
+02:45:00,EUR,French Industrial Production m/m,medium
+02:45:00,EUR,French Final CPI m/m,low
+04:00:00,EUR,ECB Monthly Bulletin,medium
+04:00:00,EUR,Italian Industrial Production m/m,low
+07:00:00,GBP,Asset Purchase Facility,high
+07:00:00,GBP,Official Bank Rate,high
+08:30:00,CAD,NHPI m/m,medium
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Import Prices m/m,medium
+01:01:00,All,G20 Meetings,high
+01:01:00,All,G7 Meetings,high
+10:30:00,USD,Natural Gas Storage,low
+13:01:00,USD,30-y Bond Auction,low
+13:59:00,USD,Federal Budget Balance,medium
+17:00:00,NZD,REINZ HPI m/m,low
+18:45:00,NZD,FPI m/m,low
+19:50:00,JPY,Monetary Policy Meeting Minutes,medium
+19:50:00,JPY,M2 Money Stock y/y,low
+19:50:00,JPY,PPI y/y,low
+21:30:00,CNY,CPI y/y,high
+21:30:00,CNY,PPI y/y,medium
+23:45:00,JPY,30-y Bond Auction,low

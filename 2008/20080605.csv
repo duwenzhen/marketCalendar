@@ -1,0 +1,16 @@
+time,currency,event,impact
+03:00:00,CHF,Foreign Currency Reserves,low
+03:00:00,GBP,Halifax HPI m/m,high
+05:04:00,EUR,French 10-y Bond Auction,low
+06:00:00,EUR,German Factory Orders m/m,medium
+07:00:00,GBP,Official Bank Rate,high
+07:45:00,EUR,Main Refinancing Rate,medium
+08:30:00,CAD,Building Permits m/m,high
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Unemployment Claims,high
+10:00:00,CAD,Ivey PMI,high
+10:00:00,USD,Mortgage Delinquencies,medium
+10:35:00,USD,Natural Gas Storage,low
+11:00:00,USD,FOMC Member Kohn Speaks,high
+12:00:00,USD,FOMC Member Plosser Speaks,medium
+19:30:00,AUD,AIG Construction Index,low

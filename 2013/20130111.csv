@@ -1,0 +1,10 @@
+time,currency,event,impact
+00:00:00,JPY,Economy Watchers Sentiment,low
+03:15:00,CHF,CPI m/m,high
+04:30:00,GBP,Manufacturing Production m/m,high
+04:30:00,GBP,Industrial Production m/m,low
+08:30:00,CAD,Trade Balance,high
+08:30:00,USD,Trade Balance,high
+08:30:00,USD,Import Prices m/m,medium
+09:54:00,GBP,NIESR GDP Estimate,medium
+14:00:00,USD,Federal Budget Balance,medium

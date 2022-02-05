@@ -1,0 +1,12 @@
+time,currency,event,impact
+01:00:00,JPY,Leading Indicators,low
+02:00:00,EUR,German Industrial Production m/m,low
+03:00:00,CHF,Foreign Currency Reserves,medium
+03:15:00,CHF,CPI m/m,medium
+04:30:00,EUR,Sentix Investor Confidence,low
+10:30:00,CAD,BOC Business Outlook Survey,medium
+15:00:00,USD,Consumer Credit m/m,low
+18:00:00,NZD,NZIER Business Confidence,high
+19:50:00,JPY,Current Account,medium
+21:30:00,AUD,NAB Business Confidence,high
+22:50:00,JPY,Monetary Policy Statement,high

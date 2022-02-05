@@ -1,0 +1,12 @@
+time,currency,event,impact
+02:15:00,CHF,Trade Balance,low
+06:00:00,GBP,CBI Industrial Order Expectations,medium
+09:00:00,CAD,BOC Rate Statement,high
+09:00:00,CAD,Overnight Rate,high
+15:10:00,GBP,BOE Gov King Speaks,high
+17:45:00,NZD,Visitor Arrivals m/m,low
+19:30:00,USD,Treasury Sec Paulson Speaks,low
+19:45:00,USD,FOMC Member Stern Speaks,medium
+19:50:00,JPY,All Industries Activity m/m,low
+20:30:00,AUD,CPI q/q,high
+20:30:00,AUD,Trimmed Mean CPI q/q,medium

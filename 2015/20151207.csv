@@ -1,0 +1,20 @@
+time,currency,event,impact
+00:00:00,JPY,Leading Indicators,low
+02:00:00,EUR,German Industrial Production m/m,low
+03:00:00,CHF,Foreign Currency Reserves,medium
+04:30:00,EUR,Sentix Investor Confidence,low
+01:01:00,EUR,Eurogroup Meetings,medium
+06:45:00,JPY,BOJ Gov Kuroda Speaks,high
+10:00:00,GBP,BOE Gov Carney Speaks,high
+10:00:00,USD,Labor Market Conditions Index m/m,low
+15:00:00,USD,Consumer Credit m/m,low
+16:45:00,NZD,Manufacturing Sales q/q,low
+18:50:00,JPY,Current Account,medium
+18:50:00,JPY,Final GDP q/q,medium
+18:50:00,JPY,Bank Lending y/y,low
+18:50:00,JPY,Final GDP Price Index y/y,low
+19:01:00,GBP,BRC Retail Sales Monitor y/y,low
+19:30:00,AUD,NAB Business Confidence,high
+20:56:00,CNY,Trade Balance,high
+21:52:00,CNY,USD-Denominated Trade Balance,low
+22:45:00,JPY,30-y Bond Auction,low

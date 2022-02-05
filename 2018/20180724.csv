@@ -1,0 +1,16 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Core CPI y/y,low
+03:00:00,EUR,French Flash Manufacturing PMI,medium
+03:00:00,EUR,French Flash Services PMI,medium
+03:30:00,EUR,German Flash Manufacturing PMI,medium
+03:30:00,EUR,German Flash Services PMI,medium
+04:00:00,EUR,Flash Manufacturing PMI,medium
+04:00:00,EUR,Flash Services PMI,medium
+06:00:00,GBP,CBI Industrial Order Expectations,low
+09:00:00,USD,HPI m/m,low
+09:45:00,USD,Flash Manufacturing PMI,low
+09:45:00,USD,Flash Services PMI,low
+09:59:00,USD,Richmond Manufacturing Index,low
+18:45:00,NZD,Trade Balance,medium
+21:30:00,AUD,CPI q/q,high
+21:30:00,AUD,Trimmed Mean CPI q/q,high

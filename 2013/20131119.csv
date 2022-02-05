@@ -1,0 +1,20 @@
+time,currency,event,impact
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,ZEW Economic Sentiment,medium
+05:34:00,GBP,10-y Bond Auction,low
+08:30:00,NZD,GDT Price Index,low
+08:30:00,USD,Employment Cost Index q/q,medium
+08:45:00,USD,Treasury Sec Lew Speaks,medium
+10:00:00,USD,FOMC Member Dudley Speaks,medium
+14:15:00,USD,FOMC Member Evans Speaks,medium
+15:00:00,USD,President Obama Speaks,low
+16:45:00,NZD,PPI Input q/q,medium
+16:45:00,NZD,PPI Output q/q,low
+17:45:00,CAD,Gov Council Member Murray Speaks,medium
+01:01:00,AUD,MI Leading Index m/m,low
+18:30:00,AUD,MI Leading Index m/m,low
+18:50:00,JPY,Trade Balance,medium
+19:00:00,USD,Fed Chairman Bernanke Speaks,high
+19:30:00,AUD,RBA Deputy Gov Debelle Speaks,medium
+21:00:00,CNY,CB Leading Index m/m,low
+23:30:00,JPY,All Industries Activity m/m,low

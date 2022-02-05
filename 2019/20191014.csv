@@ -1,0 +1,12 @@
+time,currency,event,impact
+02:00:00,EUR,German WPI m/m,low
+05:00:00,EUR,Industrial Production m/m,low
+01:01:00,CAD,Bank Holiday,holiday
+01:01:00,USD,Bank Holiday,holiday
+08:10:00,GBP,MPC Member Cunliffe Speaks,medium
+16:00:00,USD,Empire State Manufacturing Index,low
+17:45:00,NZD,Visitor Arrivals m/m,low
+20:30:00,AUD,Monetary Policy Meeting Minutes,high
+20:30:00,JPY,BOJ Gov Kuroda Speaks,medium
+21:30:00,CNY,CPI y/y,medium
+21:30:00,CNY,PPI y/y,low

@@ -1,0 +1,18 @@
+time,currency,event,impact
+02:00:00,CHF,Trade Balance,low
+02:00:00,EUR,German Final GDP q/q,low
+02:00:00,GBP,Public Sector Net Borrowing,low
+04:00:00,EUR,Current Account,low
+08:30:00,CAD,Core Retail Sales m/m,medium
+08:30:00,CAD,Retail Sales m/m,medium
+10:00:00,EUR,Consumer Confidence,low
+10:00:00,USD,Richmond Manufacturing Index,low
+16:45:00,NZD,Core Retail Sales q/q,low
+16:45:00,NZD,Retail Sales q/q,low
+17:00:00,AUD,Flash Manufacturing PMI,low
+17:00:00,AUD,Flash Services PMI,low
+01:01:00,JPY,Bank Holiday,holiday
+20:00:00,NZD,Official Cash Rate,high
+20:00:00,NZD,RBNZ Monetary Policy Statement,high
+20:00:00,NZD,RBNZ Rate Statement,high
+21:00:00,NZD,RBNZ Press Conference,high

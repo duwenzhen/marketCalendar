@@ -1,0 +1,16 @@
+time,currency,event,impact
+03:15:00,CHF,Retail Sales y/y,medium
+04:30:00,GBP,CPI y/y,high
+04:30:00,GBP,Core CPI y/y,medium
+04:30:00,GBP,RPI y/y,medium
+04:30:00,GBP,ONS HPI y/y,low
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,ZEW Economic Sentiment,medium
+05:00:00,EUR,Trade Balance,low
+08:30:00,USD,Empire State Manufacturing Index,medium
+09:00:00,USD,TIC Long-Term Purchases,high
+13:00:00,USD,NAHB Housing Market Index,low
+13:30:00,GBP,MPC Member Besley Speaks,medium
+17:20:00,AUD,RBA Assist Gov Edey Speaks,medium
+18:30:00,AUD,MI Leading Index m/m,low
+19:30:00,AUD,Quarterly Retail Sales q/q,medium

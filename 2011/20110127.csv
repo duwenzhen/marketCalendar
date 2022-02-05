@@ -1,0 +1,16 @@
+time,currency,event,impact
+01:01:00,EUR,German Prelim CPI m/m,medium
+01:01:00,All,WEF Annual Meetings,medium
+06:00:00,GBP,CBI Realized Sales,medium
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Durable Goods Orders m/m,medium
+10:00:00,USD,Pending Home Sales m/m,high
+10:30:00,USD,Natural Gas Storage,low
+18:30:00,JPY,Household Spending y/y,medium
+18:30:00,JPY,Tokyo Core CPI y/y,medium
+18:30:00,JPY,National Core CPI y/y,low
+18:30:00,JPY,Unemployment Rate,low
+18:50:00,JPY,Monetary Policy Meeting Minutes,medium
+18:50:00,JPY,Retail Sales y/y,medium
+19:01:00,GBP,GfK Consumer Confidence,medium

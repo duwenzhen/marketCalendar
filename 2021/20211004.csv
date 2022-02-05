@@ -1,0 +1,22 @@
+time,currency,event,impact
+02:30:00,CHF,CPI m/m,low
+02:30:00,CHF,Retail Sales y/y,low
+03:00:00,EUR,Spanish Unemployment Change,medium
+04:30:00,EUR,Sentix Investor Confidence,low
+01:01:00,EUR,Eurogroup Meetings,low
+01:01:00,All,OPEC Meetings,high
+01:01:00,All,OPEC-JMMC Meetings,high
+08:30:00,CAD,Building Permits m/m,low
+10:00:00,USD,Factory Orders m/m,low
+11:15:00,USD,President Biden Speaks,low
+17:04:00,NZD,NZIER Business Confidence,low
+17:30:00,AUD,AIG Construction Index,low
+19:30:00,JPY,Tokyo Core CPI y/y,low
+20:00:00,NZD,ANZ Commodity Prices m/m,low
+01:01:00,CNY,Bank Holiday,holiday
+20:30:00,AUD,ANZ Job Advertisements m/m,low
+20:30:00,AUD,Trade Balance,low
+20:32:00,AUD,Retail Sales m/m,low
+23:30:00,AUD,RBA Rate Statement,high
+23:30:00,AUD,Cash Rate,medium
+23:35:00,JPY,10-y Bond Auction,low

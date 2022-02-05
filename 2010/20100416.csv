@@ -1,0 +1,14 @@
+time,currency,event,impact
+03:15:00,CHF,PPI m/m,medium
+05:00:00,EUR,Final CPI y/y,medium
+05:00:00,EUR,Final Core CPI y/y,medium
+05:00:00,EUR,Trade Balance,low
+05:00:00,EUR,Trade Balance,low
+08:30:00,CAD,Manufacturing Sales m/m,medium
+08:30:00,CAD,New Motor Vehicle Sales m/m,low
+08:30:00,USD,Building Permits,high
+08:30:00,USD,Housing Starts,medium
+09:00:00,USD,FOMC Member Warsh Speaks,medium
+09:55:00,USD,Prelim UoM Consumer Sentiment,high
+09:55:00,USD,Prelim UoM Inflation Expectations,low
+13:00:00,USD,FOMC Member Hoenig Speaks,medium

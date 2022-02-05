@@ -1,0 +1,21 @@
+time,currency,event,impact
+01:00:00,JPY,Leading Indicators,low
+01:45:00,CHF,SECO Economic Forecasts,medium
+01:45:00,CHF,Unemployment Rate,low
+02:00:00,EUR,German Trade Balance,low
+02:00:00,JPY,Economy Watchers Sentiment,low
+02:45:00,EUR,French Trade Balance,low
+02:50:00,EUR,French Gov Budget Balance,low
+03:15:00,CHF,CPI m/m,medium
+01:01:00,EUR,ECOFIN Meetings,medium
+06:00:00,EUR,German Industrial Production m/m,medium
+07:30:00,USD,NFIB Small Business Index,low
+08:15:00,CAD,Housing Starts,high
+08:25:00,USD,FOMC Member Duke Speaks,low
+10:00:00,USD,IBD/TIPP Economic Optimism,low
+10:00:00,USD,JOLTS Job Openings,low
+19:00:00,USD,FOMC Member Hoenig Speaks,medium
+19:01:00,GBP,BRC Shop Price Index y/y,low
+19:50:00,JPY,Core Machinery Orders m/m,medium
+20:30:00,AUD,Westpac Consumer Sentiment,medium
+21:30:00,AUD,Home Loans m/m,high

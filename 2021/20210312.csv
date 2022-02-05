@@ -1,0 +1,21 @@
+time,currency,event,impact
+02:00:00,EUR,German Final CPI m/m,low
+02:00:00,GBP,Construction Output m/m,low
+02:00:00,GBP,GDP m/m,low
+02:00:00,GBP,Goods Trade Balance,low
+02:00:00,GBP,Index of Services 3m/3m,low
+02:00:00,GBP,Industrial Production m/m,low
+02:00:00,GBP,Manufacturing Production m/m,low
+02:35:00,CNY,Foreign Direct Investment ytd/y,low
+04:00:00,EUR,Italian Quarterly Unemployment Rate,low
+04:32:00,GBP,Consumer Inflation Expectations,low
+05:00:00,EUR,Industrial Production m/m,low
+08:06:00,GBP,NIESR GDP Estimate,low
+08:30:00,CAD,Employment Change,high
+08:30:00,CAD,Unemployment Rate,high
+08:30:00,CAD,Capacity Utilization Rate,low
+08:30:00,CAD,Wholesale Sales m/m,low
+08:30:00,USD,Core PPI m/m,low
+08:30:00,USD,PPI m/m,low
+10:00:00,USD,Prelim UoM Consumer Sentiment,low
+10:00:00,USD,Prelim UoM Inflation Expectations,low

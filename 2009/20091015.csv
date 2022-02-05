@@ -1,0 +1,19 @@
+time,currency,event,impact
+00:30:00,JPY,Revised Industrial Production m/m,low
+01:00:00,JPY,BOJ Monthly Report,medium
+04:00:00,EUR,ECB Monthly Bulletin,medium
+05:00:00,CHF,Credit Suisse Economic Expectations,medium
+05:00:00,EUR,Final CPI y/y,medium
+05:00:00,EUR,Final Core CPI y/y,medium
+05:52:00,EUR,Spanish 10-y Bond Auction,low
+07:25:00,EUR,ECB President Trichet Speaks,medium
+08:28:00,USD,Empire State Manufacturing Index,medium
+08:30:00,CAD,Manufacturing Sales m/m,medium
+08:30:00,USD,Core CPI m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,CPI m/m,medium
+10:00:00,USD,Philly Fed Manufacturing Index,medium
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,USD,Crude Oil Inventories,medium
+16:00:00,USD,Treasury Currency Report,medium
+16:15:00,USD,Treasury Sec Geithner Speaks,medium

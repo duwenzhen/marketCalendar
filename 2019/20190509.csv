@@ -1,0 +1,18 @@
+time,currency,event,impact
+01:04:00,JPY,Consumer Confidence,low
+04:57:00,EUR,Spanish 10-y Bond Auction,low
+08:30:00,CAD,Trade Balance,high
+08:30:00,CAD,NHPI m/m,low
+08:30:00,USD,Fed Chair Powell Speaks,high
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Core PPI m/m,medium
+08:30:00,USD,Trade Balance,low
+08:30:00,USD,Unemployment Claims,low
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:30:00,USD,Natural Gas Storage,low
+13:01:00,USD,30-y Bond Auction,low
+16:00:00,USD,FOMC Financial Stability Report,low
+19:30:00,JPY,Average Cash Earnings y/y,low
+19:30:00,JPY,Household Spending y/y,low
+19:50:00,JPY,BOJ Summary of Opinions,low
+21:30:00,AUD,RBA Monetary Policy Statement,high

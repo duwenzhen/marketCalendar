@@ -1,0 +1,7 @@
+time,currency,event,impact
+04:00:00,EUR,Current Account,low
+07:00:00,GBP,BOE Quarterly Bulletin,low
+07:05:00,GBP,MPC Member Haldane Speaks,medium
+08:30:00,CAD,Core CPI m/m,high
+08:30:00,CAD,CPI m/m,medium
+10:00:00,USD,CB Leading Index m/m,low

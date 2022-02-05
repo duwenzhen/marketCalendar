@@ -1,0 +1,21 @@
+time,currency,event,impact
+01:01:00,EUR,Italian Bank Holiday,holiday
+02:00:00,GBP,Nationwide HPI m/m,high
+03:15:00,EUR,Spanish Services PMI,low
+03:45:00,EUR,Italian Services PMI,low
+03:50:00,EUR,French Final Services PMI,low
+03:55:00,EUR,German Final Services PMI,low
+04:00:00,EUR,Final Services PMI,medium
+04:30:00,GBP,Final Services PMI,high
+05:00:00,EUR,CPI Flash Estimate y/y,medium
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+08:30:00,NZD,GDT Price Index,low
+10:00:00,USD,ISM Services PMI,high
+10:00:00,USD,Pending Home Sales m/m,high
+10:00:00,USD,Factory Orders m/m,medium
+14:00:00,USD,FOMC Meeting Minutes,high
+16:45:00,NZD,Trade Balance,high
+19:06:00,AUD,HIA New Home Sales m/m,medium
+19:30:00,AUD,Retail Sales m/m,high
+20:29:00,NZD,ANZ Commodity Prices m/m,low

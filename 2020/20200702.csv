@@ -1,0 +1,22 @@
+time,currency,event,impact
+02:30:00,CHF,CPI m/m,low
+03:00:00,EUR,Spanish Unemployment Change,low
+04:00:00,EUR,Italian Monthly Unemployment Rate,low
+04:55:00,EUR,Spanish 10-y Bond Auction,low
+05:00:00,EUR,PPI m/m,low
+05:00:00,EUR,Unemployment Rate,low
+05:06:00,EUR,French 10-y Bond Auction,low
+08:30:00,CAD,Trade Balance,low
+08:30:00,USD,Average Hourly Earnings m/m,high
+08:30:00,USD,Non-Farm Employment Change,high
+08:30:00,USD,Unemployment Rate,high
+08:30:00,USD,Unemployment Claims,medium
+08:30:00,USD,Trade Balance,low
+09:30:00,CAD,Manufacturing PMI,low
+09:30:00,USD,President Trump Speaks,high
+10:00:00,USD,Factory Orders m/m,low
+10:30:00,USD,Natural Gas Storage,low
+18:30:00,AUD,AIG Construction Index,low
+19:01:00,GBP,GfK Consumer Confidence,low
+21:30:00,AUD,Retail Sales m/m,low
+21:45:00,CNY,Caixin Services PMI,low

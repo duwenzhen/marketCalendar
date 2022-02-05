@@ -1,0 +1,9 @@
+time,currency,event,impact
+03:15:00,CHF,Employment Level,medium
+05:00:00,GBP,Monetary Policy Report Hearings,high
+06:00:00,GBP,BOE Gov King Speaks,high
+06:00:00,GBP,CBI Realized Sales,medium
+01:01:00,USD,Bank Holiday,holiday
+17:30:00,AUD,RBA Gov Stevens Speaks,high
+18:30:00,JPY,Tokyo Core CPI y/y,medium
+18:30:00,JPY,National Core CPI y/y,low

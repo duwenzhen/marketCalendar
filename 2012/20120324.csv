@@ -1,0 +1,6 @@
+time,currency,event,impact
+08:30:00,GBP,MPC Member Tucker Speaks,medium
+16:30:00,USD,FOMC Member Yellen Speaks,medium
+21:00:00,CHF,Daylight Saving Time Shift,holiday
+21:00:00,EUR,Daylight Saving Time Shift,holiday
+21:00:00,GBP,Daylight Saving Time Shift,holiday

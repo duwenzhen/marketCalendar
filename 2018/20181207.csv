@@ -1,0 +1,26 @@
+time,currency,event,impact
+00:02:00,JPY,Leading Indicators,low
+02:00:00,EUR,German Industrial Production m/m,low
+02:45:00,EUR,French Industrial Production m/m,low
+02:45:00,EUR,French Trade Balance,low
+03:00:00,CHF,Foreign Currency Reserves,low
+03:30:00,GBP,Halifax HPI m/m,low
+04:00:00,EUR,Italian Retail Sales m/m,low
+01:01:00,All,OPEC Meetings,high
+04:30:00,GBP,Consumer Inflation Expectations,low
+05:00:00,EUR,Final Employment Change q/q,low
+05:00:00,EUR,Revised GDP q/q,low
+01:01:00,All,OPEC-JMMC Meetings,medium
+08:30:00,CAD,Employment Change,high
+08:30:00,CAD,Unemployment Rate,high
+08:30:00,USD,Average Hourly Earnings m/m,high
+08:30:00,USD,Non-Farm Employment Change,high
+08:30:00,USD,Unemployment Rate,high
+10:00:00,USD,Prelim UoM Consumer Sentiment,medium
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:00:00,USD,Prelim UoM Inflation Expectations,low
+10:30:00,USD,Natural Gas Storage,low
+12:00:00,USD,FOMC Member Brainard Speaks,medium
+15:00:00,USD,Consumer Credit m/m,low
+22:07:00,CNY,Trade Balance,medium
+22:08:00,CNY,USD-Denominated Trade Balance,low

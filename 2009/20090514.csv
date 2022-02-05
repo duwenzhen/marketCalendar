@@ -1,0 +1,17 @@
+time,currency,event,impact
+03:00:00,CHF,Gov Board Member Jordan Speaks,medium
+03:00:00,EUR,Spanish Flash GDP q/q,low
+03:15:00,CHF,PPI m/m,medium
+04:00:00,EUR,ECB Monthly Bulletin,medium
+05:00:00,GBP,CB Leading Index m/m,low
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Core PPI m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+18:45:00,NZD,Core Retail Sales m/m,high
+18:45:00,NZD,Retail Sales m/m,medium
+18:45:00,NZD,Core Retail Sales q/q,low
+18:45:00,NZD,Retail Sales q/q,low
+19:50:00,JPY,Core Machinery Orders m/m,medium
+19:50:00,JPY,PPI y/y,low
+22:08:00,CNY,Foreign Direct Investment ytd/y,low

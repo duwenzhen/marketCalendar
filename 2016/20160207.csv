@@ -1,0 +1,8 @@
+time,currency,event,impact
+01:01:00,NZD,Bank Holiday,holiday
+18:50:00,JPY,Current Account,medium
+18:50:00,JPY,BOJ Summary of Opinions,low
+18:50:00,JPY,Bank Lending y/y,low
+01:01:00,CNY,Bank Holiday,holiday
+19:00:00,JPY,Average Cash Earnings y/y,low
+19:30:00,AUD,ANZ Job Advertisements m/m,low

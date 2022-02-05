@@ -1,0 +1,23 @@
+time,currency,event,impact
+03:00:00,CHF,UBS Consumption Indicator,low
+03:00:00,GBP,Nationwide HPI m/m,medium
+01:01:00,EUR,German Prelim CPI m/m,high
+03:45:00,GBP,MPC Member Cunliffe Speaks,medium
+04:00:00,CHF,KOF Economic Barometer,medium
+04:00:00,EUR,Spanish Flash CPI y/y,medium
+04:00:00,EUR,Spanish Flash GDP q/q,medium
+04:55:00,EUR,German Unemployment Change,medium
+06:22:00,EUR,Italian 10-y Bond Auction,medium
+08:30:00,USD,Advance GDP q/q,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Advance GDP Price Index q/q,medium
+09:00:00,USD,Fed Chair Yellen Speaks,high
+10:30:00,USD,Natural Gas Storage,low
+17:45:00,NZD,Building Consents m/m,medium
+19:30:00,JPY,Household Spending y/y,medium
+19:30:00,JPY,Tokyo Core CPI y/y,medium
+19:30:00,JPY,National Core CPI y/y,low
+19:30:00,JPY,Unemployment Rate,low
+20:05:00,GBP,GfK Consumer Confidence,low
+20:30:00,AUD,PPI q/q,high
+20:30:00,AUD,Private Sector Credit m/m,low

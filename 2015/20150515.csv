@@ -1,0 +1,13 @@
+time,currency,event,impact
+01:00:00,JPY,Consumer Confidence,low
+03:15:00,CHF,PPI m/m,medium
+04:30:00,GBP,Construction Output m/m,low
+08:30:00,CAD,Manufacturing Sales m/m,high
+08:30:00,CAD,Foreign Securities Purchases,medium
+08:30:00,USD,Empire State Manufacturing Index,medium
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+09:30:00,GBP,CB Leading Index m/m,low
+10:00:00,USD,Prelim UoM Consumer Sentiment,high
+10:00:00,USD,Prelim UoM Inflation Expectations,low
+16:00:00,USD,TIC Long-Term Purchases,low

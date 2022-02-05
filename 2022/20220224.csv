@@ -1,0 +1,12 @@
+time,currency,event,impact
+03:00:00,CHF,KOF Economic Barometer,medium
+08:30:00,USD,Prelim GDP q/q,high
+08:30:00,USD,Unemployment Claims,medium
+08:30:00,USD,Prelim GDP Price Index q/q,low
+10:00:00,USD,New Home Sales,low
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,USD,Crude Oil Inventories,medium
+16:45:00,NZD,Core Retail Sales q/q,low
+16:45:00,NZD,Retail Sales q/q,low
+18:30:00,JPY,Tokyo Core CPI y/y,low
+18:50:00,JPY,Retail Sales y/y,low

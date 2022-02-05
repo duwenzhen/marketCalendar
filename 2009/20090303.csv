@@ -1,0 +1,22 @@
+time,currency,event,impact
+01:45:00,CHF,GDP q/q,medium
+02:00:00,EUR,German WPI m/m,low
+03:00:00,EUR,Spanish Unemployment Change,low
+04:30:00,GBP,Construction PMI,medium
+08:00:00,USD,FOMC Member Lockhart Speaks,medium
+08:15:00,USD,Fed Announcement,high
+08:30:00,NZD,GDT Price Index,low
+09:00:00,CAD,BOC Rate Statement,high
+09:00:00,CAD,Overnight Rate,high
+10:00:00,USD,Fed Chairman Bernanke Testifies,high
+10:00:00,USD,Pending Home Sales m/m,high
+01:01:00,USD,Total Vehicle Sales,low
+12:30:00,EUR,ECB President Trichet Speaks,medium
+12:30:00,USD,Treasury Sec Geithner Speaks,medium
+16:15:00,NZD,RBNZ Gov Bollard Speaks,medium
+17:30:00,AUD,AIG Services Index,low
+18:40:00,AUD,RBA Assist Gov Edey Speaks,medium
+19:01:00,GBP,Nationwide Consumer Confidence,medium
+19:30:00,AUD,GDP q/q,high
+20:00:00,CNY,Manufacturing PMI,high
+21:09:00,NZD,ANZ Commodity Prices m/m,low

@@ -1,0 +1,11 @@
+time,currency,event,impact
+04:30:00,GBP,High Street Lending,medium
+05:00:00,EUR,Industrial New Orders m/m,medium
+08:30:00,USD,Fed Chairman Bernanke Speaks,high
+10:00:00,USD,Existing Home Sales,high
+13:30:00,USD,FOMC Member Bullard Speaks,medium
+15:00:00,GBP,BOE Gov King Speaks,high
+16:30:00,USD,FOMC Member Dudley Speaks,low
+19:50:00,JPY,SPPI y/y,low
+20:00:00,USD,FOMC Member Hoenig Speaks,medium
+20:30:00,AUD,NAB Quarterly Business Confidence,medium

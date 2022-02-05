@@ -1,0 +1,19 @@
+time,currency,event,impact
+03:15:00,CHF,PPI m/m,medium
+04:40:00,EUR,Spanish 10-y Bond Auction,low
+05:00:00,EUR,Final CPI y/y,medium
+05:00:00,EUR,Final Core CPI y/y,medium
+05:00:00,EUR,Industrial Production m/m,medium
+08:30:00,CAD,Manufacturing Sales m/m,medium
+08:30:00,USD,Building Permits,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Housing Starts,medium
+10:00:00,USD,Philly Fed Manufacturing Index,medium
+10:30:00,USD,Natural Gas Storage,low
+13:00:00,USD,FOMC Member Lockhart Speaks,medium
+18:45:00,NZD,CPI q/q,high
+18:45:00,NZD,FPI m/m,low
+19:50:00,JPY,Tertiary Industry Activity m/m,medium
+20:00:00,USD,FOMC Member Yellen Speaks,medium
+21:30:00,AUD,Import Prices q/q,low
+23:00:00,EUR,ECB President Trichet Speaks,medium

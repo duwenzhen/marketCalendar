@@ -1,0 +1,20 @@
+time,currency,event,impact
+02:00:00,CHF,Trade Balance,medium
+03:00:00,EUR,Spanish Unemployment Change,high
+04:30:00,GBP,Construction PMI,high
+05:00:00,EUR,PPI m/m,low
+05:00:00,EUR,Italian Prelim CPI m/m,low
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+10:00:00,USD,Factory Orders m/m,medium
+10:06:00,NZD,GDT Price Index,high
+01:01:00,USD,Total Vehicle Sales,low
+16:45:00,NZD,Employment Change q/q,high
+16:45:00,NZD,Unemployment Rate,high
+16:45:00,NZD,Labor Cost Index q/q,low
+17:30:00,AUD,AIG Services Index,low
+19:00:00,NZD,RBNZ Gov Wheeler Speaks,high
+19:01:00,GBP,BRC Shop Price Index y/y,low
+19:30:00,AUD,NAB Quarterly Business Confidence,medium
+20:30:00,JPY,Average Cash Earnings y/y,medium
+20:45:00,CNY,Caixin Services PMI,medium

@@ -1,0 +1,26 @@
+time,currency,event,impact
+03:18:00,JPY,BOJ Press Conference,high
+04:00:00,EUR,Italian Trade Balance,low
+04:30:00,GBP,CPI y/y,high
+04:30:00,GBP,Core CPI y/y,medium
+04:30:00,GBP,RPI y/y,low
+04:34:00,GBP,ONS HPI y/y,low
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,ZEW Economic Sentiment,medium
+05:00:00,EUR,Final Employment Change q/q,low
+05:00:00,EUR,Trade Balance,low
+05:00:00,GBP,Monetary Policy Report Hearings,high
+05:00:00,GBP,CB Leading Index m/m,low
+06:15:00,USD,FOMC Member Bullard Speaks,medium
+08:30:00,CAD,Labor Productivity q/q,medium
+08:30:00,CAD,Manufacturing Sales m/m,medium
+08:30:00,USD,Empire State Manufacturing Index,medium
+08:30:00,USD,Import Prices m/m,medium
+09:00:00,USD,TIC Long-Term Purchases,high
+10:00:00,USD,NAHB Housing Market Index,low
+18:01:00,NZD,Westpac Consumer Sentiment,low
+19:01:00,GBP,Nationwide Consumer Confidence,medium
+19:50:00,JPY,Tertiary Industry Activity m/m,medium
+01:01:00,CNY,Bank Holiday,holiday
+20:30:00,AUD,MI Leading Index m/m,medium
+21:30:00,AUD,Housing Starts q/q,low

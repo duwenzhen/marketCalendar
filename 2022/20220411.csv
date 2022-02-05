@@ -1,0 +1,18 @@
+time,currency,event,impact
+02:00:00,EUR,German WPI m/m,low
+02:00:00,GBP,Construction Output m/m,low
+02:00:00,GBP,GDP m/m,low
+02:00:00,GBP,Goods Trade Balance,low
+02:00:00,GBP,Index of Services 3m/3m,low
+02:00:00,GBP,Industrial Production m/m,low
+02:00:00,GBP,Manufacturing Production m/m,low
+01:01:00,CNY,M2 Money Supply y/y,low
+01:01:00,CNY,New Loans,low
+01:01:00,GBP,NIESR GDP Estimate,low
+10:30:00,CAD,BOC Business Outlook Survey,medium
+18:45:00,NZD,Visitor Arrivals m/m,low
+19:01:00,GBP,BRC Retail Sales Monitor y/y,low
+19:50:00,JPY,Bank Lending y/y,low
+19:50:00,JPY,Current Account,low
+19:50:00,JPY,PPI y/y,low
+21:30:00,AUD,NAB Business Confidence,low

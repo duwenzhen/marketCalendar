@@ -1,0 +1,14 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Monthly Report,low
+01:00:00,JPY,Leading Indicators,low
+02:00:00,EUR,German Industrial Production m/m,medium
+03:00:00,CHF,Foreign Currency Reserves,medium
+04:30:00,GBP,Consumer Inflation Expectations,low
+05:00:00,EUR,Revised GDP q/q,low
+08:30:00,CAD,Employment Change,high
+08:30:00,CAD,Unemployment Rate,high
+08:30:00,CAD,Labor Productivity q/q,medium
+08:30:00,USD,Non-Farm Employment Change,high
+08:30:00,USD,Unemployment Rate,high
+08:30:00,USD,Average Hourly Earnings m/m,medium
+10:00:00,CAD,Ivey PMI,high

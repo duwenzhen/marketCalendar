@@ -1,0 +1,22 @@
+time,currency,event,impact
+04:00:00,CHF,Credit Suisse Economic Expectations,low
+04:30:00,EUR,ECB Financial Stability Review,medium
+07:45:00,GBP,Autumn Forecast Statement,medium
+08:30:00,USD,Prelim GDP q/q,medium
+08:30:00,USD,Unemployment Claims,medium
+08:30:00,USD,Core Durable Goods Orders m/m,low
+08:30:00,USD,Durable Goods Orders m/m,low
+08:30:00,USD,Goods Trade Balance,low
+08:30:00,USD,Prelim Wholesale Inventories m/m,low
+08:36:00,USD,Prelim GDP Price Index q/q,low
+10:00:00,USD,Revised UoM Consumer Sentiment,medium
+10:00:00,USD,Core PCE Price Index m/m,low
+10:00:00,USD,New Home Sales,low
+10:00:00,USD,Personal Income m/m,low
+10:00:00,USD,Personal Spending m/m,low
+10:00:00,USD,Revised UoM Inflation Expectations,low
+10:30:00,USD,Crude Oil Inventories,low
+12:00:00,USD,Natural Gas Storage,low
+14:00:00,USD,FOMC Meeting Minutes,high
+16:45:00,NZD,Trade Balance,low
+19:30:00,AUD,Private Capital Expenditure q/q,medium

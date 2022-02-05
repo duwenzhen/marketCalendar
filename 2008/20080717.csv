@@ -1,0 +1,18 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Monthly Report,medium
+01:01:00,EUR,ECOFIN Meetings,low
+04:37:00,EUR,Spanish 10-y Bond Auction,low
+05:00:00,CHF,Credit Suisse Economic Expectations,medium
+05:00:00,EUR,Italian Trade Balance,low
+08:30:00,CAD,Foreign Securities Purchases,medium
+08:30:00,USD,Building Permits,high
+08:30:00,USD,Housing Starts,medium
+08:30:00,USD,Unemployment Claims,medium
+09:10:00,USD,FOMC Member Kroszner Speaks,medium
+10:00:00,USD,Philly Fed Manufacturing Index,medium
+10:30:00,CAD,BOC Monetary Policy Report,high
+10:35:00,USD,Natural Gas Storage,low
+11:15:00,CAD,BOC Press Conference,high
+19:50:00,JPY,Monetary Policy Meeting Minutes,medium
+21:30:00,AUD,Import Prices q/q,low
+23:30:00,JPY,BOJ Gov Shirakawa Speaks,medium

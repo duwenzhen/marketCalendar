@@ -1,0 +1,11 @@
+time,currency,event,impact
+00:30:00,JPY,All Industries Activity m/m,low
+02:00:00,EUR,German PPI m/m,low
+04:00:00,EUR,Current Account,low
+04:30:00,GBP,Public Sector Net Borrowing,medium
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium
+10:00:00,USD,Prelim UoM Consumer Sentiment,medium
+10:00:00,USD,Prelim UoM Inflation Expectations,low
+11:05:00,USD,FOMC Member Bullard Speaks,medium
+16:30:00,USD,FOMC Member Rosengren Speaks,medium

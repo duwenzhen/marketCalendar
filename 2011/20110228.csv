@@ -1,0 +1,25 @@
+time,currency,event,impact
+00:00:00,JPY,Housing Starts y/y,low
+02:00:00,EUR,German Import Prices m/m,low
+05:00:00,EUR,Final CPI y/y,medium
+05:00:00,EUR,Final Core CPI y/y,medium
+08:30:00,CAD,GDP m/m,high
+08:30:00,CAD,Current Account,medium
+08:30:00,USD,Core PCE Price Index m/m,medium
+08:30:00,USD,Personal Spending m/m,medium
+08:30:00,USD,FOMC Member Dudley Speaks,low
+08:30:00,USD,Personal Income m/m,low
+09:45:00,USD,Chicago PMI,medium
+10:00:00,USD,Pending Home Sales m/m,high
+17:25:00,AUD,AIG Manufacturing Index,low
+18:30:00,JPY,Household Spending y/y,medium
+18:30:00,JPY,Unemployment Rate,low
+19:30:00,AUD,Retail Sales m/m,high
+19:30:00,AUD,Current Account,medium
+19:58:00,CNY,Manufacturing PMI,high
+20:30:00,JPY,Average Cash Earnings y/y,medium
+21:00:00,NZD,ANZ Commodity Prices m/m,low
+21:30:00,CNY,Caixin Manufacturing PMI,medium
+22:30:00,AUD,Cash Rate,high
+22:30:00,AUD,RBA Rate Statement,high
+22:45:00,JPY,10-y Bond Auction,low

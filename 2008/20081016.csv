@@ -1,0 +1,18 @@
+time,currency,event,impact
+03:15:00,CHF,Retail Sales y/y,medium
+04:00:00,EUR,Italian Trade Balance,low
+05:00:00,CHF,Credit Suisse Economic Expectations,medium
+08:30:00,CAD,Manufacturing Sales m/m,medium
+08:30:00,USD,Core CPI m/m,high
+08:30:00,USD,CPI m/m,medium
+08:30:00,USD,Unemployment Claims,medium
+09:00:00,USD,TIC Long-Term Purchases,high
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+10:00:00,USD,Philly Fed Manufacturing Index,medium
+10:35:00,USD,Natural Gas Storage,low
+11:00:00,USD,Crude Oil Inventories,medium
+12:00:00,USD,FOMC Member Stern Speaks,low
+13:00:00,USD,NAHB Housing Market Index,low
+19:50:00,JPY,Tertiary Industry Activity m/m,medium
+20:30:00,AUD,Import Prices q/q,low

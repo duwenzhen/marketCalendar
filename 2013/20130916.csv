@@ -1,0 +1,14 @@
+time,currency,event,impact
+04:00:00,EUR,ECB President Draghi Speaks,high
+04:00:00,EUR,Italian Trade Balance,low
+05:00:00,EUR,Final CPI y/y,medium
+05:00:00,EUR,Final Core CPI y/y,low
+08:30:00,CAD,Foreign Securities Purchases,medium
+08:30:00,USD,Empire State Manufacturing Index,medium
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+19:01:00,GBP,BOE Quarterly Bulletin,low
+21:30:00,AUD,Monetary Policy Meeting Minutes,high
+21:30:00,AUD,New Motor Vehicle Sales m/m,medium
+22:00:00,CNY,CB Leading Index m/m,low
+22:00:00,CNY,Foreign Direct Investment ytd/y,low

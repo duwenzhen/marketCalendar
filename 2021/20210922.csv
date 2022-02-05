@@ -1,0 +1,12 @@
+time,currency,event,impact
+02:30:00,JPY,BOJ Press Conference,medium
+10:00:00,USD,Existing Home Sales,low
+10:30:00,USD,Crude Oil Inventories,medium
+14:00:00,USD,FOMC Economic Projections,high
+14:00:00,USD,FOMC Statement,high
+14:00:00,USD,Federal Funds Rate,medium
+14:30:00,USD,FOMC Press Conference,high
+16:00:00,EUR,Consumer Confidence,low
+19:00:00,AUD,Flash Manufacturing PMI,low
+19:00:00,AUD,Flash Services PMI,low
+01:01:00,JPY,Bank Holiday,holiday

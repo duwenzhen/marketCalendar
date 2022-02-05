@@ -1,0 +1,19 @@
+time,currency,event,impact
+05:30:00,GBP,BRC Shop Price Index y/y,low
+06:00:00,EUR,German Industrial Production m/m,medium
+08:30:00,USD,Prelim Nonfarm Productivity q/q,medium
+08:30:00,USD,Prelim Unit Labor Costs q/q,medium
+09:00:00,USD,FOMC Member Mishkin Speaks,high
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:30:00,USD,Crude Oil Inventories,medium
+13:00:00,USD,10-y Bond Auction,medium
+13:00:00,USD,FOMC Member Warsh Speaks,medium
+15:00:00,NZD,RBNZ Financial Stability Report,high
+15:00:00,USD,Consumer Credit m/m,low
+16:45:00,NZD,Employment Change q/q,high
+16:45:00,NZD,Unemployment Rate,high
+18:50:00,JPY,Core Machinery Orders m/m,medium
+18:50:00,JPY,Bank Lending y/y,low
+18:50:00,JPY,M2 Money Stock y/y,low
+19:30:00,AUD,Employment Change,high
+19:30:00,AUD,Unemployment Rate,medium

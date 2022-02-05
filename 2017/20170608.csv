@@ -1,0 +1,22 @@
+time,currency,event,impact
+01:00:00,JPY,Economy Watchers Sentiment,low
+01:45:00,CHF,Unemployment Rate,low
+02:00:00,EUR,German Industrial Production m/m,low
+02:45:00,EUR,French Trade Balance,low
+03:15:00,CHF,CPI m/m,medium
+01:01:00,GBP,Parliamentary Elections,high
+05:00:00,EUR,Revised GDP q/q,low
+07:45:00,EUR,Main Refinancing Rate,high
+07:45:00,EUR,Monetary Policy Statement,high
+08:13:00,CAD,Housing Starts,low
+08:30:00,CAD,NHPI m/m,medium
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Unemployment Claims,high
+10:00:00,USD,IBD/TIPP Economic Optimism,low
+10:30:00,CAD,BOC Financial System Review,low
+10:30:00,USD,Natural Gas Storage,low
+11:15:00,CAD,BOC Gov Poloz Speaks,high
+19:50:00,JPY,M2 Money Stock y/y,low
+21:30:00,AUD,Home Loans m/m,low
+21:30:00,CNY,CPI y/y,medium
+21:30:00,CNY,PPI y/y,medium

@@ -1,0 +1,21 @@
+time,currency,event,impact
+01:01:00,EUR,German Prelim CPI m/m,low
+03:00:00,EUR,Spanish Flash CPI y/y,low
+03:00:00,EUR,Spanish Unemployment Rate,low
+03:55:00,EUR,German Unemployment Change,low
+04:30:00,GBP,M4 Money Supply m/m,low
+04:30:00,GBP,Mortgage Approvals,low
+04:30:00,GBP,Net Lending to Individuals m/m,low
+05:18:00,EUR,Italian 10-y Bond Auction,low
+07:30:00,EUR,ECB Monetary Policy Meeting Accounts,low
+08:30:00,USD,Advance GDP q/q,high
+08:30:00,USD,Unemployment Claims,medium
+08:32:00,USD,Advance GDP Price Index q/q,medium
+10:00:00,USD,Pending Home Sales m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+18:45:00,NZD,Building Consents m/m,low
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,Prelim Industrial Production m/m,low
+19:50:00,JPY,Retail Sales y/y,low
+21:30:00,AUD,PPI q/q,low
+21:30:00,AUD,Private Sector Credit m/m,low

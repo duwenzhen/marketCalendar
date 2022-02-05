@@ -1,0 +1,18 @@
+time,currency,event,impact
+02:00:00,CHF,Trade Balance,low
+03:00:00,EUR,French Flash Manufacturing PMI,high
+03:00:00,EUR,French Flash Services PMI,medium
+03:30:00,EUR,German Flash Manufacturing PMI,high
+03:30:00,EUR,German Flash Services PMI,medium
+04:00:00,EUR,Flash Manufacturing PMI,medium
+04:00:00,EUR,Flash Services PMI,medium
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium
+08:30:00,USD,Unemployment Claims,high
+09:00:00,USD,Flash Manufacturing PMI,medium
+09:00:00,USD,HPI m/m,low
+10:00:00,USD,CB Leading Index m/m,low
+10:30:00,USD,Natural Gas Storage,low
+01:01:00,All,Jackson Hole Symposium,medium
+15:15:00,USD,Treasury Sec Lew Speaks,medium
+22:00:00,CNY,Foreign Direct Investment ytd/y,low

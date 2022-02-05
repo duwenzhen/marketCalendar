@@ -1,0 +1,17 @@
+time,currency,event,impact
+02:00:00,EUR,German GfK Consumer Climate,low
+04:00:00,EUR,M3 Money Supply y/y,low
+04:00:00,EUR,Private Loans y/y,low
+04:15:00,CHF,SNB Chairman Roth Speaks,medium
+05:30:00,CHF,KOF Economic Barometer,medium
+08:00:00,USD,FOMC Member Kohn Speaks,medium
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,Durable Goods Orders m/m,medium
+10:00:00,USD,Existing Home Sales,high
+10:30:00,USD,Crude Oil Inventories,low
+14:00:00,USD,Beige Book,medium
+16:45:00,NZD,Building Consents m/m,medium
+18:10:00,AUD,RBA Deputy Gov Debelle Speaks,medium
+18:50:00,JPY,Prelim Industrial Production m/m,medium
+19:30:00,AUD,Private Capital Expenditure q/q,high
+21:00:00,NZD,Final ANZ Business Confidence,medium

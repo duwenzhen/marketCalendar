@@ -1,0 +1,17 @@
+time,currency,event,impact
+02:00:00,EUR,German Trade Balance,low
+02:00:00,JPY,Prelim Machine Tool Orders y/y,low
+04:35:00,AUD,RBA Deputy Gov Debelle Speaks,low
+07:45:00,EUR,Monetary Policy Statement,high
+07:45:00,EUR,Main Refinancing Rate,medium
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Unemployment Claims,medium
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,USD,Crude Oil Inventories,medium
+11:05:00,USD,FOMC Member Daly Speaks,low
+11:05:00,USD,FOMC Member Evans Speaks,low
+12:00:00,CAD,BOC Gov Macklem Speaks,high
+13:00:00,USD,FOMC Member Bowman Speaks,low
+13:01:00,USD,30-y Bond Auction,medium
+14:00:00,USD,FOMC Member Williams Speaks,low
+18:45:00,NZD,Visitor Arrivals m/m,low

@@ -1,0 +1,15 @@
+time,currency,event,impact
+03:00:00,EUR,German Import Prices m/m,low
+05:00:00,EUR,German ifo Business Climate,high
+05:00:00,EUR,M3 Money Supply y/y,medium
+05:00:00,EUR,Private Loans y/y,low
+05:00:00,EUR,Italian Retail Sales m/m,low
+05:00:00,USD,FOMC Member Kocherlakota Speaks,medium
+01:01:00,EUR,EU Economic Summit,high
+06:00:00,CHF,SNB Quarterly Bulletin,low
+07:30:00,USD,FOMC Member Fisher Speaks,medium
+08:30:00,USD,Final GDP q/q,medium
+08:30:00,USD,Final GDP Price Index q/q,low
+09:55:00,USD,Revised UoM Consumer Sentiment,medium
+09:55:00,USD,Revised UoM Inflation Expectations,low
+12:15:00,USD,FOMC Member Plosser Speaks,medium

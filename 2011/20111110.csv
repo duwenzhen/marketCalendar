@@ -1,0 +1,26 @@
+time,currency,event,impact
+00:00:00,JPY,Consumer Confidence,low
+01:00:00,JPY,Prelim Machine Tool Orders y/y,low
+01:30:00,EUR,French Final CPI m/m,low
+02:00:00,EUR,German Final CPI m/m,low
+02:00:00,EUR,German WPI m/m,low
+02:45:00,EUR,French Industrial Production m/m,medium
+04:00:00,EUR,ECB Monthly Bulletin,medium
+04:00:00,EUR,Italian Industrial Production m/m,low
+05:00:00,EUR,EU Economic Forecasts,medium
+05:00:00,GBP,CB Leading Index m/m,low
+07:00:00,GBP,Asset Purchase Facility,high
+07:00:00,GBP,Official Bank Rate,high
+08:30:00,CAD,Trade Balance,high
+08:30:00,USD,Trade Balance,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Import Prices m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+10:40:00,USD,FOMC Member Evans Speaks,medium
+11:45:00,USD,Fed Chairman Bernanke Speaks,medium
+13:00:00,USD,30-y Bond Auction,low
+14:00:00,USD,Federal Budget Balance,medium
+16:45:00,NZD,FPI m/m,low
+18:00:00,NZD,REINZ HPI m/m,medium
+18:50:00,JPY,Tertiary Industry Activity m/m,medium
+18:50:00,JPY,PPI y/y,low

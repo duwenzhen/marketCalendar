@@ -1,0 +1,16 @@
+time,currency,event,impact
+02:00:00,EUR,German GfK Consumer Climate,low
+02:00:00,GBP,Nationwide HPI m/m,medium
+01:01:00,EUR,German Prelim CPI m/m,medium
+04:00:00,EUR,M3 Money Supply y/y,low
+04:00:00,EUR,Private Loans y/y,low
+04:30:00,GBP,Current Account,high
+04:30:00,GBP,Final GDP q/q,low
+05:30:00,CHF,KOF Economic Barometer,medium
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,Durable Goods Orders m/m,medium
+10:30:00,USD,Fed Chairman Bernanke Testifies,high
+10:30:00,USD,Crude Oil Inventories,low
+11:30:00,EUR,ECB President Trichet Speaks,medium
+18:45:00,NZD,Current Account,high
+19:50:00,JPY,Retail Sales y/y,medium

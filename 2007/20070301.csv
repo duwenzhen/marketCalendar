@@ -1,0 +1,35 @@
+time,currency,event,impact
+00:30:00,AUD,Commodity Prices y/y,medium
+03:15:00,EUR,Spanish Manufacturing PMI,low
+03:30:00,CHF,Manufacturing PMI,medium
+03:45:00,EUR,Italian Manufacturing PMI,low
+04:00:00,EUR,Final Manufacturing PMI,medium
+04:30:00,GBP,Final Manufacturing PMI,medium
+04:30:00,GBP,Mortgage Approvals,low
+04:30:00,GBP,Net Lending to Individuals m/m,low
+05:00:00,EUR,CPI Flash Estimate y/y,low
+05:10:00,EUR,French 10-y Bond Auction,low
+06:00:00,GBP,CBI Realized Sales,medium
+07:30:00,USD,Challenger Job Cuts y/y,low
+08:30:00,CAD,Current Account,medium
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+08:30:00,USD,Core PCE Price Index m/m,high
+08:30:00,USD,Personal Spending m/m,medium
+08:30:00,USD,Personal Income m/m,low
+08:30:00,USD,Unemployment Claims,low
+09:30:00,USD,Natural Gas Storage,low
+10:00:00,USD,ISM Manufacturing PMI,high
+10:00:00,USD,Construction Spending m/m,low
+10:00:00,USD,ISM Manufacturing Prices,low
+01:01:00,USD,Total Vehicle Sales,low
+12:00:00,USD,Treasury Sec Paulson Speaks,low
+18:30:00,JPY,Tokyo Core CPI y/y,medium
+18:30:00,JPY,Household Spending y/y,low
+18:30:00,JPY,National Core CPI y/y,low
+18:30:00,JPY,Unemployment Rate,low
+18:50:00,JPY,Monetary Base y/y,low
+19:30:00,AUD,Retail Sales m/m,high
+19:30:00,AUD,Current Account,medium
+20:00:00,CNY,Manufacturing PMI,high
+20:30:00,JPY,Average Cash Earnings y/y,low

@@ -1,0 +1,12 @@
+time,currency,event,impact
+01:01:00,GBP,Bank Holiday,holiday
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:00:00,EUR,Private Loans y/y,low
+01:01:00,USD,Bank Holiday,holiday
+09:00:00,EUR,ECB President Draghi Speaks,high
+18:45:00,NZD,Building Consents m/m,low
+19:30:00,JPY,Household Spending y/y,low
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,Retail Sales y/y,low
+01:01:00,CNY,Bank Holiday,holiday
+21:30:00,AUD,Building Approvals m/m,medium

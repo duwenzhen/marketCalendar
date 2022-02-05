@@ -1,0 +1,15 @@
+time,currency,event,impact
+01:00:00,JPY,Housing Starts y/y,low
+01:30:00,JPY,BOJ Gov Shirakawa Speaks,medium
+01:01:00,GBP,Bank Holiday,holiday
+04:00:00,EUR,Italian Retail Sales m/m,low
+05:00:00,EUR,CPI Flash Estimate y/y,medium
+05:00:00,EUR,Italian Prelim CPI m/m,low
+08:30:00,CAD,GDP m/m,high
+09:45:00,USD,Chicago PMI,medium
+19:30:00,AUD,AIG Manufacturing Index,low
+21:00:00,CNY,Manufacturing PMI,high
+21:30:00,AUD,Building Approvals m/m,high
+21:30:00,AUD,Current Account,medium
+22:34:00,CNY,Caixin Manufacturing PMI,medium
+23:45:00,JPY,10-y Bond Auction,low

@@ -1,0 +1,18 @@
+time,currency,event,impact
+02:00:00,EUR,German Final CPI m/m,low
+02:00:00,JPY,Prelim Machine Tool Orders y/y,low
+05:36:00,EUR,German 10-y Bond Auction,medium
+08:30:00,CAD,Trade Balance,high
+08:30:00,USD,Trade Balance,high
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:30:00,USD,Crude Oil Inventories,medium
+13:00:00,USD,10-y Bond Auction,medium
+14:00:00,USD,FOMC Meeting Minutes,high
+18:28:00,NZD,BusinessNZ Manufacturing Index,low
+18:45:00,NZD,FPI m/m,low
+20:00:00,AUD,RBA Deputy Gov Lowe Speaks,medium
+21:00:00,AUD,MI Inflation Expectations,medium
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high
+23:51:00,JPY,Monetary Policy Statement,high
+23:51:00,JPY,Overnight Call Rate,high

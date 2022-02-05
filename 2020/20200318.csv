@@ -1,0 +1,24 @@
+time,currency,event,impact
+06:00:00,EUR,Final CPI y/y,low
+06:00:00,EUR,Final Core CPI y/y,low
+06:00:00,EUR,Trade Balance,low
+06:03:00,EUR,Italian Trade Balance,low
+06:37:00,EUR,German 30-y Bond Auction,low
+08:30:00,CAD,CPI m/m,high
+08:30:00,CAD,Core CPI m/m,low
+08:30:00,USD,Building Permits,medium
+08:30:00,USD,Housing Starts,low
+08:32:00,CAD,Common CPI y/y,medium
+08:32:00,CAD,Median CPI y/y,medium
+08:32:00,CAD,Trimmed CPI y/y,medium
+10:30:00,USD,Crude Oil Inventories,low
+11:51:00,CAD,BOC Gov Poloz Speaks,high
+12:07:00,USD,President Trump Speaks,high
+17:45:00,NZD,GDP q/q,high
+19:30:00,JPY,National Core CPI y/y,low
+19:50:00,JPY,Monetary Policy Meeting Minutes,low
+20:30:00,AUD,Employment Change,high
+20:30:00,AUD,Unemployment Rate,high
+20:30:00,AUD,RBA Bulletin,low
+23:30:00,AUD,Cash Rate,high
+23:30:00,AUD,RBA Rate Statement,high

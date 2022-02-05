@@ -1,0 +1,27 @@
+time,currency,event,impact
+00:00:00,JPY,Housing Starts y/y,low
+02:00:00,EUR,German Retail Sales m/m,medium
+02:00:00,GBP,Nationwide HPI m/m,medium
+01:01:00,EUR,German Prelim CPI m/m,medium
+02:45:00,EUR,French Consumer Spending m/m,medium
+03:00:00,EUR,Spanish Flash CPI y/y,low
+03:55:00,EUR,German Unemployment Change,medium
+07:30:00,USD,Challenger Job Cuts y/y,low
+08:30:00,CAD,GDP m/m,high
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Core PCE Price Index m/m,medium
+08:30:00,USD,Employment Cost Index q/q,medium
+08:30:00,USD,Personal Spending m/m,medium
+08:30:00,USD,Personal Income m/m,low
+09:45:00,USD,Chicago PMI,medium
+10:30:00,USD,Natural Gas Storage,low
+16:45:00,NZD,Visitor Arrivals m/m,low
+17:30:00,AUD,AIG Manufacturing Index,low
+18:30:00,JPY,Household Spending y/y,medium
+18:30:00,JPY,Unemployment Rate,low
+18:50:00,NZD,RBNZ Gov Wheeler Speaks,medium
+19:30:00,AUD,PPI q/q,high
+20:00:00,CNY,Manufacturing PMI,high
+20:45:00,CNY,Caixin Manufacturing PMI,medium

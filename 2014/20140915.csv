@@ -1,0 +1,10 @@
+time,currency,event,impact
+03:15:00,CHF,PPI m/m,medium
+05:00:00,EUR,Trade Balance,low
+08:30:00,USD,Empire State Manufacturing Index,medium
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+19:01:00,GBP,BOE Quarterly Bulletin,low
+20:00:00,AUD,RBA Assist Gov Kent Speaks,medium
+21:30:00,AUD,Monetary Policy Meeting Minutes,high
+22:18:00,CNY,Foreign Direct Investment ytd/y,low

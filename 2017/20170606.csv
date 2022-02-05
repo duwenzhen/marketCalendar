@@ -1,0 +1,12 @@
+time,currency,event,impact
+00:30:00,AUD,RBA Rate Statement,high
+00:30:00,AUD,Cash Rate,medium
+04:10:00,EUR,Retail PMI,low
+04:30:00,EUR,Sentix Investor Confidence,low
+05:00:00,EUR,Retail Sales m/m,low
+09:59:00,CAD,Ivey PMI,medium
+10:00:00,USD,JOLTS Job Openings,medium
+10:37:00,NZD,GDT Price Index,medium
+18:45:00,NZD,Manufacturing Sales q/q,low
+19:30:00,AUD,AIG Construction Index,low
+21:30:00,AUD,GDP q/q,high

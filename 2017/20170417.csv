@@ -1,0 +1,11 @@
+time,currency,event,impact
+01:01:00,CHF,Bank Holiday,holiday
+02:15:00,JPY,BOJ Gov Kuroda Speaks,high
+01:01:00,EUR,French Bank Holiday,holiday
+01:01:00,EUR,German Bank Holiday,holiday
+01:01:00,EUR,Italian Bank Holiday,holiday
+01:01:00,GBP,Bank Holiday,holiday
+08:30:00,USD,Empire State Manufacturing Index,medium
+10:00:00,USD,NAHB Housing Market Index,low
+16:00:00,USD,TIC Long-Term Purchases,low
+21:30:00,AUD,Monetary Policy Meeting Minutes,high

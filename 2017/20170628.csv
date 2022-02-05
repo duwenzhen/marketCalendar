@@ -1,0 +1,21 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,low
+02:00:00,EUR,German Import Prices m/m,low
+02:00:00,GBP,Nationwide HPI m/m,low
+04:00:00,CHF,Credit Suisse Economic Expectations,low
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:00:00,EUR,Private Loans y/y,low
+05:00:00,EUR,Italian Prelim CPI m/m,low
+08:30:00,USD,Goods Trade Balance,low
+08:30:00,USD,Prelim Wholesale Inventories m/m,low
+09:30:00,CAD,BOC Gov Poloz Speaks,high
+09:30:00,EUR,ECB President Draghi Speaks,high
+09:30:00,GBP,BOE Gov Carney Speaks,high
+09:30:00,JPY,BOJ Gov Kuroda Speaks,high
+10:00:00,USD,Pending Home Sales m/m,medium
+10:30:00,USD,Crude Oil Inventories,high
+14:20:00,CAD,Gov Council Member Patterson Speaks,low
+16:30:00,USD,Bank Stress Test Results,low
+19:50:00,JPY,Retail Sales y/y,low
+21:00:00,AUD,HIA New Home Sales m/m,low
+21:00:00,NZD,Final ANZ Business Confidence,medium

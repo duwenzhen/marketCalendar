@@ -1,0 +1,24 @@
+time,currency,event,impact
+02:30:00,JPY,BOJ Press Conference,high
+02:45:00,EUR,French Final CPI m/m,low
+04:30:00,GBP,CPI y/y,high
+04:30:00,GBP,PPI Input m/m,medium
+04:30:00,GBP,RPI y/y,medium
+04:30:00,GBP,Core CPI y/y,low
+04:30:00,GBP,ONS HPI y/y,low
+04:30:00,GBP,PPI Output m/m,low
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,ZEW Economic Sentiment,medium
+05:00:00,EUR,Final Employment Change q/q,low
+05:00:00,EUR,Trade Balance,low
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Empire State Manufacturing Index,medium
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+09:30:00,GBP,CB Leading Index m/m,low
+10:00:00,USD,Business Inventories m/m,low
+11:15:00,NZD,GDT Price Index,high
+18:45:00,NZD,Current Account,medium
+19:30:00,AUD,RBA Deputy Gov Debelle Speaks,medium
+20:30:00,AUD,MI Leading Index m/m,low

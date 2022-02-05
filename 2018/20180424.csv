@@ -1,0 +1,14 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Core CPI y/y,low
+02:00:00,CHF,Trade Balance,low
+04:00:00,EUR,German ifo Business Climate,medium
+04:30:00,GBP,Public Sector Net Borrowing,medium
+06:00:00,GBP,CBI Industrial Order Expectations,low
+08:58:00,EUR,Belgian NBB Business Climate,low
+09:00:00,USD,HPI m/m,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+09:59:00,USD,Richmond Manufacturing Index,low
+10:00:00,USD,CB Consumer Confidence,high
+10:00:00,USD,New Home Sales,low
+01:01:00,NZD,Bank Holiday,holiday
+01:01:00,AUD,Bank Holiday,holiday

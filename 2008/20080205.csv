@@ -1,0 +1,14 @@
+time,currency,event,impact
+03:00:00,GBP,Halifax HPI m/m,high
+03:15:00,EUR,Spanish Services PMI,low
+03:45:00,EUR,Italian Services PMI,low
+04:00:00,EUR,Final Services PMI,low
+04:30:00,GBP,Final Services PMI,medium
+05:00:00,EUR,Retail Sales m/m,medium
+05:00:00,EUR,Italian Prelim CPI m/m,low
+05:40:00,GBP,10-y Bond Auction,low
+10:00:00,USD,ISM Services PMI,high
+10:00:00,USD,Treasury Sec Paulson Speaks,low
+01:01:00,NZD,Bank Holiday,holiday
+01:01:00,CNY,Bank Holiday,holiday
+19:01:00,GBP,Nationwide Consumer Confidence,low

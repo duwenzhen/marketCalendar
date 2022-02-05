@@ -1,0 +1,7 @@
+time,currency,event,impact
+01:01:00,AUD,Bank Holiday,holiday
+19:01:00,GBP,BOE Quarterly Bulletin,low
+19:50:00,JPY,Core Machinery Orders m/m,medium
+21:59:00,CNY,New Loans,medium
+21:59:00,CNY,M2 Money Supply y/y,low
+23:41:00,NZD,REINZ HPI m/m,medium

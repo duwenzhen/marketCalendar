@@ -1,0 +1,23 @@
+time,currency,event,impact
+01:00:00,JPY,Housing Starts y/y,low
+02:00:00,EUR,German Retail Sales m/m,medium
+01:01:00,EUR,Italian Bank Holiday,holiday
+02:45:00,EUR,French Consumer Spending m/m,medium
+03:00:00,CHF,KOF Economic Barometer,medium
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:00:00,EUR,Private Loans y/y,low
+01:01:00,EUR,EU Economic Summit,medium
+04:30:00,GBP,FPC Statement,low
+04:30:00,GBP,Index of Services 3m/3m,low
+05:00:00,EUR,CPI Flash Estimate y/y,medium
+05:30:00,GBP,BOE Gov King Speaks,high
+05:30:00,GBP,BOE Financial Stability Report,medium
+08:30:00,CAD,GDP m/m,high
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+08:30:00,USD,Core PCE Price Index m/m,medium
+08:30:00,USD,Personal Spending m/m,medium
+08:30:00,USD,Personal Income m/m,low
+09:45:00,USD,Chicago PMI,medium
+09:55:00,USD,Revised UoM Consumer Sentiment,medium
+09:55:00,USD,Revised UoM Inflation Expectations,low

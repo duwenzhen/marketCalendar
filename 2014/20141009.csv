@@ -1,0 +1,21 @@
+time,currency,event,impact
+02:00:00,EUR,German Trade Balance,low
+02:00:00,JPY,Prelim Machine Tool Orders y/y,low
+02:45:00,EUR,French Trade Balance,low
+04:00:00,EUR,ECB Monthly Bulletin,low
+07:00:00,GBP,Asset Purchase Facility,high
+07:00:00,GBP,Official Bank Rate,high
+08:30:00,CAD,NHPI m/m,medium
+08:30:00,USD,Unemployment Claims,high
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,EUR,ECB President Draghi Speaks,high
+01:01:00,All,G20 Meetings,medium
+13:01:00,USD,30-y Bond Auction,low
+13:10:00,USD,FOMC Member Tarullo Speaks,low
+13:30:00,USD,FOMC Member Fischer Speaks,medium
+19:50:00,JPY,Monetary Policy Meeting Minutes,medium
+19:50:00,JPY,Tertiary Industry Activity m/m,medium
+19:50:00,JPY,Bank Lending y/y,low
+20:30:00,AUD,Home Loans m/m,medium
+20:45:00,AUD,RBA Assist Gov Edey Speaks,medium

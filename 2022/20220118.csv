@@ -1,0 +1,17 @@
+time,currency,event,impact
+01:30:00,JPY,BOJ Press Conference,medium
+02:00:00,GBP,Average Earnings Index 3m/y,low
+02:00:00,GBP,Claimant Count Change,low
+02:00:00,GBP,Unemployment Rate,low
+02:30:00,CHF,PPI m/m,low
+04:00:00,EUR,Italian Trade Balance,low
+01:01:00,All,WEF Annual Meetings,medium
+05:00:00,EUR,ZEW Economic Sentiment,medium
+05:00:00,EUR,German ZEW Economic Sentiment,medium
+01:01:00,EUR,ECOFIN Meetings,low
+08:13:00,CAD,Housing Starts,low
+08:30:00,USD,Empire State Manufacturing Index,medium
+09:25:00,NZD,GDT Price Index,low
+10:00:00,USD,NAHB Housing Market Index,low
+16:00:00,USD,TIC Long-Term Purchases,low
+18:30:00,AUD,Westpac Consumer Sentiment,low

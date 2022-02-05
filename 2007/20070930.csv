@@ -1,0 +1,8 @@
+time,currency,event,impact
+10:30:00,EUR,ECB President Trichet Speaks,medium
+01:01:00,AUD,Bank Holiday,holiday
+19:50:00,JPY,Tankan Manufacturing Index,high
+19:50:00,JPY,Tankan Non-Manufacturing Index,medium
+01:01:00,CNY,Bank Holiday,holiday
+21:00:00,CNY,Manufacturing PMI,high
+21:30:00,JPY,Average Cash Earnings y/y,low

@@ -1,0 +1,18 @@
+time,currency,event,impact
+00:30:00,JPY,Revised Industrial Production m/m,low
+02:00:00,JPY,BOJ Monthly Report,low
+03:20:00,JPY,BOJ Press Conference,high
+05:00:00,EUR,ECB Monthly Bulletin,medium
+05:00:00,EUR,Industrial Production m/m,medium
+05:00:00,EUR,Final GDP q/q,low
+08:30:00,CAD,Trade Balance,high
+08:30:00,CAD,NHPI m/m,low
+08:30:00,USD,Trade Balance,high
+08:30:00,USD,Unemployment Claims,low
+08:35:00,USD,FOMC Member Kroszner Speaks,low
+10:30:00,CAD,BOC Monetary Policy Report,high
+10:30:00,USD,Natural Gas Storage,low
+11:15:00,CAD,BOC Press Conference,high
+14:00:00,USD,Federal Budget Balance,medium
+18:45:00,NZD,Core Retail Sales m/m,high
+18:45:00,NZD,Retail Sales m/m,high

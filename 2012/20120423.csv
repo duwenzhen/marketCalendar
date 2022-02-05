@@ -1,0 +1,16 @@
+time,currency,event,impact
+03:00:00,EUR,French Flash Manufacturing PMI,medium
+03:00:00,EUR,French Flash Services PMI,medium
+03:30:00,EUR,German Flash Manufacturing PMI,medium
+03:30:00,EUR,German Flash Services PMI,medium
+04:00:00,EUR,Flash Manufacturing PMI,medium
+04:00:00,EUR,Flash Services PMI,medium
+05:00:00,GBP,MPC Member Fisher Speaks,medium
+06:00:00,EUR,German Buba Monthly Report,low
+08:30:00,CAD,Wholesale Sales m/m,medium
+18:47:00,NZD,Visitor Arrivals m/m,low
+19:50:00,JPY,SPPI y/y,low
+21:30:00,AUD,CPI q/q,high
+21:30:00,AUD,Trimmed Mean CPI q/q,medium
+22:00:00,CNY,CB Leading Index m/m,low
+23:00:00,NZD,Credit Card Spending y/y,low

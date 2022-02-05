@@ -1,0 +1,24 @@
+time,currency,event,impact
+00:00:00,AUD,RBA Deputy Gov Battellino Speaks,medium
+02:00:00,CHF,Trade Balance,medium
+03:00:00,EUR,French Flash Manufacturing PMI,medium
+03:00:00,EUR,French Flash Services PMI,medium
+03:30:00,EUR,German Flash Manufacturing PMI,medium
+03:30:00,EUR,German Flash Services PMI,medium
+04:00:00,EUR,Flash Manufacturing PMI,medium
+04:00:00,EUR,Flash Services PMI,medium
+04:30:00,GBP,High Street Lending,medium
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,ZEW Economic Sentiment,medium
+06:00:00,GBP,CBI Industrial Order Expectations,medium
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium
+10:00:00,EUR,Consumer Confidence,low
+10:00:00,GBP,MPC Member Weale Speaks,medium
+10:00:00,USD,New Home Sales,high
+10:00:00,USD,Richmond Manufacturing Index,low
+13:00:00,CAD,Gov Council Member Boivin Speaks,medium
+18:45:00,NZD,Trade Balance,medium
+19:50:00,JPY,SPPI y/y,low
+20:00:00,AUD,CB Leading Index m/m,medium
+21:30:00,AUD,Construction Work Done q/q,medium

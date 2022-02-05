@@ -1,0 +1,19 @@
+time,currency,event,impact
+02:45:00,CHF,SECO Economic Forecasts,medium
+04:15:00,CHF,Industrial Production q/q,medium
+05:33:00,GBP,ONS HPI y/y,low
+06:00:00,EUR,German ZEW Economic Sentiment,high
+06:00:00,EUR,ZEW Economic Sentiment,medium
+06:00:00,JPY,BOJ Gov Shirakawa Speaks,medium
+08:30:00,CAD,Labor Productivity q/q,medium
+08:30:00,CAD,Manufacturing Sales m/m,medium
+08:30:00,USD,Building Permits,high
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Core PPI m/m,medium
+08:30:00,USD,Housing Starts,medium
+15:15:00,EUR,ECB President Trichet Speaks,medium
+15:30:00,EUR,German Buba President Weber Speaks,medium
+16:10:00,GBP,BOE Gov King Speaks,high
+19:30:00,AUD,MI Leading Index m/m,low
+23:27:00,JPY,Monetary Policy Statement,medium
+23:27:00,JPY,Overnight Call Rate,medium

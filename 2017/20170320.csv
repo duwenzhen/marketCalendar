@@ -1,0 +1,14 @@
+time,currency,event,impact
+03:00:00,EUR,German PPI m/m,low
+01:01:00,EUR,Eurogroup Meetings,medium
+07:00:00,EUR,German Buba Monthly Report,low
+08:30:00,CAD,Wholesale Sales m/m,medium
+10:30:00,AUD,CB Leading Index m/m,low
+12:45:00,EUR,German Buba President Weidmann Speaks,medium
+13:10:00,USD,FOMC Member Evans Speaks,medium
+14:20:00,GBP,MPC Member Haldane Speaks,medium
+17:45:00,NZD,Visitor Arrivals m/m,low
+19:30:00,USD,President Trump Speaks,medium
+20:30:00,AUD,Monetary Policy Meeting Minutes,high
+20:30:00,AUD,HPI q/q,medium
+22:00:00,NZD,Credit Card Spending y/y,low

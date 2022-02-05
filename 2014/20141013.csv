@@ -1,0 +1,10 @@
+time,currency,event,impact
+02:00:00,EUR,German WPI m/m,low
+01:01:00,EUR,Eurogroup Meetings,medium
+01:01:00,CAD,Bank Holiday,holiday
+01:01:00,USD,Bank Holiday,holiday
+18:30:00,AUD,RBA Deputy Gov Debelle Speaks,medium
+19:01:00,GBP,BRC Retail Sales Monitor y/y,low
+19:50:00,JPY,M2 Money Stock y/y,low
+19:50:00,JPY,PPI y/y,low
+20:30:00,AUD,NAB Business Confidence,high

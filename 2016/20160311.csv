@@ -1,0 +1,13 @@
+time,currency,event,impact
+02:00:00,EUR,German Final CPI m/m,low
+02:00:00,EUR,German WPI m/m,low
+02:18:00,CNY,Foreign Direct Investment ytd/y,low
+04:00:00,EUR,Italian Industrial Production m/m,low
+04:30:00,GBP,Goods Trade Balance,medium
+04:30:00,GBP,Construction Output m/m,low
+04:30:00,GBP,Consumer Inflation Expectations,low
+06:30:00,CNY,M2 Money Supply y/y,low
+06:30:00,CNY,New Loans,low
+08:30:00,CAD,Employment Change,high
+08:30:00,CAD,Unemployment Rate,high
+08:30:00,USD,Import Prices m/m,medium

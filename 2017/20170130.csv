@@ -1,0 +1,21 @@
+time,currency,event,impact
+01:01:00,EUR,German Prelim CPI m/m,medium
+02:45:00,AUD,RBA Deputy Gov Debelle Speaks,medium
+03:00:00,CHF,KOF Economic Barometer,medium
+03:00:00,EUR,Spanish Flash GDP q/q,medium
+05:18:00,EUR,Italian 10-y Bond Auction,low
+08:30:00,USD,Core PCE Price Index m/m,medium
+08:30:00,USD,Personal Spending m/m,medium
+08:30:00,USD,Personal Income m/m,low
+10:00:00,USD,Pending Home Sales m/m,medium
+16:45:00,NZD,Visitor Arrivals m/m,low
+18:22:00,GBP,GfK Consumer Confidence,low
+18:30:00,JPY,Household Spending y/y,medium
+18:30:00,JPY,Unemployment Rate,low
+18:50:00,JPY,Prelim Industrial Production m/m,low
+01:01:00,CNY,Bank Holiday,holiday
+19:30:00,AUD,NAB Business Confidence,low
+19:30:00,AUD,Private Sector Credit m/m,low
+21:56:00,JPY,BOJ Outlook Report,high
+21:56:00,JPY,BOJ Policy Rate,high
+21:56:00,JPY,Monetary Policy Statement,high

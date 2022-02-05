@@ -1,0 +1,16 @@
+time,currency,event,impact
+02:00:00,CHF,Trade Balance,low
+02:00:00,GBP,Current Account,low
+02:00:00,GBP,Final GDP q/q,low
+02:00:00,GBP,Revised Business Investment q/q,low
+03:00:00,CHF,KOF Economic Barometer,medium
+01:01:00,GBP,30-y Bond Auction,low
+08:30:00,USD,Final GDP q/q,medium
+08:30:00,USD,Unemployment Claims,medium
+08:30:00,USD,Final GDP Price Index q/q,low
+10:00:00,USD,CB Leading Index m/m,low
+10:30:00,USD,Natural Gas Storage,low
+18:30:00,JPY,Tokyo Core CPI y/y,low
+18:50:00,JPY,Monetary Policy Meeting Minutes,low
+18:50:00,JPY,SPPI y/y,low
+19:30:00,AUD,Private Sector Credit m/m,low

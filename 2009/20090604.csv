@@ -1,0 +1,21 @@
+time,currency,event,impact
+03:00:00,CHF,Foreign Currency Reserves,low
+04:00:00,GBP,Halifax HPI m/m,high
+05:00:00,EUR,Retail Sales m/m,medium
+01:01:00,EUR,European Parliamentary Elections,low
+07:00:00,GBP,Asset Purchase Facility,high
+07:00:00,GBP,MPC Rate Statement,high
+07:00:00,GBP,Official Bank Rate,high
+07:45:00,EUR,Main Refinancing Rate,high
+08:05:00,USD,FOMC Member Dudley Speaks,medium
+08:30:00,CAD,Building Permits m/m,high
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Revised Nonfarm Productivity q/q,medium
+08:30:00,USD,Revised Unit Labor Costs q/q,low
+08:45:00,USD,Fed Chairman Bernanke Speaks,high
+09:00:00,CAD,BOC Rate Statement,high
+09:00:00,CAD,Overnight Rate,high
+10:00:00,CAD,Ivey PMI,high
+10:30:00,USD,Natural Gas Storage,low
+19:30:00,AUD,AIG Construction Index,low

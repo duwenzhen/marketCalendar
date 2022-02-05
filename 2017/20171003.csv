@@ -1,0 +1,18 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Core CPI y/y,low
+01:00:00,JPY,Consumer Confidence,low
+01:30:00,AUD,Commodity Prices y/y,low
+03:00:00,EUR,Spanish Unemployment Change,medium
+01:01:00,EUR,German Bank Holiday,holiday
+04:30:00,GBP,Construction PMI,high
+04:30:00,GBP,FPC Meeting Minutes,low
+05:00:00,EUR,PPI m/m,low
+08:30:00,USD,FOMC Member Powell Speaks,medium
+01:01:00,USD,Wards Total Vehicle Sales,low
+10:27:00,NZD,GDT Price Index,medium
+12:30:00,CAD,Gov Council Member Leduc Speaks,low
+01:01:00,USD,Total Vehicle Sales,low
+18:30:00,AUD,AIG Services Index,low
+19:01:00,GBP,BRC Shop Price Index y/y,low
+20:00:00,NZD,ANZ Commodity Prices m/m,low
+01:01:00,CNY,Bank Holiday,holiday

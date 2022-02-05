@@ -1,0 +1,16 @@
+time,currency,event,impact
+00:30:00,AUD,Cash Rate,high
+00:30:00,AUD,RBA Rate Statement,high
+01:00:00,JPY,Leading Indicators,low
+02:00:00,EUR,German Factory Orders m/m,low
+02:00:00,EUR,German Industrial Production m/m,low
+02:30:00,CHF,CPI m/m,low
+02:45:00,EUR,French Trade Balance,low
+03:00:00,CHF,Foreign Currency Reserves,low
+09:45:00,USD,Final Services PMI,low
+10:00:00,USD,ISM Services PMI,high
+01:01:00,NZD,GDT Price Index,low
+18:30:00,AUD,AIG Services Index,low
+19:30:00,JPY,Average Cash Earnings y/y,low
+19:30:00,JPY,Household Spending y/y,low
+23:35:00,JPY,30-y Bond Auction,low

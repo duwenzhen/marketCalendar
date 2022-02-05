@@ -1,0 +1,9 @@
+time,currency,event,impact
+06:00:00,GBP,CBI Realized Sales,low
+07:00:00,GBP,BOE Quarterly Bulletin,low
+09:00:00,EUR,Belgian NBB Business Climate,low
+09:45:00,USD,Flash Manufacturing PMI,medium
+09:45:00,USD,Flash Services PMI,medium
+10:00:00,USD,Revised UoM Consumer Sentiment,medium
+10:00:00,USD,New Home Sales,low
+10:00:00,USD,Revised UoM Inflation Expectations,low

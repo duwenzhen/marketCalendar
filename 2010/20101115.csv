@@ -1,0 +1,13 @@
+time,currency,event,impact
+03:15:00,CHF,PPI m/m,medium
+04:00:00,EUR,Italian Trade Balance,low
+05:00:00,EUR,Trade Balance,low
+08:30:00,CAD,New Motor Vehicle Sales m/m,low
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Empire State Manufacturing Index,medium
+10:00:00,USD,Business Inventories m/m,medium
+18:50:00,JPY,Tertiary Industry Activity m/m,medium
+19:30:00,AUD,Monetary Policy Meeting Minutes,high
+20:51:00,CNY,Foreign Direct Investment ytd/y,low
+21:00:00,CNY,CB Leading Index m/m,low

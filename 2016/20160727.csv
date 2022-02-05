@@ -1,0 +1,17 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,low
+02:00:00,EUR,German GfK Consumer Climate,low
+02:00:00,EUR,German Import Prices m/m,low
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:00:00,EUR,Private Loans y/y,low
+04:30:00,GBP,Prelim GDP q/q,high
+04:30:00,GBP,Index of Services 3m/3m,low
+05:35:00,EUR,German 30-y Bond Auction,low
+06:00:00,GBP,CBI Realized Sales,low
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,Durable Goods Orders m/m,medium
+10:00:00,USD,Pending Home Sales m/m,medium
+10:30:00,USD,Crude Oil Inventories,high
+14:00:00,USD,FOMC Statement,high
+14:00:00,USD,Federal Funds Rate,high
+21:30:00,AUD,Import Prices q/q,low

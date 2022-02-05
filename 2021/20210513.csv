@@ -1,0 +1,18 @@
+time,currency,event,impact
+01:00:00,JPY,Economy Watchers Sentiment,low
+01:01:00,CHF,Bank Holiday,holiday
+01:01:00,EUR,French Bank Holiday,holiday
+01:01:00,EUR,German Bank Holiday,holiday
+03:55:00,CNY,Foreign Direct Investment ytd/y,low
+08:00:00,GBP,MPC Member Cunliffe Speaks,low
+08:30:00,USD,Unemployment Claims,medium
+08:30:00,USD,Core PPI m/m,low
+08:30:00,USD,PPI m/m,low
+10:00:00,USD,FOMC Member Barkin Speaks,low
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,CAD,BOC Gov Macklem Speaks,high
+12:00:00,GBP,BOE Gov Bailey Speaks,medium
+13:00:00,USD,FOMC Member Waller Speaks,low
+13:01:00,USD,30-y Bond Auction,medium
+18:30:00,NZD,BusinessNZ Manufacturing Index,low
+19:50:00,JPY,M2 Money Stock y/y,low

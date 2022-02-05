@@ -1,0 +1,25 @@
+time,currency,event,impact
+04:05:00,EUR,Italian Trade Balance,low
+04:15:00,GBP,MPC Member Ramsden Speaks,medium
+04:30:00,GBP,CPI y/y,high
+04:30:00,GBP,PPI Input m/m,medium
+04:30:00,GBP,RPI y/y,medium
+04:30:00,GBP,Core CPI y/y,low
+04:30:00,GBP,HPI y/y,low
+04:30:00,GBP,PPI Output m/m,low
+05:00:00,EUR,Final CPI y/y,medium
+05:00:00,EUR,German ZEW Economic Sentiment,medium
+05:00:00,EUR,Final Core CPI y/y,low
+05:00:00,EUR,ZEW Economic Sentiment,low
+05:15:00,GBP,MPC Member Tenreyro Speaks,medium
+06:15:00,GBP,BOE Gov Carney Speaks,high
+08:30:00,USD,Import Prices m/m,medium
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+10:00:00,USD,NAHB Housing Market Index,low
+10:33:00,NZD,GDT Price Index,medium
+13:00:00,USD,FOMC Member Harker Speaks,medium
+15:30:00,CAD,Gov Council Member Wilkins Speaks,medium
+16:00:00,USD,TIC Long-Term Purchases,low
+17:00:00,USD,Treasury Currency Report,medium
+19:30:00,AUD,MI Leading Index m/m,low

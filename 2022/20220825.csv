@@ -1,0 +1,12 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Core CPI y/y,low
+03:00:00,CHF,KOF Economic Barometer,medium
+06:00:00,GBP,CBI Realized Sales,low
+08:30:00,USD,Prelim GDP q/q,high
+08:30:00,USD,Unemployment Claims,medium
+08:30:00,USD,Prelim GDP Price Index q/q,low
+09:00:00,EUR,Belgian NBB Business Climate,low
+09:45:00,USD,Flash Manufacturing PMI,medium
+09:45:00,USD,Flash Services PMI,medium
+10:30:00,USD,Natural Gas Storage,low
+01:01:00,All,Jackson Hole Symposium,medium

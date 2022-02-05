@@ -1,0 +1,18 @@
+time,currency,event,impact
+00:00:00,JPY,Economy Watchers Sentiment,low
+01:30:00,EUR,French Final Private Payrolls q/q,low
+01:01:00,EUR,Italian Bank Holiday,holiday
+07:45:00,EUR,Main Refinancing Rate,high
+07:45:00,EUR,Monetary Policy Statement,high
+08:13:00,CAD,Housing Starts,low
+08:30:00,CAD,Building Permits m/m,medium
+08:30:00,CAD,NHPI m/m,medium
+08:30:00,CAD,Capacity Utilization Rate,low
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Unemployment Claims,high
+10:30:00,USD,Natural Gas Storage,low
+18:50:00,JPY,BSI Manufacturing Index,medium
+18:50:00,JPY,M2 Money Stock y/y,low
+19:30:00,AUD,Home Loans m/m,low
+20:30:00,CNY,CPI y/y,medium
+20:30:00,CNY,PPI y/y,medium

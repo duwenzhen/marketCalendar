@@ -1,0 +1,20 @@
+time,currency,event,impact
+00:30:00,AUD,Cash Rate,high
+00:30:00,AUD,RBA Rate Statement,high
+01:45:00,CHF,Unemployment Rate,low
+03:00:00,CHF,Foreign Currency Reserves,high
+03:15:00,CHF,CPI m/m,high
+04:00:00,EUR,Italian Industrial Production m/m,medium
+04:30:00,GBP,Manufacturing Production m/m,high
+04:30:00,GBP,Industrial Production m/m,low
+04:59:00,EUR,Italian Prelim GDP q/q,medium
+06:00:00,EUR,German Factory Orders m/m,medium
+08:30:00,CAD,Building Permits m/m,high
+10:00:00,CAD,Ivey PMI,high
+10:00:00,GBP,NIESR GDP Estimate,medium
+10:00:00,USD,JOLTS Job Openings,low
+14:30:00,USD,Fed Chairman Bernanke Speaks,medium
+15:00:00,USD,Consumer Credit m/m,low
+19:50:00,JPY,Current Account,high
+19:50:00,JPY,Bank Lending y/y,low
+21:30:00,AUD,Home Loans m/m,medium

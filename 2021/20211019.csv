@@ -1,0 +1,15 @@
+time,currency,event,impact
+02:00:00,CHF,Trade Balance,low
+06:00:00,GBP,MPC Member Mann Speaks,low
+08:05:00,GBP,BOE Gov Bailey Speaks,medium
+08:30:00,USD,Building Permits,low
+08:30:00,USD,Housing Starts,low
+10:30:00,AUD,CB Leading Index m/m,low
+10:30:00,NZD,GDT Price Index,low
+11:00:00,USD,FOMC Member Daly Speaks,low
+13:15:00,USD,FOMC Member Bowman Speaks,medium
+14:50:00,USD,FOMC Member Bostic Speaks,low
+15:00:00,USD,FOMC Member Waller Speaks,medium
+19:30:00,AUD,MI Leading Index m/m,low
+19:50:00,JPY,Trade Balance,low
+21:05:00,CNY,Foreign Direct Investment ytd/y,low

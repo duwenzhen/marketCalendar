@@ -1,0 +1,17 @@
+time,currency,event,impact
+04:00:00,CNY,M2 Money Supply y/y,low
+04:00:00,CNY,New Loans,low
+04:50:00,GBP,MPC Member Vlieghe Speaks,medium
+05:00:00,EUR,Trade Balance,low
+01:01:00,EUR,ECOFIN Meetings,medium
+01:01:00,EUR,Eurogroup Meetings,medium
+07:00:00,GBP,BOE Quarterly Bulletin,low
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Empire State Manufacturing Index,medium
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+09:30:00,GBP,CB Leading Index m/m,low
+10:00:00,USD,Prelim UoM Consumer Sentiment,medium
+10:00:00,USD,Business Inventories m/m,low
+10:00:00,USD,Prelim UoM Inflation Expectations,low

@@ -1,0 +1,9 @@
+time,currency,event,impact
+05:00:00,EUR,Italian Trade Balance,low
+05:15:00,CHF,Retail Sales y/y,medium
+08:30:00,USD,Core CPI m/m,high
+08:30:00,USD,CPI m/m,medium
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+10:00:00,USD,Prelim UoM Consumer Sentiment,high
+10:00:00,USD,Prelim UoM Inflation Expectations,low

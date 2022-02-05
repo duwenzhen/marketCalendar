@@ -1,0 +1,20 @@
+time,currency,event,impact
+02:00:00,EUR,German GfK Consumer Climate,low
+03:00:00,EUR,Spanish Unemployment Rate,medium
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:00:00,EUR,Private Loans y/y,low
+06:00:00,GBP,CBI Realized Sales,low
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Durable Goods Orders m/m,medium
+08:30:00,USD,Goods Trade Balance,low
+08:30:00,USD,Prelim Wholesale Inventories m/m,low
+10:30:00,USD,Natural Gas Storage,low
+18:46:00,GBP,GfK Consumer Confidence,low
+19:30:00,JPY,Household Spending y/y,low
+19:30:00,JPY,National Core CPI y/y,low
+19:30:00,JPY,Tokyo Core CPI y/y,low
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,BOJ Summary of Opinions,low
+19:50:00,JPY,Retail Sales y/y,low
+21:30:00,AUD,PPI q/q,low

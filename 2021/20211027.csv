@@ -1,0 +1,23 @@
+time,currency,event,impact
+02:00:00,EUR,German GfK Consumer Climate,low
+02:00:00,EUR,German Import Prices m/m,low
+04:00:00,CHF,Credit Suisse Economic Expectations,low
+04:00:00,EUR,M3 Money Supply y/y,low
+04:00:00,EUR,Private Loans y/y,low
+07:34:00,GBP,Annual Budget Release,high
+07:34:00,GBP,Autumn Forecast Statement,medium
+08:30:00,USD,Core Durable Goods Orders m/m,medium
+08:30:00,USD,Durable Goods Orders m/m,medium
+08:30:00,USD,Goods Trade Balance,low
+08:30:00,USD,Prelim Wholesale Inventories m/m,low
+10:00:00,CAD,BOC Monetary Policy Report,high
+10:00:00,CAD,BOC Rate Statement,high
+10:00:00,CAD,Overnight Rate,medium
+10:30:00,USD,Crude Oil Inventories,medium
+11:00:00,CAD,BOC Press Conference,high
+19:40:00,AUD,RBA Deputy Gov Debelle Speaks,low
+19:50:00,JPY,Retail Sales y/y,low
+20:30:00,AUD,Import Prices q/q,low
+22:45:00,JPY,BOJ Outlook Report,high
+22:45:00,JPY,Monetary Policy Statement,medium
+22:45:00,JPY,BOJ Policy Rate,low

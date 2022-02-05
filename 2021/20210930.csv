@@ -1,0 +1,31 @@
+time,currency,event,impact
+00:59:00,JPY,Housing Starts y/y,low
+02:00:00,GBP,Current Account,low
+02:00:00,GBP,Final GDP q/q,low
+02:00:00,GBP,Nationwide HPI m/m,low
+02:00:00,GBP,Revised Business Investment q/q,low
+01:01:00,EUR,German Prelim CPI m/m,low
+02:45:00,EUR,French Consumer Spending m/m,low
+02:45:00,EUR,French Prelim CPI m/m,low
+03:00:00,CHF,KOF Economic Barometer,low
+03:05:00,JPY,BOJ Gov Kuroda Speaks,medium
+03:55:00,EUR,German Unemployment Change,low
+04:00:00,EUR,Italian Monthly Unemployment Rate,low
+05:00:00,EUR,Italian Prelim CPI m/m,low
+05:00:00,EUR,Unemployment Rate,low
+08:30:00,USD,Final GDP q/q,medium
+08:30:00,USD,Unemployment Claims,medium
+08:30:00,USD,Final GDP Price Index q/q,low
+09:45:00,USD,Chicago PMI,medium
+10:00:00,USD,Fed Chair Powell Testifies,high
+10:00:00,USD,FOMC Member Williams Speaks,medium
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,USD,FOMC Member Bostic Speaks,medium
+12:30:00,USD,FOMC Member Evans Speaks,medium
+18:30:00,AUD,AIG Manufacturing Index,low
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,BOJ Summary of Opinions,low
+19:50:00,JPY,Tankan Manufacturing Index,low
+19:50:00,JPY,Tankan Non-Manufacturing Index,low
+01:01:00,CNY,Bank Holiday,holiday
+20:30:00,JPY,Final Manufacturing PMI,low

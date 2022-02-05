@@ -1,0 +1,6 @@
+time,currency,event,impact
+01:01:00,CNY,Bank Holiday,holiday
+01:01:00,JPY,Bank Holiday,holiday
+19:30:00,AUD,Home Loans m/m,high
+19:30:00,AUD,RBA Monetary Policy Statement,high
+19:30:00,AUD,ANZ Job Advertisements m/m,medium

@@ -1,0 +1,21 @@
+time,currency,event,impact
+00:00:00,JPY,Housing Starts y/y,low
+02:00:00,EUR,German Retail Sales m/m,medium
+02:45:00,EUR,French Consumer Spending m/m,medium
+03:00:00,CHF,KOF Economic Barometer,medium
+03:00:00,EUR,Spanish Flash CPI y/y,medium
+03:00:00,EUR,Spanish Flash GDP q/q,medium
+04:00:00,EUR,Italian Monthly Unemployment Rate,low
+04:30:00,GBP,Net Lending to Individuals m/m,medium
+04:30:00,GBP,M4 Money Supply m/m,low
+04:30:00,GBP,Mortgage Approvals,low
+05:00:00,EUR,CPI Flash Estimate y/y,high
+05:00:00,EUR,Core CPI Flash Estimate y/y,medium
+05:00:00,EUR,Unemployment Rate,medium
+08:30:00,CAD,GDP m/m,high
+08:30:00,USD,Advance GDP q/q,high
+08:30:00,USD,Advance GDP Price Index q/q,medium
+08:30:00,USD,Employment Cost Index q/q,medium
+09:45:00,USD,Chicago PMI,medium
+10:00:00,USD,Revised UoM Consumer Sentiment,medium
+10:00:00,USD,Revised UoM Inflation Expectations,low

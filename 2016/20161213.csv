@@ -1,0 +1,21 @@
+time,currency,event,impact
+02:00:00,EUR,German Final CPI m/m,low
+02:00:00,EUR,German WPI m/m,low
+04:00:00,EUR,Italian Industrial Production m/m,low
+04:30:00,GBP,CPI y/y,high
+04:30:00,GBP,PPI Input m/m,medium
+04:30:00,GBP,RPI y/y,medium
+04:30:00,GBP,Core CPI y/y,low
+04:30:00,GBP,HPI y/y,low
+04:30:00,GBP,PPI Output m/m,low
+05:00:00,EUR,German ZEW Economic Sentiment,medium
+05:00:00,EUR,Final Employment Change q/q,low
+05:00:00,EUR,ZEW Economic Sentiment,low
+06:00:00,USD,NFIB Small Business Index,low
+08:30:00,USD,Import Prices m/m,medium
+13:01:00,USD,30-y Bond Auction,low
+18:30:00,AUD,Westpac Consumer Sentiment,low
+18:50:00,JPY,Tankan Manufacturing Index,medium
+18:50:00,JPY,Tankan Non-Manufacturing Index,medium
+19:30:00,AUD,New Motor Vehicle Sales m/m,low
+23:30:00,JPY,Revised Industrial Production m/m,low

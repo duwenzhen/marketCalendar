@@ -1,0 +1,8 @@
+time,currency,event,impact
+02:00:00,CHF,Trade Balance,low
+02:00:00,GBP,Retail Sales m/m,medium
+02:00:00,GBP,Public Sector Net Borrowing,low
+01:01:00,GBP,30-y Bond Auction,low
+08:30:00,CAD,Core Retail Sales m/m,medium
+08:30:00,CAD,Retail Sales m/m,medium
+10:00:00,EUR,Consumer Confidence,low

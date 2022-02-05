@@ -1,0 +1,25 @@
+time,currency,event,impact
+03:00:00,EUR,French Flash Manufacturing PMI,high
+03:00:00,EUR,French Flash Services PMI,medium
+03:30:00,EUR,German Flash Manufacturing PMI,high
+03:30:00,EUR,German Flash Services PMI,medium
+04:00:00,EUR,Flash Manufacturing PMI,medium
+04:00:00,EUR,Flash Services PMI,medium
+04:00:00,EUR,Italian Trade Balance,low
+05:00:00,EUR,Trade Balance,low
+06:00:00,EUR,German Buba Monthly Report,medium
+08:30:00,CAD,Foreign Securities Purchases,medium
+08:30:00,USD,Empire State Manufacturing Index,medium
+08:30:00,USD,Revised Nonfarm Productivity q/q,medium
+08:30:00,USD,Revised Unit Labor Costs q/q,low
+09:00:00,EUR,ECB President Draghi Speaks,high
+09:00:00,USD,Flash Manufacturing PMI,medium
+09:00:00,USD,TIC Long-Term Purchases,medium
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+12:00:00,CHF,Gov Board Member Zurbrugg Speaks,medium
+18:00:00,AUD,CB Leading Index m/m,medium
+19:15:00,AUD,RBA Deputy Gov Debelle Speaks,medium
+19:30:00,AUD,Monetary Policy Meeting Minutes,high
+19:30:00,AUD,New Motor Vehicle Sales m/m,medium
+20:30:00,AUD,Mid-Year Economic and Fiscal Outlook,high

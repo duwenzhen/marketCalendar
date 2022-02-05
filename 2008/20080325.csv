@@ -1,0 +1,11 @@
+time,currency,event,impact
+05:00:00,CHF,UBS Consumption Indicator,medium
+08:00:00,NZD,Westpac Consumer Sentiment,low
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+10:00:00,USD,CB Consumer Confidence,high
+10:00:00,USD,HPI m/m,low
+10:00:00,USD,Richmond Manufacturing Index,low
+19:50:00,JPY,SPPI y/y,low
+19:50:00,JPY,Trade Balance,low

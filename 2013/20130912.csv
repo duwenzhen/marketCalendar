@@ -1,0 +1,18 @@
+time,currency,event,impact
+02:00:00,EUR,German WPI m/m,low
+02:45:00,EUR,French Final CPI m/m,low
+04:00:00,EUR,ECB Monthly Bulletin,medium
+04:00:00,EUR,Italian Industrial Production m/m,low
+05:00:00,EUR,Industrial Production m/m,medium
+05:00:00,GBP,Monetary Policy Report Hearings,high
+05:34:00,GBP,10-y Bond Auction,medium
+07:40:00,EUR,ECB President Draghi Speaks,high
+08:30:00,CAD,NHPI m/m,medium
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Import Prices m/m,medium
+09:00:00,USD,FOMC Member Dudley Speaks,medium
+10:30:00,USD,Natural Gas Storage,low
+13:00:00,USD,30-y Bond Auction,low
+13:38:00,USD,Federal Budget Balance,medium
+18:24:00,NZD,BusinessNZ Manufacturing Index,medium
+18:45:00,NZD,FPI m/m,low

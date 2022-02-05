@@ -1,0 +1,27 @@
+time,currency,event,impact
+02:00:00,EUR,German Factory Orders m/m,low
+02:00:00,GBP,BOE Monetary Policy Report,high
+02:00:00,GBP,MPC Official Bank Rate Votes,high
+02:00:00,GBP,Monetary Policy Summary,high
+02:00:00,GBP,Official Bank Rate,high
+02:00:00,GBP,MPC Asset Purchase Facility Votes,medium
+02:00:00,GBP,Asset Purchase Facility,low
+02:00:00,GBP,BOE Financial Stability Report,low
+02:00:00,GBP,FPC Meeting Minutes,low
+02:00:00,GBP,FPC Statement,low
+04:00:00,EUR,Italian Industrial Production m/m,low
+04:30:00,GBP,Construction PMI,low
+04:56:00,EUR,Spanish 10-y Bond Auction,low
+05:00:00,GBP,BOE Gov Bailey Speaks,high
+05:01:00,EUR,French 10-y Bond Auction,low
+07:30:00,USD,Challenger Job Cuts y/y,low
+08:30:00,USD,Unemployment Claims,medium
+10:00:00,USD,FOMC Member Kaplan Speaks,low
+10:30:00,USD,Natural Gas Storage,low
+18:30:00,AUD,AIG Services Index,low
+19:30:00,JPY,Average Cash Earnings y/y,low
+19:30:00,JPY,Household Spending y/y,low
+21:30:00,AUD,RBA Monetary Policy Statement,high
+21:45:00,AUD,RBA Assist Gov Ellis Speaks,medium
+23:03:00,CNY,Trade Balance,medium
+23:14:00,CNY,USD-Denominated Trade Balance,medium

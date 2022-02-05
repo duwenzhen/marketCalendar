@@ -1,0 +1,16 @@
+time,currency,event,impact
+04:30:00,GBP,MPC Official Bank Rate Votes,high
+06:00:00,GBP,CBI Industrial Order Expectations,medium
+08:30:00,CAD,Wholesale Sales m/m,medium
+08:30:00,USD,Building Permits,high
+08:30:00,USD,Housing Starts,medium
+08:30:00,USD,Import Prices m/m,medium
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+13:00:00,USD,Fed Chairman Bernanke Speaks,high
+13:30:00,USD,FOMC Member Evans Speaks,medium
+14:00:00,USD,FOMC Meeting Minutes,high
+19:30:00,AUD,New Motor Vehicle Sales m/m,low
+19:30:00,AUD,RBA Bulletin,low
+23:52:00,JPY,Overnight Call Rate,high
+23:52:00,JPY,Monetary Policy Statement,medium

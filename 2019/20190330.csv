@@ -1,0 +1,6 @@
+time,currency,event,impact
+21:00:00,CHF,Daylight Saving Time Shift,holiday
+21:00:00,CNY,Manufacturing PMI,high
+21:00:00,CNY,Non-Manufacturing PMI,medium
+21:00:00,EUR,Daylight Saving Time Shift,holiday
+21:00:00,GBP,Daylight Saving Time Shift,holiday

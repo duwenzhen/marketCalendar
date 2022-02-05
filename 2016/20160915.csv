@@ -1,0 +1,26 @@
+time,currency,event,impact
+03:30:00,CHF,Libor Rate,high
+03:30:00,CHF,SNB Monetary Policy Assessment,high
+04:30:00,GBP,Retail Sales m/m,high
+04:45:00,EUR,Spanish 10-y Bond Auction,low
+05:00:00,EUR,Final CPI y/y,medium
+05:00:00,EUR,Final Core CPI y/y,low
+05:00:00,EUR,Trade Balance,low
+07:00:00,GBP,MPC Official Bank Rate Votes,high
+07:00:00,GBP,Monetary Policy Summary,high
+07:00:00,GBP,Official Bank Rate,high
+07:00:00,GBP,Asset Purchase Facility,medium
+07:00:00,GBP,MPC Asset Purchase Facility Votes,medium
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Philly Fed Manufacturing Index,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Core PPI m/m,medium
+08:30:00,USD,Current Account,medium
+08:30:00,USD,Empire State Manufacturing Index,medium
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+10:00:00,USD,Business Inventories m/m,low
+10:30:00,USD,Natural Gas Storage,low
+01:01:00,CNY,Bank Holiday,holiday

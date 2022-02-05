@@ -1,0 +1,24 @@
+time,currency,event,impact
+00:00:00,JPY,Economy Watchers Sentiment,low
+01:01:00,EUR,Italian Bank Holiday,holiday
+02:45:00,EUR,French Gov Budget Balance,low
+02:45:00,EUR,French Trade Balance,low
+03:00:00,GBP,Halifax HPI m/m,medium
+04:30:00,GBP,Manufacturing Production m/m,high
+04:30:00,GBP,Industrial Production m/m,low
+05:00:00,EUR,Revised GDP q/q,low
+01:01:00,EUR,ECOFIN Meetings,medium
+05:34:00,GBP,30-y Bond Auction,low
+06:00:00,USD,NFIB Small Business Index,low
+08:13:00,CAD,Housing Starts,low
+08:30:00,CAD,Building Permits m/m,high
+09:58:00,GBP,NIESR GDP Estimate,medium
+10:00:00,USD,IBD/TIPP Economic Optimism,low
+10:02:00,USD,JOLTS Job Openings,medium
+12:50:00,CAD,BOC Gov Poloz Speaks,high
+18:30:00,AUD,Westpac Consumer Sentiment,medium
+18:50:00,JPY,Core Machinery Orders m/m,medium
+18:50:00,JPY,M2 Money Stock y/y,low
+19:30:00,AUD,Home Loans m/m,medium
+20:30:00,CNY,CPI y/y,high
+20:30:00,CNY,PPI y/y,medium

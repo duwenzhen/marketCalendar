@@ -1,0 +1,21 @@
+time,currency,event,impact
+01:00:00,JPY,Housing Starts y/y,low
+01:45:00,CHF,SECO Economic Forecasts,medium
+04:00:00,EUR,M3 Money Supply y/y,low
+04:00:00,EUR,Private Loans y/y,low
+04:30:00,GBP,Index of Services 3m/3m,low
+05:00:00,EUR,CPI Flash Estimate y/y,medium
+05:00:00,EUR,Consumer Confidence,low
+05:00:00,EUR,Italian Prelim CPI m/m,low
+05:30:00,GBP,BOE Gov King Speaks,medium
+08:30:00,CAD,GDP m/m,high
+09:45:00,USD,Chicago PMI,medium
+10:00:00,USD,Treasury Sec Paulson Speaks,medium
+18:30:00,AUD,AIG Manufacturing Index,low
+19:50:00,JPY,Tankan Manufacturing Index,high
+19:50:00,JPY,Tankan Non-Manufacturing Index,medium
+21:00:00,CNY,Manufacturing PMI,high
+22:30:00,CNY,Caixin Manufacturing PMI,medium
+23:30:00,AUD,Cash Rate,high
+23:30:00,AUD,RBA Rate Statement,high
+23:45:00,JPY,10-y Bond Auction,low

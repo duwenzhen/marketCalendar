@@ -1,0 +1,12 @@
+time,currency,event,impact
+03:00:00,EUR,German PPI m/m,low
+08:00:00,GBP,BOE Quarterly Bulletin,low
+08:30:00,CAD,Core CPI m/m,high
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,CPI m/m,medium
+08:30:00,CAD,Retail Sales m/m,medium
+09:00:00,USD,FOMC Member Dudley Speaks,medium
+10:00:00,USD,Prelim UoM Consumer Sentiment,high
+10:00:00,USD,Prelim UoM Inflation Expectations,low
+11:00:00,USD,FOMC Member Rosengren Speaks,medium
+14:00:00,USD,FOMC Member Bullard Speaks,medium

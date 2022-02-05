@@ -1,0 +1,17 @@
+time,currency,event,impact
+01:00:00,JPY,Economy Watchers Sentiment,low
+01:45:00,CHF,Unemployment Rate,low
+02:00:00,EUR,German Trade Balance,low
+04:30:00,EUR,Sentix Investor Confidence,low
+04:30:00,GBP,GDP m/m,high
+04:30:00,GBP,Manufacturing Production m/m,high
+04:30:00,GBP,Construction Output m/m,low
+04:30:00,GBP,Goods Trade Balance,low
+04:30:00,GBP,Index of Services 3m/3m,low
+04:30:00,GBP,Industrial Production m/m,low
+07:45:00,GBP,NIESR GDP Estimate,low
+15:00:00,USD,Consumer Credit m/m,low
+19:50:00,JPY,M2 Money Stock y/y,low
+21:30:00,AUD,NAB Business Confidence,medium
+21:30:00,CNY,CPI y/y,medium
+21:30:00,CNY,PPI y/y,low

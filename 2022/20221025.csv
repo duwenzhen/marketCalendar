@@ -1,0 +1,10 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Core CPI y/y,low
+02:00:00,EUR,German Import Prices m/m,low
+09:00:00,EUR,Belgian NBB Business Climate,low
+09:00:00,USD,HPI m/m,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+10:00:00,USD,CB Consumer Confidence,medium
+10:00:00,USD,Richmond Manufacturing Index,low
+20:30:00,AUD,CPI q/q,high
+20:30:00,AUD,Trimmed Mean CPI q/q,high

@@ -1,0 +1,5 @@
+time,currency,event,impact
+10:30:00,CAD,BOC Gov Carney Speaks,medium
+21:00:00,CHF,Daylight Saving Time Shift,holiday
+21:00:00,EUR,Daylight Saving Time Shift,holiday
+21:00:00,GBP,Daylight Saving Time Shift,holiday

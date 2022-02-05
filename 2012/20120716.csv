@@ -1,0 +1,14 @@
+time,currency,event,impact
+04:00:00,EUR,Italian Trade Balance,low
+05:00:00,EUR,Final CPI y/y,medium
+05:00:00,EUR,Final Core CPI y/y,medium
+05:00:00,EUR,Trade Balance,low
+08:30:00,CAD,Foreign Securities Purchases,medium
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Empire State Manufacturing Index,medium
+10:00:00,USD,Business Inventories m/m,medium
+18:45:00,NZD,CPI q/q,high
+21:30:00,AUD,Monetary Policy Meeting Minutes,high
+21:30:00,AUD,New Motor Vehicle Sales m/m,medium
+21:56:00,CNY,Foreign Direct Investment ytd/y,low

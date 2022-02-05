@@ -1,0 +1,14 @@
+time,currency,event,impact
+05:34:00,EUR,German 30-y Bond Auction,low
+08:30:00,CAD,Manufacturing Sales m/m,medium
+08:30:00,USD,Building Permits,high
+08:30:00,USD,Housing Starts,medium
+10:30:00,AUD,CB Leading Index m/m,low
+10:30:00,USD,Crude Oil Inventories,high
+19:50:00,JPY,Trade Balance,low
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high
+21:30:00,AUD,NAB Quarterly Business Confidence,low
+23:10:00,JPY,BOJ Outlook Report,high
+23:10:00,JPY,BOJ Policy Rate,high
+23:10:00,JPY,Monetary Policy Statement,high

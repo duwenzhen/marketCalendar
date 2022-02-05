@@ -1,0 +1,18 @@
+time,currency,event,impact
+02:00:00,EUR,German GfK Consumer Climate,low
+02:00:00,EUR,German Import Prices m/m,low
+02:00:00,GBP,Nationwide HPI m/m,low
+04:00:00,CHF,Credit Suisse Economic Expectations,low
+08:30:00,CAD,CPI m/m,high
+08:30:00,CAD,Common CPI y/y,medium
+08:30:00,CAD,Median CPI y/y,medium
+08:30:00,CAD,Trimmed CPI y/y,medium
+08:30:00,USD,Goods Trade Balance,low
+08:30:00,USD,Prelim Wholesale Inventories m/m,low
+08:32:00,CAD,Core CPI m/m,low
+10:30:00,USD,Crude Oil Inventories,medium
+14:00:00,USD,FOMC Statement,high
+14:00:00,USD,Federal Funds Rate,medium
+14:30:00,USD,FOMC Press Conference,high
+21:00:00,NZD,Final ANZ Business Confidence,low
+21:30:00,AUD,Import Prices q/q,low

@@ -1,0 +1,19 @@
+time,currency,event,impact
+00:30:00,JPY,All Industries Activity m/m,low
+02:00:00,CHF,Trade Balance,low
+02:00:00,EUR,German PPI m/m,low
+02:30:00,JPY,BOJ Press Conference,high
+04:00:00,EUR,Current Account,low
+04:30:00,GBP,Retail Sales m/m,high
+04:43:00,EUR,Spanish 10-y Bond Auction,low
+07:45:00,EUR,Main Refinancing Rate,high
+07:45:00,EUR,Monetary Policy Statement,high
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Philly Fed Manufacturing Index,medium
+10:00:00,EUR,Consumer Confidence,low
+10:00:00,USD,CB Leading Index m/m,low
+10:30:00,USD,Natural Gas Storage,low
+18:45:00,NZD,Visitor Arrivals m/m,low
+22:40:00,AUD,RBA Deputy Gov Debelle Speaks,medium
+23:00:00,NZD,Credit Card Spending y/y,low

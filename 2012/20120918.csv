@@ -1,0 +1,21 @@
+time,currency,event,impact
+01:45:00,CHF,SECO Economic Forecasts,medium
+04:30:00,GBP,CPI y/y,high
+04:30:00,GBP,RPI y/y,medium
+04:30:00,GBP,Core CPI y/y,low
+04:30:00,GBP,ONS HPI y/y,low
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,ZEW Economic Sentiment,medium
+08:30:00,USD,Current Account,medium
+08:38:00,USD,TIC Long-Term Purchases,medium
+10:00:00,USD,NAHB Housing Market Index,low
+10:30:00,NZD,GDT Price Index,low
+12:45:00,USD,FOMC Member Dudley Speaks,low
+16:30:00,USD,FOMC Member Dudley Speaks,low
+18:45:00,NZD,Current Account,high
+19:15:00,USD,FOMC Member Lacker Speaks,medium
+20:30:00,AUD,MI Leading Index m/m,medium
+20:50:00,AUD,RBA Assist Gov Kent Speaks,medium
+21:53:00,CNY,Foreign Direct Investment ytd/y,low
+23:44:00,JPY,Monetary Policy Statement,high
+23:44:00,JPY,Overnight Call Rate,high

@@ -1,0 +1,23 @@
+time,currency,event,impact
+02:00:00,GBP,Nationwide HPI m/m,high
+03:55:00,EUR,German Unemployment Change,medium
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:00:00,EUR,Private Loans y/y,low
+04:00:00,EUR,Retail PMI,low
+06:31:00,EUR,Italian 10-y Bond Auction,medium
+07:30:00,EUR,ECB President Trichet Speaks,medium
+08:30:00,USD,Unemployment Claims,high
+10:30:00,CAD,BOC Gov Carney Speaks,high
+10:30:00,USD,Natural Gas Storage,low
+14:30:00,USD,Treasury Sec Geithner Speaks,low
+18:45:00,NZD,Building Consents m/m,medium
+19:01:00,GBP,GfK Consumer Confidence,medium
+19:15:00,JPY,Final Manufacturing PMI,low
+19:30:00,JPY,Household Spending y/y,medium
+19:30:00,JPY,Tokyo Core CPI y/y,medium
+19:30:00,JPY,National Core CPI y/y,low
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,Prelim Industrial Production m/m,medium
+21:17:00,AUD,HIA New Home Sales m/m,medium
+21:30:00,AUD,Private Sector Credit m/m,medium
+21:30:00,JPY,Average Cash Earnings y/y,medium

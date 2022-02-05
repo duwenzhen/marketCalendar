@@ -1,0 +1,13 @@
+time,currency,event,impact
+03:00:00,CHF,Foreign Currency Reserves,high
+03:40:00,CHF,SNB Chairman Hildebrand Speaks,medium
+04:00:00,GBP,Halifax HPI m/m,high
+05:00:00,EUR,Revised GDP q/q,low
+07:00:00,CAD,Employment Change,high
+07:00:00,CAD,Unemployment Rate,high
+08:30:00,CAD,Building Permits m/m,high
+08:30:00,USD,Non-Farm Employment Change,high
+08:30:00,USD,Unemployment Rate,high
+08:30:00,USD,Average Hourly Earnings m/m,medium
+10:00:00,CAD,Ivey PMI,high
+01:01:00,All,G20 Meetings,medium

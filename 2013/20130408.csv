@@ -1,0 +1,13 @@
+time,currency,event,impact
+01:00:00,JPY,Economy Watchers Sentiment,low
+04:30:00,EUR,Sentix Investor Confidence,low
+06:00:00,EUR,German Industrial Production m/m,medium
+10:30:00,CAD,BOC Business Outlook Survey,medium
+18:00:00,NZD,NZIER Business Confidence,high
+19:00:00,GBP,BRC Retail Sales Monitor y/y,medium
+19:01:00,GBP,RICS House Price Balance,low
+19:15:00,USD,Fed Chairman Bernanke Speaks,high
+19:50:00,JPY,Monetary Policy Meeting Minutes,medium
+21:30:00,AUD,NAB Business Confidence,medium
+21:41:00,CNY,CPI y/y,high
+21:41:00,CNY,PPI y/y,medium

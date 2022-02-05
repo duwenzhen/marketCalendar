@@ -1,0 +1,19 @@
+time,currency,event,impact
+00:00:00,JPY,BOJ Core CPI y/y,low
+02:00:00,EUR,German GfK Consumer Climate,low
+02:00:00,GBP,Retail Sales m/m,medium
+02:00:00,GBP,Public Sector Net Borrowing,low
+04:00:00,CHF,Credit Suisse Economic Expectations,low
+04:00:00,EUR,German ifo Business Climate,medium
+08:30:00,CAD,CPI m/m,high
+08:30:00,CAD,Common CPI y/y,medium
+08:30:00,CAD,Median CPI y/y,medium
+08:30:00,CAD,Trimmed CPI y/y,medium
+08:30:00,CAD,Core CPI m/m,low
+08:30:00,USD,Current Account,low
+09:00:00,CHF,SNB Quarterly Bulletin,low
+10:00:00,USD,CB Consumer Confidence,medium
+10:00:00,USD,Existing Home Sales,medium
+10:30:00,USD,Crude Oil Inventories,medium
+19:00:00,NZD,Final ANZ Business Confidence,low
+21:00:00,NZD,Credit Card Spending y/y,low

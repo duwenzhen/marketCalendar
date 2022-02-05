@@ -1,0 +1,14 @@
+time,currency,event,impact
+00:30:00,JPY,Revised Industrial Production m/m,low
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,ZEW Economic Sentiment,medium
+07:30:00,USD,NFIB Small Business Index,low
+10:00:00,USD,JOLTS Job Openings,medium
+13:55:00,USD,Federal Budget Balance,low
+19:50:00,JPY,Prelim GDP q/q,high
+19:50:00,JPY,Monetary Policy Meeting Minutes,medium
+19:50:00,JPY,Prelim GDP Price Index y/y,low
+20:30:00,AUD,Westpac Consumer Sentiment,medium
+21:30:00,AUD,Wage Price Index q/q,medium
+22:34:00,CNY,New Loans,medium
+22:34:00,CNY,M2 Money Supply y/y,low

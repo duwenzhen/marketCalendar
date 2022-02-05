@@ -1,0 +1,19 @@
+time,currency,event,impact
+00:59:00,JPY,Prelim Machine Tool Orders y/y,low
+02:00:00,EUR,German Final CPI m/m,low
+03:28:00,CHF,PPI m/m,medium
+05:00:00,EUR,Industrial Production m/m,low
+01:01:00,EUR,EU Economic Summit,high
+05:30:00,GBP,BOE Gov Carney Speaks,high
+05:30:00,GBP,BOE Monetary Policy Report,high
+05:30:00,GBP,BOE Inflation Letter,medium
+08:30:00,CAD,NHPI m/m,medium
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Unemployment Claims,high
+10:00:00,USD,Business Inventories m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+13:01:00,USD,30-y Bond Auction,low
+16:45:00,NZD,FPI m/m,low
+17:30:00,AUD,RBA Gov Stevens Speaks,high
+21:00:00,CNY,CB Leading Index m/m,low

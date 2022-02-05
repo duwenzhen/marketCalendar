@@ -1,0 +1,15 @@
+time,currency,event,impact
+01:01:00,CHF,Bank Holiday,holiday
+01:01:00,EUR,French Bank Holiday,holiday
+01:01:00,EUR,German Bank Holiday,holiday
+01:01:00,EUR,Italian Bank Holiday,holiday
+01:01:00,GBP,Bank Holiday,holiday
+09:30:00,CAD,Manufacturing PMI,low
+09:45:00,USD,Final Manufacturing PMI,low
+10:00:00,USD,ISM Manufacturing PMI,high
+10:00:00,USD,Construction Spending m/m,low
+10:00:00,USD,ISM Manufacturing Prices,low
+18:30:00,AUD,AIG Manufacturing Index,low
+19:50:00,JPY,Monetary Base y/y,low
+21:30:00,AUD,ANZ Job Advertisements m/m,low
+23:45:00,JPY,10-y Bond Auction,low

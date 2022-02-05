@@ -1,0 +1,10 @@
+time,currency,event,impact
+02:00:00,EUR,German PPI m/m,medium
+04:00:00,EUR,Current Account,medium
+01:01:00,EUR,Eurogroup Meetings,high
+01:01:00,EUR,ECOFIN Meetings,medium
+05:00:00,GBP,MPC Member Posen Speaks,medium
+06:00:00,EUR,German Buba Monthly Report,low
+13:00:00,CAD,BOC Gov Carney Speaks,medium
+18:50:00,NZD,Visitor Arrivals m/m,low
+21:30:00,AUD,Monetary Policy Meeting Minutes,high

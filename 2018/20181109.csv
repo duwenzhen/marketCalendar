@@ -1,0 +1,17 @@
+time,currency,event,impact
+02:45:00,EUR,French Industrial Production m/m,low
+04:30:00,GBP,GDP m/m,high
+04:30:00,GBP,Manufacturing Production m/m,high
+04:30:00,GBP,Prelim GDP q/q,high
+04:30:00,GBP,Prelim Business Investment q/q,medium
+04:30:00,GBP,Construction Output m/m,low
+04:30:00,GBP,Goods Trade Balance,low
+04:30:00,GBP,Index of Services 3m/3m,low
+04:30:00,GBP,Industrial Production m/m,low
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Core PPI m/m,medium
+08:50:00,GBP,NIESR GDP Estimate,low
+09:05:00,USD,FOMC Member Quarles Speaks,medium
+10:00:00,USD,Prelim UoM Consumer Sentiment,medium
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:00:00,USD,Prelim UoM Inflation Expectations,low

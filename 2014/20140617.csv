@@ -1,0 +1,22 @@
+time,currency,event,impact
+01:45:00,CHF,SECO Economic Forecasts,low
+03:15:00,CHF,PPI m/m,medium
+04:00:00,EUR,Italian Trade Balance,low
+04:30:00,GBP,CPI y/y,high
+04:30:00,GBP,PPI Input m/m,medium
+04:30:00,GBP,RPI y/y,medium
+04:30:00,GBP,Core CPI y/y,low
+04:30:00,GBP,ONS HPI y/y,low
+04:30:00,GBP,PPI Output m/m,low
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,ZEW Economic Sentiment,medium
+08:30:00,USD,Building Permits,high
+08:30:00,USD,Core CPI m/m,high
+08:30:00,USD,CPI m/m,medium
+08:30:00,USD,Housing Starts,medium
+11:05:00,NZD,GDT Price Index,medium
+18:45:00,NZD,Current Account,medium
+19:50:00,JPY,Monetary Policy Meeting Minutes,medium
+19:50:00,JPY,Trade Balance,medium
+20:00:00,AUD,CB Leading Index m/m,medium
+20:30:00,AUD,MI Leading Index m/m,low

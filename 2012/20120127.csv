@@ -1,0 +1,13 @@
+time,currency,event,impact
+02:00:00,EUR,German Import Prices m/m,low
+03:00:00,CHF,KOF Economic Barometer,high
+03:00:00,EUR,Spanish Unemployment Rate,medium
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:00:00,EUR,Private Loans y/y,low
+01:01:00,All,WEF Annual Meetings,medium
+08:15:00,EUR,ECB President Draghi Speaks,medium
+08:30:00,USD,Advance GDP q/q,high
+08:30:00,USD,Advance GDP Price Index q/q,medium
+09:55:00,USD,Revised UoM Consumer Sentiment,medium
+09:55:00,USD,Revised UoM Inflation Expectations,low
+10:00:00,USD,FOMC Member Dudley Speaks,low

@@ -1,0 +1,13 @@
+time,currency,event,impact
+00:02:00,JPY,Economy Watchers Sentiment,low
+01:45:00,CHF,Unemployment Rate,low
+02:30:00,CHF,CPI m/m,low
+04:00:00,EUR,Italian Industrial Production m/m,low
+04:30:00,EUR,Sentix Investor Confidence,low
+08:12:00,CAD,Housing Starts,low
+08:15:00,USD,FOMC Member Bowman Speaks,medium
+08:30:00,CAD,Building Permits m/m,low
+15:15:00,USD,FOMC Member Harker Speaks,low
+01:01:00,JPY,Bank Holiday,holiday
+19:01:00,GBP,BRC Retail Sales Monitor y/y,low
+19:30:00,AUD,NAB Business Confidence,low

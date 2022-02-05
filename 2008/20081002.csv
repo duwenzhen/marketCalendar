@@ -1,0 +1,18 @@
+time,currency,event,impact
+01:45:00,CHF,SECO Economic Forecasts,medium
+02:00:00,GBP,Nationwide HPI m/m,high
+03:00:00,EUR,Spanish Unemployment Change,low
+04:30:00,GBP,BOE Credit Conditions Survey,medium
+04:33:00,GBP,Construction PMI,medium
+05:00:00,CHF,SNB Quarterly Bulletin,low
+05:00:00,EUR,PPI m/m,low
+05:20:00,EUR,French 10-y Bond Auction,low
+07:45:00,EUR,Main Refinancing Rate,high
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Unemployment Claims,high
+10:00:00,USD,Factory Orders m/m,medium
+10:35:00,USD,Natural Gas Storage,low
+19:32:00,AUD,AIG Services Index,low
+01:01:00,CNY,Bank Holiday,holiday
+20:30:00,AUD,MI Inflation Gauge m/m,low
+21:00:00,CNY,Non-Manufacturing PMI,low

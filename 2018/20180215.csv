@@ -1,0 +1,19 @@
+time,currency,event,impact
+04:00:00,EUR,Italian Trade Balance,low
+04:55:00,EUR,Spanish 10-y Bond Auction,low
+05:00:00,EUR,Trade Balance,low
+08:30:00,CAD,ADP Non-Farm Employment Change,medium
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Core PPI m/m,medium
+08:30:00,USD,Empire State Manufacturing Index,medium
+08:30:00,USD,Philly Fed Manufacturing Index,medium
+08:30:00,USD,Unemployment Claims,medium
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+10:00:00,USD,NAHB Housing Market Index,low
+10:30:00,USD,Natural Gas Storage,low
+13:30:00,CAD,Gov Council Member Schembri Speaks,medium
+16:00:00,USD,TIC Long-Term Purchases,low
+16:30:00,NZD,BusinessNZ Manufacturing Index,high
+17:30:00,AUD,RBA Gov Lowe Speaks,high
+01:01:00,CNY,Bank Holiday,holiday

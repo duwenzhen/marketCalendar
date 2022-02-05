@@ -1,0 +1,9 @@
+time,currency,event,impact
+01:01:00,NZD,Bank Holiday,holiday
+19:30:00,AUD,AIG Manufacturing Index,low
+19:50:00,JPY,Capital Spending q/y,medium
+01:01:00,CNY,Bank Holiday,holiday
+20:30:00,AUD,MI Inflation Gauge m/m,low
+21:30:00,AUD,Building Approvals m/m,high
+21:30:00,AUD,Company Operating Profits q/q,medium
+21:35:00,JPY,Final Manufacturing PMI,low

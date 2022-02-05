@@ -1,0 +1,12 @@
+time,currency,event,impact
+01:00:00,JPY,Economy Watchers Sentiment,low
+05:00:00,EUR,German ZEW Economic Sentiment,medium
+05:00:00,EUR,ZEW Economic Sentiment,medium
+05:00:00,GBP,MPC Member Saunders Speaks,medium
+06:00:00,USD,NFIB Small Business Index,low
+01:01:00,EUR,ECOFIN Meetings,medium
+08:13:00,CAD,Housing Starts,low
+10:18:00,USD,Labor Market Conditions Index m/m,low
+19:30:00,AUD,Westpac Consumer Sentiment,low
+19:50:00,JPY,Core Machinery Orders m/m,low
+23:45:00,JPY,30-y Bond Auction,low

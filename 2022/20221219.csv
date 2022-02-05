@@ -1,0 +1,17 @@
+time,currency,event,impact
+03:15:00,EUR,French Flash Services PMI,medium
+03:15:00,EUR,French Flash Manufacturing PMI,low
+03:30:00,EUR,German Flash Manufacturing PMI,high
+03:30:00,EUR,German Flash Services PMI,high
+04:00:00,EUR,Flash Manufacturing PMI,low
+04:00:00,EUR,Flash Services PMI,low
+04:30:00,GBP,Flash Manufacturing PMI,medium
+04:30:00,GBP,Flash Services PMI,medium
+08:30:00,CAD,IPPI m/m,low
+08:30:00,CAD,RMPI m/m,low
+09:30:00,GBP,CBI Realized Sales,low
+10:00:00,USD,NAHB Housing Market Index,low
+15:00:00,NZD,Westpac Consumer Sentiment,low
+19:30:00,AUD,Monetary Policy Meeting Minutes,high
+01:01:00,JPY,Monetary Policy Statement,medium
+01:01:00,JPY,BOJ Policy Rate,low

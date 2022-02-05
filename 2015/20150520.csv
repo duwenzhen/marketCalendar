@@ -1,0 +1,16 @@
+time,currency,event,impact
+02:00:00,EUR,German PPI m/m,low
+03:00:00,USD,FOMC Member Evans Speaks,medium
+04:30:00,GBP,MPC Official Bank Rate Votes,high
+04:30:00,GBP,MPC Asset Purchase Facility Votes,medium
+05:00:00,CHF,Credit Suisse Economic Expectations,low
+08:30:00,CAD,Wholesale Sales m/m,high
+10:30:00,USD,Crude Oil Inventories,medium
+14:00:00,USD,FOMC Meeting Minutes,high
+18:45:00,NZD,Visitor Arrivals m/m,low
+18:50:00,AUD,RBA Assist Gov Edey Speaks,medium
+21:00:00,AUD,MI Inflation Expectations,medium
+21:35:00,JPY,Flash Manufacturing PMI,low
+21:45:00,CNY,Caixin Flash Manufacturing PMI,high
+22:00:00,NZD,Annual Budget Release,medium
+23:00:00,NZD,Credit Card Spending y/y,low

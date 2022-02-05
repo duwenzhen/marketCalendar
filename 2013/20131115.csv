@@ -1,0 +1,11 @@
+time,currency,event,impact
+04:00:00,EUR,Italian Trade Balance,low
+05:00:00,EUR,Final CPI y/y,medium
+05:00:00,EUR,Final Core CPI y/y,low
+01:01:00,EUR,ECOFIN Meetings,medium
+08:30:00,CAD,Manufacturing Sales m/m,high
+08:30:00,USD,Empire State Manufacturing Index,medium
+08:30:00,USD,Import Prices m/m,medium
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+10:00:00,USD,Final Wholesale Inventories m/m,low

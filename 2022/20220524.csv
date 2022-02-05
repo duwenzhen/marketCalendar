@@ -1,0 +1,14 @@
+time,currency,event,impact
+02:00:00,EUR,German Final GDP q/q,low
+02:00:00,GBP,Public Sector Net Borrowing,low
+01:01:00,EUR,ECOFIN Meetings,low
+09:45:00,USD,Flash Manufacturing PMI,medium
+09:45:00,USD,Flash Services PMI,medium
+10:00:00,USD,New Home Sales,low
+10:00:00,USD,Richmond Manufacturing Index,low
+19:30:00,JPY,Tokyo Core CPI y/y,low
+21:30:00,AUD,Construction Work Done q/q,low
+22:00:00,NZD,Official Cash Rate,high
+22:00:00,NZD,RBNZ Monetary Policy Statement,high
+22:00:00,NZD,RBNZ Rate Statement,high
+23:00:00,NZD,RBNZ Press Conference,high

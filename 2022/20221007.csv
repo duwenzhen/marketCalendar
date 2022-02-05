@@ -1,0 +1,14 @@
+time,currency,event,impact
+01:45:00,CHF,Unemployment Rate,low
+02:00:00,EUR,German Industrial Production m/m,low
+02:00:00,GBP,Halifax HPI m/m,low
+02:00:00,JPY,Prelim Machine Tool Orders y/y,low
+07:00:00,GBP,BOE Quarterly Bulletin,low
+08:30:00,CAD,Employment Change,high
+08:30:00,CAD,Unemployment Rate,high
+08:30:00,USD,Average Hourly Earnings m/m,high
+08:30:00,USD,Non-Farm Employment Change,high
+08:30:00,USD,Unemployment Rate,high
+10:00:00,CAD,Ivey PMI,medium
+10:00:00,USD,Final Wholesale Inventories m/m,low
+15:00:00,USD,Consumer Credit m/m,low

@@ -1,0 +1,5 @@
+time,currency,event,impact
+01:01:00,AUD,Bank Holiday,holiday
+19:50:00,JPY,Bank Lending y/y,low
+19:50:00,JPY,M2 Money Stock y/y,low
+01:01:00,CNY,Bank Holiday,holiday

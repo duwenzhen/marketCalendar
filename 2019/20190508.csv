@@ -1,0 +1,16 @@
+time,currency,event,impact
+01:45:00,CHF,Unemployment Rate,low
+01:01:00,EUR,French Bank Holiday,holiday
+02:00:00,EUR,German Industrial Production m/m,low
+03:30:00,GBP,Halifax HPI m/m,low
+04:15:00,GBP,MPC Member Ramsden Speaks,medium
+07:34:00,EUR,ECB President Draghi Speaks,high
+08:13:00,CAD,Housing Starts,low
+08:30:00,USD,FOMC Member Brainard Speaks,medium
+10:30:00,USD,Crude Oil Inventories,low
+13:01:00,USD,10-y Bond Auction,low
+19:01:00,GBP,RICS House Price Balance,low
+21:30:00,CNY,CPI y/y,medium
+21:30:00,CNY,PPI y/y,low
+22:00:00,CNY,New Loans,medium
+22:00:00,CNY,M2 Money Supply y/y,low

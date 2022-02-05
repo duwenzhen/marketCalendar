@@ -1,0 +1,17 @@
+time,currency,event,impact
+02:00:00,EUR,German Final GDP q/q,low
+04:00:00,EUR,German ifo Business Climate,medium
+05:00:00,EUR,Final CPI y/y,low
+05:00:00,EUR,Final Core CPI y/y,low
+06:00:00,GBP,CBI Realized Sales,low
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium
+08:58:00,EUR,Belgian NBB Business Climate,low
+09:00:00,CNY,CB Leading Index m/m,low
+10:15:00,USD,FOMC Member Williams Speaks,medium
+10:30:00,EUR,ECB President Draghi Speaks,high
+11:00:00,USD,Fed Monetary Policy Report,low
+12:00:00,USD,FOMC Member Clarida Speaks,medium
+13:30:00,USD,FOMC Member Bullard Speaks,medium
+13:30:00,USD,FOMC Member Quarles Speaks,medium
+17:30:00,USD,FOMC Member Williams Speaks,medium

@@ -1,0 +1,9 @@
+time,currency,event,impact
+01:01:00,JPY,Bank Holiday,holiday
+01:01:00,CNY,Bank Holiday,holiday
+21:00:00,AUD,MI Inflation Gauge m/m,low
+21:00:00,CNY,Manufacturing PMI,medium
+21:00:00,CNY,Non-Manufacturing PMI,medium
+21:00:00,NZD,Final ANZ Business Confidence,high
+21:15:00,AUD,HIA New Home Sales m/m,low
+21:30:00,AUD,Private Sector Credit m/m,low

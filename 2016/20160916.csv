@@ -1,0 +1,10 @@
+time,currency,event,impact
+04:00:00,EUR,Italian Trade Balance,low
+01:01:00,EUR,EU Economic Summit,medium
+08:30:00,CAD,Manufacturing Sales m/m,high
+08:30:00,CAD,Foreign Securities Purchases,medium
+08:30:00,USD,CPI m/m,high
+08:30:00,USD,Core CPI m/m,high
+10:00:00,USD,Prelim UoM Consumer Sentiment,high
+10:00:00,USD,Prelim UoM Inflation Expectations,low
+16:00:00,USD,TIC Long-Term Purchases,low

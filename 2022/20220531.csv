@@ -1,0 +1,20 @@
+time,currency,event,impact
+01:00:00,JPY,Housing Starts y/y,low
+01:01:00,EUR,German Prelim CPI m/m,low
+03:55:00,EUR,German Unemployment Change,low
+04:00:00,EUR,Italian Monthly Unemployment Rate,low
+05:00:00,EUR,CPI Flash Estimate y/y,low
+05:00:00,EUR,Core CPI Flash Estimate y/y,low
+08:30:00,CAD,GDP m/m,high
+09:00:00,USD,HPI m/m,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+09:45:00,USD,Chicago PMI,medium
+10:00:00,USD,CB Consumer Confidence,medium
+18:30:00,AUD,AIG Manufacturing Index,low
+18:45:00,NZD,Building Consents m/m,low
+19:01:00,GBP,BRC Shop Price Index y/y,low
+19:50:00,JPY,Capital Spending q/y,low
+20:30:00,JPY,Final Manufacturing PMI,low
+21:30:00,AUD,GDP q/q,high
+21:30:00,AUD,Building Approvals m/m,low
+21:45:00,CNY,Caixin Manufacturing PMI,low

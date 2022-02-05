@@ -1,0 +1,5 @@
+time,currency,event,impact
+02:00:00,CAD,Daylight Saving Time Shift,holiday
+02:00:00,USD,Daylight Saving Time Shift,holiday
+17:23:00,AUD,AIG Construction Index,low
+19:30:00,AUD,ANZ Job Advertisements m/m,high

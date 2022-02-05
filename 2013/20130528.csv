@@ -1,0 +1,14 @@
+time,currency,event,impact
+02:00:00,CHF,Trade Balance,low
+02:00:00,EUR,German Import Prices m/m,low
+03:15:00,CHF,Employment Level,medium
+08:30:00,CAD,Corporate Profits q/q,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,medium
+10:00:00,USD,CB Consumer Confidence,high
+10:00:00,USD,Richmond Manufacturing Index,low
+13:00:00,GBP,MPC Member Tucker Speaks,medium
+19:50:00,JPY,Retail Sales y/y,medium
+20:00:00,JPY,BOJ Gov Kuroda Speaks,high
+20:30:00,AUD,MI Leading Index m/m,low
+21:08:00,AUD,HIA New Home Sales m/m,medium
+21:30:00,AUD,Construction Work Done q/q,medium

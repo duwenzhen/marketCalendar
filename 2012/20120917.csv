@@ -1,0 +1,8 @@
+time,currency,event,impact
+04:00:00,EUR,Current Account,medium
+04:00:00,EUR,Italian Trade Balance,low
+05:00:00,EUR,Trade Balance,low
+08:30:00,CAD,Foreign Securities Purchases,medium
+08:30:00,USD,Empire State Manufacturing Index,medium
+21:30:00,AUD,Monetary Policy Meeting Minutes,high
+23:00:00,AUD,RBA Deputy Gov Debelle Speaks,medium

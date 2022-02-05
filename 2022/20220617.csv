@@ -1,0 +1,13 @@
+time,currency,event,impact
+01:01:00,JPY,BOJ Press Conference,medium
+04:30:00,GBP,Consumer Inflation Expectations,low
+05:00:00,EUR,Final CPI y/y,low
+05:00:00,EUR,Final Core CPI y/y,low
+01:01:00,EUR,ECOFIN Meetings,low
+08:30:00,CAD,Foreign Securities Purchases,low
+08:30:00,CAD,IPPI m/m,low
+08:30:00,CAD,RMPI m/m,low
+09:15:00,USD,Industrial Production m/m,medium
+09:15:00,USD,Capacity Utilization Rate,low
+10:00:00,USD,CB Leading Index m/m,low
+11:00:00,USD,Fed Monetary Policy Report,low

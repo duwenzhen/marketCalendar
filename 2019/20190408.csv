@@ -1,0 +1,11 @@
+time,currency,event,impact
+01:00:00,JPY,Consumer Confidence,low
+02:00:00,EUR,German Trade Balance,low
+02:00:00,JPY,Economy Watchers Sentiment,low
+04:30:00,EUR,Sentix Investor Confidence,low
+04:30:00,GBP,Consumer Inflation Expectations,low
+08:13:00,CAD,Housing Starts,low
+08:30:00,CAD,Building Permits m/m,low
+10:00:00,USD,Factory Orders m/m,low
+19:01:00,GBP,BRC Retail Sales Monitor y/y,low
+21:30:00,AUD,Home Loans m/m,low

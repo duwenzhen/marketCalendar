@@ -1,0 +1,20 @@
+time,currency,event,impact
+03:39:00,JPY,BOJ Press Conference,high
+04:41:00,EUR,Spanish 10-y Bond Auction,medium
+05:00:00,EUR,French 10-y Bond Auction,low
+06:00:00,EUR,German Factory Orders m/m,medium
+07:00:00,GBP,Asset Purchase Facility,high
+07:00:00,GBP,Official Bank Rate,high
+07:30:00,USD,Challenger Job Cuts y/y,low
+07:45:00,EUR,Main Refinancing Rate,high
+08:15:00,USD,ADP Non-Farm Employment Change,high
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Revised Nonfarm Productivity q/q,medium
+08:30:00,USD,Revised Unit Labor Costs q/q,low
+10:00:00,USD,ISM Services PMI,high
+10:00:00,USD,Factory Orders m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,USD,Crude Oil Inventories,medium
+01:01:00,All,G20 Meetings,high
+19:30:00,AUD,AIG Construction Index,low

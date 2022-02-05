@@ -1,0 +1,8 @@
+time,currency,event,impact
+02:00:00,EUR,German WPI m/m,low
+05:00:00,EUR,EU Economic Forecasts,medium
+16:45:00,NZD,FPI m/m,low
+19:30:00,AUD,NAB Business Confidence,low
+20:30:00,CNY,CPI y/y,high
+20:30:00,CNY,PPI y/y,medium
+23:30:00,JPY,Revised Industrial Production m/m,low

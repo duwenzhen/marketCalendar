@@ -1,0 +1,4 @@
+time,currency,event,impact
+01:01:00,NZD,Bank Holiday,holiday
+19:30:00,AUD,AIG Construction Index,low
+21:30:00,AUD,ANZ Job Advertisements m/m,high

@@ -1,0 +1,22 @@
+time,currency,event,impact
+01:58:00,GBP,Nationwide HPI m/m,low
+04:00:00,CHF,Credit Suisse Economic Expectations,medium
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:00:00,EUR,Private Loans y/y,low
+05:30:00,GBP,BOE Financial Stability Report,medium
+05:30:00,GBP,FPC Statement,low
+06:00:00,GBP,BOE Gov Carney Speaks,high
+06:00:00,GBP,CBI Realized Sales,low
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,Durable Goods Orders m/m,medium
+08:30:00,USD,Goods Trade Balance,low
+08:30:00,USD,Prelim Wholesale Inventories m/m,low
+09:00:00,CHF,SNB Quarterly Bulletin,low
+09:00:00,CNY,CB Leading Index m/m,low
+10:00:00,USD,Pending Home Sales m/m,low
+10:30:00,USD,Crude Oil Inventories,high
+11:00:00,USD,FOMC Member Quarles Speaks,medium
+15:00:00,CAD,BOC Gov Poloz Speaks,high
+17:00:00,NZD,Official Cash Rate,high
+17:00:00,NZD,RBNZ Rate Statement,high
+19:50:00,JPY,Retail Sales y/y,low

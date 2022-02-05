@@ -1,0 +1,30 @@
+time,currency,event,impact
+01:01:00,EUR,German Prelim CPI m/m,medium
+03:00:00,CHF,KOF Economic Barometer,low
+03:55:00,EUR,German Unemployment Change,low
+04:00:00,EUR,Italian Monthly Unemployment Rate,low
+05:00:00,EUR,Unemployment Rate,low
+05:17:00,EUR,Italian 10-y Bond Auction,low
+07:00:00,GBP,BOE Monetary Policy Report,high
+07:00:00,GBP,MPC Official Bank Rate Votes,high
+07:00:00,GBP,Monetary Policy Summary,high
+07:00:00,GBP,Official Bank Rate,high
+07:00:00,GBP,Asset Purchase Facility,low
+07:00:00,GBP,MPC Asset Purchase Facility Votes,low
+07:30:00,GBP,BOE Gov Carney Speaks,high
+08:30:00,USD,Advance GDP q/q,high
+08:30:00,USD,Advance GDP Price Index q/q,medium
+08:30:00,USD,Unemployment Claims,low
+10:30:00,USD,Natural Gas Storage,low
+13:00:00,EUR,German Buba President Weidmann Speaks,low
+15:15:00,CAD,Gov Council Member Beaudry Speaks,low
+18:30:00,JPY,Tokyo Core CPI y/y,low
+18:30:00,JPY,Unemployment Rate,low
+18:50:00,JPY,Prelim Industrial Production m/m,low
+18:50:00,JPY,Retail Sales y/y,low
+01:01:00,CNY,Bank Holiday,holiday
+19:01:00,GBP,GfK Consumer Confidence,low
+19:30:00,AUD,PPI q/q,low
+19:30:00,AUD,Private Sector Credit m/m,low
+20:00:00,CNY,Manufacturing PMI,high
+20:00:00,CNY,Non-Manufacturing PMI,medium

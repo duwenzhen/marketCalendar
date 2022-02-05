@@ -1,0 +1,14 @@
+time,currency,event,impact
+01:00:00,JPY,Leading Indicators,low
+03:00:00,CHF,Foreign Currency Reserves,low
+04:30:00,EUR,Sentix Investor Confidence,medium
+05:00:00,EUR,Retail Sales m/m,medium
+05:00:00,EUR,PPI m/m,low
+08:30:00,CAD,Building Permits m/m,high
+10:00:00,CAD,Ivey PMI,high
+10:00:00,USD,Fed Announcement,high
+13:00:00,USD,FOMC Member Warsh Speaks,medium
+18:00:00,NZD,NZIER Business Confidence,high
+19:30:00,AUD,AIG Construction Index,low
+23:22:00,JPY,Monetary Policy Statement,medium
+23:22:00,JPY,Overnight Call Rate,medium

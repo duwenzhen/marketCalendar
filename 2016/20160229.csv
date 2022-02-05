@@ -1,0 +1,31 @@
+time,currency,event,impact
+00:00:00,JPY,Housing Starts y/y,low
+02:00:00,EUR,German Retail Sales m/m,medium
+02:00:00,EUR,German Import Prices m/m,low
+03:00:00,CHF,KOF Economic Barometer,medium
+04:30:00,GBP,Net Lending to Individuals m/m,medium
+04:30:00,GBP,M4 Money Supply m/m,low
+04:30:00,GBP,Mortgage Approvals,low
+05:00:00,EUR,CPI Flash Estimate y/y,medium
+05:00:00,EUR,Core CPI Flash Estimate y/y,medium
+05:00:00,EUR,Italian Prelim CPI m/m,low
+08:30:00,CAD,Current Account,medium
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+09:45:00,USD,Chicago PMI,medium
+10:00:00,USD,Pending Home Sales m/m,medium
+16:45:00,NZD,Overseas Trade Index q/q,low
+17:30:00,AUD,AIG Manufacturing Index,low
+18:30:00,JPY,Household Spending y/y,medium
+18:30:00,JPY,Unemployment Rate,low
+18:50:00,JPY,Capital Spending q/y,low
+19:30:00,AUD,Building Approvals m/m,high
+19:30:00,AUD,Current Account,medium
+20:00:00,CNY,Manufacturing PMI,high
+20:00:00,CNY,Non-Manufacturing PMI,medium
+20:45:00,CNY,Caixin Manufacturing PMI,high
+21:00:00,JPY,Final Manufacturing PMI,low
+22:30:00,AUD,Cash Rate,high
+22:30:00,AUD,RBA Rate Statement,high
+22:45:00,JPY,10-y Bond Auction,low
+23:30:00,USD,FOMC Member Dudley Speaks,medium

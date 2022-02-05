@@ -1,0 +1,8 @@
+time,currency,event,impact
+01:01:00,AUD,Bank Holiday,holiday
+19:50:00,JPY,Bank Lending y/y,low
+19:50:00,JPY,Current Account,low
+19:50:00,JPY,Final GDP Price Index y/y,low
+19:50:00,JPY,Final GDP q/q,low
+21:33:00,CNY,USD-Denominated Trade Balance,low
+21:34:00,CNY,Trade Balance,medium

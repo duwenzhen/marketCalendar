@@ -1,0 +1,17 @@
+time,currency,event,impact
+02:00:00,EUR,German Final CPI m/m,low
+02:00:00,GBP,BOE Financial Stability Report,low
+02:00:00,GBP,FPC Meeting Minutes,low
+02:00:00,GBP,FPC Statement,low
+03:30:00,GBP,BOE Gov Bailey Speaks,high
+04:00:00,EUR,Italian Industrial Production m/m,low
+04:30:00,GBP,Consumer Inflation Expectations,low
+05:00:00,EUR,Italian Quarterly Unemployment Rate,low
+01:01:00,EUR,Euro Summit,high
+01:01:00,EUR,EU Economic Summit,medium
+08:30:00,CAD,Capacity Utilization Rate,low
+08:30:00,USD,Core PPI m/m,medium
+08:30:00,USD,PPI m/m,medium
+09:30:00,GBP,CB Leading Index m/m,low
+10:00:00,USD,Prelim UoM Consumer Sentiment,low
+10:00:00,USD,Prelim UoM Inflation Expectations,low

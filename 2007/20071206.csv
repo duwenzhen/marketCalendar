@@ -1,0 +1,23 @@
+time,currency,event,impact
+00:00:00,JPY,Leading Indicators,low
+01:00:00,JPY,Prelim Machine Tool Orders y/y,low
+01:45:00,CHF,Unemployment Rate,low
+03:00:00,CHF,Foreign Currency Reserves,low
+04:30:00,GBP,Manufacturing Production m/m,high
+04:30:00,GBP,Industrial Production m/m,low
+06:00:00,EUR,German Factory Orders m/m,medium
+07:00:00,GBP,MPC Rate Statement,high
+07:00:00,GBP,Official Bank Rate,high
+07:30:00,USD,FOMC Member Kroszner Speaks,high
+07:45:00,EUR,Main Refinancing Rate,medium
+08:30:00,CAD,Building Permits m/m,medium
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Unemployment Claims,medium
+10:00:00,CAD,Ivey PMI,high
+10:00:00,USD,Mortgage Delinquencies,medium
+10:30:00,USD,Natural Gas Storage,low
+13:45:00,USD,Treasury Sec Paulson Speaks,medium
+17:30:00,AUD,AIG Construction Index,low
+18:50:00,JPY,Final GDP q/q,medium
+18:50:00,JPY,Final GDP Price Index y/y,low
+19:01:00,GBP,NIESR GDP Estimate,low

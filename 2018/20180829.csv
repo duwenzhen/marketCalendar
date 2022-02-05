@@ -1,0 +1,16 @@
+time,currency,event,impact
+01:00:00,JPY,Consumer Confidence,low
+02:00:00,EUR,German GfK Consumer Climate,low
+02:45:00,EUR,French Consumer Spending m/m,low
+02:45:00,EUR,French Prelim GDP q/q,low
+04:00:00,CHF,Credit Suisse Economic Expectations,low
+08:30:00,CAD,Current Account,medium
+08:30:00,USD,Prelim GDP q/q,high
+08:30:00,USD,Prelim GDP Price Index q/q,low
+10:00:00,USD,Pending Home Sales m/m,low
+10:30:00,USD,Crude Oil Inventories,high
+18:45:00,NZD,Building Consents m/m,low
+19:50:00,JPY,Retail Sales y/y,low
+21:00:00,NZD,Final ANZ Business Confidence,high
+21:30:00,AUD,Private Capital Expenditure q/q,high
+21:30:00,AUD,Building Approvals m/m,medium

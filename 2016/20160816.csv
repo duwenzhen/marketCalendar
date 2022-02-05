@@ -1,0 +1,24 @@
+time,currency,event,impact
+04:30:00,GBP,CPI y/y,high
+04:30:00,GBP,PPI Input m/m,medium
+04:30:00,GBP,RPI y/y,medium
+04:30:00,GBP,Core CPI y/y,low
+04:30:00,GBP,HPI y/y,low
+04:30:00,GBP,PPI Output m/m,low
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,ZEW Economic Sentiment,medium
+05:00:00,EUR,Trade Balance,low
+08:30:00,CAD,Manufacturing Sales m/m,high
+08:30:00,USD,Building Permits,high
+08:30:00,USD,CPI m/m,high
+08:30:00,USD,Core CPI m/m,high
+08:30:00,USD,Housing Starts,medium
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+10:49:00,NZD,GDT Price Index,high
+18:45:00,NZD,Employment Change q/q,high
+18:45:00,NZD,PPI Input q/q,high
+18:45:00,NZD,Unemployment Rate,high
+18:45:00,NZD,PPI Output q/q,low
+20:30:00,AUD,MI Leading Index m/m,low
+21:30:00,AUD,Wage Price Index q/q,medium

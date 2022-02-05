@@ -1,0 +1,10 @@
+time,currency,event,impact
+04:00:00,EUR,German ifo Business Climate,high
+08:30:00,CAD,Corporate Profits q/q,low
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,Durable Goods Orders m/m,medium
+10:00:00,USD,New Home Sales,high
+10:00:00,USD,HPI m/m,low
+10:30:00,USD,Crude Oil Inventories,medium
+20:00:00,AUD,CB Leading Index m/m,medium
+21:30:00,AUD,Private Capital Expenditure q/q,high

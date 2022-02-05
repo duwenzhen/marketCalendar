@@ -1,0 +1,17 @@
+time,currency,event,impact
+02:00:00,EUR,German Final CPI m/m,low
+02:00:00,JPY,Prelim Machine Tool Orders y/y,low
+04:01:00,CNY,M2 Money Supply y/y,low
+04:01:00,CNY,New Loans,low
+05:32:00,EUR,German 10-y Bond Auction,low
+08:30:00,USD,CPI m/m,high
+08:30:00,USD,Core CPI m/m,high
+10:30:00,USD,Crude Oil Inventories,medium
+10:30:00,USD,FOMC Member Bostic Speaks,medium
+13:01:00,USD,10-y Bond Auction,medium
+14:00:00,USD,Federal Budget Balance,low
+18:45:00,NZD,FPI m/m,low
+19:01:00,GBP,RICS House Price Balance,low
+19:50:00,JPY,PPI y/y,low
+21:00:00,AUD,MI Inflation Expectations,low
+23:00:00,NZD,Inflation Expectations q/q,medium

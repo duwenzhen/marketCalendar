@@ -1,0 +1,27 @@
+time,currency,event,impact
+03:03:00,CNY,New Loans,medium
+03:03:00,CNY,M2 Money Supply y/y,low
+04:00:00,EUR,ECB Monthly Bulletin,medium
+05:00:00,CHF,Credit Suisse Economic Expectations,medium
+06:38:00,GBP,30-y Bond Auction,low
+08:30:00,CAD,Manufacturing Sales m/m,medium
+08:30:00,CAD,New Motor Vehicle Sales m/m,low
+08:30:00,CHF,Gov Board Member Danthine Speaks,medium
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Core PPI m/m,medium
+09:00:00,USD,FOMC Member Duke Speaks,low
+09:20:00,USD,FOMC Member Kocherlakota Speaks,medium
+01:01:00,All,G7 Meetings,high
+10:30:00,USD,Natural Gas Storage,low
+12:30:00,USD,FOMC Member Plosser Speaks,medium
+13:00:00,USD,30-y Bond Auction,low
+13:15:00,USD,FOMC Member Tarullo Speaks,medium
+19:05:00,GBP,MPC Member Tucker Speaks,medium
+22:00:00,CNY,CPI y/y,high
+22:00:00,CNY,GDP q/y,high
+22:00:00,CNY,Fixed Asset Investment ytd/y,medium
+22:00:00,CNY,Industrial Production y/y,medium
+22:00:00,CNY,NBS Press Conference,medium
+22:00:00,CNY,PPI y/y,medium
+22:00:00,CNY,Retail Sales y/y,low

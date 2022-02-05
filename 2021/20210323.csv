@@ -1,0 +1,27 @@
+time,currency,event,impact
+00:59:00,JPY,BOJ Core CPI y/y,low
+03:00:00,GBP,Average Earnings Index 3m/y,low
+03:00:00,GBP,Claimant Count Change,low
+03:00:00,GBP,Unemployment Rate,low
+04:40:00,GBP,MPC Member Haldane Speaks,low
+05:55:00,GBP,MPC Member Cunliffe Speaks,low
+06:05:00,GBP,30-y Bond Auction,low
+07:00:00,GBP,CBI Industrial Order Expectations,low
+07:50:00,GBP,BOE Gov Bailey Speaks,medium
+08:30:00,USD,Current Account,low
+09:00:00,CNY,CB Leading Index m/m,low
+09:59:00,USD,Richmond Manufacturing Index,low
+10:00:00,USD,New Home Sales,low
+10:10:00,USD,FOMC Member Bostic Speaks,low
+12:00:00,USD,Fed Chair Powell Testifies,high
+13:15:00,CAD,Gov Council Member Gravelle Speaks,low
+13:25:00,USD,FOMC Member Brainard Speaks,low
+14:45:00,USD,FOMC Member Williams Speaks,low
+15:45:00,USD,FOMC Member Brainard Speaks,low
+17:45:00,NZD,Trade Balance,low
+18:00:00,AUD,Flash Manufacturing PMI,low
+18:00:00,AUD,Flash Services PMI,low
+19:50:00,JPY,Monetary Policy Meeting Minutes,low
+19:50:00,JPY,SPPI y/y,low
+20:30:00,AUD,Goods Trade Balance,low
+20:30:00,JPY,Flash Manufacturing PMI,low

@@ -1,0 +1,13 @@
+time,currency,event,impact
+02:15:00,CHF,Trade Balance,medium
+05:00:00,EUR,German ZEW Economic Sentiment,medium
+05:00:00,EUR,Trade Balance,low
+05:00:00,EUR,ZEW Economic Sentiment,low
+07:00:00,CAD,Core CPI m/m,high
+07:00:00,CAD,CPI m/m,medium
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium
+08:30:00,CAD,Leading Index m/m,low
+19:50:00,JPY,Trade Balance,low
+20:30:00,AUD,MI Leading Index m/m,low
+21:30:00,AUD,New Motor Vehicle Sales m/m,low

@@ -1,0 +1,29 @@
+time,currency,event,impact
+02:32:00,JPY,BOJ Press Conference,high
+02:45:00,EUR,French Final CPI m/m,low
+04:30:00,GBP,Average Earnings Index 3m/y,high
+04:30:00,GBP,Claimant Count Change,high
+04:30:00,GBP,Unemployment Rate,medium
+05:00:00,CHF,Credit Suisse Economic Expectations,low
+05:34:00,EUR,German 10-y Bond Auction,low
+01:01:00,EUR,Eurogroup Meetings,high
+08:30:00,CAD,Manufacturing Sales m/m,high
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Core PPI m/m,medium
+08:30:00,USD,Empire State Manufacturing Index,medium
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+09:48:00,NZD,GDT Price Index,high
+10:00:00,CAD,BOC Monetary Policy Report,high
+10:00:00,CAD,BOC Rate Statement,high
+10:00:00,CAD,Overnight Rate,high
+10:00:00,USD,Fed Chair Yellen Testifies,high
+10:00:00,USD,Fed Monetary Policy Report,low
+10:30:00,USD,Crude Oil Inventories,medium
+11:15:00,CAD,BOC Press Conference,high
+14:00:00,USD,Beige Book,low
+15:00:00,USD,FOMC Member Williams Speaks,medium
+18:30:00,NZD,BusinessNZ Manufacturing Index,medium
+18:45:00,NZD,CPI q/q,high
+18:53:00,EUR,Greek Gov Debt Crisis Vote,high
+21:00:00,AUD,MI Inflation Expectations,medium

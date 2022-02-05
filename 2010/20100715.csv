@@ -1,0 +1,20 @@
+time,currency,event,impact
+03:10:00,CNY,Foreign Direct Investment ytd/y,low
+03:14:00,JPY,BOJ Press Conference,high
+04:00:00,EUR,ECB Monthly Bulletin,medium
+04:35:00,GBP,Housing Equity Withdrawal q/q,low
+05:00:00,CHF,Credit Suisse Economic Expectations,medium
+06:00:00,GBP,MPC Member Miles Speaks,medium
+08:30:00,CAD,Manufacturing Sales m/m,medium
+08:30:00,CAD,New Motor Vehicle Sales m/m,low
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Core PPI m/m,medium
+08:30:00,USD,Empire State Manufacturing Index,medium
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+10:00:00,USD,Fed Gov Nomination Hearings,high
+10:00:00,USD,Philly Fed Manufacturing Index,high
+10:30:00,USD,Natural Gas Storage,low
+18:45:00,NZD,CPI q/q,high
+19:50:00,JPY,Tertiary Industry Activity m/m,medium

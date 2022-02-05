@@ -1,0 +1,17 @@
+time,currency,event,impact
+00:10:00,JPY,Monetary Policy Statement,high
+00:10:00,JPY,Overnight Call Rate,high
+02:45:00,EUR,French Trade Balance,low
+03:32:00,JPY,BOJ Press Conference,high
+01:01:00,EUR,ECOFIN Meetings,medium
+06:00:00,EUR,German Industrial Production m/m,medium
+06:04:00,EUR,French 10-y Bond Auction,medium
+07:00:00,GBP,Asset Purchase Facility,high
+07:00:00,GBP,Official Bank Rate,high
+07:45:00,EUR,Main Refinancing Rate,high
+08:30:00,CAD,Building Permits m/m,high
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Unemployment Claims,high
+10:30:00,USD,Natural Gas Storage,low
+15:00:00,USD,Consumer Credit m/m,low
+19:50:00,JPY,Current Account,low

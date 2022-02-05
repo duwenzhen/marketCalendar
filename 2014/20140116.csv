@@ -1,0 +1,19 @@
+time,currency,event,impact
+02:00:00,EUR,German Final CPI m/m,low
+04:00:00,EUR,ECB Monthly Bulletin,medium
+04:00:00,EUR,Italian Trade Balance,low
+05:00:00,EUR,German Buba President Weidmann Speaks,medium
+05:00:00,EUR,Final CPI y/y,medium
+05:00:00,EUR,Final Core CPI y/y,low
+05:35:00,GBP,30-y Bond Auction,low
+08:30:00,CAD,Foreign Securities Purchases,medium
+08:30:00,USD,Core CPI m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,CPI m/m,medium
+08:30:00,USD,Treasury Sec Lew Speaks,medium
+09:00:00,USD,TIC Long-Term Purchases,medium
+10:00:00,USD,Philly Fed Manufacturing Index,high
+10:00:00,USD,NAHB Housing Market Index,medium
+10:30:00,USD,Natural Gas Storage,low
+11:10:00,USD,Fed Chairman Bernanke Speaks,high
+12:00:00,CHF,SNB Chairman Jordan Speaks,high

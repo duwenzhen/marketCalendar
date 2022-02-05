@@ -1,0 +1,23 @@
+time,currency,event,impact
+02:00:00,EUR,German WPI m/m,low
+03:00:00,USD,FOMC Member Plosser Speaks,medium
+04:30:00,GBP,Average Earnings Index 3m/y,high
+04:30:00,GBP,Claimant Count Change,high
+04:30:00,GBP,Unemployment Rate,medium
+05:00:00,EUR,Industrial Production m/m,medium
+05:00:00,GBP,CB Leading Index m/m,low
+05:30:00,GBP,BOE Gov Carney Speaks,high
+05:30:00,GBP,BOE Monetary Policy Report,high
+10:00:00,USD,Final Wholesale Inventories m/m,low
+11:25:00,CAD,Gov Council Member Schembri Speaks,medium
+12:00:00,USD,FOMC Member Kocherlakota Speaks,medium
+13:01:00,USD,10-y Bond Auction,medium
+16:30:00,NZD,BusinessNZ Manufacturing Index,medium
+16:45:00,NZD,FPI m/m,low
+18:50:00,JPY,Core Machinery Orders m/m,medium
+18:50:00,JPY,PPI y/y,low
+19:00:00,AUD,MI Inflation Expectations,medium
+19:01:00,GBP,RICS House Price Balance,low
+20:10:00,NZD,REINZ HPI m/m,low
+20:30:00,AUD,RBA Assist Gov Kent Speaks,medium
+23:30:00,JPY,Revised Industrial Production m/m,low

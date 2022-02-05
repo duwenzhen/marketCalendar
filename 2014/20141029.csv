@@ -1,0 +1,16 @@
+time,currency,event,impact
+05:30:00,GBP,Net Lending to Individuals m/m,medium
+05:30:00,GBP,M4 Money Supply m/m,low
+05:30:00,GBP,Mortgage Approvals,low
+06:33:00,EUR,German 10-y Bond Auction,medium
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+10:30:00,USD,Crude Oil Inventories,medium
+13:30:00,GBP,MPC Member Haldane Speaks,medium
+14:00:00,USD,FOMC Statement,high
+14:00:00,USD,Federal Funds Rate,high
+16:00:00,NZD,Official Cash Rate,high
+16:00:00,NZD,RBNZ Rate Statement,high
+16:15:00,CAD,BOC Gov Poloz Speaks,high
+19:36:00,AUD,HIA New Home Sales m/m,low
+20:30:00,AUD,Import Prices q/q,medium

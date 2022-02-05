@@ -1,0 +1,14 @@
+time,currency,event,impact
+02:00:00,CHF,Trade Balance,low
+02:00:00,EUR,German GfK Consumer Climate,low
+07:00:00,GBP,MPC Member Vlieghe Speaks,low
+08:00:00,EUR,German Buba President Weidmann Speaks,low
+08:30:00,USD,Prelim GDP q/q,high
+08:30:00,USD,Unemployment Claims,medium
+08:30:00,USD,Core Durable Goods Orders m/m,low
+08:30:00,USD,Durable Goods Orders m/m,low
+08:30:00,USD,Prelim GDP Price Index q/q,low
+10:00:00,USD,Pending Home Sales m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+19:30:00,JPY,Tokyo Core CPI y/y,low
+19:30:00,JPY,Unemployment Rate,low

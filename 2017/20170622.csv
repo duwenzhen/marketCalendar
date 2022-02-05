@@ -1,0 +1,18 @@
+time,currency,event,impact
+02:00:00,CHF,Trade Balance,low
+04:00:00,EUR,ECB Economic Bulletin,low
+01:01:00,All,OPEC-JMMC Meetings,medium
+05:36:00,GBP,30-y Bond Auction,low
+06:00:00,GBP,CBI Industrial Order Expectations,low
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium
+08:30:00,USD,Unemployment Claims,high
+09:00:00,USD,HPI m/m,low
+10:00:00,EUR,Consumer Confidence,low
+10:00:00,USD,FOMC Member Powell Speaks,medium
+10:00:00,USD,CB Leading Index m/m,low
+10:30:00,USD,Natural Gas Storage,low
+12:00:00,CHF,Gov Board Member Maechler Speaks,medium
+14:00:00,GBP,MPC Member Forbes Speaks,low
+16:30:00,USD,Bank Stress Test Results,medium
+20:30:00,JPY,Flash Manufacturing PMI,low

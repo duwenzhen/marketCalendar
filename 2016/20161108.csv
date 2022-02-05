@@ -1,0 +1,24 @@
+time,currency,event,impact
+00:02:00,JPY,Leading Indicators,low
+01:45:00,CHF,Unemployment Rate,low
+02:00:00,EUR,German Industrial Production m/m,low
+02:00:00,EUR,German Trade Balance,low
+02:45:00,EUR,French Gov Budget Balance,low
+02:45:00,EUR,French Trade Balance,low
+04:30:00,GBP,Manufacturing Production m/m,high
+04:30:00,GBP,Industrial Production m/m,low
+01:01:00,EUR,ECOFIN Meetings,medium
+06:00:00,USD,NFIB Small Business Index,low
+08:13:00,CAD,Housing Starts,low
+08:30:00,CAD,Building Permits m/m,medium
+10:00:00,GBP,NIESR GDP Estimate,low
+10:00:00,USD,JOLTS Job Openings,medium
+01:01:00,USD,Presidential Election,high
+01:01:00,USD,Congressional Elections,low
+11:20:00,CAD,Gov Council Member Schembri Speaks,medium
+12:00:00,GBP,MPC Member Haldane Speaks,medium
+18:30:00,AUD,Westpac Consumer Sentiment,low
+18:50:00,JPY,Current Account,medium
+18:50:00,JPY,Bank Lending y/y,low
+20:30:00,CNY,CPI y/y,medium
+20:30:00,CNY,PPI y/y,medium

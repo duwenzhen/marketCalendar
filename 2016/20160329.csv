@@ -1,0 +1,11 @@
+time,currency,event,impact
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:00:00,EUR,Private Loans y/y,low
+06:00:00,GBP,FPC Statement,low
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+10:00:00,USD,CB Consumer Confidence,high
+12:20:00,USD,Fed Chair Yellen Speaks,high
+17:45:00,NZD,Building Consents m/m,low
+19:50:00,JPY,Prelim Industrial Production m/m,low

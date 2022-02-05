@@ -1,0 +1,18 @@
+time,currency,event,impact
+02:00:00,CHF,Trade Balance,medium
+03:15:00,CHF,Employment Level,medium
+04:30:00,GBP,High Street Lending,medium
+08:30:00,CAD,Corporate Profits q/q,low
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,Durable Goods Orders m/m,medium
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,medium
+09:05:00,USD,HPI m/m,low
+09:30:00,EUR,ECB President Draghi Speaks,high
+09:45:00,USD,Flash Services PMI,low
+09:59:00,USD,Richmond Manufacturing Index,low
+10:00:00,USD,CB Consumer Confidence,high
+15:00:00,GBP,BOE Gov Carney Speaks,high
+20:00:00,JPY,BOJ Gov Kuroda Speaks,high
+20:30:00,AUD,MI Leading Index m/m,low
+21:00:00,NZD,Final ANZ Business Confidence,high
+21:30:00,AUD,Construction Work Done q/q,medium

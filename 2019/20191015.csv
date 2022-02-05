@@ -1,0 +1,20 @@
+time,currency,event,impact
+00:30:00,JPY,Tertiary Industry Activity m/m,low
+00:32:00,JPY,Revised Industrial Production m/m,low
+02:30:00,CHF,PPI m/m,low
+02:45:00,EUR,French Final CPI m/m,low
+04:25:00,USD,FOMC Member Bullard Speaks,medium
+04:30:00,GBP,BOE Gov Carney Speaks,high
+04:30:00,GBP,Average Earnings Index 3m/y,medium
+04:30:00,GBP,Claimant Count Change,low
+04:30:00,GBP,Unemployment Rate,low
+04:31:00,CNY,New Loans,high
+04:31:00,CNY,M2 Money Supply y/y,low
+05:00:00,EUR,German ZEW Economic Sentiment,medium
+05:00:00,EUR,ZEW Economic Sentiment,low
+05:35:00,GBP,10-y Bond Auction,low
+08:30:00,GBP,MPC Member Vlieghe Speaks,medium
+10:37:00,NZD,GDT Price Index,low
+12:45:00,USD,FOMC Member George Speaks,medium
+17:45:00,NZD,CPI q/q,high
+19:30:00,AUD,MI Leading Index m/m,low

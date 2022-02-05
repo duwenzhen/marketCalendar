@@ -1,0 +1,17 @@
+time,currency,event,impact
+01:00:00,JPY,Economy Watchers Sentiment,low
+02:00:00,EUR,German Industrial Production m/m,low
+02:00:00,GBP,Halifax HPI m/m,low
+02:00:00,JPY,Prelim Machine Tool Orders y/y,low
+02:45:00,EUR,French Trade Balance,low
+07:30:00,EUR,ECB Monetary Policy Meeting Accounts,low
+07:30:00,USD,Challenger Job Cuts y/y,low
+08:30:00,CAD,Trade Balance,low
+08:30:00,USD,Unemployment Claims,medium
+08:30:00,USD,Trade Balance,low
+10:00:00,CAD,Ivey PMI,medium
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,USD,Crude Oil Inventories,medium
+19:01:00,GBP,RICS House Price Balance,low
+19:50:00,JPY,Bank Lending y/y,low
+19:50:00,JPY,Current Account,low

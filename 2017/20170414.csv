@@ -1,0 +1,14 @@
+time,currency,event,impact
+00:32:00,JPY,Revised Industrial Production m/m,low
+01:01:00,CHF,Bank Holiday,holiday
+01:01:00,EUR,German Bank Holiday,holiday
+01:01:00,GBP,Bank Holiday,holiday
+03:01:00,CNY,M2 Money Supply y/y,low
+03:01:00,CNY,New Loans,low
+01:01:00,CAD,Bank Holiday,holiday
+08:30:00,USD,CPI m/m,high
+08:30:00,USD,Core CPI m/m,high
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+10:00:00,USD,Business Inventories m/m,low
+17:00:00,USD,Treasury Currency Report,high

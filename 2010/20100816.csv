@@ -1,0 +1,10 @@
+time,currency,event,impact
+05:00:00,EUR,Final CPI y/y,medium
+05:00:00,EUR,Final Core CPI y/y,medium
+08:30:00,USD,Empire State Manufacturing Index,medium
+09:00:00,USD,TIC Long-Term Purchases,high
+10:00:00,USD,NAHB Housing Market Index,low
+14:00:00,USD,Loan Officer Survey,low
+21:30:00,AUD,Monetary Policy Meeting Minutes,high
+21:54:00,CNY,Foreign Direct Investment ytd/y,low
+22:00:00,CNY,CB Leading Index m/m,low

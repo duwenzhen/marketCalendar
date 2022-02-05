@@ -1,0 +1,13 @@
+time,currency,event,impact
+06:00:00,EUR,Final CPI y/y,medium
+06:00:00,EUR,Final Core CPI y/y,medium
+06:00:00,EUR,Final Employment Change q/q,low
+08:30:00,CAD,Capacity Utilization Rate,low
+08:30:00,USD,Empire State Manufacturing Index,medium
+09:00:00,USD,TIC Long-Term Purchases,high
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+12:30:00,EUR,ECB President Trichet Speaks,medium
+13:00:00,USD,NAHB Housing Market Index,low
+19:50:00,JPY,Tertiary Industry Activity m/m,medium
+20:30:00,AUD,Monetary Policy Meeting Minutes,high

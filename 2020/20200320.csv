@@ -1,0 +1,11 @@
+time,currency,event,impact
+03:00:00,EUR,German PPI m/m,low
+05:00:00,EUR,Current Account,low
+05:30:00,GBP,Consumer Inflation Expectations,low
+05:30:00,GBP,Public Sector Net Borrowing,low
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium
+10:00:00,USD,Fed Announcement,high
+10:00:00,USD,Existing Home Sales,low
+11:00:00,USD,Fed Announcement,high
+11:50:00,USD,President Trump Speaks,high

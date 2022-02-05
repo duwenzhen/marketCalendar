@@ -1,0 +1,21 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Monthly Report,medium
+02:15:00,CHF,Trade Balance,low
+04:00:00,GBP,MPC Member Dale Speaks,medium
+04:00:00,JPY,BOJ Gov Shirakawa Speaks,medium
+04:30:00,GBP,Retail Sales m/m,high
+04:30:00,GBP,Public Sector Net Borrowing,low
+04:33:00,GBP,M4 Money Supply m/m,low
+05:43:00,EUR,Spanish 10-y Bond Auction,low
+08:00:00,CHF,Libor Rate,high
+08:00:00,CHF,SNB Monetary Policy Assessment,high
+08:30:00,CAD,Wholesale Sales m/m,medium
+08:30:00,CAD,Leading Index m/m,low
+08:30:00,USD,Unemployment Claims,medium
+10:00:00,USD,Philly Fed Manufacturing Index,medium
+10:00:00,USD,CB Leading Index m/m,low
+10:35:00,USD,Natural Gas Storage,low
+18:45:00,NZD,Current Account,high
+18:45:00,NZD,Visitor Arrivals m/m,low
+20:15:00,CAD,Gov Council Member Murray Speaks,medium
+23:00:00,NZD,Credit Card Spending y/y,low

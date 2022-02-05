@@ -1,0 +1,9 @@
+time,currency,event,impact
+03:00:00,EUR,German PPI m/m,medium
+06:00:00,EUR,Industrial Production m/m,medium
+06:30:00,EUR,Italian Quarterly Unemployment Rate,low
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium
+08:30:00,CAD,New Motor Vehicle Sales m/m,low
+10:00:00,USD,FOMC Member Duke Speaks,low
+12:00:00,USD,Fed Chairman Bernanke Speaks,high

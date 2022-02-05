@@ -1,0 +1,12 @@
+time,currency,event,impact
+02:00:00,EUR,German PPI m/m,low
+06:00:00,GBP,CBI Industrial Order Expectations,low
+09:56:00,EUR,Consumer Confidence,low
+10:30:00,AUD,CB Leading Index m/m,low
+14:00:00,USD,FOMC Meeting Minutes,high
+17:00:00,AUD,Flash Manufacturing PMI,low
+17:00:00,AUD,Flash Services PMI,low
+19:30:00,AUD,Employment Change,high
+19:30:00,AUD,Unemployment Rate,high
+19:30:00,JPY,Flash Manufacturing PMI,low
+23:30:00,JPY,All Industries Activity m/m,low

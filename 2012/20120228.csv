@@ -1,0 +1,26 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,low
+02:00:00,EUR,German GfK Consumer Climate,medium
+01:01:00,EUR,German Prelim CPI m/m,medium
+03:15:00,CHF,Employment Level,medium
+04:00:00,EUR,Retail PMI,low
+05:14:00,EUR,Italian 10-y Bond Auction,high
+06:00:00,GBP,CBI Realized Sales,medium
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,Durable Goods Orders m/m,medium
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,medium
+09:59:00,USD,Richmond Manufacturing Index,low
+10:00:00,USD,CB Consumer Confidence,high
+10:00:00,USD,FOMC Member Duke Speaks,low
+12:30:00,CHF,Gov Board Member Jordan Speaks,high
+14:00:00,GBP,MPC Member Tucker Speaks,medium
+16:45:00,NZD,Building Consents m/m,medium
+18:15:00,JPY,Final Manufacturing PMI,low
+18:50:00,JPY,Prelim Industrial Production m/m,medium
+19:00:00,AUD,HIA New Home Sales m/m,medium
+19:00:00,NZD,Final ANZ Business Confidence,high
+19:01:00,GBP,GfK Consumer Confidence,medium
+19:15:00,USD,FOMC Member Pianalto Speaks,medium
+19:30:00,AUD,Retail Sales m/m,high
+19:30:00,AUD,Construction Work Done q/q,medium
+19:30:00,AUD,Private Sector Credit m/m,medium

@@ -1,0 +1,17 @@
+time,currency,event,impact
+00:30:00,JPY,Tertiary Industry Activity m/m,low
+02:45:00,EUR,French Industrial Production m/m,low
+05:35:00,EUR,German 10-y Bond Auction,low
+10:03:00,USD,JOLTS Job Openings,medium
+10:30:00,USD,Crude Oil Inventories,high
+13:01:00,USD,10-y Bond Auction,low
+14:00:00,USD,Federal Budget Balance,low
+17:00:00,NZD,Official Cash Rate,high
+17:00:00,NZD,RBNZ Rate Statement,high
+17:00:00,NZD,RBNZ Monetary Policy Statement,medium
+18:00:00,NZD,RBNZ Press Conference,high
+18:45:00,NZD,FPI m/m,low
+19:01:00,GBP,RICS House Price Balance,low
+01:01:00,JPY,Bank Holiday,holiday
+21:00:00,AUD,MI Inflation Expectations,low
+21:10:00,NZD,RBNZ Gov Wheeler Speaks,high

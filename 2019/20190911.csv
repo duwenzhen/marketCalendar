@@ -1,0 +1,14 @@
+time,currency,event,impact
+05:00:00,CNY,New Loans,high
+05:00:00,CNY,M2 Money Supply y/y,low
+08:30:00,CAD,Capacity Utilization Rate,low
+08:30:00,USD,Core PPI m/m,medium
+08:30:00,USD,PPI m/m,medium
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:30:00,USD,Crude Oil Inventories,high
+13:01:00,USD,10-y Bond Auction,low
+18:45:00,NZD,FPI m/m,low
+19:01:00,GBP,RICS House Price Balance,low
+19:50:00,JPY,Core Machinery Orders m/m,low
+19:50:00,JPY,PPI y/y,low
+21:00:00,AUD,MI Inflation Expectations,low

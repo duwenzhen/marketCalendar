@@ -1,0 +1,17 @@
+time,currency,event,impact
+01:00:00,JPY,Leading Indicators,low
+01:01:00,CHF,Bank Holiday,holiday
+01:01:00,EUR,Italian Bank Holiday,holiday
+01:01:00,EUR,French Bank Holiday,holiday
+01:01:00,EUR,German Bank Holiday,holiday
+03:00:00,EUR,Spanish Unemployment Change,high
+01:01:00,GBP,Bank Holiday,holiday
+08:30:00,USD,FOMC Member Dudley Speaks,high
+09:45:00,USD,Final Services PMI,low
+10:00:00,CAD,Ivey PMI,high
+10:00:00,USD,ISM Services PMI,high
+10:00:00,USD,Labor Market Conditions Index m/m,low
+10:30:00,CAD,BOC Business Outlook Survey,medium
+19:30:00,AUD,AIG Services Index,low
+21:30:00,AUD,Retail Sales m/m,high
+21:30:00,AUD,ANZ Job Advertisements m/m,medium

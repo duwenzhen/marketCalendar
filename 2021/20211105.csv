@@ -1,0 +1,17 @@
+time,currency,event,impact
+03:00:00,EUR,German Industrial Production m/m,low
+03:00:00,GBP,Halifax HPI m/m,low
+03:45:00,EUR,French Industrial Production m/m,low
+03:45:00,EUR,French Prelim Private Payrolls q/q,low
+04:00:00,CHF,Foreign Currency Reserves,low
+05:00:00,EUR,Italian Retail Sales m/m,low
+06:00:00,EUR,Retail Sales m/m,low
+08:15:00,GBP,MPC Member Ramsden Speaks,low
+08:30:00,CAD,Employment Change,high
+08:30:00,CAD,Unemployment Rate,high
+08:30:00,USD,Average Hourly Earnings m/m,high
+08:30:00,USD,Non-Farm Employment Change,high
+08:30:00,USD,Unemployment Rate,high
+09:00:00,GBP,MPC Member Tenreyro Speaks,low
+10:00:00,CAD,Ivey PMI,medium
+15:00:00,USD,Consumer Credit m/m,low

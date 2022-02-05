@@ -1,0 +1,8 @@
+time,currency,event,impact
+01:01:00,EUR,German Bank Holiday,holiday
+09:00:00,USD,HPI m/m,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+10:00:00,USD,CB Consumer Confidence,high
+01:01:00,NZD,Bank Holiday,holiday
+01:01:00,JPY,Bank Holiday,holiday
+01:01:00,CNY,Bank Holiday,holiday

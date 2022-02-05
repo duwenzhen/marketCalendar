@@ -1,0 +1,14 @@
+time,currency,event,impact
+00:30:00,JPY,Tertiary Industry Activity m/m,low
+02:30:00,CHF,PPI m/m,low
+05:00:00,EUR,Trade Balance,low
+08:30:00,CAD,Manufacturing Sales m/m,low
+08:30:00,USD,Empire State Manufacturing Index,low
+11:00:00,USD,FOMC Member Kaplan Speaks,low
+14:00:00,USD,Fed Announcement,high
+16:00:00,USD,TIC Long-Term Purchases,low
+17:00:00,NZD,Westpac Consumer Sentiment,low
+21:30:00,AUD,Monetary Policy Meeting Minutes,medium
+21:30:00,AUD,HPI q/q,low
+22:33:00,JPY,Monetary Policy Statement,high
+22:33:00,JPY,BOJ Policy Rate,low

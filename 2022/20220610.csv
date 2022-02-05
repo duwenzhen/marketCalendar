@@ -1,0 +1,14 @@
+time,currency,event,impact
+00:30:00,JPY,Revised Industrial Production m/m,low
+02:45:00,EUR,French Industrial Production m/m,low
+04:00:00,EUR,Italian Industrial Production m/m,low
+04:00:00,EUR,Italian Quarterly Unemployment Rate,low
+01:01:00,EUR,German 30-y Bond Auction,low
+08:30:00,CAD,Employment Change,high
+08:30:00,CAD,Unemployment Rate,high
+08:30:00,CAD,Capacity Utilization Rate,low
+08:30:00,USD,CPI m/m,high
+08:30:00,USD,Core CPI m/m,high
+10:00:00,USD,Prelim UoM Consumer Sentiment,medium
+10:00:00,USD,Prelim UoM Inflation Expectations,low
+14:00:00,USD,Federal Budget Balance,low

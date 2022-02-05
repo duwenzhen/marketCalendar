@@ -1,0 +1,11 @@
+time,currency,event,impact
+01:01:00,CHF,Bank Holiday,holiday
+01:01:00,EUR,German Bank Holiday,holiday
+01:01:00,EUR,Italian Bank Holiday,holiday
+01:01:00,GBP,Bank Holiday,holiday
+01:01:00,CAD,Bank Holiday,holiday
+01:01:00,USD,Bank Holiday,holiday
+01:01:00,NZD,Bank Holiday,holiday
+01:01:00,AUD,Bank Holiday,holiday
+18:50:00,JPY,Monetary Policy Meeting Minutes,medium
+18:50:00,JPY,SPPI y/y,low

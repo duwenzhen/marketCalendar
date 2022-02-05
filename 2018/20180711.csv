@@ -1,0 +1,19 @@
+time,currency,event,impact
+00:30:00,JPY,Tertiary Industry Activity m/m,low
+03:00:00,EUR,ECB President Draghi Speaks,high
+05:36:00,EUR,German 10-y Bond Auction,low
+08:01:00,GBP,NIESR GDP Estimate,low
+08:30:00,USD,Core PPI m/m,medium
+08:30:00,USD,PPI m/m,medium
+10:00:00,CAD,BOC Monetary Policy Report,high
+10:00:00,CAD,BOC Rate Statement,high
+10:00:00,CAD,Overnight Rate,high
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:30:00,USD,Crude Oil Inventories,high
+11:15:00,CAD,BOC Press Conference,high
+11:35:00,GBP,BOE Gov Carney Speaks,high
+13:01:00,USD,10-y Bond Auction,low
+16:30:00,USD,FOMC Member Williams Speaks,medium
+18:45:00,NZD,FPI m/m,low
+19:01:00,GBP,RICS House Price Balance,low
+21:00:00,AUD,MI Inflation Expectations,low

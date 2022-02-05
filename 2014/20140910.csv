@@ -1,0 +1,21 @@
+time,currency,event,impact
+01:30:00,EUR,French Final Private Payrolls q/q,low
+02:45:00,EUR,French Industrial Production m/m,medium
+05:33:00,EUR,German 10-y Bond Auction,medium
+08:30:00,CAD,Capacity Utilization Rate,low
+09:45:00,GBP,Monetary Policy Report Hearings,high
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:30:00,USD,Crude Oil Inventories,medium
+13:01:00,USD,10-y Bond Auction,medium
+17:00:00,NZD,Official Cash Rate,high
+17:00:00,NZD,RBNZ Monetary Policy Statement,high
+17:00:00,NZD,RBNZ Press Conference,high
+17:00:00,NZD,RBNZ Rate Statement,high
+19:01:00,GBP,RICS House Price Balance,low
+19:50:00,JPY,BSI Manufacturing Index,medium
+21:00:00,AUD,MI Inflation Expectations,medium
+21:00:00,USD,President Obama Speaks,low
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high
+21:30:00,CNY,CPI y/y,high
+21:30:00,CNY,PPI y/y,medium

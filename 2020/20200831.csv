@@ -1,0 +1,21 @@
+time,currency,event,impact
+01:00:00,JPY,Consumer Confidence,low
+01:02:00,JPY,Housing Starts y/y,low
+01:01:00,EUR,German Prelim CPI m/m,low
+02:30:00,CHF,Retail Sales y/y,low
+03:00:00,EUR,Spanish Flash CPI y/y,low
+01:01:00,GBP,Bank Holiday,holiday
+05:00:00,EUR,Italian Prelim CPI m/m,low
+08:30:00,CAD,Building Permits m/m,low
+08:30:00,CAD,IPPI m/m,low
+08:30:00,CAD,RMPI m/m,low
+09:00:00,USD,FOMC Member Clarida Speaks,low
+18:30:00,AUD,AIG Manufacturing Index,low
+18:45:00,NZD,Building Consents m/m,low
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,Capital Spending q/y,low
+20:30:00,JPY,Final Manufacturing PMI,low
+21:30:00,AUD,Building Approvals m/m,low
+21:30:00,AUD,Current Account,low
+21:45:00,CNY,Caixin Manufacturing PMI,medium
+23:35:00,JPY,10-y Bond Auction,low

@@ -1,0 +1,11 @@
+time,currency,event,impact
+00:30:00,JPY,All Industries Activity m/m,low
+02:00:00,CHF,UBS Consumption Indicator,low
+04:00:00,CHF,Credit Suisse Economic Expectations,low
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium
+10:30:00,USD,Crude Oil Inventories,high
+21:30:00,AUD,Import Prices q/q,low
+23:14:00,JPY,BOJ Outlook Report,high
+23:14:00,JPY,BOJ Policy Rate,high
+23:14:00,JPY,Monetary Policy Statement,high

@@ -1,0 +1,19 @@
+time,currency,event,impact
+02:00:00,EUR,German Import Prices m/m,low
+04:00:00,EUR,M3 Money Supply y/y,low
+04:00:00,EUR,Private Loans y/y,low
+04:34:00,GBP,Revised Business Investment q/q,low
+04:45:00,GBP,Monetary Policy Report Hearings,high
+08:30:00,USD,Final GDP q/q,medium
+08:30:00,USD,Unemployment Claims,medium
+08:30:00,USD,Final GDP Price Index q/q,low
+10:00:00,USD,Existing Home Sales,high
+10:35:00,USD,Natural Gas Storage,low
+18:45:00,NZD,GDP q/q,high
+18:45:00,NZD,Trade Balance,high
+19:30:00,JPY,Tokyo Core CPI y/y,medium
+19:30:00,JPY,Household Spending y/y,low
+19:30:00,JPY,National Core CPI y/y,low
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,Prelim Industrial Production m/m,medium
+19:50:00,JPY,Retail Sales y/y,medium

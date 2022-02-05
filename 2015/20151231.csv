@@ -1,0 +1,12 @@
+time,currency,event,impact
+01:01:00,EUR,German Bank Holiday,holiday
+04:37:00,GBP,Housing Equity Withdrawal q/q,low
+08:30:00,USD,Unemployment Claims,high
+09:45:00,USD,Chicago PMI,medium
+10:30:00,USD,Natural Gas Storage,low
+01:01:00,NZD,Bank Holiday,holiday
+01:01:00,AUD,Bank Holiday,holiday
+01:01:00,CNY,Bank Holiday,holiday
+01:01:00,JPY,Bank Holiday,holiday
+20:00:00,CNY,Manufacturing PMI,high
+20:00:00,CNY,Non-Manufacturing PMI,medium

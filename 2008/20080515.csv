@@ -1,0 +1,31 @@
+time,currency,event,impact
+01:45:00,CHF,SECO Consumer Climate,medium
+02:00:00,EUR,German Prelim GDP q/q,high
+02:00:00,EUR,German Final CPI m/m,low
+02:40:00,EUR,French Prelim GDP q/q,low
+04:00:00,EUR,ECB Monthly Bulletin,medium
+05:00:00,CHF,Gov Board Member Jordan Speaks,low
+05:00:00,EUR,Final CPI y/y,high
+05:00:00,EUR,Final Core CPI y/y,medium
+05:00:00,EUR,Flash GDP q/q,medium
+05:41:00,GBP,10-y Bond Auction,low
+06:30:00,AUD,RBA Gov Stevens Speaks,medium
+07:40:00,EUR,ECB President Trichet Speaks,medium
+08:30:00,CAD,Manufacturing Sales m/m,medium
+08:30:00,USD,Empire State Manufacturing Index,medium
+08:30:00,USD,Unemployment Claims,medium
+09:00:00,USD,TIC Long-Term Purchases,high
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+09:30:00,USD,Fed Chairman Bernanke Speaks,high
+10:00:00,USD,Philly Fed Manufacturing Index,medium
+10:00:00,USD,JOLTS Job Openings,low
+10:30:00,CAD,BOC Review,low
+10:30:00,USD,Natural Gas Storage,low
+13:00:00,USD,NAHB Housing Market Index,low
+16:00:00,USD,Treasury Currency Report,medium
+18:45:00,NZD,PPI Input q/q,high
+18:45:00,NZD,PPI Output q/q,low
+19:00:00,USD,FOMC Member Mishkin Speaks,medium
+19:50:00,JPY,Prelim GDP q/q,high
+19:50:00,JPY,Prelim GDP Price Index y/y,medium

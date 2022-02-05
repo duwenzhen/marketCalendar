@@ -1,0 +1,11 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,low
+02:00:00,EUR,German GfK Consumer Climate,medium
+03:15:00,CHF,Employment Level,medium
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:00:00,EUR,Private Loans y/y,low
+08:30:00,CAD,Corporate Profits q/q,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,medium
+09:59:00,USD,Richmond Manufacturing Index,low
+10:00:00,USD,CB Consumer Confidence,high
+21:30:00,AUD,Construction Work Done q/q,medium

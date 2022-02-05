@@ -1,0 +1,9 @@
+time,currency,event,impact
+02:00:00,EUR,German Final CPI m/m,low
+04:00:00,CNY,M2 Money Supply y/y,low
+04:00:00,CNY,New Loans,low
+05:00:00,EUR,Trade Balance,low
+10:00:00,USD,Prelim UoM Consumer Sentiment,medium
+10:00:00,USD,JOLTS Job Openings,low
+10:00:00,USD,Prelim UoM Inflation Expectations,low
+17:00:00,USD,Treasury Currency Report,medium

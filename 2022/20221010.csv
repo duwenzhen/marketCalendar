@@ -1,0 +1,16 @@
+time,currency,event,impact
+02:45:00,EUR,French Industrial Production m/m,low
+04:00:00,EUR,Italian Industrial Production m/m,low
+04:30:00,EUR,Sentix Investor Confidence,low
+01:01:00,CNY,M2 Money Supply y/y,low
+01:01:00,CNY,New Loans,low
+01:01:00,CAD,Bank Holiday,holiday
+01:01:00,USD,Bank Holiday,holiday
+01:01:00,All,IMF Meetings,low
+19:01:00,GBP,BRC Retail Sales Monitor y/y,low
+19:01:00,GBP,RICS House Price Balance,low
+20:30:00,AUD,NAB Business Confidence,low
+21:30:00,CNY,CPI y/y,low
+21:30:00,CNY,PPI y/y,low
+01:01:00,CNY,Trade Balance,low
+01:01:00,CNY,USD-Denominated Trade Balance,low

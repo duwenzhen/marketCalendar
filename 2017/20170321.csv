@@ -1,0 +1,24 @@
+time,currency,event,impact
+02:45:00,CHF,SECO Economic Forecasts,low
+03:00:00,CHF,Trade Balance,low
+05:30:00,GBP,CPI y/y,high
+05:30:00,GBP,PPI Input m/m,medium
+05:30:00,GBP,Public Sector Net Borrowing,medium
+05:30:00,GBP,RPI y/y,medium
+05:30:00,GBP,Core CPI y/y,low
+05:30:00,GBP,HPI y/y,low
+05:30:00,GBP,PPI Output m/m,low
+01:01:00,EUR,ECOFIN Meetings,medium
+06:35:00,GBP,BOE Gov Carney Speaks,high
+06:35:00,USD,FOMC Member Dudley Speaks,medium
+07:00:00,GBP,CBI Industrial Order Expectations,low
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium
+08:30:00,USD,Current Account,medium
+09:00:00,CNY,CB Leading Index m/m,low
+10:03:00,NZD,GDT Price Index,high
+15:45:00,CAD,Gov Council Member Schembri Speaks,medium
+19:30:00,AUD,MI Leading Index m/m,low
+19:50:00,JPY,Monetary Policy Meeting Minutes,low
+19:50:00,JPY,Trade Balance,low
+21:40:00,AUD,RBA Deputy Gov Debelle Speaks,medium

@@ -1,0 +1,27 @@
+time,currency,event,impact
+00:30:00,JPY,Tertiary Industry Activity m/m,low
+02:00:00,GBP,Average Earnings Index 3m/y,low
+02:00:00,GBP,Claimant Count Change,low
+02:00:00,GBP,Unemployment Rate,low
+05:00:00,EUR,Flash Employment Change q/q,low
+05:00:00,EUR,Flash GDP q/q,low
+08:15:00,CAD,Housing Starts,low
+08:30:00,CAD,Foreign Securities Purchases,low
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+09:15:00,USD,Industrial Production m/m,medium
+09:15:00,USD,Capacity Utilization Rate,low
+10:00:00,USD,Business Inventories m/m,low
+10:00:00,USD,NAHB Housing Market Index,low
+10:10:00,NZD,GDT Price Index,low
+13:30:00,USD,Fed Chair Powell Speaks,high
+18:45:00,NZD,PPI Input q/q,low
+18:45:00,NZD,PPI Output q/q,low
+19:50:00,JPY,Core Machinery Orders m/m,low
+19:50:00,JPY,Trade Balance,low
+20:30:00,AUD,MI Leading Index m/m,low
+21:30:00,AUD,Wage Price Index q/q,low
+22:00:00,NZD,Official Cash Rate,high
+22:00:00,NZD,RBNZ Monetary Policy Statement,high
+22:00:00,NZD,RBNZ Rate Statement,high
+23:00:00,NZD,RBNZ Press Conference,high

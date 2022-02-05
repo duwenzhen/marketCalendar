@@ -1,0 +1,19 @@
+time,currency,event,impact
+03:00:00,EUR,French Flash Manufacturing PMI,medium
+03:00:00,EUR,French Flash Services PMI,medium
+03:30:00,EUR,German Flash Manufacturing PMI,medium
+03:30:00,EUR,German Flash Services PMI,medium
+04:00:00,EUR,Flash Manufacturing PMI,medium
+04:00:00,EUR,Flash Services PMI,medium
+06:00:00,EUR,German Buba Monthly Report,low
+08:30:00,CAD,Wholesale Sales m/m,low
+09:45:00,USD,Flash Manufacturing PMI,low
+09:45:00,USD,Flash Services PMI,low
+10:00:00,USD,Existing Home Sales,medium
+10:30:00,AUD,CB Leading Index m/m,low
+15:30:00,CAD,BOC Gov Poloz Speaks,high
+18:00:00,AUD,RBA Assist Gov Kent Speaks,medium
+18:45:00,NZD,Visitor Arrivals m/m,low
+19:50:00,JPY,SPPI y/y,low
+21:30:00,AUD,CPI q/q,high
+21:30:00,AUD,Trimmed Mean CPI q/q,high

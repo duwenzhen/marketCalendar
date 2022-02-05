@@ -1,0 +1,18 @@
+time,currency,event,impact
+00:30:00,AUD,Cash Rate,high
+00:30:00,AUD,RBA Rate Statement,high
+01:00:00,JPY,Leading Indicators,low
+03:00:00,GBP,Halifax HPI m/m,high
+03:15:00,CHF,CPI m/m,medium
+05:00:00,EUR,Retail Sales m/m,medium
+06:00:00,EUR,German Factory Orders m/m,medium
+10:00:00,USD,IBD/TIPP Economic Optimism,low
+10:00:00,USD,JOLTS Job Openings,low
+15:00:00,USD,Consumer Credit m/m,low
+15:45:00,USD,Fed Chairman Bernanke Speaks,high
+19:01:00,GBP,BRC Shop Price Index y/y,low
+19:50:00,JPY,Bank Lending y/y,low
+19:50:00,JPY,M2 Money Stock y/y,low
+19:52:00,JPY,Current Account,low
+21:00:00,USD,FOMC Member Dudley Speaks,low
+21:30:00,AUD,Home Loans m/m,high

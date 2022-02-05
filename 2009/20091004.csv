@@ -1,0 +1,7 @@
+time,currency,event,impact
+01:01:00,EUR,Greek Parliamentary Election,low
+01:01:00,AUD,Bank Holiday,holiday
+18:30:00,AUD,AIG Services Index,low
+01:01:00,CNY,Bank Holiday,holiday
+20:30:00,AUD,ANZ Job Advertisements m/m,medium
+22:03:00,NZD,ANZ Commodity Prices m/m,low

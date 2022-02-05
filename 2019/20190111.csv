@@ -1,0 +1,12 @@
+time,currency,event,impact
+00:03:00,JPY,Economy Watchers Sentiment,low
+04:00:00,EUR,Italian Industrial Production m/m,low
+04:30:00,GBP,GDP m/m,high
+04:30:00,GBP,Manufacturing Production m/m,high
+04:30:00,GBP,Construction Output m/m,low
+04:30:00,GBP,Goods Trade Balance,low
+04:30:00,GBP,Index of Services 3m/3m,low
+04:30:00,GBP,Industrial Production m/m,low
+08:30:00,USD,CPI m/m,high
+08:30:00,USD,Core CPI m/m,high
+09:02:00,GBP,NIESR GDP Estimate,low

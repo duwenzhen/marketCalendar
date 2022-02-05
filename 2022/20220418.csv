@@ -1,0 +1,12 @@
+time,currency,event,impact
+01:01:00,CHF,Bank Holiday,holiday
+01:01:00,GBP,Bank Holiday,holiday
+01:01:00,EUR,French Bank Holiday,holiday
+01:01:00,EUR,German Bank Holiday,holiday
+01:01:00,EUR,Italian Bank Holiday,holiday
+01:01:00,EUR,German Buba Monthly Report,low
+08:15:00,CAD,Housing Starts,low
+10:00:00,USD,NAHB Housing Market Index,low
+01:01:00,All,IMF Meetings,low
+18:45:00,NZD,CPI q/q,high
+21:30:00,AUD,Monetary Policy Meeting Minutes,high

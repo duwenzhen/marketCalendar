@@ -1,0 +1,13 @@
+time,currency,event,impact
+03:00:00,EUR,German Import Prices m/m,low
+03:00:00,GBP,Nationwide HPI m/m,medium
+04:00:00,GBP,MPC Member Haldane Speaks,medium
+04:45:00,GBP,BOE Gov Carney Speaks,medium
+05:15:00,GBP,MPC Member Broadbent Speaks,medium
+06:00:00,EUR,Italian Retail Sales m/m,low
+06:30:00,USD,FOMC Member Fischer Speaks,medium
+08:30:00,USD,Final GDP q/q,high
+08:30:00,USD,Final GDP Price Index q/q,low
+10:00:00,USD,Revised UoM Consumer Sentiment,medium
+10:00:00,USD,Revised UoM Inflation Expectations,low
+15:45:00,USD,Fed Chair Yellen Speaks,high

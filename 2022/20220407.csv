@@ -1,0 +1,16 @@
+time,currency,event,impact
+02:00:00,EUR,German Industrial Production m/m,low
+02:00:00,GBP,Halifax HPI m/m,low
+02:00:00,JPY,Prelim Machine Tool Orders y/y,low
+03:00:00,CHF,Foreign Currency Reserves,low
+01:01:00,GBP,Housing Equity Withdrawal q/q,low
+01:01:00,GBP,10-y Bond Auction,low
+07:30:00,EUR,ECB Monetary Policy Meeting Accounts,low
+08:30:00,USD,Unemployment Claims,medium
+10:00:00,CAD,Ivey PMI,medium
+10:30:00,USD,Natural Gas Storage,low
+15:00:00,USD,Consumer Credit m/m,low
+19:01:00,GBP,RICS House Price Balance,low
+21:30:00,AUD,RBA Financial Stability Review,low
+01:01:00,CNY,Trade Balance,low
+01:01:00,CNY,USD-Denominated Trade Balance,low

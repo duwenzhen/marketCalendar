@@ -1,0 +1,11 @@
+time,currency,event,impact
+01:01:00,CHF,Bank Holiday,holiday
+01:01:00,EUR,French Bank Holiday,holiday
+01:01:00,EUR,German Bank Holiday,holiday
+01:01:00,EUR,Italian Bank Holiday,holiday
+01:01:00,GBP,Bank Holiday,holiday
+17:49:00,USD,President Trump Speaks,high
+18:45:00,NZD,Visitor Arrivals m/m,low
+21:30:00,AUD,NAB Business Confidence,medium
+23:48:00,CNY,USD-Denominated Trade Balance,medium
+23:49:00,CNY,Trade Balance,high

@@ -1,0 +1,13 @@
+time,currency,event,impact
+01:00:00,JPY,Consumer Confidence,low
+01:01:00,EUR,French Bank Holiday,holiday
+02:00:00,EUR,German Factory Orders m/m,low
+03:30:00,GBP,Halifax HPI m/m,medium
+04:30:00,EUR,Sentix Investor Confidence,low
+08:15:00,CAD,Housing Starts,low
+10:05:00,USD,Labor Market Conditions Index m/m,low
+14:00:00,USD,Loan Officer Survey,low
+19:01:00,GBP,BRC Retail Sales Monitor y/y,low
+20:00:00,JPY,Average Cash Earnings y/y,low
+21:30:00,AUD,Retail Sales m/m,high
+23:45:00,JPY,10-y Bond Auction,low

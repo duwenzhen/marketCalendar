@@ -1,0 +1,18 @@
+time,currency,event,impact
+04:00:00,EUR,Current Account,low
+05:00:00,EUR,ZEW Economic Sentiment,medium
+05:00:00,EUR,German ZEW Economic Sentiment,medium
+01:01:00,EUR,Eurogroup Meetings,low
+08:30:00,CAD,ADP Non-Farm Employment Change,low
+08:30:00,CAD,IPPI m/m,low
+08:30:00,CAD,NHPI m/m,low
+08:30:00,CAD,RMPI m/m,low
+08:30:00,USD,Philly Fed Manufacturing Index,medium
+08:30:00,USD,Unemployment Claims,medium
+10:00:00,USD,Existing Home Sales,medium
+10:00:00,USD,CB Leading Index m/m,low
+10:30:00,USD,Natural Gas Storage,low
+19:00:00,AUD,Flash Manufacturing PMI,low
+19:00:00,AUD,Flash Services PMI,low
+19:01:00,GBP,GfK Consumer Confidence,low
+20:30:00,JPY,Flash Manufacturing PMI,low

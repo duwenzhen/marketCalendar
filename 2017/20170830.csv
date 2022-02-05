@@ -1,0 +1,23 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,low
+01:01:00,EUR,German Prelim CPI m/m,medium
+03:00:00,CHF,KOF Economic Barometer,medium
+03:00:00,EUR,Spanish Flash CPI y/y,medium
+04:00:00,CHF,Credit Suisse Economic Expectations,low
+04:30:00,GBP,Net Lending to Individuals m/m,medium
+04:30:00,GBP,M4 Money Supply m/m,low
+04:30:00,GBP,Mortgage Approvals,low
+05:18:00,EUR,Italian 10-y Bond Auction,low
+08:15:00,USD,ADP Non-Farm Employment Change,high
+08:30:00,CAD,Current Account,medium
+08:30:00,USD,Prelim GDP q/q,high
+08:30:00,USD,Prelim GDP Price Index q/q,low
+09:15:00,USD,FOMC Member Powell Speaks,medium
+10:30:00,USD,Crude Oil Inventories,high
+19:01:00,GBP,GfK Consumer Confidence,low
+19:50:00,JPY,Prelim Industrial Production m/m,low
+20:52:00,CNY,Manufacturing PMI,medium
+21:00:00,CNY,Non-Manufacturing PMI,medium
+21:02:00,NZD,Final ANZ Business Confidence,medium
+21:30:00,AUD,Private Capital Expenditure q/q,high
+21:30:00,AUD,Private Sector Credit m/m,low

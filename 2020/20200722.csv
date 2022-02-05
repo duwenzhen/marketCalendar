@@ -1,0 +1,14 @@
+time,currency,event,impact
+05:37:00,EUR,German 30-y Bond Auction,low
+08:30:00,CAD,CPI m/m,medium
+08:30:00,CAD,Common CPI y/y,low
+08:30:00,CAD,Median CPI y/y,low
+08:30:00,CAD,Trimmed CPI y/y,low
+08:32:00,CAD,Core CPI m/m,low
+09:00:00,USD,HPI m/m,low
+09:15:00,EUR,ECB President Lagarde Speaks,high
+10:00:00,USD,Existing Home Sales,low
+10:30:00,USD,Crude Oil Inventories,medium
+17:30:00,USD,President Trump Speaks,medium
+01:01:00,JPY,Bank Holiday,holiday
+21:30:00,AUD,NAB Quarterly Business Confidence,low

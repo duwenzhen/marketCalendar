@@ -1,0 +1,11 @@
+time,currency,event,impact
+05:00:00,EUR,Industrial Production m/m,low
+05:00:00,EUR,Trade Balance,low
+01:01:00,EUR,Eurogroup Meetings,low
+01:01:00,USD,Bank Holiday,holiday
+08:17:00,CAD,Housing Starts,low
+08:30:00,CAD,Manufacturing Sales m/m,low
+16:45:00,NZD,Visitor Arrivals m/m,low
+01:01:00,CNY,Bank Holiday,holiday
+19:30:00,AUD,Monetary Policy Meeting Minutes,medium
+23:30:00,JPY,Tertiary Industry Activity m/m,low

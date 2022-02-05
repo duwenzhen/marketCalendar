@@ -1,0 +1,18 @@
+time,currency,event,impact
+01:00:00,JPY,Leading Indicators,low
+04:30:00,GBP,Manufacturing Production m/m,high
+04:30:00,GBP,Industrial Production m/m,low
+08:45:00,CAD,Gov Council Member Wilkins Speaks,medium
+10:00:00,GBP,NIESR GDP Estimate,low
+10:30:00,USD,Crude Oil Inventories,high
+13:01:00,USD,10-y Bond Auction,low
+14:00:00,USD,Federal Budget Balance,low
+18:30:00,NZD,BusinessNZ Manufacturing Index,low
+18:45:00,NZD,FPI m/m,low
+19:00:00,AUD,RBA Assist Gov Edey Speaks,medium
+19:01:00,GBP,RICS House Price Balance,low
+19:50:00,JPY,Current Account,medium
+19:50:00,JPY,BOJ Summary of Opinions,low
+19:50:00,JPY,Bank Lending y/y,low
+21:00:00,AUD,MI Inflation Expectations,low
+23:45:00,JPY,30-y Bond Auction,low

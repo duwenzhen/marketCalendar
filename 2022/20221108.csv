@@ -1,0 +1,9 @@
+time,currency,event,impact
+01:45:00,CHF,Unemployment Rate,low
+05:00:00,EUR,Retail Sales m/m,low
+06:00:00,USD,NFIB Small Business Index,low
+09:00:00,USD,IBD/TIPP Economic Optimism,low
+01:01:00,USD,Congressional Elections,high
+13:01:00,USD,10-y Bond Auction,medium
+18:30:00,AUD,Westpac Consumer Sentiment,low
+21:00:00,NZD,Inflation Expectations q/q,medium

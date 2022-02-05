@@ -1,0 +1,14 @@
+time,currency,event,impact
+04:00:00,EUR,Italian Trade Balance,low
+05:00:00,EUR,Trade Balance,low
+06:00:00,EUR,German Buba Monthly Report,low
+08:30:00,CAD,Foreign Securities Purchases,medium
+08:30:00,USD,Empire State Manufacturing Index,medium
+09:00:00,USD,TIC Long-Term Purchases,medium
+09:30:00,EUR,ECB President Draghi Speaks,high
+11:00:00,USD,FOMC Member Stein Speaks,medium
+13:00:00,USD,FOMC Member Lacker Speaks,medium
+18:00:00,AUD,CB Leading Index m/m,medium
+19:01:00,GBP,BOE Quarterly Bulletin,low
+19:30:00,AUD,Monetary Policy Meeting Minutes,high
+21:00:00,CNY,Foreign Direct Investment ytd/y,low

@@ -1,0 +1,21 @@
+time,currency,event,impact
+00:30:00,JPY,Tertiary Industry Activity m/m,low
+02:30:00,CHF,PPI m/m,low
+02:45:00,EUR,French Final CPI m/m,low
+04:30:00,GBP,BOE Credit Conditions Survey,low
+01:01:00,EUR,EU Economic Summit,high
+08:30:00,USD,Philly Fed Manufacturing Index,medium
+08:30:00,USD,Unemployment Claims,medium
+08:30:00,USD,Empire State Manufacturing Index,low
+08:30:00,USD,Import Prices m/m,low
+08:32:00,CAD,ADP Non-Farm Employment Change,low
+09:00:00,GBP,MPC Member Cunliffe Speaks,low
+09:30:00,GBP,CB Leading Index m/m,low
+09:45:00,CAD,Gov Council Member Lane Speaks,low
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,USD,Crude Oil Inventories,low
+11:00:00,USD,FOMC Member Kaplan Speaks,low
+11:00:00,USD,FOMC Member Quarles Speaks,low
+12:00:00,EUR,ECB President Lagarde Speaks,medium
+17:00:00,USD,FOMC Member Kashkari Speaks,low
+17:30:00,NZD,BusinessNZ Manufacturing Index,low

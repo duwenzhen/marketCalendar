@@ -1,0 +1,13 @@
+time,currency,event,impact
+02:00:00,EUR,German PPI m/m,low
+04:30:00,GBP,Retail Sales m/m,high
+04:30:00,GBP,Public Sector Net Borrowing,medium
+08:30:00,CAD,Core CPI m/m,high
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,CPI m/m,medium
+08:30:00,CAD,Retail Sales m/m,medium
+08:30:00,USD,CPI m/m,high
+08:30:00,USD,Core CPI m/m,high
+08:30:00,USD,FOMC Member Mester Speaks,medium
+09:30:00,GBP,CB Leading Index m/m,low
+10:00:00,EUR,Consumer Confidence,low

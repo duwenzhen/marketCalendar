@@ -1,0 +1,16 @@
+time,currency,event,impact
+02:00:00,EUR,German Final CPI m/m,low
+02:00:00,EUR,German WPI m/m,low
+02:00:00,GBP,Prelim GDP q/q,medium
+02:00:00,GBP,Construction Output m/m,low
+02:00:00,GBP,GDP m/m,low
+02:00:00,GBP,Goods Trade Balance,low
+02:00:00,GBP,Index of Services 3m/3m,low
+02:00:00,GBP,Industrial Production m/m,low
+02:00:00,GBP,Manufacturing Production m/m,low
+02:00:00,GBP,Prelim Business Investment q/q,low
+02:30:00,CHF,CPI m/m,low
+01:01:00,GBP,NIESR GDP Estimate,low
+10:00:00,USD,Prelim UoM Consumer Sentiment,medium
+10:00:00,USD,Prelim UoM Inflation Expectations,low
+01:01:00,USD,Fed Monetary Policy Report,low

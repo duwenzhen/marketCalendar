@@ -1,0 +1,8 @@
+time,currency,event,impact
+04:00:00,EUR,German ifo Business Climate,high
+04:00:00,EUR,Italian Retail Sales m/m,low
+05:00:00,EUR,Industrial New Orders m/m,medium
+07:00:00,CAD,Core CPI m/m,high
+07:00:00,CAD,CPI m/m,medium
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium

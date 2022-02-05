@@ -1,0 +1,26 @@
+time,currency,event,impact
+03:00:00,EUR,German GfK Consumer Climate,low
+04:30:00,CHF,SNB Monetary Policy Assessment,high
+04:30:00,CHF,SNB Policy Rate,medium
+05:00:00,EUR,ECB Economic Bulletin,low
+05:00:00,EUR,M3 Money Supply y/y,low
+05:02:00,EUR,Private Loans y/y,low
+05:28:00,CHF,SNB Press Conference,high
+05:30:00,CAD,BOC Gov Macklem Speaks,medium
+05:30:00,EUR,ECB President Lagarde Speaks,medium
+05:30:00,EUR,German Buba President Weidmann Speaks,low
+05:30:00,GBP,BOE Gov Bailey Speaks,medium
+05:30:00,USD,FOMC Member Williams Speaks,low
+01:01:00,EUR,EU Economic Summit,medium
+07:00:00,GBP,CBI Realized Sales,low
+08:30:00,USD,Final GDP q/q,medium
+08:30:00,USD,Final GDP Price Index q/q,low
+08:30:00,USD,Unemployment Claims,low
+09:55:00,EUR,Belgian NBB Business Climate,low
+10:10:00,USD,FOMC Member Clarida Speaks,low
+10:30:00,USD,FOMC Member Williams Speaks,low
+10:30:00,USD,Natural Gas Storage,low
+12:00:00,USD,FOMC Member Bostic Speaks,low
+13:00:00,USD,FOMC Member Evans Speaks,low
+19:00:00,USD,FOMC Member Daly Speaks,low
+19:30:00,JPY,Tokyo Core CPI y/y,low

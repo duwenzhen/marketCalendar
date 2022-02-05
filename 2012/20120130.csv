@@ -1,0 +1,18 @@
+time,currency,event,impact
+01:01:00,EUR,German Prelim CPI m/m,medium
+03:00:00,EUR,Spanish Flash GDP q/q,medium
+04:00:00,EUR,Retail PMI,low
+01:01:00,EUR,EU Economic Summit,medium
+05:24:00,EUR,Italian 10-y Bond Auction,high
+08:30:00,USD,Core PCE Price Index m/m,medium
+08:30:00,USD,Personal Spending m/m,medium
+08:30:00,USD,Personal Income m/m,low
+14:00:00,USD,Loan Officer Survey,low
+16:45:00,NZD,Building Consents m/m,high
+18:15:00,JPY,Final Manufacturing PMI,low
+18:30:00,JPY,Household Spending y/y,medium
+18:30:00,JPY,Unemployment Rate,low
+18:50:00,JPY,Prelim Industrial Production m/m,medium
+19:01:00,GBP,GfK Consumer Confidence,medium
+19:30:00,AUD,NAB Business Confidence,medium
+19:30:00,AUD,Private Sector Credit m/m,medium

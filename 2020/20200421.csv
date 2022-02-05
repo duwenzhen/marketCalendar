@@ -1,0 +1,16 @@
+time,currency,event,impact
+01:00:00,AUD,RBA Gov Lowe Speaks,high
+02:00:00,CHF,Trade Balance,low
+02:00:00,GBP,Claimant Count Change,high
+02:00:00,GBP,Average Earnings Index 3m/y,low
+02:00:00,GBP,Unemployment Rate,low
+05:00:00,EUR,German ZEW Economic Sentiment,medium
+05:00:00,EUR,ZEW Economic Sentiment,low
+08:30:00,CAD,Core Retail Sales m/m,low
+08:30:00,CAD,Retail Sales m/m,low
+10:00:00,USD,Existing Home Sales,low
+10:30:00,AUD,CB Leading Index m/m,low
+10:41:00,NZD,GDT Price Index,low
+17:46:00,USD,President Trump Speaks,high
+20:30:00,AUD,MI Leading Index m/m,low
+21:30:00,AUD,Retail Sales m/m,high

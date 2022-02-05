@@ -1,0 +1,17 @@
+time,currency,event,impact
+00:00:00,JPY,Economy Watchers Sentiment,low
+01:45:00,CHF,Unemployment Rate,low
+02:45:00,EUR,French Trade Balance,low
+05:00:00,EUR,German Buba President Weber Speaks,medium
+06:00:00,EUR,German Factory Orders m/m,medium
+07:30:00,USD,NFIB Small Business Index,low
+08:15:00,CAD,Housing Starts,high
+10:00:00,USD,IBD/TIPP Economic Optimism,low
+11:00:00,JPY,BOJ Gov Shirakawa Speaks,medium
+15:40:00,GBP,BOE Gov King Speaks,high
+16:49:00,NZD,Visitor Arrivals m/m,low
+18:00:00,AUD,RBA Deputy Gov Lowe Speaks,medium
+18:30:00,AUD,Westpac Consumer Sentiment,medium
+18:50:00,JPY,Core Machinery Orders m/m,medium
+19:00:00,GBP,BRC Shop Price Index y/y,low
+19:30:00,AUD,Home Loans m/m,high

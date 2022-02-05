@@ -1,0 +1,21 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Monthly Report,low
+01:00:00,JPY,Consumer Confidence,low
+02:30:00,EUR,French Final Private Payrolls q/q,low
+06:00:00,EUR,Industrial Production m/m,medium
+06:00:00,EUR,Trade Balance,low
+01:01:00,All,G7 Meetings,high
+10:30:00,USD,Crude Oil Inventories,medium
+13:01:00,USD,10-y Bond Auction,medium
+14:00:00,USD,Treasury Sec Lew Speaks,low
+16:00:00,NZD,Official Cash Rate,high
+16:00:00,NZD,RBNZ Monetary Policy Statement,high
+16:00:00,NZD,RBNZ Press Conference,high
+16:00:00,NZD,RBNZ Rate Statement,high
+17:45:00,NZD,FPI m/m,low
+19:50:00,JPY,Core Machinery Orders m/m,medium
+20:00:00,AUD,MI Inflation Expectations,medium
+20:01:00,GBP,RICS House Price Balance,low
+20:30:00,AUD,Employment Change,high
+20:30:00,AUD,Unemployment Rate,high
+21:10:00,NZD,RBNZ Gov Wheeler Speaks,high

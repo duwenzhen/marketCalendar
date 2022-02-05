@@ -1,0 +1,25 @@
+time,currency,event,impact
+04:15:00,EUR,Spanish Manufacturing PMI,medium
+04:45:00,EUR,Italian Manufacturing PMI,medium
+04:50:00,EUR,French Final Manufacturing PMI,low
+04:55:00,EUR,German Unemployment Change,medium
+04:55:00,EUR,German Final Manufacturing PMI,low
+05:00:00,EUR,Final Manufacturing PMI,low
+05:30:00,GBP,Construction PMI,high
+07:30:00,USD,Challenger Job Cuts y/y,low
+08:15:00,USD,ADP Non-Farm Employment Change,high
+10:30:00,USD,Crude Oil Inventories,medium
+12:32:00,USD,FOMC Statement,high
+12:32:00,USD,Federal Funds Rate,medium
+14:00:00,USD,FOMC Economic Projections,medium
+14:15:00,USD,FOMC Press Conference,high
+14:30:00,GBP,MPC Member Fisher Speaks,medium
+16:15:00,CAD,BOC Gov Carney Speaks,high
+17:45:00,NZD,Employment Change q/q,high
+17:45:00,NZD,Unemployment Rate,high
+18:30:00,AUD,AIG Services Index,medium
+18:30:00,CAD,BOC Gov Carney Speaks,high
+01:01:00,JPY,Bank Holiday,holiday
+20:30:00,AUD,Retail Sales m/m,high
+21:00:00,CNY,Non-Manufacturing PMI,low
+22:30:00,CNY,Caixin Services PMI,low

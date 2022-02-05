@@ -1,0 +1,22 @@
+time,currency,event,impact
+02:00:00,EUR,German Final GDP q/q,low
+03:15:00,CHF,Employment Level,medium
+04:10:00,GBP,MPC Member Forbes Speaks,medium
+05:00:00,EUR,Final CPI y/y,medium
+05:00:00,EUR,Final Core CPI y/y,low
+05:00:00,GBP,Monetary Policy Report Hearings,high
+01:01:00,EUR,Eurogroup Meetings,high
+08:30:00,CAD,Corporate Profits q/q,low
+09:00:00,EUR,ECB President Draghi Speaks,high
+09:00:00,EUR,Belgian NBB Business Climate,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+09:45:00,USD,Flash Services PMI,low
+09:59:00,USD,Richmond Manufacturing Index,low
+10:00:00,USD,CB Consumer Confidence,high
+10:00:00,USD,Fed Chair Yellen Testifies,high
+10:00:00,USD,Fed Monetary Policy Report,low
+14:00:00,CAD,BOC Gov Poloz Speaks,high
+18:40:00,NZD,RBNZ Gov Wheeler Speaks,high
+19:30:00,AUD,Construction Work Done q/q,medium
+19:30:00,AUD,Wage Price Index q/q,medium
+20:45:00,CNY,Caixin Flash Manufacturing PMI,high

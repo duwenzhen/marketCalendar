@@ -1,0 +1,11 @@
+time,currency,event,impact
+02:00:00,EUR,German PPI m/m,low
+04:00:00,EUR,Current Account,low
+06:00:00,GBP,CBI Industrial Order Expectations,low
+08:30:00,CAD,Core CPI m/m,high
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,CPI m/m,medium
+08:30:00,CAD,Retail Sales m/m,medium
+09:00:00,USD,FOMC Member Tarullo Speaks,low
+10:00:00,USD,Existing Home Sales,medium
+01:01:00,All,G7 Meetings,high

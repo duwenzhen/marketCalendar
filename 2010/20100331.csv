@@ -1,0 +1,23 @@
+time,currency,event,impact
+01:00:00,JPY,Housing Starts y/y,low
+03:55:00,EUR,German Unemployment Change,medium
+05:00:00,EUR,CPI Flash Estimate y/y,medium
+05:00:00,EUR,Unemployment Rate,medium
+05:00:00,EUR,Italian Prelim CPI m/m,low
+05:30:00,CHF,KOF Economic Barometer,high
+06:00:00,EUR,Italian Monthly Unemployment Rate,low
+08:15:00,USD,ADP Non-Farm Employment Change,high
+08:30:00,CAD,GDP m/m,high
+09:45:00,USD,Chicago PMI,medium
+10:00:00,USD,Factory Orders m/m,medium
+10:30:00,USD,Crude Oil Inventories,medium
+11:00:00,USD,Treasury Sec Geithner Speaks,medium
+12:30:00,USD,FOMC Member Duke Speaks,low
+18:30:00,AUD,AIG Manufacturing Index,low
+19:30:00,AUD,MI Inflation Gauge m/m,low
+19:50:00,JPY,Tankan Manufacturing Index,high
+19:50:00,JPY,Tankan Non-Manufacturing Index,medium
+20:30:00,AUD,Trade Balance,high
+21:00:00,CNY,Manufacturing PMI,high
+22:30:00,CNY,Caixin Manufacturing PMI,medium
+23:34:00,JPY,BOJ Gov Shirakawa Speaks,medium

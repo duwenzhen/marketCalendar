@@ -1,0 +1,10 @@
+time,currency,event,impact
+05:00:00,EUR,Industrial Production m/m,medium
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+10:00:00,USD,Business Inventories m/m,medium
+12:45:00,USD,FOMC Member Tarullo Speaks,low
+19:01:00,GBP,BRC Retail Sales Monitor y/y,medium
+21:30:00,AUD,Monetary Policy Meeting Minutes,high
+22:00:00,CNY,New Loans,medium
+22:00:00,CNY,M2 Money Supply y/y,low

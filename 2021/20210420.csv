@@ -1,0 +1,11 @@
+time,currency,event,impact
+00:30:00,JPY,Tertiary Industry Activity m/m,low
+02:00:00,EUR,German PPI m/m,low
+02:00:00,GBP,Unemployment Rate,low
+02:02:00,GBP,Claimant Count Change,medium
+02:02:00,GBP,Average Earnings Index 3m/y,low
+10:15:00,NZD,GDT Price Index,low
+10:30:00,AUD,CB Leading Index m/m,low
+18:45:00,NZD,CPI q/q,high
+20:30:00,AUD,MI Leading Index m/m,low
+21:30:00,AUD,Retail Sales m/m,high

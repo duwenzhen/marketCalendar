@@ -1,0 +1,23 @@
+time,currency,event,impact
+04:00:00,CHF,Credit Suisse Economic Expectations,low
+05:00:00,EUR,Trade Balance,low
+01:01:00,EUR,German 10-y Bond Auction,low
+08:15:00,CAD,Housing Starts,low
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Empire State Manufacturing Index,medium
+08:30:00,USD,Import Prices m/m,low
+10:00:00,USD,Business Inventories m/m,low
+10:00:00,USD,NAHB Housing Market Index,low
+10:30:00,USD,Crude Oil Inventories,medium
+14:00:00,USD,FOMC Economic Projections,high
+14:00:00,USD,FOMC Statement,high
+14:00:00,USD,Federal Funds Rate,high
+14:30:00,USD,FOMC Press Conference,high
+16:00:00,USD,TIC Long-Term Purchases,low
+18:45:00,NZD,GDP q/q,high
+19:50:00,JPY,Trade Balance,low
+21:00:00,AUD,MI Inflation Expectations,low
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high
+21:30:00,AUD,RBA Bulletin,low

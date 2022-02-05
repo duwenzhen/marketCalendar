@@ -1,0 +1,14 @@
+time,currency,event,impact
+02:00:00,CHF,Trade Balance,low
+04:00:00,EUR,German ifo Business Climate,high
+04:43:00,EUR,Spanish 10-y Bond Auction,low
+05:00:00,EUR,ECB President Draghi Speaks,high
+06:00:00,GBP,CBI Realized Sales,medium
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Durable Goods Orders m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+01:01:00,NZD,Bank Holiday,holiday
+01:01:00,AUD,Bank Holiday,holiday
+19:30:00,JPY,Tokyo Core CPI y/y,medium
+19:30:00,JPY,National Core CPI y/y,low

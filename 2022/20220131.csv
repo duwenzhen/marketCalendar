@@ -1,0 +1,22 @@
+time,currency,event,impact
+00:00:00,JPY,Housing Starts y/y,low
+00:02:00,JPY,Consumer Confidence,low
+01:01:00,EUR,German Prelim CPI m/m,low
+03:00:00,EUR,Spanish Flash CPI y/y,low
+05:00:00,EUR,Prelim Flash GDP q/q,low
+05:00:00,EUR,Italian Prelim GDP q/q,low
+08:30:00,CAD,IPPI m/m,low
+08:30:00,CAD,RMPI m/m,low
+09:00:00,CNY,CB Leading Index m/m,low
+09:45:00,USD,Chicago PMI,medium
+12:40:00,USD,FOMC Member George Speaks,medium
+14:00:00,USD,Loan Officer Survey,low
+16:30:00,AUD,AIG Manufacturing Index,low
+16:45:00,NZD,Trade Balance,low
+18:30:00,JPY,Unemployment Rate,low
+01:01:00,CNY,Bank Holiday,holiday
+19:30:00,AUD,Retail Sales m/m,low
+19:30:00,JPY,Final Manufacturing PMI,low
+22:30:00,AUD,Cash Rate,high
+22:30:00,AUD,RBA Rate Statement,high
+22:35:00,JPY,10-y Bond Auction,low

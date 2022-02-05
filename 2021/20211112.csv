@@ -1,0 +1,10 @@
+time,currency,event,impact
+02:00:00,EUR,German WPI m/m,low
+02:30:00,CHF,PPI m/m,low
+05:00:00,EUR,Industrial Production m/m,low
+01:01:00,EUR,ECOFIN Meetings,low
+09:00:00,GBP,MPC Member Haskel Speaks,low
+10:00:00,USD,JOLTS Job Openings,medium
+10:00:00,USD,Prelim UoM Consumer Sentiment,medium
+10:00:00,USD,Prelim UoM Inflation Expectations,low
+12:10:00,USD,FOMC Member Williams Speaks,medium

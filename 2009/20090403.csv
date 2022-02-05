@@ -1,0 +1,17 @@
+time,currency,event,impact
+02:00:00,EUR,German Import Prices m/m,low
+03:15:00,CHF,CPI m/m,medium
+03:15:00,EUR,Spanish Services PMI,low
+03:45:00,EUR,Italian Services PMI,low
+03:50:00,EUR,French Final Services PMI,low
+03:55:00,EUR,German Final Services PMI,low
+04:00:00,EUR,Final Services PMI,medium
+04:00:00,GBP,Halifax HPI m/m,high
+04:30:00,GBP,Final Services PMI,high
+08:30:00,USD,Non-Farm Employment Change,high
+08:30:00,USD,Unemployment Rate,high
+08:30:00,USD,Average Hourly Earnings m/m,medium
+09:10:00,USD,FOMC Member Kohn Speaks,medium
+10:00:00,USD,ISM Services PMI,high
+11:55:00,USD,FOMC Member Lacker Speaks,low
+12:00:00,USD,Fed Chairman Bernanke Speaks,high

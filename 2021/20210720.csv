@@ -1,0 +1,13 @@
+time,currency,event,impact
+02:00:00,CHF,Trade Balance,low
+02:00:00,EUR,German PPI m/m,low
+04:00:00,EUR,Current Account,low
+08:30:00,USD,Building Permits,low
+08:30:00,USD,Housing Starts,low
+10:10:00,NZD,GDT Price Index,low
+10:30:00,AUD,CB Leading Index m/m,low
+19:50:00,JPY,Monetary Policy Meeting Minutes,low
+19:50:00,JPY,Trade Balance,low
+20:30:00,AUD,MI Leading Index m/m,low
+21:30:00,AUD,Retail Sales m/m,medium
+23:00:00,NZD,Credit Card Spending y/y,low

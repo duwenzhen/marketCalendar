@@ -1,0 +1,7 @@
+time,currency,event,impact
+01:01:00,CHF,Bank Holiday,holiday
+01:01:00,EUR,German Bank Holiday,holiday
+01:01:00,GBP,Bank Holiday,holiday
+08:30:00,USD,Building Permits,medium
+08:30:00,USD,Housing Starts,low
+01:01:00,CAD,Bank Holiday,holiday

@@ -1,0 +1,16 @@
+time,currency,event,impact
+04:30:00,GBP,MPC Asset Purchase Facility Votes,high
+04:30:00,GBP,MPC Official Bank Rate Votes,high
+05:00:00,CHF,Credit Suisse Economic Expectations,medium
+08:30:00,USD,Building Permits,high
+08:30:00,USD,Housing Starts,medium
+10:30:00,USD,Crude Oil Inventories,medium
+10:40:00,CAD,BOC Gov Poloz Speaks,medium
+14:00:00,USD,FOMC Economic Projections,high
+14:00:00,USD,FOMC Statement,high
+14:00:00,USD,Federal Funds Rate,medium
+14:30:00,USD,FOMC Press Conference,high
+18:45:00,NZD,GDP q/q,high
+19:50:00,JPY,Trade Balance,medium
+01:01:00,CNY,Bank Holiday,holiday
+21:30:00,AUD,RBA Bulletin,low

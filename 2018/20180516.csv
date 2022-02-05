@@ -1,0 +1,26 @@
+time,currency,event,impact
+00:30:00,JPY,Revised Industrial Production m/m,low
+02:00:00,EUR,German Final CPI m/m,low
+05:00:00,EUR,Final CPI y/y,medium
+05:00:00,EUR,Final Core CPI y/y,low
+05:35:00,EUR,German 10-y Bond Auction,low
+08:00:00,EUR,ECB President Draghi Speaks,medium
+08:30:00,CAD,Manufacturing Sales m/m,medium
+08:30:00,USD,Building Permits,high
+08:30:00,USD,FOMC Member Bostic Speaks,medium
+08:30:00,USD,Housing Starts,medium
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+09:30:00,GBP,CB Leading Index m/m,low
+10:00:00,USD,Mortgage Delinquencies,medium
+10:30:00,USD,Crude Oil Inventories,high
+12:00:00,CAD,Gov Council Member Schembri Speaks,medium
+12:00:00,CHF,SNB Chairman Jordan Speaks,high
+18:45:00,NZD,PPI Input q/q,low
+18:45:00,NZD,PPI Output q/q,low
+19:50:00,JPY,Core Machinery Orders m/m,low
+21:00:00,AUD,MI Inflation Expectations,low
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high
+22:00:00,CNY,Foreign Direct Investment ytd/y,low
+22:00:00,NZD,Annual Budget Release,high

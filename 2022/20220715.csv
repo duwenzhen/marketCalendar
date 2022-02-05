@@ -1,0 +1,16 @@
+time,currency,event,impact
+00:30:00,JPY,Tertiary Industry Activity m/m,low
+03:00:00,EUR,German Prelim GDP q/q,low
+04:00:00,EUR,Italian Trade Balance,low
+05:00:00,EUR,Trade Balance,low
+08:30:00,CAD,Foreign Securities Purchases,low
+08:30:00,CAD,Wholesale Sales m/m,low
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Empire State Manufacturing Index,medium
+08:30:00,USD,Import Prices m/m,low
+09:15:00,USD,Industrial Production m/m,medium
+09:15:00,USD,Capacity Utilization Rate,low
+10:00:00,USD,Prelim UoM Consumer Sentiment,medium
+10:00:00,USD,Business Inventories m/m,low
+10:00:00,USD,Prelim UoM Inflation Expectations,low

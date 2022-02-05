@@ -1,0 +1,25 @@
+time,currency,event,impact
+01:45:00,CHF,SECO Economic Forecasts,low
+01:59:00,EUR,German WPI m/m,low
+02:00:00,EUR,German Final CPI m/m,low
+02:00:00,GBP,Claimant Count Change,high
+02:00:00,GBP,Unemployment Rate,low
+02:02:00,GBP,Average Earnings Index 3m/y,low
+02:30:00,JPY,BOJ Press Conference,medium
+05:00:00,EUR,ZEW Economic Sentiment,low
+05:00:00,EUR,German ZEW Economic Sentiment,low
+06:33:00,GBP,10-y Bond Auction,low
+08:30:00,CAD,Foreign Securities Purchases,low
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+09:15:00,USD,Capacity Utilization Rate,low
+09:15:00,USD,Industrial Production m/m,low
+10:00:00,USD,Fed Chair Powell Testifies,high
+10:00:00,USD,Business Inventories m/m,low
+10:00:00,USD,NAHB Housing Market Index,low
+10:44:00,NZD,GDT Price Index,low
+15:00:00,CAD,BOC Gov Macklem Speaks,high
+16:00:00,USD,FOMC Member Clarida Speaks,low
+18:45:00,NZD,Current Account,low
+19:50:00,JPY,Trade Balance,low
+20:30:00,AUD,MI Leading Index m/m,low

@@ -1,0 +1,11 @@
+time,currency,event,impact
+03:00:00,EUR,German Import Prices m/m,low
+05:00:00,EUR,M3 Money Supply y/y,low
+05:00:00,EUR,Private Loans y/y,low
+07:00:00,GBP,CBI Realized Sales,low
+08:30:00,USD,Goods Trade Balance,low
+08:30:00,USD,Prelim Wholesale Inventories m/m,low
+11:00:00,EUR,ECB President Draghi Speaks,high
+13:00:00,GBP,MPC Member Tenreyro Speaks,low
+15:00:00,GBP,Parliament Brexit Vote,high
+19:30:00,JPY,Tokyo Core CPI y/y,low

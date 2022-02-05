@@ -1,0 +1,25 @@
+time,currency,event,impact
+00:30:00,JPY,Revised Industrial Production m/m,low
+00:30:00,JPY,Tertiary Industry Activity m/m,low
+04:00:00,EUR,Italian Trade Balance,low
+04:30:00,GBP,Average Earnings Index 3m/y,low
+04:30:00,GBP,Claimant Count Change,low
+04:30:00,GBP,Unemployment Rate,low
+05:00:00,EUR,Flash Employment Change q/q,low
+05:00:00,EUR,Flash GDP q/q,low
+08:30:00,CAD,Foreign Securities Purchases,low
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+09:15:00,USD,Industrial Production m/m,medium
+09:15:00,USD,Capacity Utilization Rate,low
+10:00:00,CAD,BOC Financial System Review,low
+10:00:00,USD,Business Inventories m/m,low
+10:00:00,USD,NAHB Housing Market Index,low
+10:30:00,AUD,CB Leading Index m/m,low
+01:01:00,NZD,GDT Price Index,low
+18:45:00,NZD,PPI Input q/q,low
+18:45:00,NZD,PPI Output q/q,low
+19:30:00,JPY,National Core CPI y/y,low
+19:50:00,JPY,Core Machinery Orders m/m,low
+20:30:00,AUD,MI Leading Index m/m,low
+21:30:00,AUD,Wage Price Index q/q,medium

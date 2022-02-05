@@ -1,0 +1,22 @@
+time,currency,event,impact
+01:30:00,AUD,RBA Annual Report,low
+03:00:00,EUR,French Flash Manufacturing PMI,medium
+03:00:00,EUR,French Flash Services PMI,medium
+03:30:00,EUR,German Flash Manufacturing PMI,medium
+03:30:00,EUR,German Flash Services PMI,medium
+04:00:00,EUR,Flash Manufacturing PMI,medium
+04:00:00,EUR,Flash Services PMI,medium
+05:00:00,CHF,Credit Suisse Economic Expectations,medium
+05:00:00,EUR,Industrial New Orders m/m,medium
+06:00:00,GBP,CBI Industrial Order Expectations,medium
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium
+08:30:00,USD,Unemployment Claims,high
+10:00:00,EUR,Consumer Confidence,low
+10:00:00,USD,CB Leading Index m/m,low
+10:00:00,USD,HPI m/m,low
+01:01:00,All,G20 Meetings,medium
+10:30:00,USD,Natural Gas Storage,low
+20:00:00,AUD,CB Leading Index m/m,medium
+01:01:00,JPY,Bank Holiday,holiday
+21:30:00,AUD,RBA Financial Stability Review,medium

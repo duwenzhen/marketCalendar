@@ -1,0 +1,9 @@
+time,currency,event,impact
+05:00:00,EUR,Trade Balance,low
+01:01:00,EUR,German Buba Monthly Report,low
+08:15:00,CAD,Housing Starts,low
+08:30:00,CAD,Manufacturing Sales m/m,low
+08:30:00,CAD,Wholesale Sales m/m,low
+08:30:00,USD,Empire State Manufacturing Index,medium
+16:00:00,USD,TIC Long-Term Purchases,low
+21:30:00,AUD,Monetary Policy Meeting Minutes,high

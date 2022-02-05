@@ -1,0 +1,6 @@
+time,currency,event,impact
+01:01:00,CHF,Bank Holiday,holiday
+01:01:00,EUR,Italian Bank Holiday,holiday
+01:01:00,EUR,German Bank Holiday,holiday
+01:01:00,GBP,Bank Holiday,holiday
+01:01:00,CAD,Bank Holiday,holiday

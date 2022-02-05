@@ -1,0 +1,27 @@
+time,currency,event,impact
+00:30:00,JPY,All Industries Activity m/m,low
+01:00:00,AUD,RBA Gov Lowe Speaks,high
+03:00:00,CHF,Trade Balance,low
+04:30:00,CHF,SNB Monetary Policy Assessment,high
+04:30:00,CHF,SNB Policy Rate,high
+05:00:00,EUR,German ifo Business Climate,high
+05:15:00,CHF,SNB Press Conference,high
+06:00:00,EUR,Spanish 10-y Bond Auction,low
+08:30:00,CAD,ADP Non-Farm Employment Change,low
+08:30:00,CAD,NHPI m/m,low
+08:30:00,USD,Philly Fed Manufacturing Index,medium
+08:30:00,USD,Unemployment Claims,medium
+08:30:00,USD,Current Account,low
+09:00:00,CHF,SECO Economic Forecasts,low
+09:00:00,USD,Fed Announcement,high
+10:00:00,USD,CB Leading Index m/m,low
+10:30:00,GBP,MPC Official Bank Rate Votes,high
+10:30:00,GBP,Monetary Policy Summary,high
+10:30:00,GBP,Official Bank Rate,high
+10:30:00,GBP,Asset Purchase Facility,low
+10:30:00,GBP,MPC Asset Purchase Facility Votes,low
+10:30:00,USD,Natural Gas Storage,low
+11:38:00,USD,President Trump Speaks,high
+12:30:00,GBP,BOE Gov Bailey Speaks,high
+01:01:00,JPY,Bank Holiday,holiday
+22:00:00,NZD,Credit Card Spending y/y,low

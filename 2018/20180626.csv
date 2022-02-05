@@ -1,0 +1,11 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Core CPI y/y,low
+04:30:00,GBP,High Street Lending,low
+05:00:00,GBP,MPC Member Haskel Speaks,medium
+05:30:00,GBP,MPC Member McCafferty Speaks,medium
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+09:59:00,USD,Richmond Manufacturing Index,low
+10:00:00,USD,CB Consumer Confidence,high
+13:00:00,USD,FOMC Member Bostic Speaks,medium
+18:45:00,NZD,Trade Balance,medium
+21:00:00,NZD,Final ANZ Business Confidence,high

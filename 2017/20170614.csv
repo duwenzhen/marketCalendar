@@ -1,0 +1,27 @@
+time,currency,event,impact
+00:30:00,JPY,Revised Industrial Production m/m,low
+02:00:00,EUR,German Final CPI m/m,low
+04:30:00,GBP,Average Earnings Index 3m/y,high
+04:30:00,GBP,Claimant Count Change,medium
+04:30:00,GBP,Unemployment Rate,medium
+05:00:00,EUR,Final Employment Change q/q,low
+05:00:00,EUR,Industrial Production m/m,low
+05:08:00,CNY,M2 Money Supply y/y,low
+05:08:00,CNY,New Loans,low
+05:35:00,EUR,German 10-y Bond Auction,low
+08:30:00,USD,CPI m/m,high
+08:30:00,USD,Core CPI m/m,high
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+09:30:00,GBP,CB Leading Index m/m,low
+10:00:00,USD,Business Inventories m/m,low
+10:30:00,USD,Crude Oil Inventories,high
+14:00:00,USD,FOMC Economic Projections,high
+14:00:00,USD,FOMC Statement,high
+14:00:00,USD,Federal Funds Rate,high
+14:30:00,USD,FOMC Press Conference,high
+18:45:00,NZD,GDP q/q,high
+21:00:00,AUD,MI Inflation Expectations,medium
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high
+21:30:00,AUD,RBA Bulletin,low

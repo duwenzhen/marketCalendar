@@ -1,0 +1,16 @@
+time,currency,event,impact
+01:00:00,JPY,Leading Indicators,low
+03:00:00,EUR,German Factory Orders m/m,low
+03:30:00,CHF,CPI m/m,low
+03:45:00,EUR,French Gov Budget Balance,low
+03:45:00,EUR,French Prelim Private Payrolls q/q,low
+04:00:00,CHF,Foreign Currency Reserves,low
+04:00:00,CHF,SECO Consumer Climate,low
+05:00:00,EUR,Italian Retail Sales m/m,low
+06:00:00,EUR,PPI m/m,low
+08:30:00,CAD,Employment Change,high
+08:30:00,CAD,Unemployment Rate,high
+08:30:00,USD,Average Hourly Earnings m/m,high
+08:30:00,USD,Non-Farm Employment Change,high
+08:30:00,USD,Unemployment Rate,high
+10:00:00,CAD,Ivey PMI,medium

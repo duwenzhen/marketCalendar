@@ -1,0 +1,18 @@
+time,currency,event,impact
+03:00:00,EUR,Spanish Unemployment Change,medium
+03:15:00,CHF,Retail Sales y/y,high
+03:30:00,CHF,Manufacturing PMI,medium
+04:30:00,GBP,Construction PMI,high
+04:46:00,EUR,Spanish 10-y Bond Auction,high
+05:00:00,EUR,PPI m/m,low
+07:00:00,GBP,Asset Purchase Facility,high
+07:00:00,GBP,Official Bank Rate,high
+07:30:00,USD,Challenger Job Cuts y/y,low
+07:45:00,EUR,Main Refinancing Rate,high
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Unemployment Claims,high
+10:00:00,USD,Factory Orders m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+19:29:00,AUD,AIG Services Index,medium
+21:00:00,CNY,Non-Manufacturing PMI,low
+22:30:00,CNY,Caixin Services PMI,low

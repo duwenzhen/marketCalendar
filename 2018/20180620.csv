@@ -1,0 +1,13 @@
+time,currency,event,impact
+02:00:00,EUR,German PPI m/m,low
+05:35:00,EUR,German 30-y Bond Auction,low
+06:00:00,GBP,CBI Industrial Order Expectations,low
+08:30:00,USD,Current Account,medium
+09:30:00,AUD,RBA Gov Lowe Speaks,high
+09:30:00,EUR,ECB President Draghi Speaks,high
+09:30:00,JPY,BOJ Gov Kuroda Speaks,high
+09:30:00,USD,Fed Chair Powell Speaks,high
+10:00:00,USD,Existing Home Sales,medium
+10:30:00,USD,Crude Oil Inventories,high
+18:45:00,NZD,GDP q/q,high
+21:30:00,AUD,RBA Bulletin,low

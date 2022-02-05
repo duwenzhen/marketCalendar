@@ -1,0 +1,19 @@
+time,currency,event,impact
+01:45:00,CHF,Unemployment Rate,low
+02:00:00,EUR,German Trade Balance,low
+02:00:00,JPY,Prelim Machine Tool Orders y/y,low
+02:45:00,EUR,French Industrial Production m/m,medium
+03:31:00,JPY,BOJ Press Conference,high
+04:30:00,EUR,Sentix Investor Confidence,medium
+05:00:00,GBP,CB Leading Index m/m,low
+07:30:00,USD,NFIB Small Business Index,low
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:00:00,USD,IBD/TIPP Economic Optimism,low
+10:00:00,USD,JOLTS Job Openings,low
+12:45:00,USD,FOMC Member Lockhart Speaks,medium
+18:00:00,NZD,NZIER Business Confidence,high
+19:01:00,GBP,BRC Retail Sales Monitor y/y,medium
+19:50:00,JPY,Core Machinery Orders m/m,medium
+19:50:00,JPY,Bank Lending y/y,low
+20:30:00,AUD,Westpac Consumer Sentiment,medium
+21:30:00,AUD,Home Loans m/m,medium

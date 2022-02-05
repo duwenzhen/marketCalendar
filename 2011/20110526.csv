@@ -1,0 +1,16 @@
+time,currency,event,impact
+02:00:00,CHF,Trade Balance,medium
+02:00:00,EUR,German Import Prices m/m,low
+03:15:00,CHF,Employment Level,medium
+01:01:00,All,G8 Meetings,medium
+05:20:00,EUR,ECB President Trichet Speaks,medium
+08:20:00,GBP,MPC Member Tucker Speaks,medium
+08:30:00,CAD,Corporate Profits q/q,low
+08:30:00,USD,Prelim GDP q/q,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Prelim GDP Price Index q/q,low
+10:30:00,USD,Natural Gas Storage,low
+19:01:00,GBP,GfK Consumer Confidence,medium
+19:30:00,JPY,Tokyo Core CPI y/y,medium
+19:30:00,JPY,National Core CPI y/y,low
+19:50:00,JPY,Retail Sales y/y,medium

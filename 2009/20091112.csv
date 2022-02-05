@@ -1,0 +1,15 @@
+time,currency,event,impact
+03:00:00,EUR,Spanish Flash GDP q/q,low
+04:00:00,EUR,ECB Monthly Bulletin,medium
+05:00:00,CHF,Credit Suisse Economic Expectations,medium
+05:00:00,EUR,Industrial Production m/m,medium
+08:30:00,CAD,NHPI m/m,medium
+08:30:00,USD,Unemployment Claims,high
+11:00:00,USD,Crude Oil Inventories,medium
+11:30:00,USD,Treasury Sec Geithner Speaks,medium
+12:00:00,CHF,Gov Board Member Jordan Speaks,medium
+13:00:00,USD,30-y Bond Auction,low
+14:00:00,EUR,ECB President Trichet Speaks,medium
+14:00:00,USD,Federal Budget Balance,medium
+16:00:00,NZD,REINZ HPI m/m,medium
+23:30:00,JPY,Revised Industrial Production m/m,low

@@ -1,0 +1,19 @@
+time,currency,event,impact
+01:00:00,JPY,Housing Starts y/y,low
+01:01:00,GBP,Bank Holiday,holiday
+04:00:00,EUR,ECB President Trichet Speaks,high
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:00:00,EUR,Private Loans y/y,low
+05:00:00,EUR,CPI Flash Estimate y/y,medium
+05:00:00,EUR,Italian Prelim CPI m/m,low
+06:00:00,EUR,ECB Financial Stability Review,low
+01:01:00,USD,Bank Holiday,holiday
+08:30:00,CAD,GDP m/m,high
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+19:30:00,AUD,AIG Manufacturing Index,low
+21:00:00,CNY,Manufacturing PMI,high
+21:30:00,AUD,Building Approvals m/m,high
+21:30:00,AUD,Retail Sales m/m,high
+22:30:00,CNY,Caixin Manufacturing PMI,medium
+23:45:00,JPY,10-y Bond Auction,low

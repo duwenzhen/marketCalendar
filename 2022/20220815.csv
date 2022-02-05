@@ -1,0 +1,13 @@
+time,currency,event,impact
+02:30:00,CHF,PPI m/m,low
+02:45:00,EUR,French Final CPI m/m,low
+01:01:00,EUR,French Bank Holiday,holiday
+01:01:00,EUR,Italian Bank Holiday,holiday
+04:00:00,EUR,Italian Trade Balance,low
+08:15:00,CAD,Housing Starts,low
+08:30:00,CAD,Manufacturing Sales m/m,low
+08:30:00,CAD,Wholesale Sales m/m,low
+08:30:00,USD,Empire State Manufacturing Index,medium
+10:00:00,USD,NAHB Housing Market Index,low
+16:00:00,USD,TIC Long-Term Purchases,low
+21:30:00,AUD,Monetary Policy Meeting Minutes,high

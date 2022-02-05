@@ -1,0 +1,21 @@
+time,currency,event,impact
+02:00:00,GBP,Claimant Count Change,medium
+02:00:00,GBP,Average Earnings Index 3m/y,low
+02:00:00,GBP,Unemployment Rate,low
+02:30:00,CHF,PPI m/m,low
+05:00:00,EUR,Final CPI y/y,low
+05:00:00,EUR,Final Core CPI y/y,low
+05:04:00,GBP,30-y Bond Auction,low
+06:00:00,GBP,CBI Realized Sales,low
+09:00:00,USD,HPI m/m,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+09:59:00,USD,Richmond Manufacturing Index,low
+10:00:00,USD,Fed Chair Powell Testifies,high
+10:00:00,USD,CB Consumer Confidence,medium
+12:30:00,CAD,BOC Gov Macklem Speaks,high
+19:30:00,AUD,Construction Work Done q/q,low
+19:30:00,AUD,Wage Price Index q/q,low
+20:00:00,NZD,RBNZ Monetary Policy Statement,high
+20:00:00,NZD,RBNZ Rate Statement,high
+20:00:00,NZD,Official Cash Rate,medium
+21:00:00,NZD,RBNZ Press Conference,high

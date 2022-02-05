@@ -1,0 +1,10 @@
+time,currency,event,impact
+07:00:00,GBP,CBI Realized Sales,medium
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+09:20:00,GBP,MPC Member Dale Speaks,medium
+10:00:00,USD,Pending Home Sales m/m,high
+18:30:00,AUD,RBA Gov Stevens Speaks,high
+19:30:00,JPY,Household Spending y/y,medium
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,Retail Sales y/y,medium

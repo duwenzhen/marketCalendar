@@ -1,0 +1,22 @@
+time,currency,event,impact
+02:00:00,EUR,German PPI m/m,low
+04:00:00,EUR,Current Account,low
+04:45:00,EUR,Spanish 10-y Bond Auction,low
+05:05:00,GBP,MPC Member Cunliffe Speaks,low
+06:00:00,GBP,CBI Industrial Order Expectations,low
+08:00:00,EUR,ECB President Lagarde Speaks,low
+08:30:00,CAD,NHPI m/m,low
+08:30:00,USD,Philly Fed Manufacturing Index,medium
+08:30:00,USD,Unemployment Claims,medium
+08:32:00,CAD,ADP Non-Farm Employment Change,low
+10:00:00,CAD,BOC Financial System Review,low
+10:00:00,USD,CB Leading Index m/m,low
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,CAD,BOC Gov Macklem Speaks,high
+19:00:00,AUD,Flash Manufacturing PMI,low
+19:00:00,AUD,Flash Services PMI,low
+19:01:00,GBP,GfK Consumer Confidence,low
+19:30:00,JPY,National Core CPI y/y,low
+20:30:00,JPY,Flash Manufacturing PMI,low
+21:30:00,AUD,Retail Sales m/m,medium
+23:00:00,NZD,Credit Card Spending y/y,low

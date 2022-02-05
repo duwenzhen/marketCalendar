@@ -1,0 +1,10 @@
+time,currency,event,impact
+02:00:00,EUR,German PPI m/m,low
+04:00:00,EUR,Current Account,low
+01:01:00,EUR,EU Economic Summit,medium
+11:10:00,GBP,MPC Member Haldane Speaks,low
+11:10:00,GBP,MPC Member Tenreyro Speaks,low
+19:30:00,JPY,National Core CPI y/y,low
+21:30:00,AUD,Monetary Policy Meeting Minutes,medium
+23:00:00,AUD,RBA Gov Lowe Speaks,high
+23:00:00,NZD,Credit Card Spending y/y,low

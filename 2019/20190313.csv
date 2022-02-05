@@ -1,0 +1,20 @@
+time,currency,event,impact
+00:30:00,JPY,Tertiary Industry Activity m/m,low
+05:00:00,EUR,Italian Quarterly Unemployment Rate,low
+06:00:00,EUR,Industrial Production m/m,low
+06:35:00,EUR,German 30-y Bond Auction,low
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Core PPI m/m,medium
+08:30:00,USD,Durable Goods Orders m/m,medium
+08:42:00,GBP,Annual Budget Release,high
+10:00:00,USD,Construction Spending m/m,low
+10:30:00,USD,Crude Oil Inventories,low
+13:01:00,USD,30-y Bond Auction,low
+15:16:00,GBP,Parliament Brexit Vote,high
+20:00:00,AUD,MI Inflation Expectations,low
+20:01:00,GBP,RICS House Price Balance,low
+22:00:00,CNY,Fixed Asset Investment ytd/y,medium
+22:00:00,CNY,Industrial Production y/y,medium
+22:00:00,CNY,Retail Sales y/y,low
+22:00:00,CNY,Unemployment Rate,low

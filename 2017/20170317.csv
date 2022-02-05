@@ -1,0 +1,12 @@
+time,currency,event,impact
+05:00:00,EUR,Italian Trade Balance,low
+06:00:00,EUR,Trade Balance,low
+01:01:00,All,G20 Meetings,high
+08:00:00,GBP,BOE Quarterly Bulletin,low
+08:30:00,CAD,Manufacturing Sales m/m,high
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+10:00:00,USD,Prelim UoM Consumer Sentiment,high
+10:00:00,USD,CB Leading Index m/m,low
+10:00:00,USD,Prelim UoM Inflation Expectations,low
+10:01:00,USD,Labor Market Conditions Index m/m,low

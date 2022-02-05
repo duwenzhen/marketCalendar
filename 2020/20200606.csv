@@ -1,0 +1,5 @@
+time,currency,event,impact
+01:01:00,All,OPEC Meetings,high
+01:01:00,All,OPEC-JMMC Meetings,high
+23:06:00,CNY,Trade Balance,high
+23:07:00,CNY,USD-Denominated Trade Balance,medium

@@ -1,0 +1,7 @@
+time,currency,event,impact
+02:00:00,CHF,Trade Balance,low
+07:00:00,GBP,CBI Realized Sales,low
+08:30:00,CAD,Core Retail Sales m/m,medium
+08:30:00,CAD,Retail Sales m/m,medium
+09:45:00,USD,Flash Manufacturing PMI,medium
+09:45:00,USD,Flash Services PMI,medium

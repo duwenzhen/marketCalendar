@@ -1,0 +1,24 @@
+time,currency,event,impact
+02:30:00,JPY,BOJ Gov Kuroda Speaks,high
+02:45:00,CHF,SECO Economic Forecasts,low
+04:15:00,CHF,PPI m/m,medium
+04:30:00,CHF,Libor Rate,high
+04:30:00,CHF,SNB Monetary Policy Assessment,high
+05:02:00,EUR,Italian Trade Balance,low
+05:43:00,EUR,Spanish 10-y Bond Auction,low
+06:00:00,EUR,Final CPI y/y,medium
+06:00:00,EUR,Final Core CPI y/y,low
+06:00:00,EUR,Trade Balance,low
+08:00:00,GBP,MPC Official Bank Rate Votes,high
+08:00:00,GBP,Monetary Policy Summary,high
+08:00:00,GBP,Official Bank Rate,high
+08:00:00,GBP,Asset Purchase Facility,medium
+08:00:00,GBP,MPC Asset Purchase Facility Votes,medium
+08:30:00,CAD,Wholesale Sales m/m,medium
+08:30:00,USD,Philly Fed Manufacturing Index,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Current Account,medium
+10:00:00,USD,JOLTS Job Openings,medium
+10:00:00,USD,CB Leading Index m/m,low
+10:30:00,USD,Natural Gas Storage,low
+19:50:00,JPY,Monetary Policy Meeting Minutes,medium

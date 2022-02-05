@@ -1,0 +1,16 @@
+time,currency,event,impact
+01:45:00,CHF,Unemployment Rate,low
+02:00:00,EUR,German Trade Balance,low
+04:25:00,EUR,ECB President Lagarde Speaks,medium
+04:30:00,EUR,Sentix Investor Confidence,low
+05:35:00,GBP,BOE Gov Bailey Speaks,high
+09:00:00,GBP,MPC Member Haldane Speaks,low
+13:30:00,USD,FOMC Member Mester Speaks,low
+14:00:00,USD,Loan Officer Survey,low
+18:50:00,JPY,Bank Lending y/y,low
+18:50:00,JPY,Current Account,low
+19:01:00,GBP,BRC Retail Sales Monitor y/y,low
+19:30:00,AUD,NAB Business Confidence,low
+20:30:00,CNY,CPI y/y,low
+20:30:00,CNY,PPI y/y,low
+22:35:00,JPY,30-y Bond Auction,low

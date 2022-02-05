@@ -1,0 +1,10 @@
+time,currency,event,impact
+01:01:00,NZD,Bank Holiday,holiday
+19:30:00,AUD,AIG Manufacturing Index,low
+20:30:00,AUD,MI Inflation Gauge m/m,low
+20:40:00,CNY,Manufacturing PMI,high
+21:02:00,AUD,HIA New Home Sales m/m,medium
+21:30:00,AUD,Retail Sales m/m,high
+21:30:00,AUD,Company Operating Profits q/q,low
+21:30:00,JPY,Average Cash Earnings y/y,medium
+22:30:00,CNY,Caixin Manufacturing PMI,medium

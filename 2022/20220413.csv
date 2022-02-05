@@ -1,0 +1,21 @@
+time,currency,event,impact
+04:00:00,EUR,Italian Trade Balance,low
+04:30:00,GBP,CPI y/y,high
+04:30:00,GBP,Core CPI y/y,low
+04:30:00,GBP,HPI y/y,low
+04:30:00,GBP,PPI Input m/m,low
+04:30:00,GBP,PPI Output m/m,low
+04:30:00,GBP,RPI y/y,low
+05:00:00,EUR,Industrial Production m/m,low
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Core PPI m/m,medium
+10:00:00,CAD,BOC Monetary Policy Report,high
+10:00:00,CAD,BOC Rate Statement,high
+10:00:00,CAD,Overnight Rate,high
+10:30:00,USD,Crude Oil Inventories,medium
+11:00:00,CAD,BOC Press Conference,high
+13:01:00,USD,30-y Bond Auction,medium
+18:30:00,NZD,BusinessNZ Manufacturing Index,low
+21:00:00,AUD,MI Inflation Expectations,low
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high

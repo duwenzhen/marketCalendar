@@ -1,0 +1,20 @@
+time,currency,event,impact
+01:01:00,EUR,German Prelim CPI m/m,low
+03:00:00,EUR,Spanish Flash CPI y/y,low
+06:00:00,GBP,MPC Member Saunders Speaks,medium
+06:37:00,GBP,30-y Bond Auction,low
+08:30:00,CAD,Current Account,low
+08:30:00,USD,Prelim GDP q/q,high
+08:30:00,USD,Core Durable Goods Orders m/m,medium
+08:30:00,USD,Durable Goods Orders m/m,medium
+08:30:00,USD,Unemployment Claims,medium
+08:30:00,USD,Prelim GDP Price Index q/q,low
+10:00:00,USD,Pending Home Sales m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,USD,Crude Oil Inventories,low
+11:00:00,USD,FOMC Member Williams Speaks,low
+19:30:00,JPY,Tokyo Core CPI y/y,low
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,Prelim Industrial Production m/m,low
+19:50:00,JPY,Retail Sales y/y,low
+21:30:00,AUD,Private Sector Credit m/m,low

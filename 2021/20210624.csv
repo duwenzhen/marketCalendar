@@ -1,0 +1,23 @@
+time,currency,event,impact
+04:00:00,EUR,German ifo Business Climate,medium
+04:00:00,EUR,ECB Economic Bulletin,low
+07:00:00,GBP,Asset Purchase Facility,high
+07:00:00,GBP,MPC Asset Purchase Facility Votes,high
+07:00:00,GBP,Monetary Policy Summary,high
+07:00:00,GBP,MPC Official Bank Rate Votes,medium
+07:00:00,GBP,Official Bank Rate,medium
+08:30:00,USD,Final GDP q/q,medium
+08:30:00,USD,Unemployment Claims,medium
+08:30:00,USD,Core Durable Goods Orders m/m,low
+08:30:00,USD,Durable Goods Orders m/m,low
+08:30:00,USD,Goods Trade Balance,low
+08:30:00,USD,Prelim Wholesale Inventories m/m,low
+08:36:00,USD,Final GDP Price Index q/q,low
+08:56:00,EUR,Belgian NBB Business Climate,low
+09:30:00,USD,FOMC Member Bostic Speaks,low
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,USD,FOMC Member Williams Speaks,low
+16:30:00,USD,Bank Stress Test Results,low
+18:45:00,NZD,Trade Balance,low
+19:01:00,GBP,GfK Consumer Confidence,low
+19:30:00,JPY,Tokyo Core CPI y/y,low

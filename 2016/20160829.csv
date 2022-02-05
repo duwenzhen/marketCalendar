@@ -1,0 +1,10 @@
+time,currency,event,impact
+01:01:00,GBP,Bank Holiday,holiday
+08:30:00,USD,Core PCE Price Index m/m,medium
+08:30:00,USD,Personal Spending m/m,medium
+08:30:00,USD,Personal Income m/m,low
+18:45:00,NZD,Building Consents m/m,low
+19:30:00,JPY,Household Spending y/y,medium
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,Retail Sales y/y,low
+21:30:00,AUD,Building Approvals m/m,high

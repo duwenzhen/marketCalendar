@@ -1,0 +1,5 @@
+time,currency,event,impact
+10:00:00,EUR,Consumer Confidence,low
+11:00:00,EUR,ECB President Trichet Speaks,high
+01:01:00,JPY,Bank Holiday,holiday
+21:00:00,NZD,Inflation Expectations q/q,high

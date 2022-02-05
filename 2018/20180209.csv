@@ -1,0 +1,13 @@
+time,currency,event,impact
+01:45:00,CHF,Unemployment Rate,low
+02:45:00,EUR,French Industrial Production m/m,low
+04:00:00,EUR,Italian Industrial Production m/m,low
+04:30:00,GBP,Manufacturing Production m/m,high
+04:30:00,GBP,Goods Trade Balance,medium
+04:30:00,GBP,Construction Output m/m,low
+04:30:00,GBP,Industrial Production m/m,low
+07:03:00,GBP,NIESR GDP Estimate,low
+08:30:00,CAD,Employment Change,high
+08:30:00,CAD,Unemployment Rate,high
+10:00:00,USD,Final Wholesale Inventories m/m,low
+11:45:00,GBP,MPC Member Cunliffe Speaks,medium

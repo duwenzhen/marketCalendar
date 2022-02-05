@@ -1,0 +1,21 @@
+time,currency,event,impact
+00:00:00,JPY,Consumer Confidence,low
+02:30:00,CHF,Retail Sales y/y,low
+03:00:00,EUR,Spanish Unemployment Change,medium
+04:00:00,EUR,Italian Monthly Unemployment Rate,low
+04:47:00,EUR,Spanish 10-y Bond Auction,low
+05:00:00,EUR,PPI m/m,low
+05:00:00,EUR,Unemployment Rate,low
+05:02:00,EUR,French 10-y Bond Auction,low
+01:01:00,All,OPEC-JMMC Meetings,high
+07:30:00,USD,Challenger Job Cuts y/y,low
+08:30:00,USD,Unemployment Claims,medium
+08:30:00,USD,FOMC Member Bostic Speaks,low
+09:00:00,USD,Treasury Sec Yellen Speaks,medium
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,USD,FOMC Member Quarles Speaks,low
+11:30:00,USD,FOMC Member Barkin Speaks,medium
+11:30:00,USD,FOMC Member Bostic Speaks,low
+11:30:00,USD,FOMC Member Daly Speaks,low
+16:30:00,AUD,AIG Construction Index,low
+20:45:00,CNY,Caixin Services PMI,low

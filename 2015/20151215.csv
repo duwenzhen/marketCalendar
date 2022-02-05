@@ -1,0 +1,27 @@
+time,currency,event,impact
+03:15:00,CHF,PPI m/m,medium
+04:30:00,GBP,CPI y/y,high
+04:30:00,GBP,MPC Member Haldane Speaks,medium
+04:30:00,GBP,PPI Input m/m,medium
+04:30:00,GBP,RPI y/y,medium
+04:30:00,GBP,Core CPI y/y,low
+04:30:00,GBP,ONS HPI y/y,low
+04:30:00,GBP,PPI Output m/m,low
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,ZEW Economic Sentiment,medium
+05:00:00,EUR,Final Employment Change q/q,low
+07:00:00,GBP,BOE Quarterly Bulletin,low
+08:30:00,CAD,Manufacturing Sales m/m,high
+08:30:00,USD,CPI m/m,high
+08:30:00,USD,Core CPI m/m,high
+08:30:00,USD,Empire State Manufacturing Index,medium
+08:52:00,NZD,GDT Price Index,high
+09:30:00,GBP,CB Leading Index m/m,low
+10:00:00,USD,NAHB Housing Market Index,low
+11:00:00,CAD,BOC Financial System Review,low
+11:45:00,CAD,BOC Gov Poloz Speaks,high
+16:00:00,USD,TIC Long-Term Purchases,low
+16:45:00,NZD,Current Account,medium
+18:30:00,AUD,RBA Deputy Gov Debelle Speaks,medium
+18:30:00,AUD,MI Leading Index m/m,low
+20:35:00,JPY,Flash Manufacturing PMI,low

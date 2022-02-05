@@ -1,0 +1,10 @@
+time,currency,event,impact
+05:00:00,CNY,M2 Money Supply y/y,low
+05:00:00,CNY,New Loans,low
+08:30:00,CAD,Employment Change,high
+08:30:00,CAD,Unemployment Rate,high
+08:30:00,USD,Import Prices m/m,low
+09:10:00,CAD,Gov Council Member Wilkins Speaks,medium
+09:15:00,EUR,ECB President Draghi Speaks,high
+10:00:00,USD,Prelim UoM Consumer Sentiment,medium
+10:00:00,USD,Prelim UoM Inflation Expectations,low

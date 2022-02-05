@@ -1,0 +1,12 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,low
+02:00:00,EUR,German GfK Consumer Climate,medium
+04:00:00,EUR,Italian Retail Sales m/m,low
+06:00:00,GBP,CBI Realized Sales,medium
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,Final GDP q/q,high
+08:30:00,USD,Durable Goods Orders m/m,medium
+08:30:00,USD,Final GDP Price Index q/q,low
+09:00:00,CHF,SNB Quarterly Bulletin,low
+09:45:00,USD,Flash Services PMI,low
+10:30:00,USD,Crude Oil Inventories,medium

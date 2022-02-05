@@ -1,0 +1,34 @@
+time,currency,event,impact
+00:00:00,JPY,Economy Watchers Sentiment,low
+01:00:00,JPY,Prelim Machine Tool Orders y/y,low
+02:00:00,EUR,German Final CPI m/m,low
+02:00:00,EUR,German WPI m/m,low
+02:45:00,EUR,French Industrial Production m/m,medium
+04:00:00,EUR,Italian Industrial Production m/m,low
+01:01:00,EUR,ECOFIN Meetings,low
+04:30:00,GBP,Goods Trade Balance,medium
+04:30:00,GBP,ONS HPI y/y,low
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,ZEW Economic Sentiment,medium
+05:00:00,GBP,CB Leading Index m/m,low
+05:38:00,GBP,10-y Bond Auction,low
+07:30:00,USD,NFIB Small Business Index,low
+09:15:00,USD,FOMC Member Lockhart Speaks,medium
+10:00:00,USD,IBD/TIPP Economic Optimism,low
+10:00:00,USD,JOLTS Job Openings,low
+10:05:00,USD,FOMC Member Yellen Speaks,medium
+13:00:00,USD,10-y Bond Auction,medium
+15:00:00,NZD,RBNZ Financial Stability Report,high
+15:30:00,USD,FOMC Member Tarullo Speaks,low
+16:49:00,NZD,FPI m/m,low
+18:30:00,AUD,Westpac Consumer Sentiment,medium
+18:50:00,JPY,Core Machinery Orders m/m,medium
+21:00:00,CNY,Industrial Production y/y,high
+21:00:00,CNY,CPI y/y,medium
+21:00:00,CNY,Fixed Asset Investment ytd/y,medium
+21:00:00,CNY,NBS Press Conference,medium
+21:00:00,CNY,PPI y/y,medium
+21:00:00,CNY,Retail Sales y/y,low
+21:10:00,CNY,New Loans,medium
+21:10:00,CNY,M2 Money Supply y/y,low
+22:48:00,CNY,USD-Denominated Trade Balance,high

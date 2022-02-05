@@ -1,0 +1,5 @@
+time,currency,event,impact
+01:01:00,All,G7 Meetings,high
+01:01:00,EUR,Irish Lisbon Treaty Vote,low
+11:30:00,USD,Treasury Sec Geithner Speaks,high
+12:00:00,AUD,Daylight Saving Time Shift,holiday

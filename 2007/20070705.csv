@@ -1,0 +1,16 @@
+time,currency,event,impact
+01:00:00,JPY,Leading Indicators,low
+03:00:00,CHF,Foreign Currency Reserves,low
+04:58:00,EUR,French 10-y Bond Auction,low
+07:00:00,GBP,MPC Rate Statement,high
+07:00:00,GBP,Official Bank Rate,high
+07:30:00,USD,Challenger Job Cuts y/y,low
+07:45:00,EUR,Main Refinancing Rate,medium
+08:15:00,USD,ADP Non-Farm Employment Change,medium
+08:30:00,CAD,Building Permits m/m,medium
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Unemployment Claims,medium
+10:00:00,CAD,Ivey PMI,high
+10:00:00,USD,ISM Services PMI,high
+10:30:00,USD,Crude Oil Inventories,low
+19:30:00,AUD,AIG Construction Index,low

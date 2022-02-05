@@ -1,0 +1,24 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Core CPI y/y,low
+02:00:00,EUR,German Final GDP q/q,low
+02:00:00,GBP,Public Sector Net Borrowing,low
+04:00:00,EUR,German ifo Business Climate,medium
+06:00:00,GBP,CBI Realized Sales,low
+08:30:00,CAD,Corporate Profits q/q,low
+09:00:00,EUR,Belgian NBB Business Climate,low
+09:00:00,USD,HPI m/m,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+09:40:00,USD,FOMC Member Evans Speaks,low
+09:59:00,USD,Richmond Manufacturing Index,low
+10:00:00,USD,CB Consumer Confidence,medium
+10:00:00,USD,FOMC Member Quarles Speaks,low
+10:00:00,USD,New Home Sales,low
+12:00:00,GBP,MPC Member Tenreyro Speaks,low
+18:45:00,NZD,Trade Balance,low
+19:50:00,JPY,SPPI y/y,low
+20:30:00,AUD,MI Leading Index m/m,low
+21:30:00,AUD,Construction Work Done q/q,low
+22:00:00,NZD,RBNZ Monetary Policy Statement,high
+22:00:00,NZD,RBNZ Rate Statement,high
+22:00:00,NZD,Official Cash Rate,medium
+23:00:00,NZD,RBNZ Press Conference,high

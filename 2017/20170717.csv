@@ -1,0 +1,8 @@
+time,currency,event,impact
+05:00:00,EUR,Final CPI y/y,medium
+05:00:00,EUR,Final Core CPI y/y,low
+08:30:00,CAD,Foreign Securities Purchases,medium
+08:30:00,USD,Empire State Manufacturing Index,medium
+18:45:00,NZD,CPI q/q,high
+21:30:00,AUD,Monetary Policy Meeting Minutes,high
+21:30:00,AUD,New Motor Vehicle Sales m/m,low

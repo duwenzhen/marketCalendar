@@ -1,0 +1,14 @@
+time,currency,event,impact
+01:01:00,EUR,German Prelim CPI m/m,medium
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:00:00,EUR,Private Loans y/y,low
+05:15:00,EUR,German Buba President Weber Speaks,medium
+06:00:00,GBP,CBI Realized Sales,high
+01:01:00,USD,Bank Holiday,holiday
+12:00:00,EUR,German Buba President Weber Speaks,medium
+16:45:00,NZD,Trade Balance,medium
+18:30:00,JPY,Household Spending y/y,medium
+18:30:00,JPY,Tokyo Core CPI y/y,medium
+18:30:00,JPY,National Core CPI y/y,low
+18:30:00,JPY,Unemployment Rate,low
+18:50:00,JPY,Retail Sales y/y,medium

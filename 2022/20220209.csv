@@ -1,0 +1,15 @@
+time,currency,event,impact
+01:00:00,JPY,Prelim Machine Tool Orders y/y,low
+02:00:00,EUR,German Trade Balance,low
+04:00:00,EUR,Italian Industrial Production m/m,low
+01:01:00,EUR,German 30-y Bond Auction,low
+08:10:00,GBP,MPC Member Pill Speaks,low
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:30:00,USD,Crude Oil Inventories,medium
+10:30:00,USD,FOMC Member Bowman Speaks,low
+12:00:00,CAD,BOC Gov Macklem Speaks,high
+12:00:00,USD,FOMC Member Mester Speaks,medium
+13:01:00,USD,10-y Bond Auction,medium
+18:50:00,JPY,PPI y/y,low
+19:00:00,AUD,MI Inflation Expectations,low
+19:01:00,GBP,RICS House Price Balance,low

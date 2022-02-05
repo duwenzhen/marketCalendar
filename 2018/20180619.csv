@@ -1,0 +1,11 @@
+time,currency,event,impact
+01:45:00,CHF,SECO Economic Forecasts,low
+04:00:00,EUR,ECB President Draghi Speaks,high
+04:00:00,EUR,Current Account,low
+08:30:00,USD,Building Permits,high
+08:30:00,USD,Housing Starts,medium
+10:20:00,NZD,GDT Price Index,medium
+17:48:00,NZD,Westpac Consumer Sentiment,low
+18:45:00,NZD,Current Account,medium
+19:50:00,JPY,Monetary Policy Meeting Minutes,low
+20:30:00,AUD,MI Leading Index m/m,low

@@ -1,0 +1,17 @@
+time,currency,event,impact
+01:00:00,USD,FOMC Member Bullard Speaks,medium
+02:00:00,EUR,German Retail Sales m/m,medium
+03:15:00,CHF,CPI m/m,medium
+04:00:00,GBP,Halifax HPI m/m,high
+05:00:00,EUR,Retail Sales m/m,medium
+05:00:00,EUR,Consumer Confidence,low
+05:05:00,EUR,French 10-y Bond Auction,medium
+06:00:00,EUR,German Factory Orders m/m,medium
+07:00:00,GBP,Asset Purchase Facility,high
+07:00:00,GBP,MPC Rate Statement,high
+07:00:00,GBP,Official Bank Rate,high
+08:30:00,USD,Unemployment Claims,high
+10:00:00,CAD,Ivey PMI,high
+10:30:00,USD,Natural Gas Storage,low
+13:00:00,USD,FOMC Member Hoenig Speaks,medium
+17:30:00,AUD,AIG Construction Index,low

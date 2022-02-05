@@ -1,0 +1,21 @@
+time,currency,event,impact
+02:00:00,EUR,German Final CPI m/m,low
+02:45:00,EUR,French Final CPI m/m,low
+03:00:00,CNY,M2 Money Supply y/y,low
+03:00:00,CNY,New Loans,low
+03:30:00,EUR,ECB President Draghi Speaks,high
+05:00:00,EUR,Industrial Production m/m,low
+05:30:00,EUR,ECB President Draghi Speaks,high
+08:30:00,CAD,NHPI m/m,medium
+08:30:00,USD,Unemployment Claims,high
+09:30:00,USD,Fed Chair Yellen Speaks,high
+10:00:00,USD,JOLTS Job Openings,medium
+10:15:00,USD,FOMC Member Evans Speaks,medium
+11:00:00,USD,Crude Oil Inventories,medium
+12:00:00,GBP,MPC Member Haldane Speaks,medium
+12:15:00,USD,FOMC Member Dudley Speaks,medium
+13:01:00,USD,30-y Bond Auction,low
+13:57:00,USD,Federal Budget Balance,low
+18:00:00,USD,FOMC Member Fischer Speaks,medium
+23:30:00,JPY,Revised Industrial Production m/m,low
+23:34:00,JPY,Tertiary Industry Activity m/m,low

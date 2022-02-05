@@ -1,0 +1,19 @@
+time,currency,event,impact
+01:45:00,CHF,Unemployment Rate,low
+02:00:00,EUR,German Factory Orders m/m,medium
+02:45:00,EUR,French Industrial Production m/m,medium
+02:45:00,EUR,French Trade Balance,low
+03:00:00,CHF,Foreign Currency Reserves,medium
+04:10:00,EUR,Retail PMI,low
+08:30:00,CAD,Building Permits m/m,high
+08:30:00,USD,Prelim Nonfarm Productivity q/q,medium
+08:30:00,USD,Prelim Unit Labor Costs q/q,medium
+10:00:00,USD,Fed Chair Yellen Testifies,high
+10:30:00,USD,Crude Oil Inventories,medium
+13:01:00,USD,10-y Bond Auction,medium
+15:00:00,USD,Consumer Credit m/m,low
+19:01:00,GBP,RICS House Price Balance,low
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high
+22:19:00,CNY,USD-Denominated Trade Balance,high
+23:45:00,JPY,10-y Bond Auction,low

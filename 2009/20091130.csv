@@ -1,0 +1,17 @@
+time,currency,event,impact
+00:00:00,JPY,Housing Starts y/y,low
+04:30:00,GBP,Net Lending to Individuals m/m,medium
+04:30:00,GBP,Mortgage Approvals,low
+05:00:00,EUR,CPI Flash Estimate y/y,medium
+05:00:00,EUR,Italian Prelim CPI m/m,low
+08:30:00,CAD,GDP m/m,high
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+09:45:00,USD,Chicago PMI,high
+17:30:00,AUD,AIG Manufacturing Index,low
+19:30:00,AUD,Building Approvals m/m,high
+19:40:00,CNY,Manufacturing PMI,high
+21:30:00,CNY,Caixin Manufacturing PMI,medium
+22:30:00,AUD,Cash Rate,high
+22:30:00,AUD,RBA Rate Statement,high
+22:45:00,JPY,10-y Bond Auction,low

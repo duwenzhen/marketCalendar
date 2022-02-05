@@ -1,0 +1,15 @@
+time,currency,event,impact
+02:00:00,EUR,German Final CPI m/m,low
+02:30:00,CHF,PPI m/m,low
+04:00:00,EUR,Current Account,low
+04:00:00,EUR,Italian Trade Balance,low
+01:01:00,EUR,ECOFIN Meetings,low
+05:00:00,EUR,ZEW Economic Sentiment,low
+05:00:00,EUR,German ZEW Economic Sentiment,low
+08:30:00,CAD,Manufacturing Sales m/m,low
+08:30:00,CAD,Wholesale Sales m/m,low
+10:05:00,NZD,GDT Price Index,low
+13:00:00,GBP,MPC Member Haldane Speaks,low
+16:00:00,USD,TIC Long-Term Purchases,low
+18:23:00,AUD,Westpac Consumer Sentiment,low
+20:05:00,CNY,Foreign Direct Investment ytd/y,low

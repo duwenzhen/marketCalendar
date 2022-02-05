@@ -1,0 +1,29 @@
+time,currency,event,impact
+00:00:00,JPY,Housing Starts y/y,low
+01:59:00,GBP,Nationwide HPI m/m,low
+02:00:00,EUR,German Import Prices m/m,low
+01:01:00,EUR,German Prelim CPI m/m,medium
+02:30:00,CHF,Retail Sales y/y,low
+02:45:00,EUR,French Consumer Spending m/m,low
+02:45:00,EUR,French Prelim CPI m/m,low
+02:45:00,EUR,French Prelim GDP q/q,low
+03:00:00,CHF,KOF Economic Barometer,low
+03:55:00,EUR,German Unemployment Change,low
+05:00:00,EUR,German Buba President Weidmann Speaks,low
+05:00:00,EUR,Italian Prelim CPI m/m,low
+06:15:00,GBP,MPC Member Haldane Speaks,low
+08:30:00,CAD,GDP m/m,high
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+08:30:00,USD,Core PCE Price Index m/m,medium
+08:30:00,USD,Personal Spending m/m,medium
+08:30:00,USD,Goods Trade Balance,low
+08:30:00,USD,Personal Income m/m,low
+08:30:00,USD,Prelim Wholesale Inventories m/m,low
+09:45:00,USD,Chicago PMI,medium
+10:00:00,USD,Revised UoM Consumer Sentiment,low
+10:00:00,USD,Revised UoM Inflation Expectations,low
+11:15:00,GBP,MPC Member Cunliffe Speaks,low
+14:30:00,USD,Fed Announcement,high
+20:00:00,CNY,Manufacturing PMI,high
+20:00:00,CNY,Non-Manufacturing PMI,high

@@ -1,0 +1,22 @@
+time,currency,event,impact
+03:00:00,CHF,Foreign Currency Reserves,low
+04:00:00,GBP,Halifax HPI m/m,high
+05:00:00,EUR,Italian Prelim CPI m/m,low
+05:02:00,EUR,French 10-y Bond Auction,low
+06:00:00,EUR,German Factory Orders m/m,medium
+07:00:00,GBP,MPC Rate Statement,high
+07:00:00,GBP,Official Bank Rate,high
+07:45:00,EUR,Main Refinancing Rate,high
+08:30:00,CAD,Building Permits m/m,high
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Prelim Nonfarm Productivity q/q,medium
+08:30:00,USD,Prelim Unit Labor Costs q/q,medium
+10:00:00,CAD,Ivey PMI,high
+10:00:00,USD,Factory Orders m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+12:30:00,CHF,Gov Board Member Hildebrand Speaks,medium
+01:01:00,NZD,Bank Holiday,holiday
+17:30:00,AUD,AIG Construction Index,low
+19:30:00,AUD,RBA Monetary Policy Statement,high
+20:00:00,JPY,BOJ Gov Shirakawa Speaks,medium

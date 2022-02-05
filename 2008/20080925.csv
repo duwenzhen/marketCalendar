@@ -1,0 +1,19 @@
+time,currency,event,impact
+02:00:00,EUR,German GfK Consumer Climate,medium
+04:00:00,EUR,M3 Money Supply y/y,low
+04:00:00,EUR,Private Loans y/y,low
+04:00:00,EUR,Italian Trade Balance,low
+05:40:00,GBP,10-y Bond Auction,low
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Durable Goods Orders m/m,medium
+08:40:00,GBP,MPC Member Barker Speaks,medium
+10:00:00,USD,New Home Sales,high
+10:35:00,USD,Natural Gas Storage,low
+13:00:00,CAD,BOC Gov Carney Speaks,medium
+13:00:00,USD,FOMC Member Warsh Speaks,medium
+18:45:00,NZD,GDP q/q,high
+19:30:00,JPY,Tokyo Core CPI y/y,medium
+19:30:00,JPY,National Core CPI y/y,low
+19:30:00,USD,FOMC Member Fisher Speaks,medium
+19:45:00,USD,FOMC Member Plosser Speaks,medium

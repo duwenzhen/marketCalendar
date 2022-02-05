@@ -1,0 +1,11 @@
+time,currency,event,impact
+03:00:00,CAD,Daylight Saving Time Shift,holiday
+03:00:00,USD,Daylight Saving Time Shift,holiday
+17:49:00,NZD,Visitor Arrivals m/m,low
+19:15:00,AUD,RBA Gov Lowe Speaks,high
+19:50:00,JPY,Core Machinery Orders m/m,low
+20:01:00,GBP,Rightmove HPI m/m,low
+22:00:00,CNY,Industrial Production y/y,medium
+22:00:00,CNY,Retail Sales y/y,medium
+22:00:00,CNY,Fixed Asset Investment ytd/y,low
+22:00:00,CNY,Unemployment Rate,low

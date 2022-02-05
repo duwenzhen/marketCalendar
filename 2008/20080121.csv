@@ -1,0 +1,11 @@
+time,currency,event,impact
+02:00:00,EUR,German PPI m/m,medium
+03:15:00,CHF,PPI m/m,medium
+01:01:00,EUR,Eurogroup Meetings,low
+04:30:00,GBP,M4 Money Supply m/m,low
+04:30:00,GBP,Public Sector Net Borrowing,low
+06:00:00,EUR,German Buba Monthly Report,medium
+01:01:00,USD,Bank Holiday,holiday
+08:30:00,CAD,Wholesale Sales m/m,medium
+19:30:00,AUD,New Motor Vehicle Sales m/m,low
+22:19:00,JPY,Overnight Call Rate,medium

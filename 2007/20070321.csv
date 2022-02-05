@@ -1,0 +1,14 @@
+time,currency,event,impact
+03:15:00,CHF,Trade Balance,medium
+04:00:00,EUR,ECB President Trichet Speaks,high
+05:00:00,EUR,Italian Quarterly Unemployment Rate,low
+05:30:00,GBP,MPC Official Bank Rate Votes,high
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium
+08:30:00,CAD,Leading Index m/m,low
+08:30:00,GBP,Annual Budget Release,medium
+10:30:00,USD,Crude Oil Inventories,low
+14:15:00,USD,FOMC Statement,high
+14:15:00,USD,Federal Funds Rate,high
+19:50:00,JPY,BSI Manufacturing Index,medium
+19:50:00,JPY,Trade Balance,low

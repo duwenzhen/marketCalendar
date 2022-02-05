@@ -1,0 +1,28 @@
+time,currency,event,impact
+01:45:00,CHF,GDP q/q,medium
+02:00:00,EUR,German Import Prices m/m,low
+01:01:00,EUR,German Prelim CPI m/m,medium
+03:15:00,CHF,Employment Level,medium
+03:55:00,EUR,German Unemployment Change,medium
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:00:00,EUR,Private Loans y/y,medium
+05:17:00,EUR,Italian 10-y Bond Auction,medium
+08:00:00,EUR,German Buba President Weidmann Speaks,medium
+08:30:00,CAD,Current Account,medium
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Durable Goods Orders m/m,medium
+10:00:00,USD,Fed Chair Yellen Testifies,high
+10:30:00,USD,FOMC Member Fisher Speaks,medium
+10:30:00,USD,Natural Gas Storage,low
+16:45:00,NZD,Building Consents m/m,medium
+18:05:00,GBP,GfK Consumer Confidence,low
+18:15:00,JPY,Final Manufacturing PMI,low
+18:30:00,JPY,Household Spending y/y,medium
+18:30:00,JPY,Tokyo Core CPI y/y,medium
+18:30:00,JPY,National Core CPI y/y,low
+18:30:00,JPY,Unemployment Rate,low
+18:50:00,JPY,Prelim Industrial Production m/m,medium
+18:50:00,JPY,Retail Sales y/y,medium
+19:00:00,NZD,Final ANZ Business Confidence,high
+19:30:00,AUD,Private Sector Credit m/m,medium

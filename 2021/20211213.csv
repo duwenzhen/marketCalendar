@@ -1,0 +1,13 @@
+time,currency,event,impact
+02:00:00,EUR,German WPI m/m,low
+04:00:00,EUR,Italian Quarterly Unemployment Rate,low
+01:01:00,All,G7 Meetings,low
+11:00:00,CAD,BOC Gov Macklem Speaks,high
+12:00:00,GBP,Bank Stress Test Results,high
+12:00:00,GBP,BOE Financial Stability Report,low
+12:00:00,GBP,FPC Meeting Minutes,low
+12:00:00,GBP,FPC Statement,low
+13:00:00,GBP,BOE Gov Bailey Speaks,high
+16:45:00,NZD,FPI m/m,low
+19:30:00,AUD,NAB Business Confidence,low
+23:30:00,JPY,Revised Industrial Production m/m,low

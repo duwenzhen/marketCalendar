@@ -1,0 +1,11 @@
+time,currency,event,impact
+01:45:00,CHF,Unemployment Rate,low
+02:00:00,EUR,German Trade Balance,low
+04:30:00,EUR,Sentix Investor Confidence,low
+10:00:00,USD,FOMC Member Bostic Speaks,medium
+10:00:00,USD,JOLTS Job Openings,medium
+12:00:00,USD,FOMC Member Barkin Speaks,medium
+19:01:00,GBP,BRC Retail Sales Monitor y/y,low
+19:50:00,JPY,Bank Lending y/y,low
+19:50:00,JPY,Current Account,low
+21:30:00,AUD,NAB Business Confidence,medium

@@ -1,0 +1,20 @@
+time,currency,event,impact
+01:30:00,CNY,Industrial Production y/y,high
+01:30:00,CNY,Fixed Asset Investment ytd/y,medium
+01:30:00,CNY,Retail Sales y/y,low
+02:00:00,EUR,German WPI m/m,low
+04:10:00,GBP,MPC Member Cunliffe Speaks,medium
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,ZEW Economic Sentiment,medium
+05:30:00,AUD,Annual Budget Release,high
+07:30:00,USD,NFIB Small Business Index,low
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Import Prices m/m,medium
+10:00:00,USD,Business Inventories m/m,medium
+10:30:00,CAD,BOC Review,low
+17:00:00,NZD,RBNZ Financial Stability Report,high
+17:05:00,NZD,RBNZ Gov Wheeler Speaks,high
+18:45:00,NZD,Retail Sales q/q,high
+18:45:00,NZD,Core Retail Sales q/q,medium
+19:50:00,JPY,PPI y/y,low

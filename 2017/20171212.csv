@@ -1,0 +1,21 @@
+time,currency,event,impact
+01:30:00,EUR,French Final Private Payrolls q/q,low
+04:30:00,GBP,CPI y/y,high
+04:30:00,GBP,PPI Input m/m,medium
+04:30:00,GBP,RPI y/y,medium
+04:30:00,GBP,Core CPI y/y,low
+04:30:00,GBP,HPI y/y,low
+04:30:00,GBP,PPI Output m/m,low
+05:00:00,EUR,German ZEW Economic Sentiment,medium
+05:00:00,EUR,ZEW Economic Sentiment,low
+06:00:00,USD,NFIB Small Business Index,low
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Core PPI m/m,medium
+13:01:00,USD,30-y Bond Auction,low
+14:00:00,EUR,ECB President Draghi Speaks,high
+14:00:00,USD,Federal Budget Balance,low
+16:45:00,NZD,FPI m/m,low
+17:15:00,AUD,RBA Gov Lowe Speaks,high
+18:30:00,AUD,Westpac Consumer Sentiment,low
+18:50:00,JPY,Core Machinery Orders m/m,low
+19:00:00,AUD,RBA Assist Gov Kent Speaks,medium

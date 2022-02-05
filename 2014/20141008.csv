@@ -1,0 +1,13 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Monthly Report,low
+01:00:00,JPY,Economy Watchers Sentiment,low
+01:45:00,CHF,Unemployment Rate,low
+03:05:00,GBP,Halifax HPI m/m,medium
+08:13:00,CAD,Housing Starts,medium
+10:30:00,USD,Crude Oil Inventories,medium
+13:01:00,USD,10-y Bond Auction,medium
+14:00:00,USD,FOMC Meeting Minutes,high
+19:01:00,GBP,RICS House Price Balance,low
+19:50:00,JPY,Core Machinery Orders m/m,medium
+20:30:00,AUD,Employment Change,high
+20:30:00,AUD,Unemployment Rate,high

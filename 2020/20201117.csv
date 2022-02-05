@@ -1,0 +1,28 @@
+time,currency,event,impact
+04:02:00,EUR,Italian Trade Balance,low
+01:01:00,All,OPEC-JMMC Meetings,high
+01:01:00,EUR,ECOFIN Meetings,low
+06:00:00,GBP,BOE Gov Bailey Speaks,medium
+06:32:00,GBP,30-y Bond Auction,low
+08:13:00,CAD,Housing Starts,low
+08:30:00,CAD,Foreign Securities Purchases,low
+08:30:00,CAD,Wholesale Sales m/m,low
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Import Prices m/m,low
+09:15:00,USD,Capacity Utilization Rate,low
+09:15:00,USD,Industrial Production m/m,low
+09:32:00,NZD,GDT Price Index,low
+10:00:00,USD,Business Inventories m/m,low
+10:00:00,USD,NAHB Housing Market Index,low
+11:00:00,EUR,ECB President Lagarde Speaks,medium
+12:00:00,GBP,MPC Member Ramsden Speaks,low
+13:00:00,USD,Fed Chair Powell Speaks,high
+13:00:00,USD,FOMC Member Brainard Speaks,low
+16:00:00,USD,TIC Long-Term Purchases,low
+16:45:00,NZD,PPI Input q/q,low
+16:45:00,NZD,PPI Output q/q,low
+17:00:00,AUD,RBA Gov Lowe Speaks,high
+18:30:00,AUD,MI Leading Index m/m,low
+18:50:00,JPY,Trade Balance,low
+19:30:00,AUD,Wage Price Index q/q,low

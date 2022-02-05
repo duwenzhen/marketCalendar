@@ -1,0 +1,15 @@
+time,currency,event,impact
+04:00:00,EUR,M3 Money Supply y/y,low
+04:00:00,EUR,Private Loans y/y,low
+04:10:00,GBP,BOE Gov Carney Speaks,high
+01:01:00,USD,Core PCE Price Index m/m,medium
+01:01:00,USD,Personal Spending m/m,medium
+08:30:00,USD,Core PCE Price Index m/m,medium
+08:30:00,USD,Personal Spending m/m,medium
+08:30:00,USD,Personal Income m/m,low
+19:01:00,GBP,GfK Consumer Confidence,low
+21:00:00,CNY,Manufacturing PMI,high
+21:00:00,CNY,Non-Manufacturing PMI,medium
+21:00:00,NZD,Final ANZ Business Confidence,high
+21:30:00,AUD,Private Sector Credit m/m,low
+21:45:00,CNY,Caixin Manufacturing PMI,high

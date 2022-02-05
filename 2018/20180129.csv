@@ -1,0 +1,10 @@
+time,currency,event,impact
+02:00:00,EUR,German Import Prices m/m,low
+08:30:00,USD,Core PCE Price Index m/m,medium
+08:30:00,USD,Personal Spending m/m,medium
+08:30:00,USD,Personal Income m/m,low
+16:45:00,NZD,Trade Balance,medium
+18:30:00,JPY,Household Spending y/y,low
+18:30:00,JPY,Unemployment Rate,low
+18:50:00,JPY,Retail Sales y/y,low
+19:30:00,AUD,NAB Business Confidence,medium

@@ -1,0 +1,6 @@
+time,currency,event,impact
+01:01:00,EUR,Italian Bank Holiday,holiday
+04:00:00,EUR,German ifo Business Climate,high
+06:00:00,GBP,CBI Industrial Order Expectations,low
+09:00:00,EUR,Belgian NBB Business Climate,low
+10:00:00,USD,New Home Sales,medium

@@ -1,0 +1,20 @@
+time,currency,event,impact
+01:45:00,CHF,GDP q/q,medium
+03:00:00,CHF,Foreign Currency Reserves,low
+05:00:00,EUR,Retail Sales m/m,low
+05:00:00,EUR,Revised GDP q/q,low
+06:00:00,GBP,BRC Retail Sales Monitor y/y,medium
+08:30:00,CAD,Building Permits m/m,medium
+08:30:00,USD,Revised Nonfarm Productivity q/q,medium
+08:30:00,USD,Revised Unit Labor Costs q/q,low
+09:00:00,CAD,BOC Rate Statement,high
+09:00:00,CAD,Overnight Rate,high
+10:00:00,USD,Pending Home Sales m/m,high
+10:00:00,USD,Factory Orders m/m,medium
+14:00:00,USD,Fed Chairman Bernanke Speaks,high
+17:30:00,AUD,Cash Rate,high
+17:30:00,AUD,AIG Construction Index,low
+19:01:00,GBP,Nationwide Consumer Confidence,low
+19:10:00,AUD,RBA Assist Gov Edey Speaks,medium
+19:30:00,AUD,GDP q/q,high
+22:00:00,NZD,ANZ Commodity Prices m/m,low

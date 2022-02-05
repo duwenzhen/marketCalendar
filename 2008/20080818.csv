@@ -1,0 +1,11 @@
+time,currency,event,impact
+03:15:00,CHF,Retail Sales y/y,medium
+05:00:00,EUR,Trade Balance,low
+06:00:00,EUR,German Buba Monthly Report,medium
+08:30:00,CAD,Foreign Securities Purchases,medium
+13:00:00,USD,NAHB Housing Market Index,low
+18:45:00,NZD,PPI Input q/q,high
+18:45:00,NZD,PPI Output q/q,low
+21:30:00,AUD,Monetary Policy Meeting Minutes,high
+23:30:00,JPY,Monetary Policy Statement,medium
+23:30:00,JPY,Overnight Call Rate,medium

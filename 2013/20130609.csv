@@ -1,0 +1,11 @@
+time,currency,event,impact
+01:30:00,CNY,Fixed Asset Investment ytd/y,medium
+01:30:00,CNY,Industrial Production y/y,medium
+01:30:00,CNY,Retail Sales y/y,low
+01:01:00,AUD,Bank Holiday,holiday
+18:45:00,NZD,Manufacturing Sales q/q,low
+19:50:00,JPY,Current Account,high
+19:50:00,JPY,Final GDP q/q,medium
+19:50:00,JPY,Bank Lending y/y,low
+19:50:00,JPY,Final GDP Price Index y/y,low
+01:01:00,CNY,Bank Holiday,holiday

@@ -1,0 +1,14 @@
+time,currency,event,impact
+04:00:00,EUR,ECB President Draghi Speaks,high
+04:30:00,AUD,RBA Deputy Gov Debelle Speaks,low
+05:30:00,GBP,BOE Financial Stability Report,high
+05:30:00,GBP,FPC Statement,low
+06:00:00,GBP,BOE Gov Carney Speaks,high
+06:00:00,GBP,CBI Realized Sales,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+09:59:00,USD,Richmond Manufacturing Index,low
+10:00:00,USD,CB Consumer Confidence,high
+11:15:00,USD,FOMC Member Harker Speaks,medium
+13:00:00,USD,Fed Chair Yellen Speaks,high
+17:30:00,USD,FOMC Member Kashkari Speaks,medium
+22:00:00,NZD,RBNZ Statement of Intent,medium

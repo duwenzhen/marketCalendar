@@ -1,0 +1,9 @@
+time,currency,event,impact
+00:30:00,JPY,All Industries Activity m/m,low
+05:35:00,EUR,German 10-y Bond Auction,low
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium
+10:00:00,USD,Existing Home Sales,medium
+10:30:00,USD,Crude Oil Inventories,high
+14:00:00,USD,FOMC Meeting Minutes,high
+20:30:00,JPY,Flash Manufacturing PMI,low

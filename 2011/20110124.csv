@@ -1,0 +1,14 @@
+time,currency,event,impact
+03:00:00,EUR,French Flash Manufacturing PMI,medium
+03:00:00,EUR,French Flash Services PMI,medium
+03:30:00,EUR,German Flash Manufacturing PMI,medium
+03:30:00,EUR,German Flash Services PMI,medium
+04:00:00,EUR,Flash Manufacturing PMI,medium
+04:00:00,EUR,Flash Services PMI,medium
+05:00:00,EUR,Industrial New Orders m/m,medium
+13:00:00,GBP,MPC Member Sentance Speaks,medium
+18:00:00,AUD,CB Leading Index m/m,medium
+19:30:00,AUD,CPI q/q,high
+19:30:00,AUD,Trimmed Mean CPI q/q,medium
+22:29:00,JPY,Monetary Policy Statement,high
+22:29:00,JPY,Overnight Call Rate,high

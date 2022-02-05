@@ -1,0 +1,11 @@
+time,currency,event,impact
+02:45:00,EUR,French Industrial Production m/m,medium
+04:00:00,EUR,Italian Industrial Production m/m,low
+01:01:00,CAD,Bank Holiday,holiday
+08:00:00,GBP,MPC Member Tucker Speaks,medium
+01:01:00,USD,Bank Holiday,holiday
+13:30:00,EUR,ECB President Trichet Speaks,medium
+14:45:00,USD,FOMC Member Yellen Speaks,medium
+19:00:00,GBP,BRC Retail Sales Monitor y/y,medium
+19:01:00,GBP,RICS House Price Balance,medium
+20:30:00,AUD,NAB Business Confidence,medium

@@ -1,0 +1,9 @@
+time,currency,event,impact
+01:01:00,EUR,Eurogroup Meetings,high
+07:00:00,GBP,Official Bank Rate,high
+07:00:00,GBP,Asset Purchase Facility,medium
+10:00:00,USD,Labor Market Conditions Index m/m,low
+19:01:00,GBP,BRC Retail Sales Monitor y/y,low
+21:30:00,AUD,Home Loans m/m,medium
+22:14:00,NZD,REINZ HPI m/m,low
+23:45:00,JPY,10-y Bond Auction,low

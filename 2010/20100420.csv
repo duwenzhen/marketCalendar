@@ -1,0 +1,13 @@
+time,currency,event,impact
+02:00:00,EUR,German PPI m/m,medium
+04:00:00,EUR,Current Account,medium
+04:30:00,GBP,CPI y/y,high
+04:30:00,GBP,RPI y/y,medium
+04:30:00,GBP,Core CPI y/y,low
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,ZEW Economic Sentiment,medium
+09:00:00,CAD,BOC Rate Statement,high
+09:00:00,CAD,Overnight Rate,high
+11:00:00,USD,Fed Chairman Bernanke Testifies,high
+12:00:00,EUR,German Buba President Weber Speaks,medium
+20:30:00,AUD,MI Leading Index m/m,medium

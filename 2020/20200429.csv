@@ -1,0 +1,25 @@
+time,currency,event,impact
+02:00:00,EUR,German Import Prices m/m,low
+01:01:00,EUR,German Prelim CPI m/m,low
+04:00:00,CHF,Credit Suisse Economic Expectations,low
+04:00:00,EUR,M3 Money Supply y/y,low
+04:00:00,EUR,Private Loans y/y,low
+05:20:00,EUR,Italian 10-y Bond Auction,low
+05:37:00,EUR,German 10-y Bond Auction,low
+06:38:00,GBP,30-y Bond Auction,low
+08:30:00,CAD,Foreign Securities Purchases,low
+08:32:00,USD,Advance GDP q/q,high
+08:34:00,USD,Advance GDP Price Index q/q,medium
+10:00:00,USD,Pending Home Sales m/m,medium
+10:30:00,USD,Crude Oil Inventories,low
+14:00:00,USD,FOMC Statement,high
+14:00:00,USD,Federal Funds Rate,medium
+14:30:00,USD,FOMC Press Conference,high
+19:50:00,JPY,Prelim Industrial Production m/m,low
+19:50:00,JPY,Retail Sales y/y,low
+21:00:00,CNY,Manufacturing PMI,high
+21:00:00,CNY,Non-Manufacturing PMI,medium
+21:00:00,NZD,Final ANZ Business Confidence,medium
+21:30:00,AUD,Import Prices q/q,low
+21:30:00,AUD,Private Sector Credit m/m,low
+21:45:00,CNY,Caixin Manufacturing PMI,medium

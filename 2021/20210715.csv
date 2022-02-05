@@ -1,0 +1,24 @@
+time,currency,event,impact
+00:30:00,JPY,Tertiary Industry Activity m/m,low
+02:00:00,GBP,Average Earnings Index 3m/y,low
+02:00:00,GBP,Claimant Count Change,low
+02:00:00,GBP,Unemployment Rate,low
+04:30:00,GBP,BOE Credit Conditions Survey,low
+05:00:00,EUR,Spanish 10-y Bond Auction,low
+06:00:00,GBP,MPC Member Saunders Speaks,medium
+08:30:00,USD,Philly Fed Manufacturing Index,medium
+08:30:00,USD,Unemployment Claims,medium
+08:30:00,USD,Empire State Manufacturing Index,low
+08:30:00,USD,Import Prices m/m,low
+08:35:00,CAD,ADP Non-Farm Employment Change,low
+09:15:00,USD,Industrial Production m/m,medium
+09:15:00,USD,Capacity Utilization Rate,low
+09:30:00,GBP,CB Leading Index m/m,low
+09:30:00,USD,Fed Chair Powell Testifies,high
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,USD,FOMC Member Evans Speaks,low
+18:30:00,NZD,BusinessNZ Manufacturing Index,low
+18:45:00,NZD,CPI q/q,high
+22:56:00,JPY,BOJ Outlook Report,high
+22:56:00,JPY,Monetary Policy Statement,medium
+22:56:00,JPY,BOJ Policy Rate,low

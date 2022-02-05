@@ -1,0 +1,11 @@
+time,currency,event,impact
+02:00:00,EUR,German Trade Balance,low
+02:45:00,EUR,French Industrial Production m/m,medium
+04:00:00,EUR,Italian Industrial Production m/m,low
+04:30:00,EUR,Sentix Investor Confidence,medium
+01:01:00,CAD,Bank Holiday,holiday
+01:01:00,USD,Bank Holiday,holiday
+19:01:00,GBP,BRC Retail Sales Monitor y/y,medium
+19:01:00,GBP,RICS House Price Balance,medium
+19:50:00,JPY,Current Account,low
+20:30:00,AUD,NAB Business Confidence,medium

@@ -1,0 +1,24 @@
+time,currency,event,impact
+00:00:00,JPY,BOJ Gov Shirakawa Speaks,medium
+02:15:00,CHF,Trade Balance,low
+03:00:00,EUR,French Flash Manufacturing PMI,medium
+03:00:00,EUR,French Flash Services PMI,medium
+03:30:00,EUR,German Flash Manufacturing PMI,medium
+03:30:00,EUR,German Flash Services PMI,medium
+04:00:00,EUR,Current Account,medium
+04:00:00,EUR,Flash Manufacturing PMI,medium
+04:00:00,EUR,Flash Services PMI,medium
+05:00:00,CHF,Gov Board Member Hildebrand Speaks,high
+05:00:00,CHF,Credit Suisse Economic Expectations,medium
+05:00:00,EUR,Industrial New Orders m/m,medium
+06:00:00,GBP,CBI Industrial Order Expectations,high
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium
+08:30:00,USD,Unemployment Claims,high
+09:00:00,EUR,Belgian NBB Business Climate,medium
+10:00:00,USD,Existing Home Sales,high
+10:30:00,CAD,BOC Monetary Policy Report,high
+10:30:00,USD,Natural Gas Storage,low
+11:15:00,CAD,BOC Press Conference,high
+19:50:00,JPY,All Industries Activity m/m,low
+19:50:00,JPY,SPPI y/y,low

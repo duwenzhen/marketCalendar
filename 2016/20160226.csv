@@ -1,0 +1,19 @@
+time,currency,event,impact
+00:00:00,JPY,BOJ Core CPI y/y,low
+01:01:00,EUR,German Prelim CPI m/m,medium
+02:45:00,EUR,French Consumer Spending m/m,low
+02:45:00,EUR,French Prelim CPI m/m,low
+02:45:00,EUR,French Prelim GDP q/q,low
+03:00:00,EUR,Spanish Flash CPI y/y,medium
+01:01:00,All,G20 Meetings,high
+05:20:00,EUR,Italian 10-y Bond Auction,low
+08:30:00,USD,Prelim GDP q/q,high
+08:30:00,USD,Goods Trade Balance,medium
+08:30:00,USD,Prelim GDP Price Index q/q,low
+10:00:00,USD,Core PCE Price Index m/m,medium
+10:00:00,USD,Personal Spending m/m,medium
+10:00:00,USD,Revised UoM Consumer Sentiment,medium
+10:00:00,USD,Personal Income m/m,low
+10:00:00,USD,Revised UoM Inflation Expectations,low
+10:15:00,USD,FOMC Member Powell Speaks,medium
+13:30:00,USD,FOMC Member Brainard Speaks,medium

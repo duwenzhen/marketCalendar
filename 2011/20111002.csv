@@ -1,0 +1,10 @@
+time,currency,event,impact
+01:01:00,AUD,Bank Holiday,holiday
+18:25:00,AUD,AIG Manufacturing Index,low
+19:30:00,AUD,MI Inflation Gauge m/m,low
+19:50:00,JPY,Tankan Manufacturing Index,high
+19:50:00,JPY,Tankan Non-Manufacturing Index,medium
+01:01:00,CNY,Bank Holiday,holiday
+20:00:00,NZD,ANZ Commodity Prices m/m,low
+21:00:00,CNY,Non-Manufacturing PMI,low
+22:30:00,CNY,Caixin Services PMI,low

@@ -1,0 +1,7 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,low
+02:00:00,EUR,German GfK Consumer Climate,medium
+02:00:00,EUR,German Import Prices m/m,low
+10:30:00,USD,Crude Oil Inventories,medium
+21:00:00,AUD,HIA New Home Sales m/m,low
+21:30:00,AUD,Private Capital Expenditure q/q,high

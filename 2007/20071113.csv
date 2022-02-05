@@ -1,0 +1,23 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Monthly Report,low
+02:23:00,JPY,BOJ Press Conference,high
+02:45:00,EUR,French Final CPI m/m,low
+03:00:00,EUR,Spanish Flash GDP q/q,low
+04:00:00,EUR,Italian Prelim GDP q/q,low
+04:30:00,GBP,CPI y/y,high
+04:30:00,GBP,Core CPI y/y,medium
+04:30:00,GBP,RPI y/y,low
+05:00:00,EUR,Industrial Production m/m,medium
+05:00:00,EUR,German ZEW Economic Sentiment,medium
+05:00:00,EUR,ZEW Economic Sentiment,low
+07:30:00,USD,NFIB Small Business Index,low
+09:00:00,USD,FOMC Member Kroszner Speaks,low
+10:00:00,USD,IBD/TIPP Economic Optimism,low
+12:15:00,CHF,Gov Board Member Jordan Speaks,medium
+14:00:00,USD,Federal Budget Balance,medium
+15:00:00,USD,Pending Home Sales m/m,high
+16:45:00,NZD,PPI Input q/q,high
+16:45:00,NZD,PPI Output q/q,low
+18:30:00,AUD,Westpac Consumer Sentiment,low
+19:30:00,AUD,Wage Price Index q/q,medium
+21:00:00,CNY,Retail Sales y/y,low

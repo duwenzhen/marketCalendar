@@ -1,0 +1,21 @@
+time,currency,event,impact
+03:00:00,EUR,Spanish Unemployment Change,medium
+03:15:00,EUR,Spanish Services PMI,low
+03:45:00,EUR,Italian Services PMI,low
+03:50:00,EUR,French Final Services PMI,low
+03:55:00,EUR,German Final Services PMI,low
+04:00:00,EUR,Final Services PMI,low
+04:30:00,GBP,Construction PMI,high
+04:30:00,GBP,Net Lending to Individuals m/m,medium
+04:30:00,GBP,M4 Money Supply m/m,low
+04:30:00,GBP,Mortgage Approvals,low
+05:00:00,EUR,CPI Flash Estimate y/y,medium
+05:00:00,EUR,Core CPI Flash Estimate y/y,medium
+05:00:00,EUR,Italian Prelim CPI m/m,low
+01:01:00,USD,Wards Total Vehicle Sales,low
+01:01:00,USD,Total Vehicle Sales,low
+14:00:00,USD,FOMC Meeting Minutes,high
+17:30:00,AUD,AIG Services Index,low
+18:50:00,JPY,Monetary Base y/y,low
+20:45:00,CNY,Caixin Services PMI,medium
+22:45:00,JPY,10-y Bond Auction,low

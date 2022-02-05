@@ -1,0 +1,14 @@
+time,currency,event,impact
+00:30:00,JPY,Revised Industrial Production m/m,low
+03:15:00,CHF,PPI m/m,low
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Empire State Manufacturing Index,low
+10:00:00,USD,Business Inventories m/m,low
+10:30:00,CAD,BOC Business Outlook Survey,high
+10:34:00,GBP,Prime Minister May Speaks,high
+14:00:00,USD,Federal Budget Balance,low
+17:45:00,NZD,CPI q/q,high
+20:30:00,AUD,Monetary Policy Meeting Minutes,medium
+21:30:00,CNY,CPI y/y,medium
+21:30:00,CNY,PPI y/y,low

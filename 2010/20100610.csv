@@ -1,0 +1,27 @@
+time,currency,event,impact
+01:00:00,JPY,Consumer Confidence,low
+02:00:00,EUR,German Final CPI m/m,low
+02:45:00,EUR,French Industrial Production m/m,medium
+02:45:00,EUR,French Final Private Payrolls q/q,low
+04:00:00,EUR,Italian Industrial Production m/m,low
+07:00:00,GBP,Asset Purchase Facility,high
+07:00:00,GBP,Official Bank Rate,high
+07:45:00,EUR,Main Refinancing Rate,high
+08:30:00,CAD,Trade Balance,high
+08:30:00,CAD,BOC Gov Carney Speaks,medium
+08:30:00,CAD,NHPI m/m,medium
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Trade Balance,high
+08:30:00,USD,Unemployment Claims,high
+10:30:00,USD,Natural Gas Storage,low
+13:00:00,USD,30-y Bond Auction,low
+14:00:00,USD,Federal Budget Balance,medium
+18:47:00,NZD,FPI m/m,low
+22:00:00,CNY,CPI y/y,high
+22:00:00,CNY,Fixed Asset Investment ytd/y,medium
+22:00:00,CNY,Industrial Production y/y,medium
+22:00:00,CNY,NBS Press Conference,medium
+22:00:00,CNY,PPI y/y,medium
+22:00:00,CNY,Retail Sales y/y,low
+22:02:00,CNY,New Loans,medium
+22:02:00,CNY,M2 Money Supply y/y,low

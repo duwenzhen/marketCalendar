@@ -1,0 +1,24 @@
+time,currency,event,impact
+02:00:00,EUR,German Factory Orders m/m,low
+04:25:00,JPY,BOJ Gov Kuroda Speaks,high
+05:00:00,EUR,Final Employment Change q/q,low
+05:00:00,EUR,Revised GDP q/q,low
+05:00:00,GBP,BOE Gov Carney Speaks,high
+05:12:00,EUR,French 10-y Bond Auction,low
+07:30:00,USD,Challenger Job Cuts y/y,low
+07:45:00,EUR,Monetary Policy Statement,high
+07:45:00,EUR,Main Refinancing Rate,medium
+08:30:00,CAD,Trade Balance,high
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Revised Nonfarm Productivity q/q,low
+08:30:00,USD,Revised Unit Labor Costs q/q,low
+08:30:00,USD,Trade Balance,low
+08:30:00,USD,Unemployment Claims,low
+10:00:00,CAD,Ivey PMI,low
+10:30:00,USD,Natural Gas Storage,low
+13:00:00,USD,FOMC Member Williams Speaks,medium
+18:30:00,AUD,AIG Construction Index,low
+19:30:00,JPY,Average Cash Earnings y/y,low
+19:30:00,JPY,Household Spending y/y,low
+01:01:00,CNY,Bank Holiday,holiday
+21:30:00,AUD,Home Loans m/m,low

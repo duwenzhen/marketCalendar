@@ -1,0 +1,32 @@
+time,currency,event,impact
+02:00:00,EUR,German PPI m/m,low
+02:00:00,GBP,CPI y/y,low
+02:00:00,GBP,Core CPI y/y,low
+02:00:00,GBP,PPI Input m/m,low
+02:00:00,GBP,PPI Output m/m,low
+02:00:00,GBP,RPI y/y,low
+04:30:00,GBP,HPI y/y,low
+05:00:00,EUR,Final CPI y/y,low
+05:00:00,EUR,Final Core CPI y/y,low
+05:34:00,EUR,German 30-y Bond Auction,low
+08:30:00,CAD,CPI m/m,medium
+08:30:00,CAD,Common CPI y/y,low
+08:30:00,CAD,Median CPI y/y,low
+08:30:00,CAD,Trimmed CPI y/y,low
+08:32:00,CAD,Core CPI m/m,low
+10:00:00,CAD,BOC Monetary Policy Report,high
+10:00:00,CAD,BOC Rate Statement,high
+10:00:00,CAD,Overnight Rate,medium
+10:00:00,USD,NAHB Housing Market Index,low
+10:30:00,AUD,CB Leading Index m/m,low
+11:00:00,CAD,BOC Press Conference,high
+11:52:00,USD,President Biden Speaks,high
+12:00:00,GBP,BOE Gov Bailey Speaks,high
+16:45:00,NZD,Visitor Arrivals m/m,low
+18:50:00,JPY,Trade Balance,low
+19:00:00,AUD,MI Inflation Expectations,low
+19:30:00,AUD,Employment Change,high
+19:30:00,AUD,Unemployment Rate,high
+21:38:00,JPY,BOJ Outlook Report,high
+21:38:00,JPY,Monetary Policy Statement,high
+21:38:00,JPY,BOJ Policy Rate,low

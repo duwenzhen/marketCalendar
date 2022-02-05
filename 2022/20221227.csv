@@ -1,0 +1,10 @@
+time,currency,event,impact
+01:01:00,GBP,Bank Holiday,holiday
+01:01:00,CAD,Bank Holiday,holiday
+08:30:00,USD,Goods Trade Balance,low
+08:30:00,USD,Prelim Wholesale Inventories m/m,low
+09:00:00,USD,HPI m/m,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+10:00:00,USD,Richmond Manufacturing Index,low
+18:50:00,JPY,BOJ Summary of Opinions,low
+19:01:00,GBP,BRC Shop Price Index y/y,low

@@ -1,0 +1,19 @@
+time,currency,event,impact
+01:45:00,CHF,Unemployment Rate,low
+02:45:00,EUR,French Industrial Production m/m,medium
+03:15:00,CHF,CPI m/m,medium
+04:00:00,EUR,Italian Industrial Production m/m,low
+01:01:00,All,G20 Meetings,medium
+04:30:00,GBP,Manufacturing Production m/m,high
+04:30:00,GBP,Industrial Production m/m,low
+08:20:00,USD,FOMC Member Lacker Speaks,medium
+09:00:00,USD,NFIB Small Business Index,low
+09:35:00,GBP,NIESR GDP Estimate,medium
+10:00:00,USD,JOLTS Job Openings,medium
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:00:00,USD,IBD/TIPP Economic Optimism,low
+12:45:00,CAD,Gov Council Member Wilkins Speaks,medium
+18:20:00,AUD,Westpac Consumer Sentiment,medium
+01:01:00,JPY,Bank Holiday,holiday
+19:30:00,AUD,Home Loans m/m,medium
+21:02:00,NZD,REINZ HPI m/m,low

@@ -1,0 +1,15 @@
+time,currency,event,impact
+01:00:00,JPY,Consumer Confidence,low
+01:01:00,CHF,Bank Holiday,holiday
+03:00:00,CHF,Foreign Currency Reserves,low
+01:01:00,EUR,French Bank Holiday,holiday
+01:01:00,EUR,German Bank Holiday,holiday
+04:00:00,EUR,Italian Retail Sales m/m,low
+04:30:00,EUR,Sentix Investor Confidence,low
+01:01:00,EUR,Spanish 10-y Bond Auction,low
+01:01:00,EUR,French 10-y Bond Auction,low
+18:30:00,AUD,AIG Services Index,low
+19:01:00,GBP,BRC Retail Sales Monitor y/y,low
+19:30:00,JPY,Average Cash Earnings y/y,low
+19:30:00,JPY,Household Spending y/y,low
+23:35:00,JPY,30-y Bond Auction,low

@@ -1,0 +1,15 @@
+time,currency,event,impact
+02:00:00,GBP,Current Account,low
+02:00:00,GBP,Final GDP q/q,low
+02:00:00,GBP,Revised Business Investment q/q,low
+01:01:00,EUR,German Prelim CPI m/m,low
+03:55:00,EUR,German Unemployment Change,low
+05:00:00,EUR,CPI Flash Estimate y/y,low
+05:00:00,EUR,Core CPI Flash Estimate y/y,low
+05:00:00,EUR,Unemployment Rate,low
+08:30:00,USD,Core PCE Price Index m/m,high
+08:30:00,USD,Personal Income m/m,low
+08:30:00,USD,Personal Spending m/m,low
+09:45:00,USD,Chicago PMI,medium
+10:00:00,USD,Revised UoM Consumer Sentiment,medium
+10:00:00,USD,Revised UoM Inflation Expectations,low

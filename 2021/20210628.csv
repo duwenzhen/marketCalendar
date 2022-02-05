@@ -1,0 +1,10 @@
+time,currency,event,impact
+02:00:00,EUR,German Import Prices m/m,low
+08:00:00,EUR,German Buba President Weidmann Speaks,low
+08:00:00,GBP,MPC Member Haldane Speaks,low
+09:00:00,USD,FOMC Member Williams Speaks,low
+12:00:00,USD,FOMC Member Barkin Speaks,low
+13:10:00,USD,FOMC Member Quarles Speaks,low
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,Retail Sales y/y,low
+22:00:00,NZD,RBNZ Statement of Intent,medium

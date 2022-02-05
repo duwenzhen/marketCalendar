@@ -1,0 +1,6 @@
+time,currency,event,impact
+01:01:00,All,G20 Meetings,medium
+16:45:00,NZD,Retail Sales q/q,high
+16:49:00,NZD,Core Retail Sales q/q,medium
+01:01:00,JPY,Bank Holiday,holiday
+21:00:00,NZD,Credit Card Spending y/y,low

@@ -1,0 +1,7 @@
+time,currency,event,impact
+01:01:00,NZD,Bank Holiday,holiday
+01:01:00,AUD,Bank Holiday,holiday
+19:50:00,JPY,Tankan Manufacturing Index,medium
+19:50:00,JPY,Tankan Non-Manufacturing Index,medium
+21:00:00,CNY,Manufacturing PMI,high
+21:45:00,CNY,Caixin Manufacturing PMI,medium

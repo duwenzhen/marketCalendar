@@ -1,0 +1,15 @@
+time,currency,event,impact
+04:00:00,EUR,ECB Monthly Bulletin,medium
+01:01:00,All,OPEC Meetings,low
+06:00:00,EUR,German Buba President Weber Speaks,medium
+08:30:00,CAD,Trade Balance,high
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Trade Balance,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Core PPI m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,USD,Crude Oil Inventories,medium
+13:00:00,USD,30-y Bond Auction,low
+19:00:00,GBP,MPC Member Fisher Speaks,medium
+21:54:00,CNY,Foreign Direct Investment ytd/y,low
+22:00:00,CNY,CB Leading Index m/m,low

@@ -1,0 +1,15 @@
+time,currency,event,impact
+02:00:00,EUR,German Final GDP q/q,low
+05:00:00,EUR,Final CPI y/y,medium
+05:00:00,EUR,Final Core CPI y/y,low
+07:00:00,GBP,MPC Member Ramsden Speaks,medium
+08:30:00,CAD,CPI m/m,high
+08:30:00,CAD,Common CPI y/y,medium
+08:30:00,CAD,Median CPI y/y,medium
+08:30:00,CAD,Trimmed CPI y/y,medium
+08:30:00,CAD,Core CPI m/m,low
+09:00:00,CNY,CB Leading Index m/m,low
+10:15:00,USD,FOMC Member Dudley Speaks,medium
+11:00:00,USD,Fed Monetary Policy Report,low
+13:30:00,USD,FOMC Member Mester Speaks,medium
+15:40:00,USD,FOMC Member Williams Speaks,medium

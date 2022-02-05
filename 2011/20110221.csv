@@ -1,0 +1,12 @@
+time,currency,event,impact
+03:00:00,EUR,French Flash Manufacturing PMI,medium
+03:00:00,EUR,French Flash Services PMI,medium
+03:30:00,EUR,German Flash Manufacturing PMI,medium
+03:30:00,EUR,German Flash Services PMI,medium
+04:00:00,EUR,German ifo Business Climate,high
+04:00:00,EUR,Flash Manufacturing PMI,medium
+04:00:00,EUR,Flash Services PMI,medium
+06:00:00,EUR,German Buba Monthly Report,low
+01:01:00,USD,Bank Holiday,holiday
+19:30:00,AUD,NAB Quarterly Business Confidence,medium
+21:00:00,NZD,Inflation Expectations q/q,high

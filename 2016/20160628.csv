@@ -1,0 +1,14 @@
+time,currency,event,impact
+02:00:00,EUR,German Import Prices m/m,low
+06:00:00,GBP,CBI Realized Sales,low
+01:01:00,EUR,EU Economic Summit,high
+08:30:00,USD,Final GDP q/q,high
+08:30:00,USD,Final GDP Price Index q/q,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+09:59:00,USD,Richmond Manufacturing Index,low
+10:00:00,USD,CB Consumer Confidence,high
+12:00:00,CHF,Gov Board Member Zurbrugg Speaks,medium
+19:00:00,USD,FOMC Member Powell Speaks,high
+19:50:00,JPY,Retail Sales y/y,medium
+21:00:00,AUD,HIA New Home Sales m/m,low
+22:00:00,NZD,RBNZ Statement of Intent,medium

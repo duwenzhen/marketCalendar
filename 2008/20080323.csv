@@ -1,0 +1,5 @@
+time,currency,event,impact
+01:01:00,NZD,Bank Holiday,holiday
+01:01:00,AUD,Bank Holiday,holiday
+19:50:00,JPY,BSI Manufacturing Index,medium
+20:01:00,GBP,Rightmove HPI m/m,medium

@@ -1,0 +1,24 @@
+time,currency,event,impact
+00:30:00,JPY,All Industries Activity m/m,low
+03:00:00,EUR,French Flash Manufacturing PMI,high
+03:00:00,EUR,French Flash Services PMI,medium
+03:30:00,EUR,German Flash Manufacturing PMI,high
+03:30:00,EUR,German Flash Services PMI,medium
+04:00:00,EUR,Flash Manufacturing PMI,medium
+04:00:00,EUR,Flash Services PMI,medium
+04:00:00,EUR,Current Account,low
+04:30:00,GBP,Retail Sales m/m,high
+06:00:00,GBP,CBI Industrial Order Expectations,low
+07:30:00,EUR,ECB Monetary Policy Meeting Accounts,high
+08:30:00,USD,Unemployment Claims,high
+09:45:00,USD,Flash Manufacturing PMI,medium
+10:00:00,EUR,Consumer Confidence,low
+10:00:00,USD,Existing Home Sales,high
+10:00:00,USD,Philly Fed Manufacturing Index,high
+10:00:00,USD,CB Leading Index m/m,low
+10:30:00,USD,Natural Gas Storage,low
+13:30:00,EUR,ECB President Draghi Speaks,medium
+13:30:00,USD,FOMC Member Fischer Speaks,medium
+19:00:00,USD,FOMC Member Williams Speaks,medium
+22:00:00,CNY,CB Leading Index m/m,low
+22:49:00,JPY,Monetary Policy Statement,high

@@ -1,0 +1,16 @@
+time,currency,event,impact
+04:00:00,EUR,ECB Monthly Bulletin,medium
+04:00:00,EUR,Italian Trade Balance,low
+08:30:00,CAD,Foreign Securities Purchases,medium
+08:30:00,CAD,Manufacturing Sales m/m,medium
+08:30:00,USD,Building Permits,high
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Core PPI m/m,medium
+08:30:00,USD,Housing Starts,medium
+09:00:00,USD,Fed Chairman Bernanke Speaks,high
+10:00:00,USD,Philly Fed Manufacturing Index,high
+10:00:00,USD,Mortgage Delinquencies,medium
+10:30:00,USD,Natural Gas Storage,low
+18:00:00,NZD,RBNZ Gov Bollard Speaks,medium
+18:50:00,JPY,Monetary Policy Meeting Minutes,medium

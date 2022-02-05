@@ -1,0 +1,19 @@
+time,currency,event,impact
+01:01:00,EUR,Italian Bank Holiday,holiday
+03:15:00,EUR,Spanish Services PMI,medium
+03:45:00,EUR,Italian Services PMI,medium
+03:50:00,EUR,French Final Services PMI,low
+03:55:00,EUR,German Final Services PMI,medium
+04:00:00,EUR,Final Services PMI,low
+04:30:00,GBP,Final Services PMI,high
+04:30:00,GBP,BOE Credit Conditions Survey,medium
+05:35:00,GBP,10-y Bond Auction,low
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+09:45:00,USD,Final Services PMI,low
+09:49:00,NZD,GDT Price Index,high
+10:00:00,USD,ISM Services PMI,high
+10:00:00,USD,Factory Orders m/m,medium
+17:20:00,AUD,AIG Services Index,low
+19:00:00,NZD,ANZ Commodity Prices m/m,low
+19:01:00,GBP,BRC Shop Price Index y/y,low

@@ -1,0 +1,30 @@
+time,currency,event,impact
+01:01:00,EUR,German Prelim CPI m/m,low
+03:00:00,EUR,Spanish Flash CPI y/y,low
+04:30:00,GBP,M4 Money Supply m/m,low
+04:30:00,GBP,Mortgage Approvals,low
+04:30:00,GBP,Net Lending to Individuals m/m,low
+05:22:00,EUR,Italian 10-y Bond Auction,low
+08:30:00,CAD,IPPI m/m,low
+08:30:00,CAD,RMPI m/m,low
+08:30:00,USD,Goods Trade Balance,low
+08:30:00,USD,Prelim Wholesale Inventories m/m,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+09:15:00,USD,FOMC Member Williams Speaks,low
+09:30:00,USD,FOMC Member Harker Speaks,low
+10:00:00,USD,CB Consumer Confidence,medium
+11:40:00,USD,FOMC Member Clarida Speaks,low
+13:00:00,USD,FOMC Member Quarles Speaks,low
+13:00:00,USD,FOMC Member Williams Speaks,low
+14:00:00,USD,Loan Officer Survey,low
+15:00:00,USD,FOMC Member Quarles Speaks,low
+17:45:00,NZD,Building Consents m/m,low
+19:01:00,GBP,BRC Shop Price Index y/y,low
+19:50:00,JPY,Prelim Industrial Production m/m,low
+19:50:00,JPY,Retail Sales y/y,low
+20:00:00,NZD,Final ANZ Business Confidence,low
+21:00:00,CNY,Manufacturing PMI,medium
+21:00:00,CNY,Non-Manufacturing PMI,low
+21:30:00,AUD,Building Approvals m/m,low
+21:30:00,AUD,Private Sector Credit m/m,low
+21:45:00,CNY,Caixin Manufacturing PMI,low

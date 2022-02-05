@@ -1,0 +1,10 @@
+time,currency,event,impact
+04:00:00,EUR,Current Account,low
+04:04:00,EUR,Italian Trade Balance,low
+01:01:00,EUR,ECOFIN Meetings,medium
+08:30:00,CAD,Core CPI m/m,high
+08:30:00,CAD,CPI m/m,medium
+08:30:00,USD,Building Permits,high
+08:30:00,USD,Housing Starts,medium
+11:00:00,EUR,ECB President Draghi Speaks,medium
+13:10:00,CAD,Gov Council Member Wilkins Speaks,medium

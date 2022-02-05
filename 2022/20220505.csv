@@ -1,0 +1,24 @@
+time,currency,event,impact
+02:00:00,EUR,German Factory Orders m/m,low
+03:00:00,EUR,Spanish Unemployment Change,medium
+04:00:00,EUR,Italian Retail Sales m/m,low
+01:01:00,EUR,Spanish 10-y Bond Auction,low
+01:01:00,EUR,French 10-y Bond Auction,low
+01:01:00,GBP,10-y Bond Auction,low
+07:00:00,GBP,Asset Purchase Facility,high
+07:00:00,GBP,BOE Monetary Policy Report,high
+07:00:00,GBP,MPC Asset Purchase Facility Votes,high
+07:00:00,GBP,MPC Official Bank Rate Votes,high
+07:00:00,GBP,Monetary Policy Summary,high
+07:00:00,GBP,Official Bank Rate,high
+07:30:00,USD,Challenger Job Cuts y/y,low
+08:30:00,USD,Unemployment Claims,medium
+08:30:00,USD,Prelim Nonfarm Productivity q/q,low
+08:30:00,USD,Prelim Unit Labor Costs q/q,low
+10:30:00,USD,Natural Gas Storage,low
+18:30:00,AUD,AIG Services Index,low
+19:30:00,JPY,Household Spending y/y,low
+19:50:00,JPY,Monetary Base y/y,low
+21:30:00,AUD,RBA Monetary Policy Statement,medium
+23:00:00,NZD,Inflation Expectations q/q,medium
+23:35:00,JPY,30-y Bond Auction,low

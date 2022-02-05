@@ -1,0 +1,11 @@
+time,currency,event,impact
+01:00:00,JPY,Prelim Machine Tool Orders y/y,low
+02:00:00,EUR,German WPI m/m,low
+03:00:00,CNY,M2 Money Supply y/y,low
+01:01:00,EUR,Eurogroup Meetings,high
+01:01:00,CAD,Bank Holiday,holiday
+01:01:00,USD,Bank Holiday,holiday
+16:45:00,NZD,FPI m/m,low
+19:01:00,GBP,RICS House Price Balance,medium
+19:30:00,AUD,NAB Business Confidence,medium
+23:30:00,JPY,Revised Industrial Production m/m,low

@@ -1,0 +1,7 @@
+time,currency,event,impact
+01:01:00,EUR,Eurogroup Meetings,low
+06:00:00,EUR,German Buba Monthly Report,low
+08:30:00,CAD,Foreign Securities Purchases,medium
+11:00:00,USD,Fed Chairman Bernanke Speaks,high
+13:00:00,USD,NAHB Housing Market Index,low
+20:30:00,AUD,Monetary Policy Meeting Minutes,high

@@ -1,0 +1,19 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Core CPI y/y,low
+03:30:00,CHF,SNB Monetary Policy Assessment,high
+03:30:00,CHF,SNB Policy Rate,medium
+04:00:00,EUR,ECB Economic Bulletin,low
+04:00:00,EUR,German ifo Business Climate,low
+04:15:00,CHF,SNB Press Conference,high
+06:00:00,GBP,CBI Realized Sales,low
+08:30:00,USD,Unemployment Claims,medium
+08:57:00,EUR,Belgian NBB Business Climate,low
+10:00:00,GBP,BOE Gov Bailey Speaks,medium
+10:00:00,USD,Fed Chair Powell Testifies,high
+10:00:00,USD,Treasury Sec Mnuchin Speaks,high
+10:00:00,USD,New Home Sales,low
+10:30:00,USD,Natural Gas Storage,low
+14:00:00,USD,FOMC Member Williams Speaks,low
+19:01:00,GBP,GfK Consumer Confidence,low
+19:50:00,JPY,SPPI y/y,low
+21:30:00,AUD,Goods Trade Balance,low

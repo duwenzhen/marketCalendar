@@ -1,0 +1,19 @@
+time,currency,event,impact
+01:00:00,USD,FOMC Member Bullard Speaks,medium
+03:38:00,EUR,ECB President Draghi Speaks,high
+04:30:00,GBP,CPI y/y,high
+04:30:00,GBP,PPI Input m/m,medium
+04:30:00,GBP,Public Sector Net Borrowing,medium
+04:30:00,GBP,Core CPI y/y,low
+04:30:00,GBP,HPI y/y,low
+04:30:00,GBP,PPI Output m/m,low
+04:30:00,GBP,RPI y/y,low
+05:34:00,EUR,German 10-y Bond Auction,low
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium
+10:00:00,USD,FOMC Member Williams Speaks,medium
+10:30:00,USD,Crude Oil Inventories,low
+14:00:00,USD,FOMC Meeting Minutes,high
+19:00:00,AUD,Flash Manufacturing PMI,low
+19:00:00,AUD,Flash Services PMI,low
+20:30:00,JPY,Flash Manufacturing PMI,low

@@ -1,0 +1,16 @@
+time,currency,event,impact
+02:45:00,EUR,French Industrial Production m/m,medium
+03:00:00,GBP,Halifax HPI m/m,high
+03:15:00,CHF,Retail Sales y/y,high
+04:30:00,EUR,Sentix Investor Confidence,low
+07:00:00,EUR,ECB President Trichet Speaks,high
+08:30:00,CAD,Building Permits m/m,high
+10:30:00,CAD,BOC Business Outlook Survey,high
+13:05:00,CAD,Gov Council Member Cote Speaks,low
+16:00:00,NZD,NZIER Business Confidence,high
+16:45:00,NZD,Building Consents m/m,medium
+19:00:00,GBP,BRC Retail Sales Monitor y/y,medium
+19:30:00,AUD,ANZ Job Advertisements m/m,high
+19:30:00,AUD,Trade Balance,high
+21:02:00,CNY,New Loans,medium
+21:02:00,CNY,M2 Money Supply y/y,low

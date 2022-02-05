@@ -1,0 +1,19 @@
+time,currency,event,impact
+02:00:00,EUR,German WPI m/m,low
+03:15:00,CHF,PPI m/m,medium
+04:00:00,EUR,ECB Monthly Bulletin,medium
+08:15:00,GBP,MPC Member Tucker Speaks,medium
+08:30:00,CAD,NHPI m/m,medium
+08:30:00,CAD,Capacity Utilization Rate,low
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Import Prices m/m,medium
+10:00:00,USD,Business Inventories m/m,medium
+10:30:00,CAD,BOC Financial System Review,low
+10:30:00,USD,Natural Gas Storage,low
+13:00:00,EUR,German Buba President Weidmann Speaks,medium
+13:00:00,USD,30-y Bond Auction,medium
+18:33:00,NZD,BusinessNZ Manufacturing Index,medium
+18:45:00,NZD,FPI m/m,low
+19:50:00,JPY,Monetary Policy Meeting Minutes,medium

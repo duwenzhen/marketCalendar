@@ -1,0 +1,23 @@
+time,currency,event,impact
+03:00:00,EUR,French Flash Manufacturing PMI,high
+03:00:00,EUR,French Flash Services PMI,medium
+03:30:00,EUR,German Flash Manufacturing PMI,high
+03:30:00,EUR,German Flash Services PMI,medium
+04:00:00,EUR,German ifo Business Climate,high
+04:00:00,EUR,Flash Manufacturing PMI,medium
+04:00:00,EUR,Flash Services PMI,medium
+05:32:00,EUR,German 10-y Bond Auction,medium
+06:00:00,GBP,CBI Industrial Order Expectations,medium
+07:45:00,EUR,ECB President Draghi Speaks,high
+09:00:00,USD,Flash Manufacturing PMI,medium
+10:00:00,EUR,ECB President Draghi Speaks,high
+10:00:00,USD,New Home Sales,high
+10:30:00,CAD,BOC Monetary Policy Report,high
+10:30:00,USD,Crude Oil Inventories,medium
+11:15:00,CAD,BOC Press Conference,high
+14:15:00,USD,FOMC Statement,high
+14:15:00,USD,Federal Funds Rate,medium
+16:00:00,NZD,Official Cash Rate,high
+16:00:00,NZD,RBNZ Rate Statement,high
+19:50:00,JPY,SPPI y/y,low
+22:00:00,CNY,CB Leading Index m/m,low

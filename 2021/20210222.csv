@@ -1,0 +1,11 @@
+time,currency,event,impact
+04:00:00,EUR,German ifo Business Climate,medium
+06:00:00,EUR,German Buba Monthly Report,low
+09:00:00,EUR,Belgian NBB Business Climate,low
+09:30:00,EUR,ECB President Lagarde Speaks,medium
+10:00:00,USD,CB Leading Index m/m,low
+15:30:00,USD,FOMC Member Bowman Speaks,low
+16:45:00,NZD,Retail Sales q/q,medium
+16:51:00,NZD,Core Retail Sales q/q,low
+01:01:00,JPY,Bank Holiday,holiday
+19:30:00,AUD,Goods Trade Balance,low

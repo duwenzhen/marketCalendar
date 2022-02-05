@@ -1,0 +1,16 @@
+time,currency,event,impact
+00:30:00,JPY,Tertiary Industry Activity m/m,low
+03:00:00,EUR,French Flash Manufacturing PMI,medium
+03:00:00,EUR,French Flash Services PMI,medium
+03:30:00,EUR,German Flash Manufacturing PMI,medium
+03:30:00,EUR,German Flash Services PMI,medium
+04:00:00,EUR,Flash Manufacturing PMI,medium
+04:00:00,EUR,Flash Services PMI,medium
+05:00:00,EUR,Italian Retail Sales m/m,low
+01:01:00,EUR,ECOFIN Meetings,medium
+01:01:00,EUR,Eurogroup Meetings,medium
+08:30:00,CAD,Core CPI m/m,high
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,CPI m/m,medium
+08:30:00,CAD,Retail Sales m/m,medium
+09:45:00,USD,Flash Manufacturing PMI,low

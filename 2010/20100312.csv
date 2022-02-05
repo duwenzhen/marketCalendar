@@ -1,0 +1,14 @@
+time,currency,event,impact
+02:00:00,EUR,German WPI m/m,low
+05:00:00,EUR,Industrial Production m/m,medium
+05:15:00,EUR,German Buba President Weber Speaks,medium
+06:00:00,GBP,MPC Member Dale Speaks,medium
+07:00:00,CAD,Employment Change,high
+07:00:00,CAD,Unemployment Rate,high
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+09:55:00,USD,Prelim UoM Consumer Sentiment,high
+09:55:00,USD,Prelim UoM Inflation Expectations,low
+10:00:00,USD,Business Inventories m/m,medium
+12:00:00,USD,Treasury Sec Geithner Speaks,medium
+15:45:00,EUR,ECB President Trichet Speaks,medium

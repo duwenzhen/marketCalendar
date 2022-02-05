@@ -1,0 +1,16 @@
+time,currency,event,impact
+02:30:00,CHF,PPI m/m,low
+04:05:00,EUR,Italian Trade Balance,low
+05:00:00,EUR,Final CPI y/y,low
+05:00:00,EUR,Final Core CPI y/y,low
+05:00:00,EUR,Trade Balance,low
+05:00:00,GBP,MPC Member Cunliffe Speaks,low
+01:01:00,EUR,ECOFIN Meetings,low
+01:01:00,EUR,Eurogroup Meetings,low
+08:30:00,CAD,Foreign Securities Purchases,low
+08:30:00,CAD,Wholesale Sales m/m,low
+08:30:00,USD,Building Permits,low
+08:30:00,USD,Housing Starts,low
+09:00:00,USD,Treasury Currency Report,medium
+10:00:00,USD,Prelim UoM Consumer Sentiment,medium
+10:00:00,USD,Prelim UoM Inflation Expectations,low

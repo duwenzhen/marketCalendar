@@ -1,0 +1,19 @@
+time,currency,event,impact
+03:15:00,CHF,PPI m/m,medium
+03:30:00,CHF,Libor Rate,high
+03:30:00,CHF,SNB Monetary Policy Assessment,high
+04:00:00,EUR,ECB Monthly Bulletin,medium
+05:40:00,GBP,10-y Bond Auction,medium
+08:30:00,CAD,NHPI m/m,medium
+08:30:00,CAD,Capacity Utilization Rate,low
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Core PPI m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+11:30:00,USD,30-y Bond Auction,low
+12:30:00,USD,FOMC Statement,high
+12:30:00,USD,Federal Funds Rate,medium
+13:54:00,USD,Federal Budget Balance,medium
+14:00:00,USD,FOMC Economic Projections,high
+14:15:00,USD,FOMC Press Conference,high
+18:45:00,NZD,FPI m/m,low

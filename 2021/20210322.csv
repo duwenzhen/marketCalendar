@@ -1,0 +1,11 @@
+time,currency,event,impact
+05:00:00,EUR,Current Account,low
+07:00:00,EUR,German Buba Monthly Report,low
+09:00:00,EUR,German Buba President Weidmann Speaks,low
+09:00:00,USD,Fed Chair Powell Speaks,high
+10:00:00,USD,Existing Home Sales,low
+10:00:00,USD,FOMC Member Barkin Speaks,low
+13:00:00,USD,FOMC Member Daly Speaks,low
+13:30:00,USD,FOMC Member Quarles Speaks,low
+19:15:00,USD,FOMC Member Bowman Speaks,low
+22:00:00,NZD,Credit Card Spending y/y,low

@@ -1,0 +1,4 @@
+time,currency,event,impact
+10:00:00,USD,Mortgage Delinquencies,medium
+22:30:00,CNY,Caixin Flash Manufacturing PMI,medium
+23:00:00,NZD,Inflation Expectations q/q,high

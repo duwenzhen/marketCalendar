@@ -1,0 +1,19 @@
+time,currency,event,impact
+01:45:00,CHF,CPI m/m,high
+03:15:00,EUR,Spanish Services PMI,low
+03:45:00,EUR,Italian Services PMI,low
+04:00:00,EUR,Final Services PMI,low
+04:30:00,GBP,Final Services PMI,medium
+04:30:00,GBP,Mortgage Approvals,low
+04:30:00,GBP,Net Lending to Individuals m/m,low
+05:00:00,EUR,CPI Flash Estimate y/y,medium
+05:00:00,EUR,Italian Prelim CPI m/m,low
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+08:30:00,USD,Non-Farm Employment Change,high
+08:30:00,USD,Unemployment Rate,high
+08:30:00,USD,Average Hourly Earnings m/m,medium
+10:00:00,CAD,Ivey PMI,high
+10:00:00,USD,ISM Services PMI,high
+10:30:00,USD,Natural Gas Storage,low
+11:15:00,USD,FOMC Member Kohn Speaks,medium

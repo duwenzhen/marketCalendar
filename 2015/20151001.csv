@@ -1,0 +1,32 @@
+time,currency,event,impact
+03:00:00,AUD,Commodity Prices y/y,low
+03:15:00,CHF,Retail Sales y/y,medium
+03:15:00,EUR,Spanish Manufacturing PMI,medium
+03:30:00,CHF,Manufacturing PMI,low
+03:45:00,EUR,Italian Manufacturing PMI,low
+03:50:00,EUR,French Final Manufacturing PMI,low
+03:55:00,EUR,German Final Manufacturing PMI,low
+04:00:00,EUR,Final Manufacturing PMI,low
+04:30:00,GBP,Final Manufacturing PMI,high
+04:30:00,GBP,FPC Meeting Minutes,low
+04:45:00,EUR,Spanish 10-y Bond Auction,low
+04:56:00,EUR,French 10-y Bond Auction,low
+07:30:00,USD,Challenger Job Cuts y/y,low
+08:30:00,USD,Unemployment Claims,high
+09:30:00,CAD,Manufacturing PMI,low
+09:45:00,USD,Final Manufacturing PMI,low
+10:00:00,USD,ISM Manufacturing PMI,high
+10:00:00,USD,Construction Spending m/m,low
+10:00:00,USD,ISM Manufacturing Prices,low
+10:30:00,USD,Natural Gas Storage,low
+01:01:00,USD,Total Vehicle Sales,low
+12:00:00,CHF,Gov Board Member Zurbrugg Speaks,high
+14:30:00,USD,FOMC Member Williams Speaks,medium
+19:30:00,JPY,Household Spending y/y,medium
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,Monetary Base y/y,low
+01:01:00,CNY,Bank Holiday,holiday
+20:00:00,NZD,ANZ Commodity Prices m/m,low
+21:00:00,AUD,HIA New Home Sales m/m,low
+21:30:00,AUD,Retail Sales m/m,high
+21:30:00,EUR,ECB President Draghi Speaks,high

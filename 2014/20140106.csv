@@ -1,0 +1,19 @@
+time,currency,event,impact
+01:01:00,EUR,Italian Bank Holiday,holiday
+01:01:00,EUR,German Prelim CPI m/m,medium
+03:15:00,EUR,Spanish Services PMI,medium
+03:45:00,EUR,Italian Services PMI,medium
+03:50:00,EUR,French Final Services PMI,low
+03:55:00,EUR,German Final Services PMI,low
+04:00:00,EUR,Final Services PMI,low
+04:30:00,EUR,Sentix Investor Confidence,low
+04:30:00,GBP,Final Services PMI,high
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+09:00:00,USD,Final Services PMI,low
+10:00:00,USD,ISM Services PMI,high
+10:00:00,USD,Factory Orders m/m,medium
+18:00:00,USD,Fed Chairman Nomination Vote,high
+18:50:00,JPY,Monetary Base y/y,low
+19:30:00,AUD,Trade Balance,high
+22:45:00,JPY,10-y Bond Auction,low

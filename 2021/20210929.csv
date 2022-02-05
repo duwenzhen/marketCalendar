@@ -1,0 +1,28 @@
+time,currency,event,impact
+02:00:00,EUR,German Import Prices m/m,low
+03:00:00,EUR,Spanish Flash CPI y/y,low
+04:00:00,CHF,Credit Suisse Economic Expectations,low
+04:30:00,GBP,M4 Money Supply m/m,low
+04:32:00,GBP,Mortgage Approvals,low
+04:32:00,GBP,Net Lending to Individuals m/m,low
+05:12:00,EUR,Italian 10-y Bond Auction,low
+05:37:00,EUR,German 10-y Bond Auction,low
+08:30:00,CAD,IPPI m/m,low
+08:30:00,CAD,RMPI m/m,low
+09:00:00,CHF,SNB Quarterly Bulletin,low
+10:00:00,USD,Pending Home Sales m/m,medium
+10:30:00,USD,Crude Oil Inventories,medium
+11:45:00,EUR,ECB President Lagarde Speaks,medium
+11:45:00,GBP,BOE Gov Bailey Speaks,high
+11:45:00,JPY,BOJ Gov Kuroda Speaks,medium
+11:45:00,USD,Fed Chair Powell Speaks,high
+14:00:00,USD,FOMC Member Bostic Speaks,low
+17:45:00,NZD,Building Consents m/m,low
+19:50:00,JPY,Prelim Industrial Production m/m,low
+19:50:00,JPY,Retail Sales y/y,low
+20:00:00,NZD,Final ANZ Business Confidence,low
+20:59:00,CNY,Manufacturing PMI,medium
+21:00:00,CNY,Non-Manufacturing PMI,low
+21:30:00,AUD,Building Approvals m/m,low
+21:30:00,AUD,Private Sector Credit m/m,low
+21:45:00,CNY,Caixin Manufacturing PMI,low

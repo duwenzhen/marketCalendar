@@ -1,0 +1,22 @@
+time,currency,event,impact
+00:00:00,JPY,Economy Watchers Sentiment,low
+02:05:00,EUR,German Trade Balance,low
+02:45:00,EUR,French Trade Balance,low
+05:00:00,EUR,ZEW Economic Sentiment,medium
+05:00:00,EUR,German ZEW Economic Sentiment,medium
+01:01:00,EUR,ECOFIN Meetings,low
+06:00:00,USD,NFIB Small Business Index,low
+08:00:00,EUR,ECB President Lagarde Speaks,medium
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Core PPI m/m,medium
+09:00:00,USD,Fed Chair Powell Speaks,high
+10:30:00,GBP,MPC Member Broadbent Speaks,medium
+11:00:00,GBP,BOE Gov Bailey Speaks,high
+11:35:00,USD,FOMC Member Daly Speaks,low
+13:01:00,USD,10-y Bond Auction,medium
+17:45:00,CAD,BOC Gov Macklem Speaks,high
+18:30:00,AUD,Westpac Consumer Sentiment,low
+18:50:00,JPY,M2 Money Stock y/y,low
+19:00:00,NZD,Prelim ANZ Business Confidence,low
+20:30:00,CNY,CPI y/y,low
+20:30:00,CNY,PPI y/y,low

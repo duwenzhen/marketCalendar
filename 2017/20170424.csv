@@ -1,0 +1,11 @@
+time,currency,event,impact
+04:00:00,EUR,German ifo Business Climate,high
+06:00:00,EUR,German Buba Monthly Report,low
+06:00:00,GBP,CBI Industrial Order Expectations,low
+08:30:00,CAD,Wholesale Sales m/m,medium
+09:00:00,CNY,CB Leading Index m/m,low
+11:30:00,USD,FOMC Member Kashkari Speaks,medium
+15:15:00,USD,FOMC Member Kashkari Speaks,medium
+01:01:00,NZD,Bank Holiday,holiday
+01:01:00,AUD,Bank Holiday,holiday
+19:50:00,JPY,SPPI y/y,low

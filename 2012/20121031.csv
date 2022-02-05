@@ -1,0 +1,22 @@
+time,currency,event,impact
+01:00:00,JPY,Housing Starts y/y,low
+03:00:00,EUR,German Retail Sales m/m,medium
+03:45:00,EUR,French Consumer Spending m/m,medium
+05:00:00,EUR,Italian Monthly Unemployment Rate,low
+01:01:00,EUR,Eurogroup Meetings,medium
+05:58:00,EUR,French 10-y Bond Auction,low
+06:00:00,EUR,CPI Flash Estimate y/y,medium
+06:00:00,EUR,Unemployment Rate,medium
+06:00:00,EUR,Italian Prelim CPI m/m,low
+06:33:00,EUR,German 30-y Bond Auction,low
+08:30:00,CAD,GDP m/m,high
+08:30:00,USD,Employment Cost Index q/q,medium
+09:45:00,USD,Chicago PMI,medium
+14:00:00,CAD,BOC Gov Carney Speaks,medium
+14:00:00,GBP,MPC Member Bean Speaks,medium
+14:00:00,USD,Loan Officer Survey,low
+18:16:00,AUD,AIG Manufacturing Index,low
+20:30:00,AUD,Import Prices q/q,medium
+21:00:00,CNY,Manufacturing PMI,high
+21:45:00,CNY,Caixin Manufacturing PMI,medium
+23:45:00,JPY,10-y Bond Auction,low

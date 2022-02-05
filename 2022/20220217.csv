@@ -1,0 +1,15 @@
+time,currency,event,impact
+04:00:00,EUR,ECB Economic Bulletin,low
+05:00:00,EUR,ZEW Economic Sentiment,medium
+05:00:00,EUR,German ZEW Economic Sentiment,medium
+08:30:00,CAD,ADP Non-Farm Employment Change,low
+08:30:00,CAD,Foreign Securities Purchases,low
+08:30:00,USD,Philly Fed Manufacturing Index,medium
+08:30:00,USD,Unemployment Claims,medium
+08:30:00,USD,Building Permits,low
+08:30:00,USD,Housing Starts,low
+10:30:00,USD,Natural Gas Storage,low
+16:45:00,NZD,PPI Input q/q,low
+16:45:00,NZD,PPI Output q/q,low
+18:30:00,JPY,National Core CPI y/y,low
+19:01:00,GBP,GfK Consumer Confidence,low

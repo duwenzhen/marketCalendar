@@ -1,0 +1,13 @@
+time,currency,event,impact
+04:30:00,GBP,Average Earnings Index 3m/y,high
+04:30:00,GBP,MPC Official Bank Rate Votes,high
+04:30:00,GBP,Claimant Count Change,medium
+04:30:00,GBP,Unemployment Rate,low
+08:30:00,CAD,Wholesale Sales m/m,medium
+08:30:00,USD,Core CPI m/m,high
+08:30:00,USD,Building Permits,medium
+08:30:00,USD,CPI m/m,medium
+08:30:00,USD,Housing Starts,medium
+10:30:00,USD,Crude Oil Inventories,medium
+14:00:00,USD,Beige Book,medium
+21:30:00,AUD,RBA Bulletin,low

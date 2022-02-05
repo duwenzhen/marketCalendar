@@ -1,0 +1,15 @@
+time,currency,event,impact
+01:01:00,CNY,Foreign Direct Investment ytd/y,low
+05:00:00,EUR,EU Economic Forecasts,medium
+08:30:00,USD,CPI m/m,high
+08:30:00,USD,Core CPI m/m,high
+08:30:00,USD,Unemployment Claims,medium
+01:01:00,USD,Mortgage Delinquencies,low
+10:30:00,USD,Natural Gas Storage,low
+13:01:00,USD,30-y Bond Auction,medium
+14:00:00,USD,Federal Budget Balance,low
+15:15:00,GBP,BOE Gov Bailey Speaks,high
+16:30:00,NZD,BusinessNZ Manufacturing Index,low
+17:30:00,AUD,RBA Gov Lowe Speaks,high
+01:01:00,JPY,Bank Holiday,holiday
+01:01:00,NZD,Prelim ANZ Business Confidence,low

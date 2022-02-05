@@ -1,0 +1,15 @@
+time,currency,event,impact
+01:01:00,GBP,Bank Holiday,holiday
+03:15:00,EUR,Spanish Manufacturing PMI,medium
+03:30:00,CHF,Manufacturing PMI,low
+03:45:00,EUR,Italian Manufacturing PMI,medium
+03:50:00,EUR,French Final Manufacturing PMI,low
+03:55:00,EUR,German Final Manufacturing PMI,medium
+04:00:00,EUR,Final Manufacturing PMI,low
+04:30:00,EUR,Sentix Investor Confidence,low
+10:00:00,USD,Factory Orders m/m,medium
+12:25:00,USD,FOMC Member Evans Speaks,medium
+14:00:00,USD,Loan Officer Survey,low
+19:13:00,AUD,AIG Services Index,low
+01:01:00,JPY,Bank Holiday,holiday
+21:30:00,AUD,Trade Balance,high

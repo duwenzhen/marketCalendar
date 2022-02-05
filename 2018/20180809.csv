@@ -1,0 +1,17 @@
+time,currency,event,impact
+01:45:00,CHF,Unemployment Rate,low
+01:58:00,JPY,Prelim Machine Tool Orders y/y,low
+04:00:00,EUR,ECB Economic Bulletin,low
+08:13:00,CAD,Housing Starts,low
+08:30:00,CAD,NHPI m/m,medium
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Core PPI m/m,medium
+08:30:00,USD,Unemployment Claims,medium
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:30:00,USD,Natural Gas Storage,low
+13:01:00,USD,30-y Bond Auction,low
+18:30:00,NZD,BusinessNZ Manufacturing Index,medium
+19:50:00,JPY,Prelim GDP q/q,medium
+19:50:00,JPY,PPI y/y,low
+19:50:00,JPY,Prelim GDP Price Index y/y,low
+21:30:00,AUD,RBA Monetary Policy Statement,high

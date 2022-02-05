@@ -1,0 +1,22 @@
+time,currency,event,impact
+02:45:00,EUR,French Trade Balance,low
+03:15:00,CHF,CPI m/m,high
+05:06:00,EUR,French 10-y Bond Auction,low
+06:00:00,EUR,German Factory Orders m/m,medium
+07:00:00,GBP,Asset Purchase Facility,high
+07:00:00,GBP,MPC Rate Statement,high
+07:00:00,GBP,Official Bank Rate,high
+07:45:00,EUR,Main Refinancing Rate,high
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Prelim Nonfarm Productivity q/q,medium
+08:30:00,USD,Prelim Unit Labor Costs q/q,medium
+09:15:00,USD,FOMC Member Evans Speaks,medium
+09:30:00,USD,Fed Chairman Bernanke Speaks,high
+10:30:00,USD,Natural Gas Storage,low
+13:00:00,USD,30-y Bond Auction,low
+15:00:00,USD,Consumer Credit m/m,low
+16:15:00,USD,Fed Chairman Bernanke Speaks,high
+17:00:00,USD,Bank Stress Test Results,high
+19:50:00,JPY,Monetary Policy Meeting Minutes,medium
+21:30:00,AUD,RBA Monetary Policy Statement,high

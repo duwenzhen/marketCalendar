@@ -1,0 +1,14 @@
+time,currency,event,impact
+04:00:00,EUR,Italian Retail Sales m/m,low
+04:30:00,EUR,ECB President Trichet Speaks,high
+05:00:00,EUR,Industrial New Orders m/m,medium
+06:00:00,GBP,CBI Realized Sales,high
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,Durable Goods Orders m/m,medium
+10:00:00,USD,New Home Sales,high
+10:35:00,USD,Crude Oil Inventories,low
+11:00:00,EUR,German Buba President Weber Speaks,medium
+14:09:00,USD,FOMC Statement,high
+14:09:00,USD,Federal Funds Rate,high
+18:45:00,NZD,Current Account,high
+20:00:00,AUD,CB Leading Index m/m,low

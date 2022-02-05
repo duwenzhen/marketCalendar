@@ -1,0 +1,12 @@
+time,currency,event,impact
+01:45:00,CHF,Unemployment Rate,low
+01:01:00,GBP,Bank Holiday,holiday
+01:01:00,EUR,Eurogroup Meetings,low
+04:30:00,EUR,Sentix Investor Confidence,low
+05:45:00,EUR,EU Economic Forecasts,low
+06:00:00,EUR,German Factory Orders m/m,medium
+08:30:00,CAD,Building Permits m/m,medium
+15:00:00,USD,Consumer Credit m/m,low
+21:30:00,AUD,Building Approvals m/m,high
+21:30:00,AUD,Retail Sales m/m,high
+23:45:00,JPY,10-y Bond Auction,low

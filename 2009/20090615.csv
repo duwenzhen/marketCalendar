@@ -1,0 +1,17 @@
+time,currency,event,impact
+03:15:00,CHF,PPI m/m,medium
+05:00:00,EUR,Final Employment Change q/q,low
+06:00:00,EUR,ECB Financial Stability Review,low
+07:00:00,EUR,German Buba President Weber Speaks,medium
+08:30:00,CAD,Manufacturing Sales m/m,medium
+08:30:00,CAD,New Motor Vehicle Sales m/m,low
+08:30:00,USD,Empire State Manufacturing Index,medium
+08:45:00,USD,FOMC Member Tarullo Speaks,medium
+09:00:00,USD,TIC Long-Term Purchases,high
+09:30:00,USD,FOMC Member Evans Speaks,medium
+10:00:00,USD,Treasury Sec Geithner Speaks,medium
+13:00:00,USD,NAHB Housing Market Index,low
+18:00:00,USD,FOMC Member Duke Speaks,medium
+21:30:00,AUD,Monetary Policy Meeting Minutes,high
+23:34:00,JPY,Monetary Policy Statement,medium
+23:34:00,JPY,Overnight Call Rate,medium

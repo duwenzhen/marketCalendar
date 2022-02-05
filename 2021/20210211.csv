@@ -1,0 +1,10 @@
+time,currency,event,impact
+02:00:00,EUR,German WPI m/m,low
+05:00:00,EUR,EU Economic Forecasts,medium
+08:30:00,USD,Unemployment Claims,medium
+10:00:00,USD,Mortgage Delinquencies,low
+10:30:00,USD,Natural Gas Storage,low
+13:01:00,USD,30-y Bond Auction,low
+16:30:00,NZD,BusinessNZ Manufacturing Index,low
+16:45:00,NZD,FPI m/m,low
+01:01:00,CNY,Bank Holiday,holiday

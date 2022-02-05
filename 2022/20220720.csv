@@ -1,0 +1,29 @@
+time,currency,event,impact
+02:00:00,EUR,German PPI m/m,low
+02:00:00,GBP,Retail Sales m/m,medium
+04:00:00,CHF,Credit Suisse Economic Expectations,low
+04:00:00,EUR,Current Account,low
+04:30:00,GBP,CPI y/y,high
+04:30:00,GBP,Core CPI y/y,low
+04:30:00,GBP,HPI y/y,low
+04:30:00,GBP,PPI Input m/m,low
+04:30:00,GBP,PPI Output m/m,low
+04:30:00,GBP,RPI y/y,low
+01:01:00,GBP,30-y Bond Auction,low
+08:30:00,CAD,CPI m/m,high
+08:30:00,CAD,Common CPI y/y,medium
+08:30:00,CAD,Median CPI y/y,medium
+08:30:00,CAD,Trimmed CPI y/y,medium
+08:30:00,CAD,Core CPI m/m,low
+08:30:00,CAD,IPPI m/m,low
+08:30:00,CAD,NHPI m/m,low
+08:30:00,CAD,RMPI m/m,low
+10:00:00,EUR,Consumer Confidence,low
+10:00:00,USD,Existing Home Sales,medium
+10:30:00,USD,Crude Oil Inventories,medium
+20:30:00,JPY,Flash Manufacturing PMI,low
+21:30:00,AUD,NAB Quarterly Business Confidence,low
+23:00:00,NZD,Credit Card Spending y/y,low
+01:01:00,JPY,BOJ Outlook Report,high
+01:01:00,JPY,Monetary Policy Statement,medium
+01:01:00,JPY,BOJ Policy Rate,low

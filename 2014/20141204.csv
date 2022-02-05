@@ -1,0 +1,16 @@
+time,currency,event,impact
+03:03:00,GBP,Halifax HPI m/m,medium
+04:10:00,EUR,Retail PMI,low
+04:42:00,EUR,Spanish 10-y Bond Auction,low
+05:02:00,EUR,French 10-y Bond Auction,low
+07:00:00,GBP,Official Bank Rate,high
+07:00:00,GBP,Asset Purchase Facility,medium
+07:30:00,USD,Challenger Job Cuts y/y,low
+07:45:00,EUR,Main Refinancing Rate,high
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,FOMC Member Mester Speaks,medium
+10:00:00,CAD,Ivey PMI,high
+10:30:00,USD,Natural Gas Storage,low
+12:30:00,USD,FOMC Member Brainard Speaks,medium
+17:30:00,AUD,AIG Construction Index,low

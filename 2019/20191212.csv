@@ -1,0 +1,25 @@
+time,currency,event,impact
+01:45:00,CHF,SECO Economic Forecasts,low
+02:00:00,EUR,German Final CPI m/m,low
+02:30:00,CHF,PPI m/m,low
+02:45:00,EUR,French Final CPI m/m,low
+03:30:00,CHF,SNB Monetary Policy Assessment,high
+03:30:00,CHF,SNB Policy Rate,medium
+01:01:00,GBP,Parliamentary Elections,high
+04:00:00,CHF,SNB Press Conference,high
+04:00:00,EUR,Italian Quarterly Unemployment Rate,low
+05:00:00,EUR,Industrial Production m/m,low
+07:45:00,EUR,Main Refinancing Rate,high
+07:45:00,EUR,Monetary Policy Statement,high
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Core PPI m/m,medium
+08:30:00,USD,PPI m/m,medium
+08:30:00,USD,Unemployment Claims,low
+10:30:00,USD,Natural Gas Storage,low
+12:40:00,CAD,BOC Gov Poloz Speaks,high
+13:01:00,USD,30-y Bond Auction,low
+16:30:00,NZD,BusinessNZ Manufacturing Index,medium
+18:50:00,JPY,Tankan Manufacturing Index,low
+18:50:00,JPY,Tankan Non-Manufacturing Index,low
+22:11:00,CNY,Foreign Direct Investment ytd/y,low
+23:30:00,JPY,Revised Industrial Production m/m,low

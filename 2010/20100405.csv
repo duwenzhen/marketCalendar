@@ -1,0 +1,12 @@
+time,currency,event,impact
+01:01:00,CHF,Bank Holiday,holiday
+01:01:00,EUR,French Bank Holiday,holiday
+01:01:00,EUR,German Bank Holiday,holiday
+01:01:00,EUR,Italian Bank Holiday,holiday
+01:01:00,GBP,Bank Holiday,holiday
+10:00:00,USD,ISM Services PMI,high
+10:00:00,USD,Pending Home Sales m/m,high
+18:00:00,NZD,NZIER Business Confidence,high
+21:30:00,AUD,ANZ Job Advertisements m/m,high
+23:00:00,NZD,ANZ Commodity Prices m/m,low
+23:45:00,JPY,10-y Bond Auction,low

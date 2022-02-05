@@ -1,0 +1,27 @@
+time,currency,event,impact
+03:15:00,CHF,PPI m/m,medium
+04:30:00,GBP,CPI y/y,high
+04:30:00,GBP,PPI Input m/m,medium
+04:30:00,GBP,Core CPI y/y,low
+04:30:00,GBP,HPI y/y,low
+04:30:00,GBP,PPI Output m/m,low
+04:30:00,GBP,RPI y/y,low
+05:00:00,EUR,Final Employment Change q/q,low
+05:00:00,EUR,Industrial Production m/m,low
+05:38:00,EUR,German 10-y Bond Auction,low
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Core PPI m/m,medium
+10:30:00,USD,Crude Oil Inventories,high
+14:00:00,USD,FOMC Economic Projections,high
+14:00:00,USD,FOMC Statement,high
+14:00:00,USD,Federal Funds Rate,high
+14:30:00,USD,FOMC Press Conference,high
+19:01:00,GBP,RICS House Price Balance,low
+21:00:00,AUD,MI Inflation Expectations,low
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high
+22:00:00,CNY,Fixed Asset Investment ytd/y,medium
+22:00:00,CNY,Industrial Production y/y,medium
+22:00:00,CNY,Retail Sales y/y,low
+22:00:00,CNY,Unemployment Rate,low
+22:06:00,CNY,Foreign Direct Investment ytd/y,low

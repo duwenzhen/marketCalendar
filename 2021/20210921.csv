@@ -1,0 +1,15 @@
+time,currency,event,impact
+02:00:00,CHF,Trade Balance,low
+02:00:00,GBP,Public Sector Net Borrowing,low
+06:00:00,GBP,CBI Industrial Order Expectations,low
+08:30:00,CAD,NHPI m/m,low
+08:30:00,USD,Building Permits,low
+08:30:00,USD,Current Account,low
+08:30:00,USD,Housing Starts,low
+09:00:00,CNY,CB Leading Index m/m,low
+10:30:00,AUD,CB Leading Index m/m,low
+11:26:00,NZD,GDT Price Index,low
+20:30:00,AUD,MI Leading Index m/m,low
+22:00:00,AUD,RBA Assist Gov Bullock Speaks,low
+22:48:00,JPY,Monetary Policy Statement,medium
+22:48:00,JPY,BOJ Policy Rate,low

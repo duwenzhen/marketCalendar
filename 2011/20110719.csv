@@ -1,0 +1,12 @@
+time,currency,event,impact
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,ZEW Economic Sentiment,medium
+08:30:00,CAD,Leading Index m/m,medium
+08:30:00,USD,Building Permits,high
+08:30:00,USD,Housing Starts,medium
+09:00:00,CAD,BOC Rate Statement,high
+09:00:00,CAD,Overnight Rate,high
+10:30:00,NZD,GDT Price Index,low
+13:30:00,USD,President Obama Speaks,low
+20:30:00,AUD,MI Leading Index m/m,medium
+22:00:00,CNY,CB Leading Index m/m,low

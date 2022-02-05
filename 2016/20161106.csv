@@ -1,0 +1,7 @@
+time,currency,event,impact
+02:00:00,CAD,Daylight Saving Time Shift,holiday
+02:00:00,USD,Daylight Saving Time Shift,holiday
+17:30:00,AUD,AIG Construction Index,low
+18:50:00,JPY,Monetary Policy Meeting Minutes,low
+19:00:00,JPY,Average Cash Earnings y/y,low
+19:30:00,AUD,ANZ Job Advertisements m/m,low

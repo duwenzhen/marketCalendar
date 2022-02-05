@@ -1,0 +1,19 @@
+time,currency,event,impact
+02:00:00,EUR,German Factory Orders m/m,medium
+02:58:00,GBP,Halifax HPI m/m,medium
+04:10:00,EUR,Retail PMI,low
+04:59:00,EUR,French 10-y Bond Auction,low
+07:00:00,GBP,Official Bank Rate,high
+07:00:00,GBP,Asset Purchase Facility,medium
+07:30:00,USD,Challenger Job Cuts y/y,low
+07:45:00,EUR,Main Refinancing Rate,high
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Revised Nonfarm Productivity q/q,medium
+08:30:00,USD,Revised Unit Labor Costs q/q,low
+10:00:00,CAD,Ivey PMI,high
+10:00:00,USD,FOMC Member Williams Speaks,medium
+10:00:00,USD,Factory Orders m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+16:30:00,USD,Bank Stress Test Results,medium
+17:20:00,AUD,AIG Construction Index,low

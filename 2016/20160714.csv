@@ -1,0 +1,20 @@
+time,currency,event,impact
+01:01:00,EUR,French Bank Holiday,holiday
+03:15:00,CHF,PPI m/m,medium
+07:00:00,GBP,MPC Official Bank Rate Votes,high
+07:00:00,GBP,Monetary Policy Summary,high
+07:00:00,GBP,Official Bank Rate,high
+07:00:00,GBP,Asset Purchase Facility,medium
+07:00:00,GBP,MPC Asset Purchase Facility Votes,medium
+08:30:00,CAD,NHPI m/m,medium
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Core PPI m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+22:00:00,CNY,GDP q/y,high
+22:00:00,CNY,Industrial Production y/y,high
+22:00:00,CNY,Fixed Asset Investment ytd/y,medium
+22:00:00,CNY,NBS Press Conference,medium
+22:00:00,CNY,M2 Money Supply y/y,low
+22:00:00,CNY,New Loans,low
+22:00:00,CNY,Retail Sales y/y,low

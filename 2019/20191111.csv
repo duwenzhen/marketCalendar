@@ -1,0 +1,24 @@
+time,currency,event,impact
+00:00:00,JPY,Economy Watchers Sentiment,low
+02:00:00,EUR,German WPI m/m,low
+01:01:00,EUR,French Bank Holiday,holiday
+04:00:00,EUR,Italian Industrial Production m/m,low
+04:01:00,CNY,New Loans,high
+04:01:00,CNY,M2 Money Supply y/y,low
+04:30:00,GBP,Prelim GDP q/q,high
+04:30:00,GBP,GDP m/m,medium
+04:30:00,GBP,Manufacturing Production m/m,medium
+04:30:00,GBP,Construction Output m/m,low
+04:30:00,GBP,Goods Trade Balance,low
+04:30:00,GBP,Index of Services 3m/3m,low
+04:30:00,GBP,Industrial Production m/m,low
+04:30:00,GBP,Prelim Business Investment q/q,low
+01:01:00,CAD,Bank Holiday,holiday
+01:01:00,USD,Bank Holiday,holiday
+08:15:00,USD,FOMC Member Rosengren Speaks,low
+08:17:00,GBP,NIESR GDP Estimate,low
+16:45:00,NZD,Visitor Arrivals m/m,low
+18:50:00,JPY,M2 Money Stock y/y,low
+19:30:00,AUD,NAB Business Confidence,medium
+21:00:00,NZD,Inflation Expectations q/q,high
+22:35:00,JPY,30-y Bond Auction,low

@@ -1,0 +1,13 @@
+time,currency,event,impact
+02:00:00,GBP,Current Account,low
+02:00:00,GBP,Final GDP q/q,low
+02:00:00,GBP,Revised Business Investment q/q,low
+08:30:00,USD,Final GDP q/q,medium
+08:30:00,USD,Final GDP Price Index q/q,low
+09:00:00,CHF,SNB Quarterly Bulletin,low
+09:00:00,CNY,CB Leading Index m/m,low
+10:00:00,USD,CB Consumer Confidence,medium
+10:00:00,USD,Existing Home Sales,medium
+10:30:00,USD,Crude Oil Inventories,low
+19:30:00,AUD,Private Sector Credit m/m,low
+23:31:00,JPY,BOJ Gov Kuroda Speaks,medium

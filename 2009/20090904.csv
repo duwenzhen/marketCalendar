@@ -1,0 +1,13 @@
+time,currency,event,impact
+02:45:00,EUR,French Gov Budget Balance,low
+02:50:00,EUR,ECB President Trichet Speaks,medium
+03:00:00,CHF,Foreign Currency Reserves,medium
+03:15:00,CHF,CPI m/m,medium
+04:00:00,EUR,Italian Trade Balance,low
+01:01:00,All,G20 Meetings,medium
+07:00:00,CAD,Employment Change,high
+07:00:00,CAD,Unemployment Rate,high
+08:30:00,USD,Non-Farm Employment Change,high
+08:30:00,USD,Unemployment Rate,high
+08:30:00,USD,Average Hourly Earnings m/m,medium
+10:00:00,CAD,Ivey PMI,high

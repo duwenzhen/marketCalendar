@@ -1,0 +1,5 @@
+time,currency,event,impact
+01:01:00,JPY,Bank Holiday,holiday
+21:00:00,NZD,Prelim ANZ Business Confidence,low
+21:30:00,CNY,CPI y/y,low
+21:30:00,CNY,PPI y/y,low

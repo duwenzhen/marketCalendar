@@ -1,0 +1,12 @@
+time,currency,event,impact
+05:00:00,EUR,Industrial New Orders m/m,medium
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Final GDP q/q,medium
+08:30:00,USD,Final GDP Price Index q/q,low
+10:00:00,USD,Fed Chairman Bernanke Testifies,high
+10:30:00,USD,Natural Gas Storage,low
+12:00:00,USD,Fed Announcement,high
+18:45:00,NZD,GDP q/q,high
+19:01:00,GBP,BOE Financial Stability Report,low
+19:30:00,JPY,Tokyo Core CPI y/y,medium
+19:30:00,JPY,National Core CPI y/y,low

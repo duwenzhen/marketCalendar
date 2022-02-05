@@ -1,0 +1,8 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Core CPI y/y,low
+01:01:00,CHF,Bank Holiday,holiday
+01:01:00,EUR,German Bank Holiday,holiday
+01:01:00,GBP,Bank Holiday,holiday
+01:01:00,CAD,Bank Holiday,holiday
+08:30:00,USD,Final GDP q/q,high
+08:30:00,USD,Final GDP Price Index q/q,low

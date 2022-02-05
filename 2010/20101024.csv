@@ -1,0 +1,5 @@
+time,currency,event,impact
+01:01:00,NZD,Bank Holiday,holiday
+19:50:00,JPY,Trade Balance,medium
+20:25:00,AUD,RBA Gov Stevens Speaks,high
+20:30:00,AUD,PPI q/q,high

@@ -1,0 +1,11 @@
+time,currency,event,impact
+02:15:00,CHF,Trade Balance,low
+04:45:00,GBP,BOE Gov King Speaks,high
+08:10:00,USD,Treasury Sec Paulson Speaks,low
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium
+08:30:00,USD,FOMC Member Plosser Speaks,medium
+10:02:00,USD,Richmond Manufacturing Index,low
+10:35:00,USD,HPI m/m,low
+21:30:00,AUD,CPI q/q,high
+21:30:00,AUD,Trimmed Mean CPI q/q,medium

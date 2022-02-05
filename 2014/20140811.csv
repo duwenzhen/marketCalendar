@@ -1,0 +1,14 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Monthly Report,low
+01:00:00,JPY,Consumer Confidence,low
+02:00:00,JPY,Prelim Machine Tool Orders y/y,low
+03:15:00,CHF,Retail Sales y/y,medium
+03:15:00,USD,FOMC Member Fischer Speaks,medium
+05:00:00,GBP,CB Leading Index m/m,low
+08:13:00,CAD,Housing Starts,medium
+19:01:00,GBP,BRC Retail Sales Monitor y/y,medium
+19:50:00,JPY,PPI y/y,low
+21:30:00,AUD,NAB Business Confidence,high
+21:30:00,AUD,HPI q/q,medium
+22:30:00,NZD,REINZ HPI m/m,low
+23:45:00,JPY,30-y Bond Auction,low

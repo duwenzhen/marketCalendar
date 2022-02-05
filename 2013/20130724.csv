@@ -1,0 +1,15 @@
+time,currency,event,impact
+03:00:00,EUR,French Flash Manufacturing PMI,high
+03:00:00,EUR,French Flash Services PMI,medium
+03:30:00,EUR,German Flash Manufacturing PMI,high
+03:30:00,EUR,German Flash Services PMI,medium
+04:00:00,EUR,Flash Manufacturing PMI,medium
+04:00:00,EUR,Flash Services PMI,medium
+04:00:00,EUR,Italian Retail Sales m/m,low
+06:00:00,GBP,CBI Industrial Order Expectations,medium
+09:00:00,USD,Flash Manufacturing PMI,medium
+10:00:00,USD,New Home Sales,high
+10:30:00,USD,Crude Oil Inventories,medium
+17:00:00,NZD,Official Cash Rate,high
+17:00:00,NZD,RBNZ Rate Statement,high
+19:50:00,JPY,SPPI y/y,low

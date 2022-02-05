@@ -1,0 +1,11 @@
+time,currency,event,impact
+01:01:00,EUR,Eurogroup Meetings,medium
+05:00:00,EUR,Industrial Production m/m,medium
+08:30:00,CAD,New Motor Vehicle Sales m/m,low
+10:00:00,USD,FOMC Member Dudley Speaks,low
+19:30:00,AUD,Monetary Policy Meeting Minutes,high
+21:00:00,CNY,CPI y/y,high
+21:00:00,CNY,PPI y/y,medium
+22:37:00,JPY,Monetary Policy Statement,high
+22:37:00,JPY,Overnight Call Rate,high
+23:30:00,JPY,Revised Industrial Production m/m,low

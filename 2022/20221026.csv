@@ -1,0 +1,14 @@
+time,currency,event,impact
+02:00:00,EUR,German Retail Sales m/m,low
+04:00:00,EUR,German ifo Business Climate,medium
+04:00:00,EUR,M3 Money Supply y/y,low
+04:00:00,EUR,Private Loans y/y,low
+08:30:00,USD,Goods Trade Balance,low
+08:30:00,USD,Prelim Wholesale Inventories m/m,low
+10:00:00,CAD,BOC Monetary Policy Report,high
+10:00:00,CAD,BOC Rate Statement,high
+10:00:00,CAD,Overnight Rate,high
+10:00:00,USD,New Home Sales,low
+10:30:00,USD,Crude Oil Inventories,medium
+11:00:00,CAD,BOC Press Conference,high
+20:30:00,AUD,Import Prices q/q,low

@@ -1,0 +1,11 @@
+time,currency,event,impact
+02:00:00,EUR,German PPI m/m,low
+02:00:00,GBP,Retail Sales m/m,medium
+04:00:00,EUR,Current Account,low
+08:30:00,CAD,Core Retail Sales m/m,medium
+08:30:00,CAD,Retail Sales m/m,low
+08:30:00,CAD,Wholesale Sales m/m,low
+08:30:00,USD,Current Account,low
+10:00:00,USD,CB Leading Index m/m,medium
+10:00:00,USD,Prelim UoM Consumer Sentiment,medium
+10:00:00,USD,Prelim UoM Inflation Expectations,low

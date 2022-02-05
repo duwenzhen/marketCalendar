@@ -1,0 +1,20 @@
+time,currency,event,impact
+00:00:00,JPY,Economy Watchers Sentiment,low
+01:00:00,JPY,Prelim Machine Tool Orders y/y,low
+02:00:00,EUR,German Industrial Production m/m,low
+02:00:00,GBP,Halifax HPI m/m,low
+03:00:00,CHF,Foreign Currency Reserves,low
+05:00:00,EUR,Final Employment Change q/q,low
+05:00:00,EUR,Revised GDP q/q,low
+01:01:00,EUR,Eurogroup Meetings,low
+08:30:00,USD,Revised Nonfarm Productivity q/q,low
+08:30:00,USD,Revised Unit Labor Costs q/q,low
+10:00:00,CAD,BOC Rate Statement,high
+10:00:00,CAD,Overnight Rate,high
+10:00:00,CAD,Ivey PMI,medium
+10:30:00,USD,Crude Oil Inventories,medium
+15:00:00,USD,Consumer Credit m/m,low
+18:50:00,JPY,BSI Manufacturing Index,low
+18:50:00,JPY,Bank Lending y/y,low
+18:50:00,JPY,Current Account,low
+19:30:00,AUD,RBA Bulletin,low

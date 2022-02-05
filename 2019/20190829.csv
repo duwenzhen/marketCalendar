@@ -1,0 +1,25 @@
+time,currency,event,impact
+00:20:00,AUD,HIA New Home Sales m/m,low
+01:00:00,JPY,Consumer Confidence,low
+02:45:00,EUR,French Consumer Spending m/m,low
+02:45:00,EUR,French Prelim GDP q/q,low
+03:00:00,EUR,Spanish Flash CPI y/y,low
+01:01:00,EUR,German Prelim CPI m/m,medium
+03:55:00,EUR,German Unemployment Change,low
+05:20:00,EUR,Italian 10-y Bond Auction,low
+08:30:00,CAD,Current Account,medium
+08:30:00,USD,Prelim GDP q/q,high
+08:30:00,USD,Goods Trade Balance,low
+08:30:00,USD,Prelim GDP Price Index q/q,low
+08:30:00,USD,Prelim Wholesale Inventories m/m,low
+08:30:00,USD,Unemployment Claims,low
+10:00:00,USD,Pending Home Sales m/m,low
+10:30:00,USD,Natural Gas Storage,low
+18:45:00,NZD,Building Consents m/m,low
+19:01:00,GBP,GfK Consumer Confidence,low
+19:30:00,JPY,Tokyo Core CPI y/y,low
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,Prelim Industrial Production m/m,low
+19:50:00,JPY,Retail Sales y/y,low
+21:30:00,AUD,Building Approvals m/m,high
+21:30:00,AUD,Private Sector Credit m/m,low

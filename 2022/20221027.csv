@@ -1,0 +1,24 @@
+time,currency,event,impact
+02:00:00,EUR,German GfK Consumer Climate,low
+03:00:00,CHF,KOF Economic Barometer,medium
+03:00:00,EUR,Spanish Unemployment Rate,low
+01:01:00,GBP,FPC Meeting Minutes,low
+01:01:00,GBP,FPC Statement,low
+05:00:00,EUR,Italian Prelim CPI m/m,low
+07:45:00,EUR,Main Refinancing Rate,high
+07:45:00,EUR,Monetary Policy Statement,high
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Advance GDP q/q,high
+08:30:00,USD,Advance GDP Price Index q/q,medium
+08:30:00,USD,Core Durable Goods Orders m/m,medium
+08:30:00,USD,Durable Goods Orders m/m,medium
+08:30:00,USD,Unemployment Claims,medium
+10:30:00,USD,Natural Gas Storage,low
+19:50:00,JPY,Prelim Industrial Production m/m,low
+19:50:00,JPY,Retail Sales y/y,low
+20:00:00,NZD,Final ANZ Business Confidence,low
+20:30:00,AUD,PPI q/q,low
+20:30:00,AUD,Private Sector Credit m/m,low
+01:01:00,JPY,BOJ Outlook Report,high
+01:01:00,JPY,Monetary Policy Statement,medium
+01:01:00,JPY,BOJ Policy Rate,low

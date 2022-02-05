@@ -1,0 +1,14 @@
+time,currency,event,impact
+01:00:00,JPY,Economy Watchers Sentiment,low
+05:05:00,GBP,10-y Bond Auction,low
+05:34:00,EUR,German 10-y Bond Auction,low
+01:01:00,EUR,Eurogroup Meetings,medium
+08:13:00,CAD,Housing Starts,low
+08:30:00,CAD,Building Permits m/m,low
+10:30:00,USD,Crude Oil Inventories,low
+13:01:00,USD,30-y Bond Auction,low
+14:00:00,USD,FOMC Meeting Minutes,medium
+17:46:00,USD,President Trump Speaks,high
+19:01:00,GBP,RICS House Price Balance,low
+20:30:00,JPY,BOJ Gov Kuroda Speaks,medium
+21:30:00,AUD,RBA Financial Stability Review,medium

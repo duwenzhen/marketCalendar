@@ -1,0 +1,16 @@
+time,currency,event,impact
+02:00:00,EUR,German PPI m/m,low
+04:30:00,GBP,Average Earnings Index 3m/y,high
+04:30:00,GBP,Claimant Count Change,high
+04:30:00,GBP,Unemployment Rate,medium
+05:00:00,CHF,Credit Suisse Economic Expectations,low
+05:33:00,EUR,German 10-y Bond Auction,low
+06:00:00,EUR,ECB President Draghi Speaks,high
+08:30:00,CAD,Wholesale Sales m/m,medium
+09:00:00,GBP,MPC Member McCafferty Speaks,medium
+10:00:00,USD,Existing Home Sales,medium
+10:30:00,USD,Crude Oil Inventories,high
+16:15:00,CAD,BOC Gov Poloz Speaks,high
+18:45:00,NZD,Visitor Arrivals m/m,low
+21:30:00,AUD,NAB Quarterly Business Confidence,medium
+23:00:00,NZD,Credit Card Spending y/y,low

@@ -1,0 +1,5 @@
+time,currency,event,impact
+05:00:00,EUR,Industrial New Orders m/m,medium
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium
+23:03:00,NZD,Inflation Expectations q/q,high

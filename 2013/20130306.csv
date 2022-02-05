@@ -1,0 +1,15 @@
+time,currency,event,impact
+03:00:00,GBP,Halifax HPI m/m,medium
+04:45:00,GBP,BOE Gov King Speaks,high
+05:00:00,EUR,Revised GDP q/q,low
+08:15:00,USD,ADP Non-Farm Employment Change,high
+10:00:00,CAD,BOC Rate Statement,high
+10:00:00,CAD,Ivey PMI,high
+10:00:00,CAD,Overnight Rate,high
+10:00:00,USD,Factory Orders m/m,medium
+10:30:00,USD,Crude Oil Inventories,medium
+14:00:00,USD,Beige Book,medium
+17:26:00,AUD,AIG Construction Index,low
+19:30:00,AUD,Trade Balance,high
+22:24:00,JPY,Monetary Policy Statement,high
+22:24:00,JPY,Overnight Call Rate,high

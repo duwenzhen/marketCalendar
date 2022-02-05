@@ -1,0 +1,14 @@
+time,currency,event,impact
+01:00:00,JPY,BOJ Core CPI y/y,low
+02:00:00,GBP,Public Sector Net Borrowing,low
+03:00:00,CHF,KOF Economic Barometer,medium
+04:00:00,EUR,ECB Economic Bulletin,low
+08:30:00,USD,Unemployment Claims,medium
+08:30:00,USD,Current Account,low
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,USD,Crude Oil Inventories,medium
+01:01:00,USD,Bank Stress Test Results,low
+18:45:00,NZD,Trade Balance,low
+19:01:00,GBP,GfK Consumer Confidence,low
+19:30:00,JPY,Tokyo Core CPI y/y,low
+19:50:00,JPY,SPPI y/y,low

@@ -1,0 +1,11 @@
+time,currency,event,impact
+02:00:00,EUR,German Import Prices m/m,low
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:00:00,EUR,Private Loans y/y,low
+06:00:00,GBP,CBI Realized Sales,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+09:45:00,USD,Flash Services PMI,low
+09:59:00,USD,Richmond Manufacturing Index,low
+10:00:00,USD,CB Consumer Confidence,high
+11:15:00,USD,FOMC Member Fischer Speaks,medium
+20:20:00,AUD,RBA Assist Gov Edey Speaks,medium

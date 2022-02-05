@@ -1,0 +1,12 @@
+time,currency,event,impact
+07:00:00,EUR,German Buba Monthly Report,low
+07:00:00,GBP,CBI Industrial Order Expectations,medium
+10:00:00,EUR,ECB President Draghi Speaks,high
+10:00:00,USD,Existing Home Sales,medium
+11:00:00,EUR,Consumer Confidence,low
+12:20:00,USD,FOMC Member Fischer Speaks,high
+19:00:00,AUD,CB Leading Index m/m,low
+21:15:00,USD,FOMC Member Williams Speaks,medium
+21:35:00,JPY,Flash Manufacturing PMI,low
+21:45:00,CNY,Caixin Flash Manufacturing PMI,high
+22:00:00,CNY,CB Leading Index m/m,low

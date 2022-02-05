@@ -1,0 +1,8 @@
+time,currency,event,impact
+03:00:00,CAD,Daylight Saving Time Shift,holiday
+03:00:00,USD,Daylight Saving Time Shift,holiday
+01:01:00,EUR,Spanish Parliamentary Election,medium
+19:50:00,JPY,Core Machinery Orders m/m,medium
+19:50:00,JPY,Bank Lending y/y,low
+19:50:00,JPY,M2 Money Stock y/y,low
+22:00:00,CNY,PPI y/y,medium

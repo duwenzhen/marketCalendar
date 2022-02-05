@@ -1,0 +1,17 @@
+time,currency,event,impact
+02:00:00,EUR,German Import Prices m/m,low
+02:00:00,GBP,Public Sector Net Borrowing,low
+09:00:00,EUR,Belgian NBB Business Climate,low
+09:00:00,USD,HPI m/m,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+09:45:00,USD,Flash Manufacturing PMI,medium
+09:45:00,USD,Flash Services PMI,medium
+10:00:00,USD,CB Consumer Confidence,medium
+10:00:00,USD,Richmond Manufacturing Index,low
+01:01:00,JPY,Bank Holiday,holiday
+19:30:00,AUD,Wage Price Index q/q,medium
+19:30:00,AUD,Construction Work Done q/q,low
+20:00:00,NZD,Official Cash Rate,high
+20:00:00,NZD,RBNZ Monetary Policy Statement,high
+20:00:00,NZD,RBNZ Rate Statement,high
+21:00:00,NZD,RBNZ Press Conference,high

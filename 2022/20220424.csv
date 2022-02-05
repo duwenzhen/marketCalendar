@@ -1,0 +1,6 @@
+time,currency,event,impact
+01:01:00,All,IMF Meetings,low
+01:01:00,NZD,Bank Holiday,holiday
+01:01:00,AUD,Bank Holiday,holiday
+19:30:00,JPY,Tokyo Core CPI y/y,low
+19:50:00,JPY,SPPI y/y,low

@@ -1,0 +1,7 @@
+time,currency,event,impact
+01:01:00,CHF,Bank Holiday,holiday
+01:01:00,EUR,German Bank Holiday,holiday
+01:01:00,GBP,Bank Holiday,holiday
+04:00:00,EUR,Italian Retail Sales m/m,low
+01:01:00,CAD,Bank Holiday,holiday
+10:15:00,GBP,MPC Member Posen Speaks,medium

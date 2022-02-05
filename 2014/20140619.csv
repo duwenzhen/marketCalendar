@@ -1,0 +1,14 @@
+time,currency,event,impact
+00:30:00,CHF,SNB Financial Stability Report,medium
+00:30:00,JPY,All Industries Activity m/m,low
+03:30:00,CHF,Libor Rate,high
+03:30:00,CHF,SNB Monetary Policy Assessment,high
+03:30:00,CHF,SNB Press Conference,high
+04:30:00,GBP,Retail Sales m/m,high
+01:01:00,EUR,Eurogroup Meetings,medium
+06:00:00,GBP,CBI Industrial Order Expectations,medium
+07:30:00,GBP,MPC Member McCafferty Speaks,medium
+08:30:00,USD,Unemployment Claims,high
+10:00:00,USD,Philly Fed Manufacturing Index,high
+10:00:00,USD,CB Leading Index m/m,low
+10:30:00,USD,Natural Gas Storage,low

@@ -1,0 +1,11 @@
+time,currency,event,impact
+04:00:00,EUR,German ifo Business Climate,medium
+06:00:00,GBP,CBI Realized Sales,low
+08:30:00,CAD,Wholesale Sales m/m,low
+08:58:00,EUR,Belgian NBB Business Climate,low
+09:00:00,CNY,CB Leading Index m/m,low
+16:45:00,NZD,Retail Sales q/q,medium
+16:47:00,NZD,Core Retail Sales q/q,medium
+18:50:00,AUD,RBA Deputy Gov Debelle Speaks,medium
+18:50:00,JPY,SPPI y/y,low
+19:00:00,USD,Fed Chair Powell Speaks,high

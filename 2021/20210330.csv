@@ -1,0 +1,19 @@
+time,currency,event,impact
+02:00:00,EUR,German Import Prices m/m,low
+01:01:00,EUR,German Prelim CPI m/m,low
+03:00:00,CHF,KOF Economic Barometer,low
+03:00:00,EUR,Spanish Flash CPI y/y,low
+05:18:00,EUR,Italian 10-y Bond Auction,low
+09:00:00,USD,FOMC Member Quarles Speaks,low
+09:00:00,USD,HPI m/m,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+10:00:00,USD,CB Consumer Confidence,medium
+12:00:00,USD,FOMC Member Bostic Speaks,low
+14:30:00,USD,FOMC Member Williams Speaks,low
+19:01:00,GBP,BRC Shop Price Index y/y,low
+19:50:00,JPY,Prelim Industrial Production m/m,low
+20:00:00,NZD,Final ANZ Business Confidence,medium
+20:30:00,AUD,Building Approvals m/m,low
+20:30:00,AUD,Private Sector Credit m/m,low
+21:00:00,CNY,Manufacturing PMI,medium
+21:00:00,CNY,Non-Manufacturing PMI,low

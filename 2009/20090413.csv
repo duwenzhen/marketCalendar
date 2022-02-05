@@ -1,0 +1,12 @@
+time,currency,event,impact
+01:01:00,CHF,Bank Holiday,holiday
+01:01:00,EUR,German Bank Holiday,holiday
+01:01:00,EUR,French Bank Holiday,holiday
+01:01:00,EUR,Italian Bank Holiday,holiday
+01:01:00,GBP,Bank Holiday,holiday
+10:30:00,CAD,BOC Business Outlook Survey,high
+18:45:00,NZD,Core Retail Sales m/m,high
+18:45:00,NZD,Retail Sales m/m,medium
+21:30:00,AUD,NAB Business Confidence,medium
+22:00:00,CNY,New Loans,medium
+23:45:00,JPY,30-y Bond Auction,low

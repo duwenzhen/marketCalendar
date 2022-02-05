@@ -1,0 +1,12 @@
+time,currency,event,impact
+03:15:00,CHF,PPI m/m,medium
+04:02:00,EUR,Italian Trade Balance,low
+04:44:00,EUR,Spanish 10-y Bond Auction,low
+01:01:00,All,G20 Meetings,medium
+08:30:00,USD,Building Permits,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Housing Starts,medium
+10:00:00,USD,Philly Fed Manufacturing Index,high
+10:30:00,USD,Natural Gas Storage,low
+13:00:00,USD,FOMC Member Lockhart Speaks,medium
+15:00:00,USD,FOMC Member Fischer Speaks,medium

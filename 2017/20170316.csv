@@ -1,0 +1,21 @@
+time,currency,event,impact
+02:30:00,JPY,BOJ Press Conference,high
+04:30:00,CHF,Libor Rate,high
+04:30:00,CHF,SNB Monetary Policy Assessment,high
+05:46:00,EUR,Spanish 10-y Bond Auction,low
+06:00:00,EUR,Final CPI y/y,medium
+06:00:00,EUR,Final Core CPI y/y,low
+08:00:00,GBP,MPC Official Bank Rate Votes,high
+08:00:00,GBP,Monetary Policy Summary,high
+08:00:00,GBP,Official Bank Rate,high
+08:00:00,GBP,Asset Purchase Facility,medium
+08:00:00,GBP,MPC Asset Purchase Facility Votes,medium
+08:30:00,CAD,Foreign Securities Purchases,medium
+08:30:00,USD,Building Permits,high
+08:30:00,USD,Philly Fed Manufacturing Index,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Housing Starts,medium
+10:00:00,USD,JOLTS Job Openings,medium
+10:30:00,USD,Natural Gas Storage,low
+17:30:00,NZD,BusinessNZ Manufacturing Index,low
+18:40:00,CNY,Foreign Direct Investment ytd/y,low

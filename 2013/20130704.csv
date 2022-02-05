@@ -1,0 +1,11 @@
+time,currency,event,impact
+03:00:00,GBP,Halifax HPI m/m,medium
+04:57:00,EUR,French 10-y Bond Auction,medium
+05:00:00,EUR,Final GDP q/q,low
+07:00:00,GBP,Asset Purchase Facility,high
+07:00:00,GBP,MPC Rate Statement,high
+07:00:00,GBP,Official Bank Rate,high
+07:45:00,EUR,Main Refinancing Rate,high
+01:01:00,USD,Bank Holiday,holiday
+08:30:00,EUR,ECB Press Conference,high
+19:30:00,AUD,AIG Construction Index,low

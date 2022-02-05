@@ -1,0 +1,11 @@
+time,currency,event,impact
+00:00:00,JPY,BOJ Core CPI y/y,low
+04:00:00,CHF,Credit Suisse Economic Expectations,low
+08:30:00,EUR,ECB President Lagarde Speaks,high
+09:45:00,USD,FOMC Member Kaplan Speaks,low
+10:00:00,USD,New Home Sales,medium
+10:30:00,USD,Crude Oil Inventories,medium
+13:00:00,USD,FOMC Member Kashkari Speaks,low
+16:45:00,NZD,Trade Balance,low
+19:00:00,NZD,Final ANZ Business Confidence,high
+19:30:00,AUD,Private Capital Expenditure q/q,high

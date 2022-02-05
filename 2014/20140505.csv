@@ -1,0 +1,11 @@
+time,currency,event,impact
+01:01:00,GBP,Bank Holiday,holiday
+04:30:00,EUR,Sentix Investor Confidence,low
+05:00:00,EUR,EU Economic Forecasts,medium
+05:00:00,EUR,PPI m/m,low
+01:01:00,EUR,Eurogroup Meetings,medium
+09:45:00,USD,Final Services PMI,low
+10:00:00,USD,ISM Services PMI,high
+14:00:00,USD,Loan Officer Survey,low
+01:01:00,JPY,Bank Holiday,holiday
+21:30:00,AUD,Trade Balance,high

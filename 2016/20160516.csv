@@ -1,0 +1,12 @@
+time,currency,event,impact
+01:01:00,CHF,Bank Holiday,holiday
+01:01:00,EUR,French Bank Holiday,holiday
+01:01:00,EUR,German Bank Holiday,holiday
+02:00:00,JPY,Prelim Machine Tool Orders y/y,low
+08:30:00,USD,Empire State Manufacturing Index,medium
+10:00:00,USD,NAHB Housing Market Index,low
+10:30:00,CAD,BOC Review,low
+16:00:00,USD,TIC Long-Term Purchases,low
+21:30:00,AUD,Monetary Policy Meeting Minutes,high
+21:30:00,AUD,New Motor Vehicle Sales m/m,low
+23:00:00,NZD,Inflation Expectations q/q,high

@@ -1,0 +1,9 @@
+time,currency,event,impact
+00:59:00,JPY,Prelim Machine Tool Orders y/y,low
+05:00:00,EUR,Trade Balance,low
+01:01:00,USD,Bank Holiday,holiday
+13:30:00,GBP,BOE Gov Carney Speaks,high
+16:00:00,NZD,NZIER Business Confidence,medium
+19:30:00,AUD,Home Loans m/m,low
+19:30:00,AUD,New Motor Vehicle Sales m/m,low
+23:30:00,JPY,Revised Industrial Production m/m,low

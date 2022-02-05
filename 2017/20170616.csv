@@ -1,0 +1,14 @@
+time,currency,event,impact
+02:30:00,JPY,BOJ Press Conference,high
+04:00:00,EUR,Italian Trade Balance,low
+05:00:00,EUR,Final CPI y/y,medium
+05:00:00,EUR,Final Core CPI y/y,low
+01:01:00,EUR,ECOFIN Meetings,medium
+07:00:00,GBP,BOE Quarterly Bulletin,low
+08:30:00,CAD,Foreign Securities Purchases,medium
+08:30:00,USD,Building Permits,high
+08:30:00,USD,Housing Starts,medium
+10:00:00,USD,Prelim UoM Consumer Sentiment,medium
+10:00:00,USD,Labor Market Conditions Index m/m,low
+10:00:00,USD,Prelim UoM Inflation Expectations,low
+12:45:00,USD,FOMC Member Kaplan Speaks,medium

@@ -1,0 +1,17 @@
+time,currency,event,impact
+01:01:00,All,WEF Annual Meetings,medium
+07:45:00,EUR,Main Refinancing Rate,high
+07:45:00,EUR,Monetary Policy Statement,high
+08:30:00,EUR,ECB Press Conference,high
+08:30:00,USD,Unemployment Claims,low
+09:55:00,EUR,Consumer Confidence,low
+10:00:00,USD,CB Leading Index m/m,low
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,USD,Crude Oil Inventories,high
+16:45:00,NZD,CPI q/q,high
+17:00:00,AUD,Flash Manufacturing PMI,low
+17:00:00,AUD,Flash Services PMI,low
+18:30:00,JPY,National Core CPI y/y,low
+18:50:00,JPY,Monetary Policy Meeting Minutes,low
+19:30:00,JPY,Flash Manufacturing PMI,low
+21:00:00,NZD,Credit Card Spending y/y,low

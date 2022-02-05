@@ -1,0 +1,14 @@
+time,currency,event,impact
+01:01:00,CHF,Bank Holiday,holiday
+01:01:00,GBP,Bank Holiday,holiday
+03:15:00,EUR,Spanish Manufacturing PMI,medium
+03:45:00,EUR,Italian Manufacturing PMI,low
+03:50:00,EUR,French Final Manufacturing PMI,low
+03:55:00,EUR,German Final Manufacturing PMI,low
+04:00:00,EUR,Final Manufacturing PMI,low
+01:01:00,CAD,Bank Holiday,holiday
+01:01:00,USD,Bank Holiday,holiday
+01:01:00,NZD,Bank Holiday,holiday
+17:30:00,AUD,AIG Manufacturing Index,low
+01:01:00,JPY,Bank Holiday,holiday
+20:45:00,CNY,Caixin Manufacturing PMI,high

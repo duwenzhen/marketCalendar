@@ -1,0 +1,24 @@
+time,currency,event,impact
+02:00:00,EUR,German WPI m/m,low
+02:45:00,EUR,French Final CPI m/m,low
+04:00:00,EUR,ECB Monthly Bulletin,medium
+04:01:00,CNY,New Loans,medium
+04:01:00,CNY,M2 Money Supply y/y,low
+05:00:00,EUR,Industrial Production m/m,medium
+08:30:00,CAD,NHPI m/m,medium
+08:30:00,CAD,Capacity Utilization Rate,low
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Import Prices m/m,medium
+10:00:00,USD,Business Inventories m/m,medium
+10:30:00,CAD,BOC Financial System Review,low
+10:30:00,USD,Natural Gas Storage,low
+11:15:00,CAD,BOC Gov Poloz Speaks,high
+13:01:00,USD,30-y Bond Auction,low
+14:00:00,EUR,German Buba President Weidmann Speaks,medium
+14:00:00,GBP,Chancellor Osborne Speaks,low
+16:00:00,GBP,BOE Gov Carney Speaks,high
+18:30:00,NZD,BusinessNZ Manufacturing Index,medium
+18:45:00,NZD,FPI m/m,low
+22:41:00,JPY,Monetary Policy Statement,high

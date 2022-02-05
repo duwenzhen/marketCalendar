@@ -1,0 +1,17 @@
+time,currency,event,impact
+05:30:00,GBP,Net Lending to Individuals m/m,medium
+05:30:00,GBP,M4 Money Supply m/m,low
+05:30:00,GBP,Mortgage Approvals,low
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Core PPI m/m,medium
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,medium
+10:00:00,USD,CB Consumer Confidence,high
+10:00:00,USD,Business Inventories m/m,low
+12:00:00,CAD,BOC Gov Poloz Speaks,high
+13:40:00,CAD,Gov Council Member Cote Speaks,low
+19:35:00,AUD,HIA New Home Sales m/m,medium
+19:50:00,JPY,Prelim Industrial Production m/m,medium

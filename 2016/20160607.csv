@@ -1,0 +1,24 @@
+time,currency,event,impact
+00:30:00,AUD,Cash Rate,high
+00:30:00,AUD,RBA Rate Statement,high
+01:00:00,JPY,Leading Indicators,low
+02:00:00,EUR,German Industrial Production m/m,low
+02:45:00,EUR,French Gov Budget Balance,low
+02:45:00,EUR,French Trade Balance,low
+03:00:00,CHF,Foreign Currency Reserves,medium
+03:30:00,GBP,Halifax HPI m/m,medium
+05:00:00,EUR,Revised GDP q/q,low
+05:35:00,GBP,30-y Bond Auction,low
+08:30:00,USD,Revised Nonfarm Productivity q/q,medium
+08:30:00,USD,Revised Unit Labor Costs q/q,low
+09:59:00,USD,IBD/TIPP Economic Optimism,low
+10:00:00,CAD,Ivey PMI,medium
+15:00:00,USD,Consumer Credit m/m,low
+18:45:00,NZD,Manufacturing Sales q/q,low
+19:50:00,JPY,Current Account,medium
+19:50:00,JPY,Final GDP q/q,medium
+19:50:00,JPY,Bank Lending y/y,low
+19:50:00,JPY,Final GDP Price Index y/y,low
+21:30:00,AUD,Home Loans m/m,low
+23:08:00,CNY,USD-Denominated Trade Balance,low
+23:13:00,CNY,Trade Balance,high

@@ -1,0 +1,19 @@
+time,currency,event,impact
+01:00:00,JPY,Economy Watchers Sentiment,low
+03:00:00,GBP,Halifax HPI m/m,medium
+04:30:00,GBP,FPC Meeting Minutes,low
+07:30:00,GBP,Annual Budget Release,high
+08:30:00,CAD,Building Permits m/m,high
+10:30:00,USD,Crude Oil Inventories,medium
+13:01:00,USD,10-y Bond Auction,low
+14:00:00,USD,FOMC Meeting Minutes,high
+14:00:00,USD,FOMC Member Williams Speaks,medium
+15:00:00,USD,Consumer Credit m/m,low
+19:01:00,GBP,RICS House Price Balance,low
+19:50:00,JPY,Core Machinery Orders m/m,medium
+19:50:00,JPY,M2 Money Stock y/y,low
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high
+21:30:00,CNY,CPI y/y,high
+21:30:00,CNY,PPI y/y,medium
+23:45:00,JPY,30-y Bond Auction,low

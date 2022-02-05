@@ -1,0 +1,14 @@
+time,currency,event,impact
+03:15:00,CHF,PPI m/m,medium
+06:00:00,EUR,German Buba Monthly Report,medium
+06:00:00,GBP,CBI Industrial Order Expectations,medium
+08:30:00,USD,Empire State Manufacturing Index,medium
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+10:00:00,USD,NAHB Housing Market Index,medium
+16:00:00,USD,TIC Long-Term Purchases,low
+19:15:00,AUD,RBA Deputy Gov Debelle Speaks,medium
+19:30:00,AUD,Monetary Policy Meeting Minutes,high
+20:35:00,JPY,Flash Manufacturing PMI,low
+20:45:00,CNY,Caixin Flash Manufacturing PMI,high
+21:00:00,CNY,Foreign Direct Investment ytd/y,low

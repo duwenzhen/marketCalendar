@@ -1,0 +1,16 @@
+time,currency,event,impact
+00:30:00,AUD,Cash Rate,high
+00:30:00,AUD,RBA Rate Statement,high
+01:00:00,JPY,Leading Indicators,low
+02:00:00,EUR,German Factory Orders m/m,low
+10:00:00,USD,JOLTS Job Openings,low
+10:01:00,USD,IBD/TIPP Economic Optimism,low
+10:13:00,NZD,GDT Price Index,low
+13:05:00,USD,FOMC Member Bullard Speaks,medium
+18:30:00,AUD,AIG Construction Index,low
+19:50:00,JPY,BOJ Summary of Opinions,low
+21:30:00,AUD,Home Loans m/m,low
+22:00:00,NZD,Official Cash Rate,high
+22:00:00,NZD,RBNZ Monetary Policy Statement,high
+22:00:00,NZD,RBNZ Rate Statement,high
+23:00:00,NZD,RBNZ Press Conference,high

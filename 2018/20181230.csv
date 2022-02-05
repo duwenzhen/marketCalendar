@@ -1,0 +1,5 @@
+time,currency,event,impact
+01:01:00,JPY,Bank Holiday,holiday
+19:30:00,AUD,Private Sector Credit m/m,low
+20:00:00,CNY,Manufacturing PMI,medium
+20:00:00,CNY,Non-Manufacturing PMI,low

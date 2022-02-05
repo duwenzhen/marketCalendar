@@ -1,0 +1,27 @@
+time,currency,event,impact
+00:31:00,JPY,Monetary Policy Statement,high
+00:31:00,JPY,Overnight Call Rate,high
+02:00:00,GBP,Nationwide HPI m/m,high
+02:00:00,JPY,BOJ Outlook Report,medium
+02:30:00,AUD,RBA Annual Report,low
+03:00:00,EUR,German Buba President Weber Speaks,medium
+03:22:00,JPY,BOJ Press Conference,high
+04:30:00,EUR,ECB President Trichet Speaks,medium
+05:00:00,EUR,Retail PMI,low
+05:19:00,EUR,Italian 10-y Bond Auction,medium
+06:00:00,GBP,CBI Realized Sales,medium
+08:30:00,USD,Unemployment Claims,high
+09:33:00,CHF,Gov Board Member Danthine Speaks,medium
+10:30:00,USD,Natural Gas Storage,low
+11:30:00,CHF,SNB Chairman Hildebrand Speaks,medium
+17:45:00,NZD,Building Consents m/m,medium
+17:45:00,NZD,Trade Balance,medium
+19:01:00,GBP,GfK Consumer Confidence,medium
+19:15:00,JPY,Final Manufacturing PMI,low
+19:30:00,JPY,Household Spending y/y,medium
+19:30:00,JPY,Tokyo Core CPI y/y,medium
+19:30:00,JPY,National Core CPI y/y,low
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,Prelim Industrial Production m/m,medium
+20:00:00,AUD,HIA New Home Sales m/m,medium
+20:30:00,AUD,Private Sector Credit m/m,medium

@@ -1,0 +1,9 @@
+time,currency,event,impact
+01:01:00,EUR,Italian Parliamentary Election,high
+16:30:00,AUD,AIG Services Index,low
+19:00:00,AUD,MI Inflation Gauge m/m,medium
+19:00:00,NZD,ANZ Commodity Prices m/m,low
+19:30:00,AUD,Building Approvals m/m,medium
+19:30:00,AUD,Company Operating Profits q/q,medium
+19:30:00,AUD,ANZ Job Advertisements m/m,low
+20:45:00,CNY,Caixin Services PMI,medium

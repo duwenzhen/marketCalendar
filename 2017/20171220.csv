@@ -1,0 +1,17 @@
+time,currency,event,impact
+02:00:00,EUR,German PPI m/m,low
+04:00:00,EUR,Current Account,low
+06:00:00,GBP,CBI Realized Sales,low
+08:00:00,EUR,German Buba President Weidmann Speaks,medium
+08:15:00,GBP,BOE Gov Carney Speaks,high
+08:30:00,CAD,Wholesale Sales m/m,low
+09:00:00,CHF,SNB Quarterly Bulletin,low
+09:00:00,CNY,CB Leading Index m/m,low
+09:00:00,EUR,Belgian NBB Business Climate,low
+10:00:00,USD,Existing Home Sales,medium
+10:30:00,USD,Crude Oil Inventories,high
+15:00:00,USD,President Trump Speaks,high
+16:45:00,NZD,GDP q/q,high
+18:05:00,GBP,GfK Consumer Confidence,low
+21:46:00,JPY,Monetary Policy Statement,high
+21:46:00,JPY,BOJ Policy Rate,medium

@@ -1,0 +1,19 @@
+time,currency,event,impact
+03:00:00,EUR,French Flash Manufacturing PMI,high
+03:00:00,EUR,French Flash Services PMI,medium
+03:30:00,EUR,German Flash Manufacturing PMI,high
+03:30:00,EUR,German Flash Services PMI,medium
+04:00:00,EUR,Flash Manufacturing PMI,medium
+04:00:00,EUR,Flash Services PMI,medium
+05:00:00,EUR,Italian Retail Sales m/m,low
+06:00:00,GBP,CBI Industrial Order Expectations,low
+08:00:00,USD,FOMC Member Powell Speaks,high
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,Durable Goods Orders m/m,medium
+09:00:00,USD,HPI m/m,low
+09:45:00,USD,Flash Manufacturing PMI,medium
+09:59:00,USD,Richmond Manufacturing Index,low
+10:00:00,USD,New Home Sales,medium
+19:50:00,JPY,Monetary Policy Meeting Minutes,medium
+19:50:00,JPY,SPPI y/y,low
+22:00:00,CNY,CB Leading Index m/m,low

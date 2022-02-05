@@ -1,0 +1,10 @@
+time,currency,event,impact
+01:01:00,EUR,Eurogroup Meetings,medium
+06:00:00,EUR,German Buba Monthly Report,low
+08:30:00,CAD,Foreign Securities Purchases,medium
+09:00:00,USD,TIC Long-Term Purchases,high
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+09:58:00,USD,NAHB Housing Market Index,low
+16:00:00,USD,Treasury Sec Geithner Speaks,medium
+20:30:00,AUD,Monetary Policy Meeting Minutes,high

@@ -1,0 +1,9 @@
+time,currency,event,impact
+08:30:00,CAD,Core Retail Sales m/m,high
+08:30:00,CAD,Retail Sales m/m,medium
+09:20:00,USD,Existing Home Sales,high
+10:30:00,USD,Crude Oil Inventories,medium
+11:00:00,CAD,BOC Gov Carney Speaks,high
+14:00:00,USD,FOMC Meeting Minutes,high
+22:00:00,CNY,CB Leading Index m/m,low
+22:30:00,CNY,Caixin Flash Manufacturing PMI,high

@@ -1,0 +1,25 @@
+time,currency,event,impact
+00:02:00,JPY,Economy Watchers Sentiment,low
+01:30:00,CAD,Gov Council Member Lane Speaks,medium
+01:30:00,GBP,MPC Member Cunliffe Speaks,medium
+01:45:00,CHF,Unemployment Rate,low
+02:00:00,EUR,German Trade Balance,low
+04:00:00,EUR,Italian Industrial Production m/m,low
+04:30:00,EUR,Sentix Investor Confidence,low
+04:30:00,GBP,GDP m/m,high
+04:30:00,GBP,Manufacturing Production m/m,high
+04:30:00,GBP,Construction Output m/m,low
+04:30:00,GBP,Goods Trade Balance,low
+04:30:00,GBP,Index of Services 3m/3m,low
+04:30:00,GBP,Industrial Production m/m,low
+07:45:00,CAD,Gov Council Member Lane Speaks,medium
+08:13:00,CAD,Housing Starts,low
+08:24:00,GBP,NIESR GDP Estimate,low
+08:30:00,CAD,Building Permits m/m,low
+10:00:00,USD,JOLTS Job Openings,low
+10:30:00,GBP,Prime Minister May Speaks,high
+18:50:00,JPY,BSI Manufacturing Index,low
+18:50:00,JPY,M2 Money Stock y/y,low
+19:30:00,AUD,HPI q/q,medium
+19:30:00,AUD,NAB Business Confidence,low
+22:35:00,JPY,30-y Bond Auction,low

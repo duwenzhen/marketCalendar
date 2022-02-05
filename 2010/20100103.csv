@@ -1,0 +1,6 @@
+time,currency,event,impact
+10:15:00,USD,FOMC Member Kohn Speaks,medium
+10:30:00,USD,Fed Chairman Bernanke Speaks,high
+01:01:00,NZD,Bank Holiday,holiday
+17:30:00,AUD,AIG Manufacturing Index,low
+21:30:00,CNY,Caixin Manufacturing PMI,medium

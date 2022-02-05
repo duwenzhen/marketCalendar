@@ -1,0 +1,27 @@
+time,currency,event,impact
+01:00:00,JPY,Housing Starts y/y,low
+02:00:00,CHF,UBS Consumption Indicator,medium
+02:00:00,GBP,Nationwide HPI m/m,high
+03:55:00,EUR,German Unemployment Change,medium
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:00:00,EUR,Private Loans y/y,low
+04:30:00,GBP,Current Account,high
+04:30:00,GBP,Final GDP q/q,medium
+04:30:00,GBP,Revised Business Investment q/q,low
+05:00:00,EUR,CPI Flash Estimate y/y,medium
+05:00:00,EUR,Italian Prelim CPI m/m,low
+05:30:00,GBP,MPC Member Tucker Speaks,medium
+08:30:00,CAD,GDP m/m,high
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,medium
+09:45:00,USD,Chicago PMI,medium
+10:00:00,USD,CB Consumer Confidence,high
+19:30:00,AUD,AIG Manufacturing Index,low
+19:50:00,JPY,Tankan Manufacturing Index,high
+19:50:00,JPY,Tankan Non-Manufacturing Index,medium
+20:57:00,CNY,Manufacturing PMI,high
+21:00:00,USD,FOMC Member Yellen Speaks,medium
+21:30:00,AUD,Building Approvals m/m,high
+21:30:00,AUD,Retail Sales m/m,high
+22:30:00,CNY,Caixin Manufacturing PMI,medium

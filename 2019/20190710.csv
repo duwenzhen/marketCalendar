@@ -1,0 +1,26 @@
+time,currency,event,impact
+02:45:00,EUR,French Industrial Production m/m,low
+04:00:00,EUR,Italian Industrial Production m/m,low
+04:30:00,GBP,GDP m/m,high
+04:30:00,GBP,Manufacturing Production m/m,high
+04:30:00,GBP,Construction Output m/m,low
+04:30:00,GBP,Goods Trade Balance,low
+04:30:00,GBP,Index of Services 3m/3m,low
+04:30:00,GBP,Industrial Production m/m,low
+05:15:00,EUR,EU Economic Forecasts,medium
+05:37:00,EUR,German 10-y Bond Auction,low
+08:14:00,GBP,NIESR GDP Estimate,low
+10:00:00,CAD,BOC Monetary Policy Report,high
+10:00:00,CAD,BOC Rate Statement,high
+10:00:00,CAD,Overnight Rate,high
+10:00:00,USD,Fed Chair Powell Testifies,high
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:30:00,USD,Crude Oil Inventories,low
+11:15:00,CAD,BOC Press Conference,high
+13:01:00,USD,10-y Bond Auction,low
+13:10:00,GBP,MPC Member Tenreyro Speaks,medium
+13:30:00,USD,FOMC Member Bullard Speaks,medium
+14:00:00,USD,FOMC Meeting Minutes,high
+19:01:00,GBP,RICS House Price Balance,low
+21:00:00,AUD,MI Inflation Expectations,low
+21:30:00,AUD,Home Loans m/m,low

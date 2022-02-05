@@ -1,0 +1,9 @@
+time,currency,event,impact
+02:00:00,EUR,German Trade Balance,low
+03:00:00,GBP,Halifax HPI m/m,high
+04:30:00,EUR,Sentix Investor Confidence,low
+08:15:00,CAD,Housing Starts,high
+19:01:00,GBP,BRC Retail Sales Monitor y/y,medium
+19:01:00,GBP,RICS House Price Balance,medium
+21:30:00,AUD,Trade Balance,high
+23:01:00,CNY,USD-Denominated Trade Balance,high

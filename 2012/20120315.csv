@@ -1,0 +1,16 @@
+time,currency,event,impact
+02:45:00,CHF,SECO Economic Forecasts,medium
+04:30:00,CHF,Libor Rate,high
+04:30:00,CHF,SNB Monetary Policy Assessment,high
+05:00:00,EUR,ECB Monthly Bulletin,medium
+06:00:00,EUR,Final Employment Change q/q,low
+06:37:00,GBP,30-y Bond Auction,low
+07:30:00,GBP,MPC Member Broadbent Speaks,medium
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Core PPI m/m,medium
+08:30:00,USD,Empire State Manufacturing Index,medium
+09:00:00,USD,TIC Long-Term Purchases,high
+10:00:00,USD,Philly Fed Manufacturing Index,high
+10:30:00,USD,Natural Gas Storage,low
+19:50:00,JPY,Monetary Policy Meeting Minutes,medium

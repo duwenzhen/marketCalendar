@@ -1,0 +1,28 @@
+time,currency,event,impact
+01:30:00,AUD,Commodity Prices y/y,low
+01:01:00,EUR,German Prelim CPI m/m,medium
+03:00:00,EUR,Spanish Unemployment Change,medium
+03:15:00,EUR,Spanish Manufacturing PMI,medium
+03:30:00,CHF,Manufacturing PMI,medium
+03:45:00,EUR,Italian Manufacturing PMI,high
+03:50:00,EUR,French Final Manufacturing PMI,low
+03:55:00,EUR,German Final Manufacturing PMI,low
+04:00:00,EUR,Final Manufacturing PMI,low
+04:00:00,EUR,Italian Monthly Unemployment Rate,low
+04:30:00,GBP,Final Manufacturing PMI,high
+04:30:00,GBP,Net Lending to Individuals m/m,medium
+04:30:00,GBP,M4 Money Supply m/m,low
+04:30:00,GBP,Mortgage Approvals,low
+05:00:00,EUR,Unemployment Rate,medium
+09:30:00,CAD,Manufacturing PMI,low
+09:30:00,NZD,GDT Price Index,low
+10:00:00,USD,Factory Orders m/m,medium
+10:00:00,USD,IBD/TIPP Economic Optimism,low
+01:01:00,USD,Total Vehicle Sales,low
+12:20:00,CAD,Gov Council Member Murray Speaks,medium
+19:01:00,GBP,BRC Shop Price Index y/y,low
+19:30:00,USD,FOMC Member Evans Speaks,medium
+20:00:00,AUD,HIA New Home Sales m/m,medium
+20:30:00,AUD,Trade Balance,high
+20:59:00,CNY,Non-Manufacturing PMI,low
+21:45:00,CNY,Caixin Services PMI,low

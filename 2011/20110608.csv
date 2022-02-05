@@ -1,0 +1,22 @@
+time,currency,event,impact
+01:00:00,JPY,Economy Watchers Sentiment,low
+01:45:00,CHF,Unemployment Rate,low
+02:00:00,EUR,German Trade Balance,low
+02:45:00,EUR,French Gov Budget Balance,low
+02:45:00,EUR,French Trade Balance,low
+01:01:00,All,OPEC Meetings,low
+05:00:00,EUR,Revised GDP q/q,low
+06:00:00,EUR,German Industrial Production m/m,medium
+08:15:00,CAD,Housing Starts,high
+10:30:00,USD,Crude Oil Inventories,medium
+13:00:00,USD,10-y Bond Auction,medium
+14:00:00,USD,Beige Book,medium
+17:00:00,NZD,Official Cash Rate,high
+17:00:00,NZD,RBNZ Press Conference,high
+17:00:00,NZD,RBNZ Rate Statement,high
+17:00:00,NZD,RBNZ Monetary Policy Statement,medium
+19:50:00,JPY,Final GDP q/q,medium
+19:50:00,JPY,Final GDP Price Index y/y,low
+21:15:00,NZD,RBNZ Gov Bollard Speaks,high
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high

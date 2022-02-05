@@ -1,0 +1,14 @@
+time,currency,event,impact
+02:45:00,EUR,French Gov Budget Balance,low
+02:45:00,EUR,French Trade Balance,low
+05:00:00,CHF,Gov Board Member Jordan Speaks,medium
+06:00:00,EUR,German Industrial Production m/m,medium
+07:00:00,CAD,Employment Change,high
+07:00:00,CAD,Unemployment Rate,high
+08:30:00,USD,Non-Farm Employment Change,high
+08:30:00,USD,Unemployment Rate,high
+08:30:00,USD,Average Hourly Earnings m/m,medium
+08:45:00,USD,FOMC Member Kroszner Speaks,medium
+10:00:00,USD,Final Wholesale Inventories m/m,low
+12:00:00,EUR,German Buba President Weber Speaks,medium
+15:00:00,USD,Consumer Credit m/m,low

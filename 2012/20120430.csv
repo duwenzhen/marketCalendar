@@ -1,0 +1,21 @@
+time,currency,event,impact
+02:00:00,EUR,German Retail Sales m/m,medium
+03:00:00,EUR,Spanish Flash GDP q/q,medium
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:00:00,EUR,Private Loans y/y,low
+05:00:00,EUR,CPI Flash Estimate y/y,medium
+05:00:00,EUR,Italian Prelim CPI m/m,low
+08:30:00,CAD,GDP m/m,high
+08:30:00,CAD,Gov Council Member Lane Speaks,medium
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+08:30:00,USD,Core PCE Price Index m/m,medium
+08:30:00,USD,Personal Spending m/m,medium
+08:30:00,USD,Personal Income m/m,low
+09:45:00,USD,Chicago PMI,medium
+14:00:00,USD,Loan Officer Survey,low
+18:45:00,NZD,Labor Cost Index q/q,medium
+19:20:00,AUD,AIG Manufacturing Index,low
+01:01:00,CNY,Bank Holiday,holiday
+20:59:00,CNY,Manufacturing PMI,high
+21:30:00,AUD,HPI q/q,medium

@@ -1,0 +1,14 @@
+time,currency,event,impact
+04:15:00,CHF,PPI m/m,medium
+04:15:00,CHF,Retail Sales y/y,medium
+08:30:00,CAD,Foreign Securities Purchases,medium
+08:30:00,USD,Empire State Manufacturing Index,medium
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+09:30:00,GBP,CB Leading Index m/m,low
+10:00:00,USD,NAHB Housing Market Index,medium
+14:45:00,EUR,ECB President Draghi Speaks,high
+16:00:00,USD,TIC Long-Term Purchases,low
+20:30:00,AUD,Monetary Policy Meeting Minutes,high
+22:00:00,CNY,Foreign Direct Investment ytd/y,low
+23:04:00,JPY,Monetary Policy Statement,high

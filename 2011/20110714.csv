@@ -1,0 +1,17 @@
+time,currency,event,impact
+01:01:00,EUR,French Bank Holiday,holiday
+04:00:00,EUR,ECB Monthly Bulletin,medium
+05:00:00,EUR,Final CPI y/y,medium
+05:00:00,EUR,Final Core CPI y/y,medium
+06:39:00,GBP,30-y Bond Auction,low
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Core PPI m/m,medium
+10:00:00,USD,Fed Chairman Bernanke Testifies,high
+10:00:00,USD,Business Inventories m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+13:00:00,USD,30-y Bond Auction,low
+19:50:00,JPY,Monetary Policy Meeting Minutes,medium
+21:50:00,CNY,Foreign Direct Investment ytd/y,low

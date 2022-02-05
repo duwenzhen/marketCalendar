@@ -1,0 +1,4 @@
+time,currency,event,impact
+01:01:00,JPY,Bank Holiday,holiday
+22:55:00,CNY,USD-Denominated Trade Balance,low
+22:58:00,CNY,Trade Balance,medium

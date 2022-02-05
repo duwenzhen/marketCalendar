@@ -1,0 +1,10 @@
+time,currency,event,impact
+02:00:00,EUR,German PPI m/m,medium
+01:01:00,EUR,Eurogroup Meetings,high
+06:00:00,EUR,German Buba Monthly Report,medium
+01:01:00,USD,Bank Holiday,holiday
+08:30:00,CAD,Wholesale Sales m/m,medium
+13:00:00,EUR,German Buba President Weidmann Speaks,medium
+22:47:00,JPY,Monetary Policy Statement,high
+22:47:00,JPY,Overnight Call Rate,high
+23:32:00,JPY,All Industries Activity m/m,low

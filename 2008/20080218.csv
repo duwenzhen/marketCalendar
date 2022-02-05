@@ -1,0 +1,10 @@
+time,currency,event,impact
+01:45:00,CNY,Foreign Direct Investment ytd/y,low
+03:15:00,CHF,Retail Sales y/y,medium
+06:00:00,EUR,German Buba Monthly Report,medium
+06:00:00,GBP,MPC Member Besley Speaks,medium
+01:01:00,USD,Bank Holiday,holiday
+14:30:00,CAD,BOC Gov Carney Speaks,high
+17:30:00,AUD,RBA Assist Gov Edey Speaks,low
+19:30:00,AUD,Monetary Policy Meeting Minutes,high
+21:00:00,CNY,CPI y/y,medium

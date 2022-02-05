@@ -1,0 +1,26 @@
+time,currency,event,impact
+02:45:00,EUR,French Final CPI m/m,low
+04:17:00,CNY,Foreign Direct Investment ytd/y,low
+05:00:00,CHF,SECO Consumer Climate,low
+05:28:00,GBP,10-y Bond Auction,low
+05:37:00,EUR,German 30-y Bond Auction,low
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Empire State Manufacturing Index,low
+09:15:00,USD,Capacity Utilization Rate,low
+09:15:00,USD,Industrial Production m/m,low
+10:00:00,CAD,BOC Monetary Policy Report,high
+10:00:00,CAD,BOC Rate Statement,high
+10:00:00,CAD,Overnight Rate,high
+10:00:00,USD,Business Inventories m/m,low
+10:00:00,USD,NAHB Housing Market Index,low
+01:01:00,All,IMF Meetings,low
+10:30:00,CAD,BOC Press Conference,high
+10:30:00,USD,Crude Oil Inventories,low
+14:00:00,USD,Beige Book,low
+16:00:00,USD,TIC Long-Term Purchases,low
+17:50:00,USD,President Trump Speaks,high
+19:01:00,GBP,BRC Retail Sales Monitor y/y,low
+21:00:00,AUD,MI Inflation Expectations,low
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high

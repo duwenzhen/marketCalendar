@@ -1,0 +1,24 @@
+time,currency,event,impact
+03:00:00,CHF,KOF Economic Barometer,medium
+03:00:00,EUR,Spanish Flash CPI y/y,medium
+01:01:00,EUR,German Prelim CPI m/m,medium
+05:22:00,EUR,Italian 10-y Bond Auction,low
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+08:30:00,USD,Final GDP q/q,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Final GDP Price Index q/q,low
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,USD,FOMC Member Kaplan Speaks,medium
+16:30:00,USD,FOMC Member Dudley Speaks,medium
+17:45:00,NZD,Building Consents m/m,low
+18:09:00,GBP,GfK Consumer Confidence,low
+19:30:00,JPY,Household Spending y/y,medium
+19:30:00,JPY,National Core CPI y/y,low
+19:30:00,JPY,Tokyo Core CPI y/y,low
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,Prelim Industrial Production m/m,low
+20:00:00,NZD,Final ANZ Business Confidence,medium
+20:30:00,AUD,Private Sector Credit m/m,low
+20:54:00,CNY,Non-Manufacturing PMI,medium
+20:59:00,CNY,Manufacturing PMI,medium

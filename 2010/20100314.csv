@@ -1,0 +1,6 @@
+time,currency,event,impact
+03:00:00,CAD,Daylight Saving Time Shift,holiday
+03:00:00,USD,Daylight Saving Time Shift,holiday
+18:00:00,AUD,RBA Assist Gov Edey Speaks,medium
+20:01:00,GBP,Rightmove HPI m/m,medium
+20:01:00,GBP,BOE Quarterly Bulletin,low

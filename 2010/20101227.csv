@@ -1,0 +1,13 @@
+time,currency,event,impact
+00:00:00,JPY,Housing Starts y/y,low
+01:01:00,GBP,Bank Holiday,holiday
+01:01:00,CAD,Bank Holiday,holiday
+01:01:00,NZD,Bank Holiday,holiday
+01:01:00,AUD,Bank Holiday,holiday
+18:30:00,JPY,Household Spending y/y,medium
+18:30:00,JPY,Tokyo Core CPI y/y,medium
+18:30:00,JPY,National Core CPI y/y,low
+18:30:00,JPY,Unemployment Rate,low
+18:50:00,JPY,Prelim Industrial Production m/m,medium
+18:50:00,JPY,Retail Sales y/y,medium
+20:30:00,JPY,Average Cash Earnings y/y,medium

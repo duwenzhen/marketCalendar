@@ -1,0 +1,13 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,medium
+02:00:00,EUR,German GfK Consumer Climate,medium
+03:30:00,GBP,MPC Member Posen Speaks,medium
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:00:00,EUR,Private Loans y/y,low
+06:00:00,GBP,CBI Realized Sales,medium
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,medium
+09:59:00,USD,Richmond Manufacturing Index,low
+10:00:00,USD,CB Consumer Confidence,high
+13:20:00,USD,FOMC Member Fisher Speaks,medium
+16:10:00,CAD,Gov Council Member Macklem Speaks,low
+20:53:00,AUD,HIA New Home Sales m/m,medium

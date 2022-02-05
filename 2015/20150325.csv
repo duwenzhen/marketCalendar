@@ -1,0 +1,10 @@
+time,currency,event,impact
+03:00:00,CHF,UBS Consumption Indicator,low
+05:00:00,EUR,German ifo Business Climate,high
+05:30:00,GBP,High Street Lending,low
+06:30:00,USD,FOMC Member Evans Speaks,medium
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,Durable Goods Orders m/m,medium
+10:00:00,CHF,SNB Quarterly Bulletin,low
+10:30:00,USD,Crude Oil Inventories,medium
+15:45:00,CAD,Gov Council Member Lane Speaks,medium

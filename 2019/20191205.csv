@@ -1,0 +1,21 @@
+time,currency,event,impact
+02:00:00,EUR,German Factory Orders m/m,low
+01:01:00,All,OPEC Meetings,high
+04:46:00,EUR,Spanish 10-y Bond Auction,low
+05:00:00,EUR,Final Employment Change q/q,low
+05:00:00,EUR,Retail Sales m/m,low
+05:00:00,EUR,Revised GDP q/q,low
+05:07:00,EUR,French 10-y Bond Auction,low
+01:01:00,EUR,ECOFIN Meetings,low
+07:30:00,USD,Challenger Job Cuts y/y,low
+08:00:00,CAD,Gov Council Member Lane Speaks,low
+08:30:00,CAD,Trade Balance,medium
+08:30:00,USD,Trade Balance,low
+08:30:00,USD,Unemployment Claims,low
+10:00:00,CAD,Ivey PMI,low
+10:00:00,USD,FOMC Member Quarles Speaks,low
+10:00:00,USD,Factory Orders m/m,low
+10:30:00,USD,Natural Gas Storage,low
+16:30:00,AUD,AIG Construction Index,low
+18:30:00,JPY,Average Cash Earnings y/y,low
+18:30:00,JPY,Household Spending y/y,low

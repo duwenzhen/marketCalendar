@@ -1,0 +1,9 @@
+time,currency,event,impact
+01:01:00,GBP,Bank Holiday,holiday
+04:00:00,EUR,German ifo Business Climate,medium
+01:01:00,All,G7 Meetings,high
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,Durable Goods Orders m/m,medium
+10:00:00,USD,FOMC Member Bullard Speaks,medium
+19:50:00,JPY,SPPI y/y,low
+22:00:00,AUD,RBA Deputy Gov Debelle Speaks,medium

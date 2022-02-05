@@ -1,0 +1,32 @@
+time,currency,event,impact
+02:00:00,GBP,Nationwide HPI m/m,medium
+03:00:00,EUR,Spanish Flash CPI y/y,low
+03:55:00,EUR,German Unemployment Change,medium
+04:10:00,GBP,MPC Member Fisher Speaks,medium
+04:30:00,GBP,BOE Credit Conditions Survey,medium
+04:30:00,GBP,Index of Services 3m/3m,low
+04:30:00,GBP,M4 Money Supply m/m,low
+04:30:00,GBP,Mortgage Approvals,low
+04:32:00,GBP,Net Lending to Individuals m/m,medium
+05:00:00,EUR,Retail PMI,low
+05:18:00,EUR,Italian 10-y Bond Auction,high
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Final GDP q/q,medium
+08:30:00,USD,Final GDP Price Index q/q,low
+10:30:00,USD,Natural Gas Storage,low
+12:15:00,USD,FOMC Member Lockhart Speaks,medium
+12:45:00,USD,Fed Chairman Bernanke Speaks,medium
+16:00:00,CAD,Annual Budget Release,medium
+17:45:00,NZD,Building Consents m/m,medium
+18:45:00,USD,FOMC Member Lacker Speaks,medium
+19:01:00,GBP,GfK Consumer Confidence,medium
+19:15:00,JPY,Final Manufacturing PMI,low
+19:30:00,JPY,Household Spending y/y,medium
+19:30:00,JPY,Tokyo Core CPI y/y,medium
+19:30:00,JPY,National Core CPI y/y,low
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,Prelim Industrial Production m/m,medium
+20:00:00,AUD,HIA New Home Sales m/m,medium
+20:30:00,AUD,Private Sector Credit m/m,medium

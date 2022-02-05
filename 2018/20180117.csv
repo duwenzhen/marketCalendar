@@ -1,0 +1,22 @@
+time,currency,event,impact
+05:00:00,EUR,Final CPI y/y,medium
+05:00:00,EUR,Final Core CPI y/y,low
+05:32:00,EUR,German 30-y Bond Auction,low
+06:45:00,GBP,MPC Member Saunders Speaks,medium
+09:15:00,USD,Capacity Utilization Rate,medium
+09:15:00,USD,Industrial Production m/m,medium
+10:00:00,CAD,BOC Monetary Policy Report,high
+10:00:00,CAD,BOC Rate Statement,high
+10:00:00,CAD,Overnight Rate,high
+10:00:00,USD,NAHB Housing Market Index,low
+11:15:00,CAD,BOC Press Conference,high
+14:00:00,USD,Beige Book,low
+16:00:00,USD,TIC Long-Term Purchases,low
+16:30:00,USD,FOMC Member Mester Speaks,medium
+19:00:00,AUD,MI Inflation Expectations,low
+19:01:00,GBP,RICS House Price Balance,low
+19:18:00,AUD,HIA New Home Sales m/m,low
+19:30:00,AUD,Employment Change,high
+19:30:00,AUD,Unemployment Rate,high
+22:45:00,JPY,30-y Bond Auction,low
+23:30:00,JPY,Revised Industrial Production m/m,low

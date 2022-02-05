@@ -1,0 +1,11 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,low
+02:00:00,GBP,Nationwide HPI m/m,low
+03:00:00,EUR,Spanish Flash CPI y/y,medium
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:00:00,EUR,Private Loans y/y,low
+05:19:00,EUR,Italian 10-y Bond Auction,low
+10:00:00,USD,Pending Home Sales m/m,medium
+10:30:00,USD,Crude Oil Inventories,medium
+01:01:00,JPY,Bank Holiday,holiday
+19:30:00,AUD,Private Sector Credit m/m,low

@@ -1,0 +1,15 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,medium
+06:00:00,GBP,CBI Realized Sales,high
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,medium
+09:59:00,USD,Richmond Manufacturing Index,low
+10:00:00,USD,CB Consumer Confidence,high
+12:35:00,USD,FOMC Member Yellen Speaks,medium
+16:45:00,USD,Treasury Sec Geithner Speaks,high
+17:20:00,USD,Treasury Sec Geithner Speaks,medium
+18:00:00,USD,Fed Chairman Bernanke Speaks,medium
+18:45:00,NZD,Building Consents m/m,high
+19:00:00,USD,Treasury Sec Geithner Speaks,medium
+19:50:00,JPY,Retail Sales y/y,medium
+21:06:00,AUD,HIA New Home Sales m/m,medium
+23:00:00,NZD,Final ANZ Business Confidence,high

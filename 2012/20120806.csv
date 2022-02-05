@@ -1,0 +1,10 @@
+time,currency,event,impact
+01:00:00,JPY,Leading Indicators,low
+03:00:00,GBP,Halifax HPI m/m,medium
+04:30:00,EUR,Sentix Investor Confidence,medium
+01:01:00,CAD,Bank Holiday,holiday
+09:00:00,USD,Fed Chairman Bernanke Speaks,high
+14:00:00,USD,Loan Officer Survey,low
+18:45:00,NZD,Labor Cost Index q/q,medium
+19:00:00,GBP,BRC Retail Sales Monitor y/y,medium
+19:30:00,AUD,AIG Construction Index,low

@@ -1,0 +1,13 @@
+time,currency,event,impact
+01:01:00,EUR,French Bank Holiday,holiday
+04:45:00,USD,FOMC Member Dudley Speaks,low
+05:30:00,AUD,Annual Budget Release,high
+06:00:00,EUR,German Industrial Production m/m,medium
+07:30:00,USD,NFIB Small Business Index,low
+08:13:00,CAD,Housing Starts,medium
+08:30:00,EUR,ECB President Draghi Speaks,medium
+09:45:00,USD,FOMC Member Lacker Speaks,medium
+10:00:00,USD,IBD/TIPP Economic Optimism,low
+10:00:00,USD,JOLTS Job Openings,low
+17:00:00,NZD,RBNZ Financial Stability Report,high
+19:01:00,GBP,BRC Retail Sales Monitor y/y,medium

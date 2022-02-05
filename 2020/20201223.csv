@@ -1,0 +1,18 @@
+time,currency,event,impact
+02:00:00,EUR,German Import Prices m/m,low
+08:30:00,CAD,GDP m/m,medium
+08:30:00,USD,Core Durable Goods Orders m/m,low
+08:30:00,USD,Core PCE Price Index m/m,low
+08:30:00,USD,Durable Goods Orders m/m,low
+08:30:00,USD,Personal Income m/m,low
+08:30:00,USD,Personal Spending m/m,low
+08:30:00,USD,Unemployment Claims,low
+09:00:00,CHF,SNB Quarterly Bulletin,low
+09:00:00,USD,HPI m/m,low
+10:00:00,USD,New Home Sales,low
+10:00:00,USD,Revised UoM Consumer Sentiment,low
+10:00:00,USD,Revised UoM Inflation Expectations,low
+10:30:00,USD,Crude Oil Inventories,low
+12:00:00,USD,Natural Gas Storage,low
+18:50:00,JPY,SPPI y/y,low
+23:55:00,JPY,BOJ Gov Kuroda Speaks,low

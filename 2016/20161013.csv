@@ -1,0 +1,16 @@
+time,currency,event,impact
+00:23:00,AUD,RBA Annual Report,low
+00:30:00,JPY,Tertiary Industry Activity m/m,low
+02:00:00,EUR,German Final CPI m/m,low
+06:29:00,CNY,Foreign Direct Investment ytd/y,low
+08:30:00,CAD,NHPI m/m,medium
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Import Prices m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,USD,Crude Oil Inventories,high
+13:01:00,USD,30-y Bond Auction,low
+19:50:00,JPY,M2 Money Stock y/y,low
+19:50:00,JPY,PPI y/y,low
+20:30:00,AUD,RBA Financial Stability Review,medium
+21:30:00,CNY,CPI y/y,medium
+21:30:00,CNY,PPI y/y,medium

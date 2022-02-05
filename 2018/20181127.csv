@@ -1,0 +1,13 @@
+time,currency,event,impact
+00:00:00,JPY,BOJ Core CPI y/y,low
+06:00:00,GBP,CBI Realized Sales,low
+08:30:00,USD,FOMC Member Clarida Speaks,medium
+09:00:00,USD,HPI m/m,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+10:00:00,USD,CB Consumer Confidence,high
+14:30:00,USD,FOMC Member Bostic Speaks,medium
+15:00:00,NZD,RBNZ Financial Stability Report,high
+17:00:00,NZD,RBNZ Gov Orr Speaks,high
+19:00:00,NZD,RBNZ Gov Orr Speaks,high
+19:01:00,GBP,BRC Shop Price Index y/y,low
+19:30:00,AUD,Construction Work Done q/q,medium

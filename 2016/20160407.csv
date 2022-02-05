@@ -1,0 +1,16 @@
+time,currency,event,impact
+02:45:00,EUR,French Trade Balance,low
+03:00:00,CHF,Foreign Currency Reserves,medium
+03:30:00,GBP,Halifax HPI m/m,medium
+04:46:00,EUR,Spanish 10-y Bond Auction,low
+04:59:00,EUR,French 10-y Bond Auction,low
+05:33:00,GBP,10-y Bond Auction,low
+07:30:00,EUR,ECB Monetary Policy Meeting Accounts,medium
+08:30:00,CAD,Building Permits m/m,medium
+08:30:00,USD,Unemployment Claims,high
+10:00:00,EUR,ECB President Draghi Speaks,high
+10:30:00,USD,Natural Gas Storage,low
+15:00:00,USD,Consumer Credit m/m,low
+17:30:00,USD,Fed Chair Yellen Speaks,high
+19:50:00,JPY,Current Account,medium
+20:15:00,USD,FOMC Member George Speaks,medium

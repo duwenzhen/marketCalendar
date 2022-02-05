@@ -1,0 +1,10 @@
+time,currency,event,impact
+05:00:00,EUR,German ZEW Economic Sentiment,medium
+05:00:00,EUR,Trade Balance,low
+05:00:00,EUR,ZEW Economic Sentiment,low
+06:00:00,EUR,ECB President Trichet Speaks,low
+09:15:00,USD,Treasury Sec Paulson Speaks,low
+10:00:00,USD,Richmond Manufacturing Index,low
+18:00:00,USD,Fed Chairman Bernanke Speaks,medium
+19:50:00,JPY,All Industries Activity m/m,low
+20:30:00,AUD,MI Leading Index m/m,low

@@ -1,0 +1,6 @@
+time,currency,event,impact
+01:01:00,JPY,Bank Holiday,holiday
+20:30:00,AUD,MI Inflation Gauge m/m,low
+21:30:00,AUD,Retail Sales m/m,high
+21:30:00,AUD,ANZ Job Advertisements m/m,medium
+21:45:00,CNY,Caixin Services PMI,low

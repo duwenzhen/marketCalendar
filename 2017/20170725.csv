@@ -1,0 +1,17 @@
+time,currency,event,impact
+02:00:00,EUR,German Import Prices m/m,low
+04:00:00,EUR,German ifo Business Climate,medium
+05:34:00,GBP,30-y Bond Auction,low
+06:00:00,GBP,CBI Industrial Order Expectations,low
+08:59:00,EUR,Belgian NBB Business Climate,low
+09:00:00,USD,HPI m/m,low
+09:00:00,USD,S&P/CS Composite-20 HPI y/y,low
+09:59:00,USD,Richmond Manufacturing Index,low
+10:00:00,USD,CB Consumer Confidence,high
+13:00:00,GBP,MPC Member Haldane Speaks,medium
+16:15:00,NZD,RBNZ Assist Gov McDermott Speaks,high
+18:45:00,NZD,Trade Balance,medium
+19:50:00,JPY,SPPI y/y,low
+21:30:00,AUD,CPI q/q,high
+21:30:00,AUD,Trimmed Mean CPI q/q,high
+23:05:00,AUD,RBA Gov Lowe Speaks,high

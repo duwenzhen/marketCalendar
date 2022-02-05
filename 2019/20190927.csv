@@ -1,0 +1,14 @@
+time,currency,event,impact
+02:00:00,EUR,German Import Prices m/m,low
+02:45:00,EUR,French Consumer Spending m/m,low
+02:45:00,EUR,French Prelim CPI m/m,low
+03:00:00,GBP,MPC Member Saunders Speaks,medium
+05:16:00,EUR,Italian 10-y Bond Auction,low
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,Personal Spending m/m,high
+08:30:00,USD,Core PCE Price Index m/m,medium
+08:30:00,USD,Durable Goods Orders m/m,medium
+08:30:00,USD,FOMC Member Quarles Speaks,medium
+08:30:00,USD,Personal Income m/m,low
+10:00:00,USD,Revised UoM Consumer Sentiment,low
+10:00:00,USD,Revised UoM Inflation Expectations,low

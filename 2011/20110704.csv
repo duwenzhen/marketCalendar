@@ -1,0 +1,17 @@
+time,currency,event,impact
+03:00:00,EUR,Spanish Unemployment Change,medium
+03:15:00,CHF,Retail Sales y/y,high
+04:30:00,EUR,Sentix Investor Confidence,low
+04:30:00,GBP,Construction PMI,high
+04:30:00,GBP,Housing Equity Withdrawal q/q,low
+05:00:00,EUR,PPI m/m,low
+01:01:00,USD,Bank Holiday,holiday
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+09:30:00,CAD,Manufacturing PMI,low
+18:00:00,NZD,NZIER Business Confidence,high
+19:30:00,AUD,AIG Services Index,medium
+21:30:00,AUD,Trade Balance,high
+21:30:00,JPY,Average Cash Earnings y/y,medium
+22:30:00,CNY,Caixin Services PMI,low
+23:45:00,JPY,10-y Bond Auction,low

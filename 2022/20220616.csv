@@ -1,0 +1,25 @@
+time,currency,event,impact
+00:30:00,CHF,SNB Financial Stability Report,low
+00:30:00,JPY,Tertiary Industry Activity m/m,low
+03:30:00,CHF,SNB Monetary Policy Assessment,high
+03:30:00,CHF,SNB Policy Rate,medium
+04:30:00,CHF,SNB Press Conference,high
+05:00:00,EUR,ZEW Economic Sentiment,medium
+05:00:00,EUR,German ZEW Economic Sentiment,medium
+01:01:00,EUR,Eurogroup Meetings,low
+07:00:00,GBP,Asset Purchase Facility,high
+07:00:00,GBP,MPC Asset Purchase Facility Votes,high
+07:00:00,GBP,MPC Official Bank Rate Votes,high
+07:00:00,GBP,Monetary Policy Summary,high
+07:00:00,GBP,Official Bank Rate,high
+08:30:00,CAD,ADP Non-Farm Employment Change,low
+08:30:00,CAD,Wholesale Sales m/m,low
+08:30:00,USD,Philly Fed Manufacturing Index,medium
+08:30:00,USD,Unemployment Claims,medium
+08:30:00,USD,Building Permits,low
+08:30:00,USD,Housing Starts,low
+10:30:00,USD,Natural Gas Storage,low
+18:30:00,NZD,BusinessNZ Manufacturing Index,low
+19:30:00,JPY,National Core CPI y/y,low
+01:01:00,JPY,Monetary Policy Statement,medium
+01:01:00,JPY,BOJ Policy Rate,low

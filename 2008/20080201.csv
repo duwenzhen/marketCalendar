@@ -1,0 +1,19 @@
+time,currency,event,impact
+00:30:00,AUD,Commodity Prices y/y,medium
+03:15:00,EUR,Spanish Manufacturing PMI,low
+03:30:00,CHF,Manufacturing PMI,medium
+03:45:00,EUR,Italian Manufacturing PMI,low
+04:00:00,EUR,Final Manufacturing PMI,low
+01:01:00,All,OPEC Meetings,medium
+04:30:00,GBP,Final Manufacturing PMI,medium
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+08:30:00,USD,Non-Farm Employment Change,high
+08:30:00,USD,Unemployment Rate,high
+08:30:00,USD,Average Hourly Earnings m/m,medium
+10:00:00,USD,ISM Manufacturing PMI,high
+10:00:00,USD,Revised UoM Consumer Sentiment,medium
+10:00:00,USD,Construction Spending m/m,low
+10:00:00,USD,ISM Manufacturing Prices,low
+10:00:00,USD,Revised UoM Inflation Expectations,low
+01:01:00,USD,Total Vehicle Sales,low

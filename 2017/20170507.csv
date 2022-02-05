@@ -1,0 +1,7 @@
+time,currency,event,impact
+01:01:00,EUR,French Presidential Election,high
+21:30:00,AUD,Building Approvals m/m,medium
+21:30:00,AUD,NAB Business Confidence,medium
+21:30:00,AUD,ANZ Job Advertisements m/m,low
+23:21:00,CNY,Trade Balance,high
+23:40:00,CNY,USD-Denominated Trade Balance,low

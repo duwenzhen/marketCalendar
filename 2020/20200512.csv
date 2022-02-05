@@ -1,0 +1,20 @@
+time,currency,event,impact
+01:00:00,JPY,Leading Indicators,low
+06:00:00,USD,NFIB Small Business Index,low
+08:30:00,USD,CPI m/m,high
+08:30:00,USD,Core CPI m/m,high
+10:00:00,USD,FOMC Member Harker Speaks,low
+10:00:00,USD,FOMC Member Quarles Speaks,low
+10:00:00,USD,Mortgage Delinquencies,low
+13:01:00,USD,10-y Bond Auction,low
+14:00:00,USD,Federal Budget Balance,low
+17:00:00,USD,FOMC Member Mester Speaks,low
+19:01:00,GBP,BRC Retail Sales Monitor y/y,low
+19:50:00,JPY,Bank Lending y/y,low
+19:50:00,JPY,Current Account,low
+20:30:00,AUD,Westpac Consumer Sentiment,low
+21:30:00,AUD,Wage Price Index q/q,medium
+22:00:00,NZD,Official Cash Rate,high
+22:00:00,NZD,RBNZ Monetary Policy Statement,high
+22:00:00,NZD,RBNZ Rate Statement,high
+23:00:00,NZD,RBNZ Press Conference,high

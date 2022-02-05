@@ -1,0 +1,19 @@
+time,currency,event,impact
+00:30:00,AUD,Cash Rate,high
+00:30:00,AUD,RBA Rate Statement,high
+01:45:00,CHF,GDP q/q,medium
+01:01:00,EUR,Italian Bank Holiday,holiday
+03:00:00,EUR,Spanish Unemployment Change,low
+03:30:00,CHF,Manufacturing PMI,medium
+04:30:00,GBP,Construction PMI,medium
+04:30:00,GBP,Net Lending to Individuals m/m,medium
+04:30:00,GBP,Mortgage Approvals,low
+05:00:00,EUR,Unemployment Rate,medium
+10:00:00,USD,Pending Home Sales m/m,high
+10:30:00,NZD,GDT Price Index,low
+01:01:00,USD,Total Vehicle Sales,low
+19:01:00,GBP,Nationwide Consumer Confidence,medium
+19:01:00,GBP,BRC Shop Price Index y/y,low
+19:30:00,AUD,AIG Services Index,low
+21:00:00,CNY,Non-Manufacturing PMI,low
+21:30:00,AUD,GDP q/q,high

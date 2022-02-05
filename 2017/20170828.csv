@@ -1,0 +1,9 @@
+time,currency,event,impact
+01:01:00,GBP,Bank Holiday,holiday
+04:00:00,EUR,M3 Money Supply y/y,medium
+04:00:00,EUR,Private Loans y/y,low
+08:30:00,USD,Goods Trade Balance,low
+08:30:00,USD,Prelim Wholesale Inventories m/m,low
+19:30:00,JPY,Household Spending y/y,low
+19:30:00,JPY,Unemployment Rate,low
+21:07:00,AUD,HIA New Home Sales m/m,low

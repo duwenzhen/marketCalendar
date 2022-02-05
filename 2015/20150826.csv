@@ -1,0 +1,9 @@
+time,currency,event,impact
+02:00:00,CHF,UBS Consumption Indicator,low
+04:30:00,GBP,High Street Lending,low
+06:00:00,GBP,CBI Realized Sales,low
+08:30:00,USD,Core Durable Goods Orders m/m,high
+08:30:00,USD,Durable Goods Orders m/m,medium
+10:00:00,USD,FOMC Member Dudley Speaks,high
+10:30:00,USD,Crude Oil Inventories,medium
+21:30:00,AUD,Private Capital Expenditure q/q,high

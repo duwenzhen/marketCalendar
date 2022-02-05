@@ -1,0 +1,19 @@
+time,currency,event,impact
+03:00:00,EUR,German Import Prices m/m,low
+05:00:00,CHF,Credit Suisse Economic Expectations,low
+06:03:00,GBP,10-y Bond Auction,low
+08:30:00,USD,Goods Trade Balance,low
+08:30:00,USD,Prelim Wholesale Inventories m/m,low
+10:00:00,CAD,BOC Monetary Policy Report,high
+10:00:00,CAD,BOC Rate Statement,high
+10:00:00,CAD,Overnight Rate,medium
+10:30:00,USD,Crude Oil Inventories,low
+11:00:00,CAD,BOC Press Conference,high
+18:00:00,USD,FOMC Member Kaplan Speaks,low
+19:50:00,JPY,Retail Sales y/y,low
+20:00:00,NZD,Final ANZ Business Confidence,low
+20:30:00,AUD,Import Prices q/q,low
+20:30:00,AUD,NAB Quarterly Business Confidence,low
+23:12:00,JPY,BOJ Outlook Report,high
+23:12:00,JPY,Monetary Policy Statement,high
+23:12:00,JPY,BOJ Policy Rate,low

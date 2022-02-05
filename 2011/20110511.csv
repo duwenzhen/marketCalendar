@@ -1,0 +1,22 @@
+time,currency,event,impact
+01:00:00,JPY,Leading Indicators,low
+02:00:00,EUR,German Final CPI m/m,low
+02:00:00,EUR,German WPI m/m,low
+04:30:00,GBP,Goods Trade Balance,medium
+05:30:00,GBP,BOE Gov King Speaks,high
+05:30:00,GBP,BOE Monetary Policy Report,high
+08:30:00,CAD,Trade Balance,high
+08:30:00,USD,Trade Balance,high
+10:00:00,USD,JOLTS Job Openings,low
+10:30:00,USD,Crude Oil Inventories,medium
+13:00:00,USD,FOMC Member Kocherlakota Speaks,medium
+14:00:00,USD,10-y Bond Auction,medium
+14:00:00,USD,Federal Budget Balance,medium
+18:16:00,NZD,BusinessNZ Manufacturing Index,low
+18:45:00,NZD,FPI m/m,low
+19:50:00,JPY,Bank Lending y/y,low
+19:50:00,JPY,M2 Money Stock y/y,low
+19:55:00,JPY,Current Account,low
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high
+23:45:00,JPY,10-y Bond Auction,low

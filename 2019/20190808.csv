@@ -1,0 +1,16 @@
+time,currency,event,impact
+01:00:00,JPY,Economy Watchers Sentiment,low
+04:00:00,EUR,ECB Economic Bulletin,low
+08:30:00,CAD,NHPI m/m,low
+08:30:00,USD,Unemployment Claims,low
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:30:00,USD,Natural Gas Storage,low
+13:01:00,USD,30-y Bond Auction,low
+18:45:00,NZD,Visitor Arrivals m/m,low
+19:30:00,AUD,RBA Gov Lowe Speaks,high
+19:50:00,JPY,M2 Money Stock y/y,low
+19:50:00,JPY,Prelim GDP Price Index y/y,low
+19:50:00,JPY,Prelim GDP q/q,low
+21:30:00,AUD,RBA Monetary Policy Statement,high
+21:30:00,CNY,CPI y/y,medium
+21:30:00,CNY,PPI y/y,low

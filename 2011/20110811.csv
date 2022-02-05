@@ -1,0 +1,11 @@
+time,currency,event,impact
+02:00:00,EUR,German WPI m/m,low
+04:00:00,EUR,ECB Monthly Bulletin,medium
+05:00:00,GBP,CB Leading Index m/m,low
+08:00:00,GBP,Chancellor Osborne Speaks,low
+08:30:00,CAD,Trade Balance,high
+08:30:00,CAD,NHPI m/m,medium
+08:30:00,USD,Trade Balance,high
+08:30:00,USD,Unemployment Claims,high
+10:30:00,USD,Natural Gas Storage,low
+13:00:00,USD,30-y Bond Auction,low

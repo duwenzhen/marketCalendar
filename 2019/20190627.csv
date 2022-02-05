@@ -1,0 +1,17 @@
+time,currency,event,impact
+03:00:00,EUR,Spanish Flash CPI y/y,low
+01:01:00,EUR,German Prelim CPI m/m,medium
+05:16:00,EUR,Italian 10-y Bond Auction,low
+08:30:00,USD,Final GDP q/q,high
+08:30:00,USD,Final GDP Price Index q/q,low
+08:30:00,USD,Unemployment Claims,low
+10:00:00,USD,Pending Home Sales m/m,low
+10:30:00,USD,Natural Gas Storage,low
+16:30:00,USD,Bank Stress Test Results,low
+19:01:00,GBP,GfK Consumer Confidence,low
+19:30:00,JPY,Tokyo Core CPI y/y,low
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,BOJ Summary of Opinions,low
+19:50:00,JPY,Prelim Industrial Production m/m,low
+01:01:00,All,G20 Meetings,high
+21:30:00,AUD,Private Sector Credit m/m,low

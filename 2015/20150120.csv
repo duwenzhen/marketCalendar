@@ -1,0 +1,14 @@
+time,currency,event,impact
+02:00:00,EUR,German PPI m/m,low
+04:03:00,EUR,Italian Trade Balance,low
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,ZEW Economic Sentiment,medium
+08:30:00,CAD,Manufacturing Sales m/m,high
+09:34:00,NZD,GDT Price Index,high
+10:00:00,USD,FOMC Member Powell Speaks,medium
+10:00:00,USD,NAHB Housing Market Index,medium
+16:45:00,NZD,CPI q/q,high
+18:30:00,AUD,Westpac Consumer Sentiment,medium
+21:00:00,USD,President Obama Speaks,low
+22:29:00,JPY,Monetary Policy Statement,high
+23:30:00,JPY,All Industries Activity m/m,low

@@ -1,0 +1,12 @@
+time,currency,event,impact
+01:00:00,JPY,Economy Watchers Sentiment,low
+03:00:00,GBP,Halifax HPI m/m,high
+07:30:00,USD,NFIB Small Business Index,low
+08:15:00,CAD,Housing Starts,high
+10:00:00,USD,Pending Home Sales m/m,high
+10:00:00,USD,IBD/TIPP Economic Optimism,low
+10:00:00,USD,JOLTS Job Openings,low
+14:00:00,USD,FOMC Meeting Minutes,high
+19:01:00,GBP,Nationwide Consumer Confidence,medium
+20:30:00,AUD,Westpac Consumer Sentiment,medium
+23:25:00,JPY,Overnight Call Rate,medium

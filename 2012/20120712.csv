@@ -1,0 +1,22 @@
+time,currency,event,impact
+01:30:00,EUR,French Final CPI m/m,low
+02:00:00,EUR,German WPI m/m,low
+03:31:00,JPY,BOJ Press Conference,high
+04:00:00,CNY,New Loans,medium
+04:00:00,CNY,M2 Money Supply y/y,low
+04:00:00,EUR,ECB Monthly Bulletin,medium
+05:00:00,EUR,Industrial Production m/m,medium
+05:35:00,GBP,10-y Bond Auction,medium
+08:00:00,EUR,ECB President Draghi Speaks,medium
+08:30:00,CAD,NHPI m/m,medium
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Import Prices m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+13:00:00,USD,30-y Bond Auction,low
+13:54:00,USD,Federal Budget Balance,medium
+15:40:00,USD,FOMC Member Williams Speaks,medium
+22:00:00,CNY,GDP q/y,high
+22:00:00,CNY,Fixed Asset Investment ytd/y,medium
+22:00:00,CNY,Industrial Production y/y,medium
+22:00:00,CNY,NBS Press Conference,medium
+22:00:00,CNY,Retail Sales y/y,low

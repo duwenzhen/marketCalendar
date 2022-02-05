@@ -1,0 +1,11 @@
+time,currency,event,impact
+02:00:00,CHF,Trade Balance,low
+06:00:00,GBP,CBI Realized Sales,low
+01:01:00,CAD,Bank Holiday,holiday
+09:00:00,EUR,Belgian NBB Business Climate,low
+01:01:00,GBP,Monetary Policy Report Hearings,high
+18:45:00,NZD,Core Retail Sales q/q,low
+18:45:00,NZD,Retail Sales q/q,low
+18:45:00,NZD,Trade Balance,low
+01:01:00,AUD,Parliamentary Elections,high
+23:00:00,NZD,Credit Card Spending y/y,low

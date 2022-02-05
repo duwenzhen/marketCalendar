@@ -1,0 +1,17 @@
+time,currency,event,impact
+03:00:00,EUR,Spanish Unemployment Change,medium
+03:55:00,EUR,German Unemployment Change,medium
+04:30:00,GBP,Construction PMI,medium
+05:00:00,EUR,CPI Flash Estimate y/y,medium
+08:00:00,USD,FOMC Member Hoenig Speaks,medium
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+08:30:00,NZD,GDT Price Index,low
+10:00:00,USD,Pending Home Sales m/m,high
+10:00:00,USD,Factory Orders m/m,medium
+01:01:00,USD,Total Vehicle Sales,low
+17:30:00,AUD,AIG Services Index,medium
+19:01:00,GBP,Nationwide Consumer Confidence,medium
+19:01:00,GBP,BRC Shop Price Index y/y,low
+19:30:00,AUD,Building Approvals m/m,high
+22:45:00,JPY,10-y Bond Auction,low

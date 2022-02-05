@@ -1,0 +1,19 @@
+time,currency,event,impact
+03:00:00,CHF,SECO Economic Forecasts,low
+03:02:00,CNY,Foreign Direct Investment ytd/y,low
+04:03:00,EUR,Italian Trade Balance,low
+04:49:00,EUR,Spanish 10-y Bond Auction,low
+05:00:00,EUR,Trade Balance,low
+08:00:00,EUR,ECB President Lagarde Speaks,medium
+08:13:00,CAD,Housing Starts,low
+08:30:00,CAD,ADP Non-Farm Employment Change,low
+08:30:00,CAD,Foreign Securities Purchases,low
+08:30:00,CAD,Wholesale Sales m/m,low
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Philly Fed Manufacturing Index,medium
+08:30:00,USD,Unemployment Claims,medium
+10:00:00,USD,Business Inventories m/m,low
+10:30:00,USD,Natural Gas Storage,low
+16:00:00,USD,TIC Long-Term Purchases,low
+18:30:00,NZD,BusinessNZ Manufacturing Index,low

@@ -1,0 +1,21 @@
+time,currency,event,impact
+04:00:00,EUR,Italian Industrial Production m/m,low
+05:00:00,CNY,M2 Money Supply y/y,low
+05:00:00,CNY,New Loans,low
+05:00:00,EUR,Industrial Production m/m,low
+05:00:00,EUR,Italian Quarterly Unemployment Rate,low
+05:35:00,EUR,German 30-y Bond Auction,low
+08:30:00,CAD,Capacity Utilization Rate,low
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Core PPI m/m,medium
+10:30:00,USD,Crude Oil Inventories,high
+12:45:00,USD,FOMC Member Brainard Speaks,medium
+13:01:00,USD,10-y Bond Auction,low
+14:00:00,USD,Beige Book,low
+18:45:00,NZD,FPI m/m,low
+19:01:00,GBP,RICS House Price Balance,low
+19:50:00,JPY,Core Machinery Orders m/m,low
+19:50:00,JPY,PPI y/y,low
+21:00:00,AUD,MI Inflation Expectations,low
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high

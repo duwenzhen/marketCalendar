@@ -1,0 +1,21 @@
+time,currency,event,impact
+02:00:00,EUR,German Factory Orders m/m,low
+03:15:00,CHF,CPI m/m,medium
+04:10:00,EUR,Retail PMI,low
+04:37:00,GBP,Housing Equity Withdrawal q/q,low
+04:58:00,EUR,French 10-y Bond Auction,low
+05:36:00,GBP,10-y Bond Auction,low
+07:30:00,EUR,ECB Monetary Policy Meeting Accounts,medium
+07:30:00,USD,Challenger Job Cuts y/y,low
+08:15:00,USD,ADP Non-Farm Employment Change,high
+08:30:00,CAD,Trade Balance,high
+08:30:00,CAD,Building Permits m/m,medium
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Trade Balance,medium
+09:45:00,USD,Final Services PMI,low
+10:00:00,USD,ISM Services PMI,high
+10:00:00,USD,FOMC Member Powell Speaks,medium
+11:00:00,USD,Crude Oil Inventories,high
+19:30:00,AUD,AIG Construction Index,low
+19:30:00,USD,FOMC Member Fischer Speaks,medium
+20:00:00,JPY,Average Cash Earnings y/y,low

@@ -1,0 +1,6 @@
+time,currency,event,impact
+01:01:00,All,IMF Meetings,medium
+17:45:00,NZD,FPI m/m,low
+18:52:00,NZD,REINZ HPI m/m,low
+01:01:00,JPY,Bank Holiday,holiday
+22:00:00,CNY,USD-Denominated Trade Balance,high

@@ -1,0 +1,16 @@
+time,currency,event,impact
+04:00:00,EUR,German ifo Business Climate,high
+04:00:00,EUR,Current Account,medium
+04:00:00,EUR,Italian Retail Sales m/m,low
+06:00:00,GBP,CBI Realized Sales,high
+10:00:00,USD,Existing Home Sales,high
+10:00:00,USD,Fed Chairman Bernanke Testifies,high
+10:35:00,USD,Crude Oil Inventories,medium
+14:30:00,USD,Fed Chairman Bernanke Testifies,high
+16:45:00,GBP,MPC Member Sentance Speaks,medium
+19:50:00,JPY,SPPI y/y,low
+19:50:00,JPY,Trade Balance,low
+20:00:00,AUD,CB Leading Index m/m,low
+21:00:00,USD,President Bush Speaks,low
+21:30:00,AUD,RBA Financial Stability Review,medium
+22:00:00,AUD,HIA New Home Sales m/m,medium

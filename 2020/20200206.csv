@@ -1,0 +1,19 @@
+time,currency,event,impact
+02:00:00,EUR,German Factory Orders m/m,low
+03:00:00,EUR,ECB President Lagarde Speaks,high
+04:00:00,EUR,ECB Economic Bulletin,low
+04:49:00,EUR,Spanish 10-y Bond Auction,low
+05:07:00,EUR,French 10-y Bond Auction,low
+07:30:00,USD,Challenger Job Cuts y/y,low
+08:30:00,USD,Prelim Nonfarm Productivity q/q,low
+08:30:00,USD,Prelim Unit Labor Costs q/q,low
+08:30:00,USD,Unemployment Claims,low
+09:15:00,USD,FOMC Member Kaplan Speaks,low
+10:30:00,USD,Natural Gas Storage,low
+17:21:00,AUD,AIG Services Index,low
+17:30:00,AUD,RBA Gov Lowe Speaks,high
+18:30:00,JPY,Average Cash Earnings y/y,low
+18:30:00,JPY,Household Spending y/y,low
+19:15:00,USD,FOMC Member Quarles Speaks,low
+19:30:00,AUD,RBA Monetary Policy Statement,high
+21:00:00,NZD,Inflation Expectations q/q,high

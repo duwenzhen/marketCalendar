@@ -1,0 +1,9 @@
+time,currency,event,impact
+01:00:00,JPY,Prelim Machine Tool Orders y/y,low
+05:00:00,EUR,Trade Balance,low
+01:01:00,USD,Bank Holiday,holiday
+13:15:00,GBP,MPC Member Tenreyro Speaks,medium
+16:00:00,NZD,NZIER Business Confidence,medium
+18:50:00,JPY,PPI y/y,low
+19:30:00,AUD,New Motor Vehicle Sales m/m,low
+23:30:00,JPY,Tertiary Industry Activity m/m,low

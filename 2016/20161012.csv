@@ -1,0 +1,20 @@
+time,currency,event,impact
+01:58:00,JPY,Prelim Machine Tool Orders y/y,low
+02:00:00,EUR,German WPI m/m,low
+02:45:00,EUR,French Final CPI m/m,low
+03:39:00,CHF,Gov Board Member Zurbrugg Speaks,medium
+05:00:00,CHF,Credit Suisse Economic Expectations,low
+05:00:00,EUR,Industrial Production m/m,low
+05:00:00,GBP,MPC Member Cunliffe Speaks,medium
+08:00:00,USD,FOMC Member Dudley Speaks,medium
+09:40:00,USD,FOMC Member George Speaks,medium
+10:00:00,USD,JOLTS Job Openings,medium
+13:01:00,USD,10-y Bond Auction,low
+14:00:00,USD,FOMC Meeting Minutes,high
+17:30:00,NZD,BusinessNZ Manufacturing Index,low
+17:45:00,NZD,FPI m/m,low
+19:01:00,GBP,RICS House Price Balance,low
+19:50:00,JPY,Bank Lending y/y,low
+20:00:00,AUD,MI Inflation Expectations,low
+22:00:00,CNY,Trade Balance,high
+22:23:00,CNY,USD-Denominated Trade Balance,low

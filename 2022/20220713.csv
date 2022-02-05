@@ -1,0 +1,26 @@
+time,currency,event,impact
+00:30:00,JPY,Revised Industrial Production m/m,low
+02:00:00,GBP,Construction Output m/m,low
+02:00:00,GBP,GDP m/m,low
+02:00:00,GBP,Goods Trade Balance,low
+02:00:00,GBP,Index of Services 3m/3m,low
+02:00:00,GBP,Industrial Production m/m,low
+02:00:00,GBP,Manufacturing Production m/m,low
+05:00:00,EUR,Industrial Production m/m,low
+01:01:00,EUR,ECOFIN Meetings,low
+01:01:00,EUR,German 10-y Bond Auction,low
+08:30:00,USD,CPI m/m,high
+08:30:00,USD,Core CPI m/m,high
+01:01:00,GBP,NIESR GDP Estimate,low
+10:00:00,CAD,BOC Monetary Policy Report,high
+10:00:00,CAD,BOC Rate Statement,high
+10:00:00,CAD,Overnight Rate,high
+10:30:00,USD,Crude Oil Inventories,medium
+11:00:00,CAD,BOC Press Conference,high
+13:01:00,USD,30-y Bond Auction,medium
+14:00:00,USD,Beige Book,low
+14:00:00,USD,Federal Budget Balance,low
+19:50:00,JPY,Core Machinery Orders m/m,low
+21:00:00,AUD,MI Inflation Expectations,low
+21:30:00,AUD,Employment Change,high
+21:30:00,AUD,Unemployment Rate,high

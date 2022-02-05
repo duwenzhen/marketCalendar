@@ -1,0 +1,16 @@
+time,currency,event,impact
+01:01:00,EUR,German Prelim CPI m/m,low
+03:00:00,CHF,KOF Economic Barometer,low
+03:00:00,EUR,Spanish Flash CPI y/y,low
+01:01:00,GBP,Bank Holiday,holiday
+08:30:00,CAD,Current Account,low
+10:00:00,USD,Pending Home Sales m/m,medium
+18:45:00,NZD,Building Consents m/m,low
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,Prelim Industrial Production m/m,low
+21:00:00,CNY,Manufacturing PMI,medium
+21:00:00,CNY,Non-Manufacturing PMI,low
+21:00:00,NZD,Final ANZ Business Confidence,low
+21:30:00,AUD,Building Approvals m/m,low
+21:30:00,AUD,Current Account,low
+21:30:00,AUD,Private Sector Credit m/m,low

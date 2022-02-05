@@ -1,0 +1,20 @@
+time,currency,event,impact
+01:01:00,CHF,Bank Holiday,holiday
+01:01:00,EUR,French Bank Holiday,holiday
+01:01:00,EUR,German Bank Holiday,holiday
+05:21:00,EUR,Italian 10-y Bond Auction,medium
+08:30:00,CAD,Current Account,medium
+08:30:00,USD,Prelim GDP q/q,high
+08:30:00,USD,Unemployment Claims,high
+08:30:00,USD,Prelim GDP Price Index q/q,low
+10:00:00,USD,Pending Home Sales m/m,high
+10:30:00,USD,Natural Gas Storage,low
+11:00:00,USD,Crude Oil Inventories,medium
+18:15:00,GBP,GfK Consumer Confidence,low
+18:45:00,NZD,Building Consents m/m,medium
+19:30:00,JPY,Household Spending y/y,medium
+19:30:00,JPY,National Core CPI y/y,medium
+19:30:00,JPY,Tokyo Core CPI y/y,medium
+19:30:00,JPY,Unemployment Rate,low
+19:50:00,JPY,Prelim Industrial Production m/m,medium
+21:30:00,AUD,Private Sector Credit m/m,low

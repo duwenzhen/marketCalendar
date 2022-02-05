@@ -1,0 +1,26 @@
+time,currency,event,impact
+04:00:00,CHF,Credit Suisse Economic Expectations,low
+04:00:00,EUR,M3 Money Supply y/y,low
+04:00:00,EUR,Private Loans y/y,low
+05:00:00,EUR,German Buba President Weidmann Speaks,medium
+05:15:00,EUR,Italian 10-y Bond Auction,low
+05:32:00,EUR,German 10-y Bond Auction,low
+08:30:00,CAD,CPI m/m,high
+08:30:00,CAD,Common CPI y/y,medium
+08:30:00,CAD,Median CPI y/y,medium
+08:30:00,CAD,Trimmed CPI y/y,medium
+08:30:00,USD,Final Wholesale Inventories m/m,low
+08:30:00,USD,Goods Trade Balance,low
+08:32:00,CAD,Core CPI m/m,low
+10:00:00,USD,Fed Chair Powell Testifies,high
+10:00:00,USD,Factory Orders m/m,low
+10:00:00,USD,Pending Home Sales m/m,low
+10:30:00,USD,Crude Oil Inventories,low
+18:50:00,JPY,Prelim Industrial Production m/m,low
+18:50:00,JPY,Retail Sales y/y,low
+19:00:00,NZD,Final ANZ Business Confidence,high
+19:01:00,GBP,GfK Consumer Confidence,low
+19:30:00,AUD,Private Capital Expenditure q/q,high
+19:30:00,AUD,Private Sector Credit m/m,low
+19:59:00,CNY,Manufacturing PMI,medium
+20:00:00,CNY,Non-Manufacturing PMI,medium

@@ -1,0 +1,11 @@
+time,currency,event,impact
+02:00:00,EUR,German WPI m/m,low
+01:01:00,CAD,Bank Holiday,holiday
+01:01:00,USD,Bank Holiday,holiday
+17:45:00,NZD,Core Retail Sales m/m,high
+17:45:00,NZD,Retail Sales m/m,medium
+19:01:00,GBP,BRC Retail Sales Monitor y/y,medium
+19:01:00,GBP,RICS House Price Balance,medium
+19:50:00,JPY,Bank Lending y/y,low
+19:50:00,JPY,M2 Money Stock y/y,low
+20:30:00,AUD,NAB Business Confidence,medium

@@ -1,0 +1,7 @@
+time,currency,event,impact
+01:01:00,All,G20 Meetings,medium
+16:45:00,NZD,Retail Sales q/q,medium
+16:48:00,NZD,Core Retail Sales q/q,low
+17:00:00,AUD,Flash Manufacturing PMI,low
+17:00:00,AUD,Flash Services PMI,low
+01:01:00,JPY,Bank Holiday,holiday

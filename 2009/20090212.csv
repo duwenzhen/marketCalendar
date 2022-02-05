@@ -1,0 +1,16 @@
+time,currency,event,impact
+01:45:00,CHF,SECO Consumer Climate,medium
+03:00:00,EUR,Spanish Flash GDP q/q,low
+04:00:00,EUR,ECB Monthly Bulletin,medium
+05:00:00,EUR,Industrial Production m/m,medium
+08:30:00,USD,Core Retail Sales m/m,high
+08:30:00,USD,Retail Sales m/m,high
+08:30:00,USD,Unemployment Claims,high
+10:00:00,USD,Business Inventories m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+13:00:00,EUR,ECB President Trichet Speaks,medium
+13:00:00,USD,30-y Bond Auction,low
+16:45:00,NZD,Core Retail Sales m/m,high
+16:45:00,NZD,Retail Sales m/m,high
+16:45:00,NZD,Core Retail Sales q/q,low
+16:45:00,NZD,Retail Sales q/q,low

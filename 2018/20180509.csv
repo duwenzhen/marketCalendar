@@ -1,0 +1,24 @@
+time,currency,event,impact
+01:03:00,JPY,Leading Indicators,low
+02:45:00,EUR,French Industrial Production m/m,low
+04:00:00,EUR,Italian Retail Sales m/m,low
+05:33:00,EUR,German 30-y Bond Auction,low
+05:35:00,GBP,10-y Bond Auction,low
+08:30:00,CAD,Building Permits m/m,medium
+08:30:00,USD,PPI m/m,high
+08:30:00,USD,Core PPI m/m,medium
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:30:00,USD,Crude Oil Inventories,high
+12:30:00,USD,FOMC Member Bostic Speaks,medium
+13:01:00,USD,10-y Bond Auction,low
+17:00:00,NZD,Official Cash Rate,high
+17:00:00,NZD,RBNZ Monetary Policy Statement,high
+17:00:00,NZD,RBNZ Rate Statement,high
+18:00:00,NZD,RBNZ Press Conference,high
+19:01:00,GBP,RICS House Price Balance,low
+19:50:00,JPY,BOJ Summary of Opinions,low
+19:50:00,JPY,Bank Lending y/y,low
+19:53:00,JPY,Current Account,low
+21:10:00,NZD,RBNZ Gov Orr Speaks,high
+21:30:00,CNY,CPI y/y,medium
+21:30:00,CNY,PPI y/y,medium

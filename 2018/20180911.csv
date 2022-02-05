@@ -1,0 +1,18 @@
+time,currency,event,impact
+00:00:00,JPY,30-y Bond Auction,low
+00:30:00,JPY,Tertiary Industry Activity m/m,low
+01:30:00,EUR,French Final Private Payrolls q/q,low
+01:58:00,JPY,Prelim Machine Tool Orders y/y,low
+04:30:00,GBP,Average Earnings Index 3m/y,high
+04:30:00,GBP,Claimant Count Change,medium
+04:30:00,GBP,Unemployment Rate,medium
+05:00:00,EUR,German ZEW Economic Sentiment,medium
+05:00:00,EUR,Final Employment Change q/q,low
+05:00:00,EUR,ZEW Economic Sentiment,low
+05:37:00,GBP,30-y Bond Auction,low
+05:51:00,USD,NFIB Small Business Index,low
+08:13:00,CAD,Housing Starts,low
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:00:00,USD,JOLTS Job Openings,low
+19:50:00,JPY,BSI Manufacturing Index,low
+20:30:00,AUD,Westpac Consumer Sentiment,low

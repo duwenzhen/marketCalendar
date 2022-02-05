@@ -1,0 +1,12 @@
+time,currency,event,impact
+02:00:00,EUR,German Trade Balance,low
+02:02:00,JPY,Prelim Machine Tool Orders y/y,low
+05:35:00,EUR,German 30-y Bond Auction,low
+10:00:00,CAD,BOC Rate Statement,high
+10:00:00,CAD,Overnight Rate,medium
+10:00:00,USD,Final Wholesale Inventories m/m,low
+10:30:00,USD,Crude Oil Inventories,medium
+13:01:00,USD,10-y Bond Auction,medium
+19:01:00,GBP,RICS House Price Balance,low
+19:50:00,JPY,PPI y/y,low
+21:00:00,AUD,MI Inflation Expectations,low

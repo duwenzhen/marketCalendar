@@ -1,0 +1,16 @@
+time,currency,event,impact
+00:00:00,JPY,Leading Indicators,low
+01:45:00,CHF,Unemployment Rate,low
+02:00:00,EUR,German Industrial Production m/m,low
+02:00:00,GBP,Halifax HPI m/m,low
+03:00:00,CHF,Foreign Currency Reserves,low
+04:30:00,EUR,Sentix Investor Confidence,low
+10:45:00,EUR,ECB President Lagarde Speaks,medium
+15:00:00,USD,Consumer Credit m/m,low
+18:30:00,JPY,Average Cash Earnings y/y,low
+18:30:00,JPY,Household Spending y/y,low
+18:50:00,JPY,Bank Lending y/y,low
+18:50:00,JPY,Current Account,low
+19:01:00,GBP,BRC Retail Sales Monitor y/y,low
+19:30:00,AUD,NAB Business Confidence,low
+21:15:00,NZD,RBNZ Gov Orr Speaks,medium

@@ -1,0 +1,18 @@
+time,currency,event,impact
+01:00:00,JPY,Housing Starts y/y,low
+02:00:00,EUR,German Retail Sales m/m,medium
+05:00:00,EUR,CPI Flash Estimate y/y,medium
+05:00:00,EUR,Consumer Confidence,low
+05:00:00,EUR,Italian Prelim CPI m/m,low
+05:30:00,GBP,GfK Consumer Confidence,low
+08:30:00,CAD,GDP m/m,high
+08:30:00,CAD,RMPI m/m,medium
+08:30:00,CAD,IPPI m/m,low
+08:30:00,USD,Core PCE Price Index m/m,high
+08:30:00,USD,Personal Spending m/m,medium
+08:30:00,USD,Personal Income m/m,low
+09:45:00,USD,Chicago PMI,medium
+10:00:00,USD,Revised UoM Consumer Sentiment,medium
+10:00:00,USD,Construction Spending m/m,low
+10:00:00,USD,Revised UoM Inflation Expectations,low
+13:15:00,USD,FOMC Member Mishkin Speaks,medium

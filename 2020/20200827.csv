@@ -1,0 +1,15 @@
+time,currency,event,impact
+00:30:00,JPY,All Industries Activity m/m,low
+01:45:00,CHF,GDP q/q,low
+04:00:00,EUR,M3 Money Supply y/y,low
+04:00:00,EUR,Private Loans y/y,low
+08:30:00,CAD,Current Account,low
+08:30:00,USD,Prelim GDP q/q,medium
+08:30:00,USD,Unemployment Claims,medium
+08:30:00,USD,Prelim GDP Price Index q/q,low
+09:10:00,USD,Fed Chair Powell Speaks,high
+10:00:00,USD,Pending Home Sales m/m,medium
+10:30:00,USD,Natural Gas Storage,low
+11:15:00,CAD,BOC Gov Macklem Speaks,high
+01:01:00,All,Jackson Hole Symposium,high
+19:30:00,JPY,Tokyo Core CPI y/y,low

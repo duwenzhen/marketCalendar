@@ -1,0 +1,20 @@
+time,currency,event,impact
+04:00:00,EUR,Current Account,medium
+01:01:00,EUR,ECOFIN Meetings,medium
+05:00:00,EUR,German ZEW Economic Sentiment,high
+05:00:00,EUR,ZEW Economic Sentiment,medium
+06:00:00,GBP,CBI Industrial Order Expectations,medium
+08:30:00,EUR,ECB President Trichet Speaks,medium
+08:30:00,USD,Building Permits,high
+08:30:00,USD,Housing Starts,medium
+09:00:00,CAD,BOC Rate Statement,high
+09:00:00,CAD,Overnight Rate,high
+09:00:00,USD,FOMC Member Yellen Speaks,medium
+09:30:00,NZD,GDT Price Index,low
+10:00:00,EUR,German Buba President Weber Speaks,medium
+10:00:00,USD,FOMC Member Dudley Speaks,low
+14:50:00,GBP,BOE Gov King Speaks,high
+16:00:00,USD,Fed Chairman Bernanke Speaks,medium
+19:00:00,NZD,RBNZ Gov Bollard Speaks,high
+19:00:00,USD,FOMC Member Duke Speaks,low
+19:30:00,AUD,MI Leading Index m/m,medium

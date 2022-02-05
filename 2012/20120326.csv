@@ -1,0 +1,10 @@
+time,currency,event,impact
+04:00:00,EUR,German ifo Business Climate,high
+08:00:00,USD,Fed Chairman Bernanke Speaks,high
+10:00:00,USD,Pending Home Sales m/m,high
+12:00:00,EUR,ECB President Draghi Speaks,medium
+13:00:00,CAD,BOC Gov Carney Speaks,medium
+16:45:00,GBP,MPC Member Miles Speaks,medium
+18:15:00,AUD,RBA Deputy Gov Debelle Speaks,medium
+19:01:00,GBP,BOE Quarterly Bulletin,low
+19:50:00,JPY,SPPI y/y,low

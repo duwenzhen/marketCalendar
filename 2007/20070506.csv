@@ -1,0 +1,8 @@
+time,currency,event,impact
+01:01:00,EUR,French Presidential Election,medium
+18:45:00,NZD,Labor Cost Index q/q,high
+19:30:00,AUD,AIG Construction Index,low
+19:50:00,JPY,Monetary Policy Meeting Minutes,medium
+01:01:00,CNY,Bank Holiday,holiday
+21:30:00,AUD,ANZ Job Advertisements m/m,medium
+21:30:00,AUD,NAB Business Confidence,low

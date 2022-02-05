@@ -1,0 +1,17 @@
+time,currency,event,impact
+00:30:00,AUD,Cash Rate,high
+00:30:00,AUD,RBA Rate Statement,high
+01:45:00,CHF,GDP q/q,low
+02:00:00,EUR,German Factory Orders m/m,low
+03:15:00,CHF,CPI m/m,low
+04:10:00,EUR,Retail PMI,low
+05:00:00,EUR,Revised GDP q/q,low
+05:33:00,GBP,10-y Bond Auction,low
+09:59:00,USD,IBD/TIPP Economic Optimism,low
+10:00:00,USD,ISM Services PMI,high
+10:00:00,USD,Labor Market Conditions Index m/m,low
+10:22:00,NZD,GDT Price Index,high
+12:15:00,CHF,SNB Chairman Jordan Speaks,high
+18:45:00,NZD,Manufacturing Sales q/q,low
+19:30:00,AUD,AIG Construction Index,low
+21:30:00,AUD,GDP q/q,high

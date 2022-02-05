@@ -1,0 +1,14 @@
+time,currency,event,impact
+02:45:00,EUR,French Gov Budget Balance,low
+03:00:00,EUR,Spanish Unemployment Change,medium
+05:00:00,EUR,PPI m/m,low
+01:01:00,All,OPEC-JMMC Meetings,high
+08:30:00,CAD,Building Permits m/m,low
+08:30:00,CAD,Trade Balance,low
+08:30:00,EUR,ECB President Lagarde Speaks,medium
+08:30:00,USD,Average Hourly Earnings m/m,high
+08:30:00,USD,Non-Farm Employment Change,high
+08:30:00,USD,Unemployment Rate,high
+08:30:00,USD,Trade Balance,low
+09:30:00,CAD,Manufacturing PMI,low
+10:00:00,USD,Factory Orders m/m,low

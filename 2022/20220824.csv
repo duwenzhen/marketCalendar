@@ -1,0 +1,9 @@
+time,currency,event,impact
+04:00:00,EUR,German ifo Business Climate,medium
+08:30:00,CAD,Corporate Profits q/q,low
+08:30:00,USD,Core Durable Goods Orders m/m,medium
+08:30:00,USD,Durable Goods Orders m/m,medium
+10:00:00,USD,Pending Home Sales m/m,low
+10:30:00,USD,Crude Oil Inventories,medium
+19:30:00,JPY,Tokyo Core CPI y/y,low
+19:50:00,JPY,SPPI y/y,low
